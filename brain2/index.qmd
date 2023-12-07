@@ -1,28 +1,43 @@
 ---
-title: Home
-subtitle: BrainWorkUp Neuropsychology Clinic
-description: Welcome to BrainWorkUp, a premier pediatric neuropsychology practice in Los Angeles. We are dedicated to understanding and nurturing the developing mind.
-toc: true
+# css: index.css
+# page-layout: article
+---
+<center><a><img src="images/logo_kids.png" alt="NASA logo to left of Openscapes logo" width="300px"/></a></center>
+
+<center>
+
+<h1>BrainWorkUp Neuropsychology Clinic</h1>
+
+</center>
+
+<br>
+
+At BrainWorkUp, we're committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
+
+## Services Tailored for Young Minds
+
+- **In-depth Neuropsychological Evaluations:** Dive deep into understanding your child's cognitive landscape.
+- **Targeted Consultation and Advice:** Customized support for families and educators, fostering optimal growth.
+- **Continued Care and Guidance:** We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
+
+## Ready to Connect?
+
+Let's embark on this journey together. [Reach out to us](contact.html) to start a conversation.
+
+
+
+
+Upcoming Events:
+
+-   Dec 10, 2023 Workshop by NASA DAAC Mentors at AGU Fall Meeting, [Enabling Analysis in the Cloud Using NASA Earth Science Data](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193427) (register to attend).
+
+Project announcements: [NASA](https://earthdata.nasa.gov/learn/openscapes) • [Openscapes](https://www.openscapes.org/blog/2021/03/10/nasa-announcement/)
+
+Learn about our recent work: [News](news.qmd) • [Presentations](/about.qmd#slides) • [Annual Reports](https://github.com/NASA-Openscapes/how_we_work) • [Flywheel Preprint](https://nasa-openscapes.github.io/about.html#flywheel-preprint) • [White Paper: The Value of Hosted JupyterHubs](https://nasa-openscapes.github.io/about.html#white-paper-value-of-hosted-jupyterhubs)
+
+Please connect with us on Mastodon [\@openscapes\@fosstodon.org](https://fosstodon.org/@openscapes) or join [our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
+
 ---
 
-## Our Mission
-
-Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.
-
-## Our Services
-
-- **Comprehensive Neuropsychological Assessments:** We offer detailed assessments to understand cognitive strengths and challenges.
-- **Consultation and Recommendations:** Personalized strategies and support for parents and educators.
-- **Follow-up and Support:** Ongoing support and follow-up services tailored to each child's needs.
-
-![](images/bwu_kids_logo.png)
-
-## Contact Us
-
-For more information or to schedule an appointment, [contact us](contact.html).
-
----
-
-© 2023 BrainWorkup - Pediatric Neuropsychology Services in Los Angeles
-
-
+© 2023 BrainWorkUp - Comprehensive Pediatric Neuropsychology Services in Los
+Angeles
