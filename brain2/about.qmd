@@ -1,0 +1,44 @@
+---
+title: "Dr. Trampush"
+---
+
+![Dr. Joey Trampush](images/jwt.jpg) <!-- Replace with the path to your professional image -->
+
+Dr. Joey, the founder of BrainWorkup, is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with years of experience in the field.
+
+## Professional Background
+
+I am Dr. Joey Trampush, the Della Martin Assistant Professor of Psychiatry and the Behavioral Sciences at the University of Southern California | Keck School of Medicine of USC. My expertise lies in the fascinating intersection of neuropsychology and genetics.
+
+### Education
+
+- **PhD in Clinical Neuropsychology (2010)**
+  - CUNY Graduate Center
+- **MPhil in Clinical Neuropsychology (2008)**
+  - CUNY Graduate Center
+- **MA in Clinical Neuropsychology (2007)**
+  - CUNY Queens College
+- **BA in Psychology (2000)**
+  - Bowling Green State University
+
+### Specialization
+
+My focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions. 
+
+### Clinical Expertise
+
+As a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.
+
+## Research and Interests
+
+- **Molecular Genetics:** Exploring the genetic underpinnings of behavior and mental health.
+- **Neuropsychology:** Delving into the cognitive aspects of mental health conditions.
+- **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
+- **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
+
+---
+
+© 2023 BrainWorkup - Dr. Joey Trampush's Neuropsychology Practice
+
+
+
