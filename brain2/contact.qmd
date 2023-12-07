@@ -27,7 +27,7 @@ Name: [text]
 Email: [text]
 Message: [textarea]
 [submit]
-
+```
 
 ### Notes:
 1. **Form Functionality**: The form included in the template is a basic structure. You'll need to set up a backend service to handle form submissions, or integrate a service that can manage online inquiries.
