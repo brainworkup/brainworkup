@@ -1,6 +1,4 @@
----
-title: "Services"
----
+# Services
 
 At BrainWorkUp, we offer a range of specialized services to address various neuropsychological needs. Our approach is thorough, compassionate, and tailored to each individual.
 
@@ -18,4 +16,4 @@ Following the evaluation, a feedback session with you and your family may be con
 
 ---
 
-© 2023 BrainWorkup - Comprehensive Neuropsychological Services
+© 2023 BrainWorkUp - Comprehensive Neuropsychological Services
