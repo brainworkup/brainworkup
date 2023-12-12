@@ -1,43 +1,71 @@
 ---
-# css: index.css
-# page-layout: article
+pagetitle: "BrainWorkUp - Expert Pediatric Neuropsychology in Los Angeles"
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
+description: |
+  At BrainWorkUp, we blend expertise in pediatric neuropsychology with a passion
+  for nurturing young minds. Located in the heart of Los Angeles, we're here to
+  guide your child's cognitive and emotional development.
+hide-description: true
+image: bwu-logo.png
 ---
-<center><a><img src="images/logo_kids.png" alt="NASA logo to left of Openscapes logo" width="300px"/></a></center>
 
-<center>
+```{r}
+#| label: logo
+#| echo: false
+#| image-width: 12em
+#| image-shape: rounded
+knitr::include_graphics("images/card.png")
+```
 
-<h1>BrainWorkUp Neuropsychology Clinic</h1>
+## Nurturing the Next Generation: Our Mission
 
-</center>
-
-<br>
-
-At BrainWorkUp, we're committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
+At BrainWorkUp, we are committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
 
 ## Services Tailored for Young Minds
 
-- **In-depth Neuropsychological Evaluations:** Dive deep into understanding your child's cognitive landscape.
-- **Targeted Consultation and Advice:** Customized support for families and educators, fostering optimal growth.
-- **Continued Care and Guidance:** We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
+### In-depth Neuropsychological Evaluations
+
+Dive deep into understanding your child's cognitive landscape.
+
+### Targeted Consultation and Advice
+
+Customized support for families and educators, fostering optimal growth.
+
+### Continued Care and Guidance
+
+We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
+
+::: {.feature}
+## Dynamic Documents
+Generate dynamic output using Python, R, Julia, and Observable. Create reproducible documents that can be regenerated when underlying assumptions or data change.
+:::
+
+::: {.feature}
+## Beautiful Publications
+Publish high-quality articles, reports, presentations, websites, and books in HTML, PDF, MS Word, ePub, and more. Use a single source document to target multiple formats.
+:::
+
+::: {.feature}
+### Dr. Joey Trampush
+Use your favorite tools including VS Code, RStudio, Jupyter Lab, or any text editor. Use the Quarto visual markdown editor for long-form documents.
+:::
+
+
+::: {.learn-more}
+[Learn more »](docs/trampush/index.qmd)
+:::
+
+
 
 ## Ready to Connect?
 
 Let's embark on this journey together. [Reach out to us](contact.html) to start a conversation.
 
-
-
-
-Upcoming Events:
-
--   Dec 10, 2023 Workshop by NASA DAAC Mentors at AGU Fall Meeting, [Enabling Analysis in the Cloud Using NASA Earth Science Data](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/193427) (register to attend).
-
-Project announcements: [NASA](https://earthdata.nasa.gov/learn/openscapes) • [Openscapes](https://www.openscapes.org/blog/2021/03/10/nasa-announcement/)
-
-Learn about our recent work: [News](news.qmd) • [Presentations](/about.qmd#slides) • [Annual Reports](https://github.com/NASA-Openscapes/how_we_work) • [Flywheel Preprint](https://nasa-openscapes.github.io/about.html#flywheel-preprint) • [White Paper: The Value of Hosted JupyterHubs](https://nasa-openscapes.github.io/about.html#white-paper-value-of-hosted-jupyterhubs)
-
-Please connect with us on Mastodon [\@openscapes\@fosstodon.org](https://fosstodon.org/@openscapes) or join [our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
-
 ---
 
-© 2023 BrainWorkUp - Comprehensive Pediatric Neuropsychology Services in Los
-Angeles
+© 2023 BrainWorkUp - Comprehensive Pediatric Neuropsychology Services in Los Angeles
+
+

@@ -1,9 +1,9 @@
 project:
-  output-dir: _docs
+  output-dir: _site
 
 website:
   title: "brainworkup"
   site-url: "https://brainworkup.org/"
-  description: "Create delightful software with Jupyter Notebooks"
+  description: "Brainworkup Neuropsychology Practice, Los Angeles, California"
   repo-branch: main
   repo-url: "https://github.com/brainworkup/brainworkup"
