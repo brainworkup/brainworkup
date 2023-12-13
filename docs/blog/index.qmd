@@ -3,7 +3,7 @@ title: BWU Blog
 subtitle: News, tips, and commentary about all things Brainworkup
 listing:
   sort: "date desc"
-  contents: "posts/*"
+  contents: "posts/*/index.qmd"
   sort-ui: false
   filter-ui: false
   categories: true
