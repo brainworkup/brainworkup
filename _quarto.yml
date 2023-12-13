@@ -99,6 +99,5 @@ format:
 
 metadata-files: [brain2.yml]
 
-freeze: auto
-# permalinks:
-#   post: /:slug/
+execute:
+  freeze: true
