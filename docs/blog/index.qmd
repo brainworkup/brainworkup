@@ -1,5 +1,5 @@
 ---
-title: BWU Blog
+title: Articles and Resources
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
@@ -12,7 +12,7 @@ listing:
   type: default
 page-layout: full
 margin-header: signup.html
-title-block-banner: "#466b90"
+title-block-banner: "#3f2d4d"
 title-block-banner-color: body
 search: false
 # image: quarto-blog-v2.png

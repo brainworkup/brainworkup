@@ -4,7 +4,7 @@ subtitle: "My Public Autopsy"
 author: "Joey Trampush PhD"
 date: "2023-12-11"
 categories: [brain2]
-image: "logo_space.png"
+image: "brain.png"
 draft: false
 description:  |
   Welcome post.

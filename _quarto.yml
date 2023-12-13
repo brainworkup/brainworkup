@@ -66,12 +66,12 @@ website:
       - text: "Contact"
         href: docs/contact/index.qmd
       - text: "Blog"
-        href: "docs/blog/posts/*.qmd/*.qmd"
+        href: docs/blog/index.qmd
 
     right:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
-        aria-label: Brainworkup Github
+        aria-label: brainworkup Github
       - icon: twitter
         href: https://twitter.com/brainworkup
         aria-label: brainworkup Twitter
