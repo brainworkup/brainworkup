@@ -1,17 +1,21 @@
 ---
+title: "BrainWorkup, LLC"
+about:
+  template: trestles #solana #jolla
+  image: images/card.png
 css: index.css
 description: | 
-  Academic and clinical site for Dr. Joey Trampush @ USC brainworkup.org.
-hide-description: true
+  Clinical Neuropsychology Practice for Joey Trampush, PhD
+hide-description: false
 ---
 
-# BrainWorkUp Neuropsychology Clinic
+<!-- # BrainWorkup, LLC
 
 <br>
 
 <center><a><img src="images/card.png" alt="BWU logo" width="300px"/></a></center>
 
-<br>
+<br> -->
 
 Our clinical neuropsychology practice is committed to providing thorough,
 evidence-informed neuropsychological assessments for children and adolescents.

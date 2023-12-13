@@ -2,30 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BrainWorkUp Neuropsychology Clinic",
+    "title": "BrainWorkup, LLC",
     "section": "",
-    "text": "Our clinical neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.\n\n\n\nIn-depth Neuropsychological Evaluations: Dive deep into understanding your child’s cognitive landscape.\nTargeted Consultation and Advice: Customized support for families and educators, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your child’s evolving needs.\n\n\n\n\nPlease contact us questions. Reach out to us to start a conversation.\n\n\n\nLearn about our recent work: Blog\nPlease connect with us on Mastodon @brainworkup@mastodon.org or join our newsletter"
+    "text": "Our clinical neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible."
   },
   {
     "objectID": "index.html#services-tailored-for-developing-minds",
     "href": "index.html#services-tailored-for-developing-minds",
-    "title": "BrainWorkUp Neuropsychology Clinic",
-    "section": "",
-    "text": "In-depth Neuropsychological Evaluations: Dive deep into understanding your child’s cognitive landscape.\nTargeted Consultation and Advice: Customized support for families and educators, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your child’s evolving needs."
+    "title": "BrainWorkup, LLC",
+    "section": "Services Tailored for Developing Minds",
+    "text": "Services Tailored for Developing Minds\n\nIn-depth Neuropsychological Evaluations: Dive deep into understanding your child’s cognitive landscape.\nTargeted Consultation and Advice: Customized support for families and educators, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your child’s evolving needs."
   },
   {
     "objectID": "index.html#contact-to-connect",
     "href": "index.html#contact-to-connect",
-    "title": "BrainWorkUp Neuropsychology Clinic",
-    "section": "",
-    "text": "Please contact us questions. Reach out to us to start a conversation."
+    "title": "BrainWorkup, LLC",
+    "section": "Contact to Connect",
+    "text": "Contact to Connect\nPlease contact us questions. Reach out to us to start a conversation."
   },
   {
     "objectID": "index.html#learn-more",
     "href": "index.html#learn-more",
-    "title": "BrainWorkUp Neuropsychology Clinic",
-    "section": "",
-    "text": "Learn about our recent work: Blog\nPlease connect with us on Mastodon @brainworkup@mastodon.org or join our newsletter"
+    "title": "BrainWorkup, LLC",
+    "section": "Learn More:",
+    "text": "Learn More:\nLearn about our recent work: Blog\nPlease connect with us on Mastodon @brainworkup@mastodon.org or join our newsletter"
   },
   {
     "objectID": "docs/services/adult/index.html",
@@ -34,6 +34,7 @@
     "section": "",
     "text": "We can provide comprehensive ADHD evaluations for college students. We can also provide documentation for accommodations at your university.\n\n\n\nWe can provide comprehensive psychoeducational evaluations for college students relevant to MCAT, LSAT, GRE, and other standardized tests.\n\n\n\nAn initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.\n\n\n\nThe testing session may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.\n\n\n\nFollowing the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.\n\n\n\nA comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Neuropsychological Services for Adults"
     ]
@@ -45,6 +46,7 @@
     "section": "",
     "text": "We can provide comprehensive ADHD evaluations for college students. We can also provide documentation for accommodations at your university.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Neuropsychological Services for Adults"
     ]
@@ -56,6 +58,7 @@
     "section": "",
     "text": "We can provide comprehensive psychoeducational evaluations for college students relevant to MCAT, LSAT, GRE, and other standardized tests.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Neuropsychological Services for Adults"
     ]
@@ -67,6 +70,7 @@
     "section": "",
     "text": "An initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Neuropsychological Services for Adults"
     ]
@@ -78,6 +82,7 @@
     "section": "",
     "text": "The testing session may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Neuropsychological Services for Adults"
     ]
@@ -89,6 +94,7 @@
     "section": "",
     "text": "Following the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Neuropsychological Services for Adults"
     ]
@@ -100,6 +106,7 @@
     "section": "",
     "text": "A comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Neuropsychological Services for Adults"
     ]
@@ -135,12 +142,20 @@
     ]
   },
   {
+    "objectID": "docs/research/publications/index.html#book-chapters",
+    "href": "docs/research/publications/index.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters"
+  },
+  {
     "objectID": "docs/contact/index.html",
     "href": "docs/contact/index.html",
     "title": "Contact Information",
     "section": "",
     "text": "If you have any questions or would like to schedule a consultation, please feel free to reach out. Below are the contact details.",
     "crumbs": [
+      "Dr Trampush",
       "Contact Us"
     ]
   },
@@ -151,6 +166,7 @@
     "section": "Office Location",
     "text": "Office Location\nBrainworkup Neuropsychology Clinic\n4136 Del Rey Avenue\nSuite 661\nMarina Del Rey, CA 90292",
     "crumbs": [
+      "Dr Trampush",
       "Contact Us"
     ]
   },
@@ -161,6 +177,7 @@
     "section": "Contact Details",
     "text": "Contact Details\n\nEmail: info",
     "crumbs": [
+      "Dr Trampush",
       "Contact Us"
     ]
   },
@@ -171,6 +188,7 @@
     "section": "Online Inquiry",
     "text": "Online Inquiry\nFor online inquiries, please fill out the form below. We will get back to you as soon as possible.",
     "crumbs": [
+      "Dr Trampush",
       "Contact Us"
     ]
   },
@@ -181,6 +199,7 @@
     "section": "",
     "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.\n\n\n\n\nComprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
     "crumbs": [
+      "Dr Trampush",
       "FAQ"
     ]
   },
@@ -191,6 +210,7 @@
     "section": "",
     "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.",
     "crumbs": [
+      "Dr Trampush",
       "FAQ"
     ]
   },
@@ -201,6 +221,7 @@
     "section": "",
     "text": "Comprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
     "crumbs": [
+      "Dr Trampush",
       "FAQ"
     ]
   },
@@ -211,6 +232,7 @@
     "section": "Practice Focus",
     "text": "Practice Focus\n\nADHD in Girls",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Pediatric Neuropsychological Services"
     ]
@@ -222,6 +244,7 @@
     "section": "",
     "text": "Forensic neuropsychological evaluations are critical in legal settings, blending the expertise of neuropsychology with legal requirements. With our extensive experience and qualifications in this field, clients are assured of comprehensive and ethical evaluations.\n\n\n\n\n\nForensic neuropsychology is a specialized branch of neuropsychology that applies its principles to legal matters.\n\n\n\nIt goes beyond general neuropsychology by focusing on issues such as competency and criminal responsibility.\n\n\n\nThese evaluations are essential in various legal contexts, aiding in decision-making processes.\n\n\n\n\nWe provide several types of evaluations, including competency evaluations and criminal responsibility assessments, following evidence-based practices and ethical guidelines.\n\n\n\nOur services are beneficial to lawyers, courts, and insurance companies, providing essential insights in legal cases.\n\n\n\n\n\nPotential clients can start with a consultation to understand their needs.\n\n\n\nOur assessment process is thorough, tailored to each case.\n\n\n\n\nWe adhere to the highest standards of confidentiality and legal compliance in our practice.\n\n\n\n\nFor scheduling and more information, please contact us at (Contact).",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
@@ -233,6 +256,7 @@
     "section": "",
     "text": "Forensic neuropsychological evaluations are critical in legal settings, blending the expertise of neuropsychology with legal requirements. With our extensive experience and qualifications in this field, clients are assured of comprehensive and ethical evaluations.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
@@ -244,6 +268,7 @@
     "section": "",
     "text": "Forensic neuropsychology is a specialized branch of neuropsychology that applies its principles to legal matters.\n\n\n\nIt goes beyond general neuropsychology by focusing on issues such as competency and criminal responsibility.\n\n\n\nThese evaluations are essential in various legal contexts, aiding in decision-making processes.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
@@ -255,6 +280,7 @@
     "section": "",
     "text": "We provide several types of evaluations, including competency evaluations and criminal responsibility assessments, following evidence-based practices and ethical guidelines.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
@@ -266,6 +292,7 @@
     "section": "",
     "text": "Our services are beneficial to lawyers, courts, and insurance companies, providing essential insights in legal cases.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
@@ -277,6 +304,7 @@
     "section": "",
     "text": "Potential clients can start with a consultation to understand their needs.\n\n\n\nOur assessment process is thorough, tailored to each case.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
@@ -288,6 +316,7 @@
     "section": "",
     "text": "We adhere to the highest standards of confidentiality and legal compliance in our practice.",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
@@ -299,6 +328,7 @@
     "section": "",
     "text": "For scheduling and more information, please contact us at (Contact).",
     "crumbs": [
+      "Dr Trampush",
       "Clinical Services",
       "Forensic Neuropsychological Evaluation Services"
     ]
