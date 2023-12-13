@@ -1,0 +1,36 @@
+---
+title: "Contact Information"
+---
+
+If you have any questions or would like to schedule a consultation, please feel free to reach out. Below are the contact details for Dr. Joey Trampush.
+
+## Office Location
+
+**Department of Psychiatry and the Behavioral Sciences**  
+Keck School of Medicine of USC  
+2250 Alcazar Street, Suite 2200  
+Los Angeles, CA 90033  
+
+## Contact Details
+
+- **Phone:** (323) 442-4058
+- **Fax:** (323) 442-4003
+- **Email:** [info](mailto:info@brainworkup.org)
+
+## Online Inquiry
+
+For online inquiries, please fill out the form below. We will get back to you as soon as possible.
+
+```{.form}
+Name: [text]
+Email: [text]
+Message: [textarea]
+[submit]
+```
+
+### Notes:
+1. **Form Functionality**: The form included in the template is a basic structure. You'll need to set up a backend service to handle form submissions, or integrate a service that can manage online inquiries.
+2. **Email Links**: The email addresses are hyperlinked with `mailto:` which allows visitors to directly email you by clicking the link.
+3. **Styling and Formatting**: You can add additional styling or formatting to match the overall design of your website.
+
+This template provides a straightforward and professional way for clients and colleagues to reach out to you. Remember to test the functionality of any forms or email links to ensure they are working correctly.

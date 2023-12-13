@@ -1,0 +1,104 @@
+project:
+  title: "Joey Trampush, PhD"
+  type: website
+  preview:
+    port: 3000
+    browser: true
+  output-dir: _site
+
+website:
+  title: "joey trampush, phd @ brainworkup"
+  image: "bwu-logo.png"
+  favicon: "favicon.png"
+  open-graph: true
+  twitter-card:
+    creator: "@brainworkup"
+    site: "@brainworkup"
+    card-style: "summary_large_image"
+  site-url: https://brainworkup.org
+  repo-url: https://github.com/brainworkup/brainworkup
+  issue-url: https://github.com/brainworkup/brainworkup/issues
+  repo-actions: [issue]
+  page-navigation: true
+  bread-crumbs: true
+  google-analytics: UA-XXXXXXXXX-X
+  search:
+    show-item-context: true
+    type: overlay # more todo here
+  page-footer:
+    left: |
+      &copy; 2023 joey trampush, phd @ brainworkup, llc
+    center:
+      - text: "FAQ"
+        href: docs/faq/index.qmd
+    right:
+      - text: "Contact"
+        href: docs/contact/index.qmd
+
+  navbar:
+    background: dark
+    foreground: light
+    # logo: bwu-logo.png
+    # logo-alt: "BWU logo."
+    title: brainworkup
+    collapse-below: lg
+    left:
+      - text: "Dr Trampush"
+        href: docs/trampush/index.qmd
+      - text: "Clinical Services"
+        menu:
+          - text: "Pediatric Neuropsychology"
+            href: docs/services/pediatrics/index.qmd
+          - text: "Adult Neuropsychology"
+            href: docs/services/adult/index.qmd
+          - text: "Forensic Neuropsychology"
+            href: docs/services/forensic/index.qmd
+      - text: "Blog"
+        href: docs/blog/index.qmd
+      - text: "FAQ"
+        href: docs/faq/index.qmd
+      - text: "Contact"
+        href: docs/contact/index.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/brainworkup/brainworkup
+        # text: Brainworkup Github
+      - icon: twitter
+        href: https://twitter.com/brainworkup
+        aria-label: brainworkup Twitter
+
+  sidebar:
+    title: "Contact Us"
+    style: floating
+    collapse-level: 2
+    align: left
+    contents:
+      - section: Dr Trampush
+        contents: docs/trampush/*
+      - section: Clinical Services
+        contents: docs/services/*/*
+      - section: FAQ
+        contents: docs/faq/*
+      - section: Contact Us
+        contents: docs/contact/*
+
+bibliography: refs.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+
+metadata-files: [brain2.yml]
+
+freeze: auto
+# permalinks:
+#   post: /:slug/

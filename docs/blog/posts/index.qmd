@@ -1,0 +1,14 @@
+---
+title: brainworkup Blog
+subtitle: News, tips, and commentary about all things bwu
+listing:
+  # contents: "../brain2/posts"
+  type: default
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner: true
+---
