@@ -100,4 +100,4 @@ format:
 metadata-files: [brain2.yml]
 
 execute:
-  freeze: true
+  freeze: auto
