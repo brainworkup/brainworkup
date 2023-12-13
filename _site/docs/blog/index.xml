@@ -72,7 +72,7 @@
 <item>
   <title>Welcome</title>
   <dc:creator>Joey Trampush PhD</dc:creator>
-  <link>https://brainworkup.org/docs/blog/posts/welcome/</link>
+  <link>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</link>
   <description><![CDATA[ 
 
 
@@ -90,9 +90,9 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>brain2</category>
-  <guid>https://brainworkup.org/docs/blog/posts/welcome/</guid>
+  <guid>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</guid>
   <pubDate>Mon, 11 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/docs/blog/posts/welcome/brain.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/brain.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

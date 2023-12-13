@@ -12,7 +12,7 @@ listing:
   type: default
 page-layout: full
 margin-header: signup.html
-title-block-banner: "#3f2d4d"
+title-block-banner: true
 title-block-banner-color: body
 search: false
 # image: quarto-blog-v2.png
