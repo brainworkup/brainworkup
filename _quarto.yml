@@ -18,11 +18,12 @@ website:
   site-url: https://brainworkup.org
   repo-url: https://github.com/brainworkup/brainworkup
   issue-url: https://github.com/brainworkup/brainworkup/issues
-  repo-actions: [issue]
-  page-navigation: false
+  repo-actions: [edit, issue]
+  page-navigation: true
   bread-crumbs: true
   google-analytics: "G-HW85H7H8P6"
   back-to-top-navigation: true
+  reader-mode: true
   search:
     show-item-context: true
     type: overlay # more todo here
@@ -54,16 +55,16 @@ website:
             href: docs/services/adult/index.qmd
           - text: "Forensic Neuropsychology"
             href: docs/services/forensic/index.qmd
+      - text: "FAQ"
+        href: docs/faq/index.qmd
+      - text: "Contact"
+        href: docs/contact/index.qmd
       - text: "Research"
         menu:
           - text: "Projects"
             href: docs/research/projects/index.qmd
           - text: "Publications"
             href: docs/research/publications/index.qmd
-      - text: "FAQ"
-        href: docs/faq/index.qmd
-      - text: "Contact"
-        href: docs/contact/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
 

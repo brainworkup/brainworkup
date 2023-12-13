@@ -3,6 +3,7 @@ title: "Joey W. Trampush, Ph.D."
 about:
   template: solana #broadside #jolla
   image: images/jwt.jpg
+sidebar: true
 ---  
 
 **Dr. Trampush** is the founder and chief neuropsychologist at
