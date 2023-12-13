@@ -2,7 +2,7 @@
 title: "BrainWorkup, LLC"
 about:
   template: trestles
-  image: images/card.png
+  image: images/card.webp
 css: index.css
 description: | 
   Clinical Neuropsychology Practice   
