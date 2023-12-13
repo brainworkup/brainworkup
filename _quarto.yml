@@ -90,7 +90,7 @@ website:
       # contents: auto
     type: dark
     style: floating
-    collapse-level: 2
+    collapse-level: 1
     align: left
 
 bibliography: refs.bib

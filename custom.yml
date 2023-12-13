@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "brainworkup"
+  site-url: "https://brainworkup.org/"
+  description: "Brainworkup Neuropsychology Practice, Los Angeles, California"
+  repo-url: "https://github.com/brainworkup/brainworkup"
