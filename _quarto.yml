@@ -55,16 +55,16 @@ website:
             href: docs/services/adult/index.qmd
           - text: "Forensic Neuropsychology"
             href: docs/services/forensic/index.qmd
-      - text: "FAQ"
-        href: docs/faq/index.qmd
-      - text: "Contact"
-        href: docs/contact/index.qmd
       - text: "Research"
         menu:
           - text: "Projects"
             href: docs/research/projects/index.qmd
           - text: "Publications"
             href: docs/research/publications/index.qmd
+      - text: "FAQ"
+        href: docs/faq/index.qmd
+      - text: "Contact"
+        href: docs/contact/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
 

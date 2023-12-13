@@ -5,7 +5,7 @@ about:
   image: images/card.png
 css: index.css
 description: | 
-  Clinical Neuropsychology Practice for Joey Trampush, PhD
+  Clinical Neuropsychology Practice | Joey Trampush, PhD
 hide-description: false
 sidebar: false
 ---
