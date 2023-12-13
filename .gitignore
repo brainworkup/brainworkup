@@ -1,9 +1,9 @@
-site_libs/
+# site_libs/
 # docs/
 /.quarto/
 /.vscode/
 .history/
-images/
+# images/
 _notes_on_website_design.md
 
 # /_site/
