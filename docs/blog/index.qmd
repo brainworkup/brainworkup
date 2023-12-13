@@ -3,16 +3,16 @@ title: BWU Blog
 subtitle: News, tips, and commentary about all things Brainworkup
 listing:
   sort: "date desc"
-  contents: "/*/*/*"
+  contents: "posts/*"
   sort-ui: false
   filter-ui: false
   categories: true
   feed: true
 page-layout: full
-margin-header: signup.html
+# margin-header: signup.html
 title-block-banner: "#EDF3F9"
 title-block-banner-color: body
 search: false
-image: quarto-blog-v2.png
+# image: quarto-blog-v2.png
 ---
 

@@ -10,52 +10,37 @@
 <atom:link href="https://brainworkup.org/docs/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Brainworkup Neuropsychology Practice, Los Angeles, California</description>
 <image>
-<url>https://brainworkup.org/quarto-blog-v2.png</url>
+<url>https://brainworkup.org/bwu-logo.png</url>
 <title>brainworkup</title>
 <link>https://brainworkup.org/docs/blog/</link>
+<height>144</height>
+<width>144</width>
 </image>
 <generator>quarto-1.4.514</generator>
-<lastBuildDate>Thu, 07 Dec 2023 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 13 Dec 2023 07:58:56 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Joey Trampush</dc:creator>
-  <link>https://brainworkup.org/docs/blog/posts/post-with-code/</link>
+  <title>brainworkup Blog</title>
+  <link>https://brainworkup.org/docs/blog/posts/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://brainworkup.org/docs/blog/posts/post-with-code/</guid>
-  <pubDate>Thu, 07 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/docs/blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Joey Trampush</dc:creator>
-  <link>https://brainworkup.org/docs/blog/posts/welcome/</link>
-  <description><![CDATA[ 
 
 
 
 
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://brainworkup.org/docs/blog/posts/welcome/logo_space.png" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://brainworkup.org/docs/blog/posts/welcome/</guid>
-  <pubDate>Mon, 04 Dec 2023 08:00:00 GMT</pubDate>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div> ]]></description>
+  <guid>https://brainworkup.org/docs/blog/posts/</guid>
+  <pubDate>Wed, 13 Dec 2023 07:58:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
