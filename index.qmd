@@ -1,22 +1,15 @@
 ---
 title: "BrainWorkup, LLC"
 about:
-  template: trestles #solana #jolla
+  template: trestles
   image: images/card.png
 css: index.css
 description: | 
-  Clinical Neuropsychology Practice | Joey Trampush, PhD
+  Clinical Neuropsychology Practice   
+  Joey Trampush, PhD
 hide-description: false
 sidebar: false
 ---
-
-<!-- # BrainWorkup, LLC
-
-<br>
-
-<center><a><img src="images/card.png" alt="BWU logo" width="300px"/></a></center>
-
-<br> -->
 
 Our clinical neuropsychology practice is committed to providing thorough,
 evidence-informed neuropsychological assessments for children and adolescents.
@@ -26,7 +19,9 @@ ensuring your child receives the best care possible.
 ## Services Tailored for Developing Minds
 
 - **In-depth Neuropsychological Evaluations:** Dive deep into understanding your child's cognitive landscape.
+
 - **Targeted Consultation and Advice:** Customized support for families and educators, fostering optimal growth.
+
 - **Continued Care and Guidance:** We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
 
 ## Contact to Connect
@@ -39,4 +34,3 @@ Learn about our recent work: [Blog](docs/blog/index.qmd)
 
 Please connect with us on Mastodon [\@brainworkup\@mastodon.org](https://mastodon.org/@brainworkup) or join [our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
 
-<!-- ![](images/logo_bwu.png){.preview-image fig-align="center" width="100px"} -->

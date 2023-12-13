@@ -1,20 +1,14 @@
 ---
 title: "Welcome"
-subtitle: My public autopsy
+subtitle: "My Public Autopsy"
 author: "Joey Trampush PhD"
 date: "2023-12-11"
 categories: [brain2]
-image-width: 10em
-image-shape: round
 image: "logo_space.png"
 draft: false
-links:
-  - icon: twitter
-    text: twitter
-    href: https://twitter.com/brainworkup
-  - icon: github
-    text: Github
-    href: https://github.com/brainworkup
+description:  |
+  Welcome post.
+image-alt: "Welcome post"
 ---
 
 Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, especially its onset during college years.
