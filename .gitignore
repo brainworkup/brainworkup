@@ -6,8 +6,8 @@ tests/settings.ini
 idx/
 .install
 conda/
-_site/
-_docs/
+# _site/
+# _docs/
 test_settings.ini
 
 .vscode/
