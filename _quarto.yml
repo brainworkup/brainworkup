@@ -21,7 +21,7 @@ website:
   repo-actions: [issue]
   page-navigation: true
   bread-crumbs: true
-  # google-analytics: UA-XXXXXXXXX-X
+  google-analytics: "G-HW85H7H8P6"
   search:
     show-item-context: true
     type: overlay # more todo here
@@ -72,18 +72,18 @@ website:
         aria-label: brainworkup Instagram
 
   sidebar:
-    title: "Contact Us"
+    title: "About"
     style: floating
     collapse-level: 1
     align: left
     contents:
-      - section: Dr Trampush
+      - section: "Dr Trampush"
         contents: docs/trampush/*
-      - section: Clinical Services
+      - section: "Clinical Services"
         contents: docs/services/*/*
-      - section: FAQ
+      - section: "FAQ"
         contents: docs/faq/*
-      - section: Contact Us
+      - section: "Contact Us"
         contents: docs/contact/*
 
 bibliography: refs.bib

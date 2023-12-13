@@ -7,7 +7,7 @@
 <br>
 
 **Dr. Trampush** is the founder and chief neuropsychologist at
-[brainworkukp](https://brainworkup.org). He is an Assistant
+[Brainworkup, LLC](https://brainworkup.org). He is an Assistant
 Professor
 of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and
 a practicing pediatric neuropsychologist with more than 20 years of experience in the
@@ -42,10 +42,6 @@ As a clinician and developmental neuropsychologist, I specialize in evaluating c
 - **Neuropsychology:** Delving into the cognitive aspects of mental health conditions.
 - **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
 - **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
-
----
-
-© 2023 BrainWorkup - Dr. Joey Trampush's Neuropsychology Practice
 
 
 
