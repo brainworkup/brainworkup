@@ -15,7 +15,7 @@ website:
     creator: "@brainworkup"
     site: "@brainworkup"
     card-style: "summary_large_image"
-  site-url: "https://brainworkup.io"
+  site-url: https://brainworkup.org
   repo-url: https://github.com/brainworkup/brainworkup
   issue-url: https://github.com/brainworkup/brainworkup/issues
   repo-actions: [issue]
