@@ -4,7 +4,9 @@
 
 ## Introduction
 
-Forensic neuropsychological evaluations are critical in legal settings, blending the expertise of neuropsychology with legal requirements. With [Your Name]'s extensive experience and qualifications in this field, clients are assured of comprehensive and ethical evaluations.
+Forensic neuropsychological evaluations are critical in legal settings, blending
+the expertise of neuropsychology with legal requirements. With our extensive experience and qualifications in this field, clients are assured of
+comprehensive and ethical evaluations.
 
 ## What is Forensic Neuropsychology?
 
@@ -28,14 +30,6 @@ We provide several types of evaluations, including competency evaluations and cr
 
 Our services are beneficial to lawyers, courts, and insurance companies, providing essential insights in legal cases.
 
-### Case Examples
-
-(Include generalized examples here)
-
-## Your Expertise and Qualifications
-
-(Your educational background, professional experience, certifications, and achievements)
-
 ## The Process
 
 ### Consultation
@@ -46,9 +40,9 @@ Potential clients can start with a consultation to understand their needs.
 
 Our assessment process is thorough, tailored to each case.
 
-### Report
+## Legal and Ethical Considerations
 
-We provide comprehensive reports detailing our findings and conclusions.
+We adhere to the highest standards of confidentiality and legal compliance in our practice.
 
 <!-- ## Client Testimonials
 
@@ -56,17 +50,12 @@ We provide comprehensive reports detailing our findings and conclusions.
 
 ## Contact Information
 
-For scheduling and more information, please contact us at (Your Contact Details).
+For scheduling and more information, please contact us at ([Contact](../../contact/index.qmd)).
 
 ## FAQ
 
 - ([FAQ](../../faq/index.qmd))
 
-## Legal and Ethical Considerations
 
-We adhere to the highest standards of confidentiality and legal compliance in our practice.
 
-## Closing Remarks
-
-We are committed to providing top-notch forensic neuropsychological evaluations. Contact us for more information or to schedule an evaluation.
 

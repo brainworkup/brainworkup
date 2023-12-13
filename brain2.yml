@@ -1,5 +1,5 @@
-# project:
-#   output-dir: _site
+project:
+  output-dir: _site
 
 website:
   title: "brainworkup"

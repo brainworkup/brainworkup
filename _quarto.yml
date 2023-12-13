@@ -74,7 +74,7 @@ website:
   sidebar:
     title: "Contact Us"
     style: floating
-    collapse-level: 2
+    collapse-level: 1
     align: left
     contents:
       - section: Dr Trampush
