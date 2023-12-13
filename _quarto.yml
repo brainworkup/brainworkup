@@ -4,7 +4,6 @@ project:
   preview:
     port: 3000
     browser: true
-  output-dir: _site
 
 website:
   title: "joey trampush, phd @ brainworkup"
