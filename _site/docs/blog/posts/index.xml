@@ -8,7 +8,7 @@
 <title>brainworkup</title>
 <link>https://brainworkup.org/docs/blog/posts/</link>
 <atom:link href="https://brainworkup.org/docs/blog/posts/index.xml" rel="self" type="application/rss+xml"/>
-<description></description>
+<description>Brainworkup Neuropsychology Practice, Los Angeles, California</description>
 <image>
 <url>https://brainworkup.org/bwu-logo.png</url>
 <title>brainworkup</title>
@@ -17,6 +17,6 @@
 <width>144</width>
 </image>
 <generator>quarto-1.4.514</generator>
-<lastBuildDate>Wed, 13 Dec 2023 07:41:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 13 Dec 2023 07:45:37 GMT</lastBuildDate>
 </channel>
 </rss>
