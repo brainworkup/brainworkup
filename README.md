@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# brainworkup
+# Joey Trampush, PhD @ brainworkup
 
 Static repository for brainworkup.org, brainworkup.io, brainworkup.com, joeytrampush.com
 
