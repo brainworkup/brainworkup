@@ -8,11 +8,13 @@
 <title>brainworkup</title>
 <link>https://brainworkup.org/docs/blog/</link>
 <atom:link href="https://brainworkup.org/docs/blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>Brainworkup Neuropsychology Practice, Los Angeles, California</description>
+<description></description>
 <image>
-<url>https://brainworkup.org/quarto-blog-v2.png</url>
+<url>https://brainworkup.org/bwu-logo.png</url>
 <title>brainworkup</title>
 <link>https://brainworkup.org/docs/blog/</link>
+<height>144</height>
+<width>144</width>
 </image>
 <generator>quarto-1.4.526</generator>
 <lastBuildDate>Wed, 13 Dec 2023 08:00:00 GMT</lastBuildDate>

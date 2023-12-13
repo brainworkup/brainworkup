@@ -89,8 +89,8 @@ website:
         contents: "docs/faq"
       # contents: auto
     type: dark
-    style: floating #docked
-    collapse-level: 1
+    style: floating
+    collapse-level: 2
     align: left
 
 bibliography: refs.bib
