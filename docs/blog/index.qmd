@@ -5,10 +5,11 @@ subtitle: |
 listing:
   sort: "date asc"
   contents: "posts/*/index.qmd"
-  sort-ui: false
+  sort-ui: true
   filter-ui: false
   categories: true
   feed: true
+  type: default
 page-layout: full
 margin-header: signup.html
 title-block-banner: "#466b90"
