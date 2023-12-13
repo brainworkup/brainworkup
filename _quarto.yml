@@ -1,6 +1,7 @@
 project:
   title: "Joey Trampush, PhD"
   type: website
+  output-dir: _site
   preview:
     port: 3000
     browser: true
