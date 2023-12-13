@@ -1,207 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BrainWorkUp Neuropsychology Clinic",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "brainworkup",
     "section": "",
-    "text": "Our clinical neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.\n\n\n\nIn-depth Neuropsychological Evaluations: Dive deep into understanding your child’s cognitive landscape.\nTargeted Consultation and Advice: Customized support for families and educators, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your child’s evolving needs.\n\n\n\n\nPlease contact us questions. Reach out to us to start a conversation.\n\n\n\nLearn about our recent work: Blog\nPlease connect with us on Mastodon @brainworkup@mastodon.org or join our newsletter"
+    "text": "Joey W. Trampush, Ph.D., the founder of brainworkup, is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field."
   },
   {
-    "objectID": "index.html#services-tailored-for-developing-minds",
-    "href": "index.html#services-tailored-for-developing-minds",
-    "title": "BrainWorkUp Neuropsychology Clinic",
+    "objectID": "about.html#dr.-trampush",
+    "href": "about.html#dr.-trampush",
+    "title": "brainworkup",
     "section": "",
-    "text": "In-depth Neuropsychological Evaluations: Dive deep into understanding your child’s cognitive landscape.\nTargeted Consultation and Advice: Customized support for families and educators, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your child’s evolving needs."
+    "text": "Joey W. Trampush, Ph.D., the founder of brainworkup, is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field."
   },
   {
-    "objectID": "index.html#contact-to-connect",
-    "href": "index.html#contact-to-connect",
-    "title": "BrainWorkUp Neuropsychology Clinic",
-    "section": "",
-    "text": "Please contact us questions. Reach out to us to start a conversation."
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "brainworkup",
+    "section": "Background",
+    "text": "Background\nMy expertise lies in the intersection of neuropsychology and genetics. More more …\n\nEducation\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\nSpecialization\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\nClinical Expertise\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities."
   },
   {
-    "objectID": "index.html#learn-more",
-    "href": "index.html#learn-more",
-    "title": "BrainWorkUp Neuropsychology Clinic",
-    "section": "",
-    "text": "Learn about our recent work: Blog\nPlease connect with us on Mastodon @brainworkup@mastodon.org or join our newsletter"
-  },
-  {
-    "objectID": "docs/services/adult/index.html",
-    "href": "docs/services/adult/index.html",
-    "title": "Adult Services",
-    "section": "",
-    "text": "At BrainWorkUp, we offer a range of specialized services to address various neuropsychological needs. Our approach is thorough, compassionate, and tailored to each individual.\n\n\nAn initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.\n\n\n\nThe testing session is conducted by a trained psychometrist and may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.\n\n\n\nFollowing the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.\n\n© 2023 BrainWorkUp - Comprehensive Neuropsychological Services",
-    "crumbs": [
-      "Clinical Services",
-      "Adult Services"
-    ]
-  },
-  {
-    "objectID": "docs/services/adult/index.html#consultation",
-    "href": "docs/services/adult/index.html#consultation",
-    "title": "Adult Services",
-    "section": "",
-    "text": "An initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.",
-    "crumbs": [
-      "Clinical Services",
-      "Adult Services"
-    ]
-  },
-  {
-    "objectID": "docs/services/adult/index.html#testing-evaluation",
-    "href": "docs/services/adult/index.html#testing-evaluation",
-    "title": "Adult Services",
-    "section": "",
-    "text": "The testing session is conducted by a trained psychometrist and may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.",
-    "crumbs": [
-      "Clinical Services",
-      "Adult Services"
-    ]
-  },
-  {
-    "objectID": "docs/services/adult/index.html#feedback-session",
-    "href": "docs/services/adult/index.html#feedback-session",
-    "title": "Adult Services",
-    "section": "",
-    "text": "Following the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.\n\n© 2023 BrainWorkUp - Comprehensive Neuropsychological Services",
-    "crumbs": [
-      "Clinical Services",
-      "Adult Services"
-    ]
-  },
-  {
-    "objectID": "docs/blog/posts/index.html",
-    "href": "docs/blog/posts/index.html",
-    "title": "brainworkup Blog",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 7, 2023\n\n\nJoey Trampush\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 4, 2023\n\n\nJoey Trampush\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "docs/faq/index.html",
-    "href": "docs/faq/index.html",
-    "title": "FAQ",
-    "section": "",
-    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.\n\n\n\n\nComprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "docs/faq/index.html#our-mission",
-    "href": "docs/faq/index.html#our-mission",
-    "title": "FAQ",
-    "section": "",
-    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "docs/faq/index.html#our-services",
-    "href": "docs/faq/index.html#our-services",
-    "title": "FAQ",
-    "section": "",
-    "text": "Comprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "docs/contact/index.html",
-    "href": "docs/contact/index.html",
-    "title": "Contact Information",
-    "section": "",
-    "text": "If you have any questions or would like to schedule a consultation, please feel free to reach out. Below are the contact details for Dr. Joey Trampush.",
-    "crumbs": [
-      "Contact Us"
-    ]
-  },
-  {
-    "objectID": "docs/contact/index.html#office-location",
-    "href": "docs/contact/index.html#office-location",
-    "title": "Contact Information",
-    "section": "Office Location",
-    "text": "Office Location\nDepartment of Psychiatry and the Behavioral Sciences\nKeck School of Medicine of USC\n2250 Alcazar Street, Suite 2200\nLos Angeles, CA 90033",
-    "crumbs": [
-      "Contact Us"
-    ]
-  },
-  {
-    "objectID": "docs/contact/index.html#contact-details",
-    "href": "docs/contact/index.html#contact-details",
-    "title": "Contact Information",
-    "section": "Contact Details",
-    "text": "Contact Details\n\nPhone: (323) 442-4058\nFax: (323) 442-4003\nEmail: info",
-    "crumbs": [
-      "Contact Us"
-    ]
-  },
-  {
-    "objectID": "docs/contact/index.html#online-inquiry",
-    "href": "docs/contact/index.html#online-inquiry",
-    "title": "Contact Information",
-    "section": "Online Inquiry",
-    "text": "Online Inquiry\nFor online inquiries, please fill out the form below. We will get back to you as soon as possible.\nName: [text]\nEmail: [text]\nMessage: [textarea]\n[submit]\n\nNotes:\n\nForm Functionality: The form included in the template is a basic structure. You’ll need to set up a backend service to handle form submissions, or integrate a service that can manage online inquiries.\nEmail Links: The email addresses are hyperlinked with mailto: which allows visitors to directly email you by clicking the link.\nStyling and Formatting: You can add additional styling or formatting to match the overall design of your website.\n\nThis template provides a straightforward and professional way for clients and colleagues to reach out to you. Remember to test the functionality of any forms or email links to ensure they are working correctly.",
-    "crumbs": [
-      "Contact Us"
-    ]
-  },
-  {
-    "objectID": "docs/trampush/index.html",
-    "href": "docs/trampush/index.html",
-    "title": "Joey W. Trampush, Ph.D.",
-    "section": "",
-    "text": "Dr. Trampush is the founder and chief neuropsychologist at brainworkukp. He is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field.\n\n\nMy expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.\n\n\n\n\n\nMolecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
-    "crumbs": [
-      "Dr Trampush"
-    ]
-  },
-  {
-    "objectID": "docs/trampush/index.html#background",
-    "href": "docs/trampush/index.html#background",
-    "title": "Joey W. Trampush, Ph.D.",
-    "section": "",
-    "text": "My expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.",
-    "crumbs": [
-      "Dr Trampush"
-    ]
-  },
-  {
-    "objectID": "docs/trampush/index.html#research-and-interests",
-    "href": "docs/trampush/index.html#research-and-interests",
-    "title": "Joey W. Trampush, Ph.D.",
-    "section": "",
-    "text": "Molecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
-    "crumbs": [
-      "Dr Trampush"
-    ]
-  },
-  {
-    "objectID": "docs/blog/posts/post-with-code/index.html",
-    "href": "docs/blog/posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "docs/blog/posts/welcome/index.html",
-    "href": "docs/blog/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "docs/services/pediatrics/index.html#practice-focus",
-    "href": "docs/services/pediatrics/index.html#practice-focus",
-    "title": "Pediatric Neuropsychological Services",
-    "section": "Practice Focus",
-    "text": "Practice Focus\n\nADHD in Girls",
-    "crumbs": [
-      "Clinical Services",
-      "Pediatric Neuropsychological Services"
-    ]
+    "objectID": "about.html#research-and-interests",
+    "href": "about.html#research-and-interests",
+    "title": "brainworkup",
+    "section": "Research and Interests",
+    "text": "Research and Interests\n\nMolecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice"
   },
   {
     "objectID": "docs/services/forensic/index.html",
@@ -325,31 +149,207 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "brainworkup",
+    "objectID": "docs/services/pediatrics/index.html#practice-focus",
+    "href": "docs/services/pediatrics/index.html#practice-focus",
+    "title": "Pediatric Neuropsychological Services",
+    "section": "Practice Focus",
+    "text": "Practice Focus\n\nADHD in Girls",
+    "crumbs": [
+      "Clinical Services",
+      "Pediatric Neuropsychological Services"
+    ]
+  },
+  {
+    "objectID": "docs/blog/posts/welcome/index.html",
+    "href": "docs/blog/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Joey W. Trampush, Ph.D., the founder of brainworkup, is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html#dr.-trampush",
-    "href": "about.html#dr.-trampush",
-    "title": "brainworkup",
+    "objectID": "docs/blog/posts/post-with-code/index.html",
+    "href": "docs/blog/posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Joey W. Trampush, Ph.D., the founder of brainworkup, is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field."
+    "text": "This is a post with executable code."
   },
   {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "brainworkup",
-    "section": "Background",
-    "text": "Background\nMy expertise lies in the intersection of neuropsychology and genetics. More more …\n\nEducation\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\nSpecialization\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\nClinical Expertise\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities."
+    "objectID": "docs/trampush/index.html",
+    "href": "docs/trampush/index.html",
+    "title": "Joey W. Trampush, Ph.D.",
+    "section": "",
+    "text": "Dr. Trampush is the founder and chief neuropsychologist at brainworkukp. He is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field.\n\n\nMy expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.\n\n\n\n\n\nMolecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
+    "crumbs": [
+      "Dr Trampush"
+    ]
   },
   {
-    "objectID": "about.html#research-and-interests",
-    "href": "about.html#research-and-interests",
-    "title": "brainworkup",
-    "section": "Research and Interests",
-    "text": "Research and Interests\n\nMolecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice"
+    "objectID": "docs/trampush/index.html#background",
+    "href": "docs/trampush/index.html#background",
+    "title": "Joey W. Trampush, Ph.D.",
+    "section": "",
+    "text": "My expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.",
+    "crumbs": [
+      "Dr Trampush"
+    ]
+  },
+  {
+    "objectID": "docs/trampush/index.html#research-and-interests",
+    "href": "docs/trampush/index.html#research-and-interests",
+    "title": "Joey W. Trampush, Ph.D.",
+    "section": "",
+    "text": "Molecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
+    "crumbs": [
+      "Dr Trampush"
+    ]
+  },
+  {
+    "objectID": "docs/contact/index.html",
+    "href": "docs/contact/index.html",
+    "title": "Contact Information",
+    "section": "",
+    "text": "If you have any questions or would like to schedule a consultation, please feel free to reach out. Below are the contact details for Dr. Joey Trampush.",
+    "crumbs": [
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "docs/contact/index.html#office-location",
+    "href": "docs/contact/index.html#office-location",
+    "title": "Contact Information",
+    "section": "Office Location",
+    "text": "Office Location\nDepartment of Psychiatry and the Behavioral Sciences\nKeck School of Medicine of USC\n2250 Alcazar Street, Suite 2200\nLos Angeles, CA 90033",
+    "crumbs": [
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "docs/contact/index.html#contact-details",
+    "href": "docs/contact/index.html#contact-details",
+    "title": "Contact Information",
+    "section": "Contact Details",
+    "text": "Contact Details\n\nPhone: (323) 442-4058\nFax: (323) 442-4003\nEmail: info",
+    "crumbs": [
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "docs/contact/index.html#online-inquiry",
+    "href": "docs/contact/index.html#online-inquiry",
+    "title": "Contact Information",
+    "section": "Online Inquiry",
+    "text": "Online Inquiry\nFor online inquiries, please fill out the form below. We will get back to you as soon as possible.\nName: [text]\nEmail: [text]\nMessage: [textarea]\n[submit]\n\nNotes:\n\nForm Functionality: The form included in the template is a basic structure. You’ll need to set up a backend service to handle form submissions, or integrate a service that can manage online inquiries.\nEmail Links: The email addresses are hyperlinked with mailto: which allows visitors to directly email you by clicking the link.\nStyling and Formatting: You can add additional styling or formatting to match the overall design of your website.\n\nThis template provides a straightforward and professional way for clients and colleagues to reach out to you. Remember to test the functionality of any forms or email links to ensure they are working correctly.",
+    "crumbs": [
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "docs/faq/index.html",
+    "href": "docs/faq/index.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.\n\n\n\n\nComprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "docs/faq/index.html#our-mission",
+    "href": "docs/faq/index.html#our-mission",
+    "title": "FAQ",
+    "section": "",
+    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "docs/faq/index.html#our-services",
+    "href": "docs/faq/index.html#our-services",
+    "title": "FAQ",
+    "section": "",
+    "text": "Comprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "docs/blog/posts/index.html",
+    "href": "docs/blog/posts/index.html",
+    "title": "brainworkup Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "docs/services/adult/index.html",
+    "href": "docs/services/adult/index.html",
+    "title": "Adult Services",
+    "section": "",
+    "text": "At BrainWorkUp, we offer a range of specialized services to address various neuropsychological needs. Our approach is thorough, compassionate, and tailored to each individual.\n\n\nAn initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.\n\n\n\nThe testing session is conducted by a trained psychometrist and may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.\n\n\n\nFollowing the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.\n\n© 2023 BrainWorkUp - Comprehensive Neuropsychological Services",
+    "crumbs": [
+      "Clinical Services",
+      "Adult Services"
+    ]
+  },
+  {
+    "objectID": "docs/services/adult/index.html#consultation",
+    "href": "docs/services/adult/index.html#consultation",
+    "title": "Adult Services",
+    "section": "",
+    "text": "An initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.",
+    "crumbs": [
+      "Clinical Services",
+      "Adult Services"
+    ]
+  },
+  {
+    "objectID": "docs/services/adult/index.html#testing-evaluation",
+    "href": "docs/services/adult/index.html#testing-evaluation",
+    "title": "Adult Services",
+    "section": "",
+    "text": "The testing session is conducted by a trained psychometrist and may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.",
+    "crumbs": [
+      "Clinical Services",
+      "Adult Services"
+    ]
+  },
+  {
+    "objectID": "docs/services/adult/index.html#feedback-session",
+    "href": "docs/services/adult/index.html#feedback-session",
+    "title": "Adult Services",
+    "section": "",
+    "text": "Following the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.\n\n© 2023 BrainWorkUp - Comprehensive Neuropsychological Services",
+    "crumbs": [
+      "Clinical Services",
+      "Adult Services"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BrainWorkUp Neuropsychology Clinic",
+    "section": "",
+    "text": "Our clinical neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.\n\n\n\nIn-depth Neuropsychological Evaluations: Dive deep into understanding your child’s cognitive landscape.\nTargeted Consultation and Advice: Customized support for families and educators, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your child’s evolving needs.\n\n\n\n\nPlease contact us questions. Reach out to us to start a conversation.\n\n\n\nLearn about our recent work: Blog\nPlease connect with us on Mastodon @brainworkup@mastodon.org or join our newsletter"
+  },
+  {
+    "objectID": "index.html#services-tailored-for-developing-minds",
+    "href": "index.html#services-tailored-for-developing-minds",
+    "title": "BrainWorkUp Neuropsychology Clinic",
+    "section": "",
+    "text": "In-depth Neuropsychological Evaluations: Dive deep into understanding your child’s cognitive landscape.\nTargeted Consultation and Advice: Customized support for families and educators, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your child’s evolving needs."
+  },
+  {
+    "objectID": "index.html#contact-to-connect",
+    "href": "index.html#contact-to-connect",
+    "title": "BrainWorkUp Neuropsychology Clinic",
+    "section": "",
+    "text": "Please contact us questions. Reach out to us to start a conversation."
+  },
+  {
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
+    "title": "BrainWorkUp Neuropsychology Clinic",
+    "section": "",
+    "text": "Learn about our recent work: Blog\nPlease connect with us on Mastodon @brainworkup@mastodon.org or join our newsletter"
   }
 ]

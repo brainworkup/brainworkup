@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brainworkup.org/index.html</loc>
-    <lastmod>2023-12-13T04:25:00.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/services/adult/index.html</loc>
-    <lastmod>2023-12-12T22:30:43.121Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/blog/index.html</loc>
-    <lastmod>2023-12-12T20:38:48.066Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/blog/posts/index.html</loc>
-    <lastmod>2023-12-12T21:25:01.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/faq/index.html</loc>
-    <lastmod>2023-12-07T20:02:22.596Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/contact/index.html</loc>
-    <lastmod>2023-12-12T21:24:03.673Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/trampush/index.html</loc>
-    <lastmod>2023-12-13T03:50:00.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-12-12T22:03:07.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/blog/posts/welcome/index.html</loc>
-    <lastmod>2023-12-12T22:03:18.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/services/pediatrics/index.html</loc>
-    <lastmod>2023-12-13T03:15:26.990Z</lastmod>
+    <loc>https://brainworkup.org/about.html</loc>
+    <lastmod>2023-12-13T05:36:38.853Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/docs/services/forensic/index.html</loc>
     <lastmod>2023-12-13T03:08:40.720Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/about.html</loc>
-    <lastmod>2023-12-13T05:36:38.853Z</lastmod>
+    <loc>https://brainworkup.org/docs/services/pediatrics/index.html</loc>
+    <lastmod>2023-12-13T03:15:26.990Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/blog/posts/welcome/index.html</loc>
+    <lastmod>2023-12-12T22:03:18.374Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/blog/posts/post-with-code/index.html</loc>
+    <lastmod>2023-12-12T22:03:07.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/trampush/index.html</loc>
+    <lastmod>2023-12-13T03:50:00.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/contact/index.html</loc>
+    <lastmod>2023-12-12T21:24:03.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/faq/index.html</loc>
+    <lastmod>2023-12-07T20:02:22.596Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/blog/posts/index.html</loc>
+    <lastmod>2023-12-13T06:00:57.597Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/blog/index.html</loc>
+    <lastmod>2023-12-12T20:38:48.066Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/services/adult/index.html</loc>
+    <lastmod>2023-12-12T22:30:43.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/index.html</loc>
+    <lastmod>2023-12-13T04:25:00.013Z</lastmod>
   </url>
 </urlset>

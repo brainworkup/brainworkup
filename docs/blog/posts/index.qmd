@@ -1,8 +1,8 @@
 ---
 title: brainworkup Blog
-subtitle: News, tips, and commentary about all things bwu
+subtitle: News, tips, and commentary about all things `bwu`
 listing:
-  # contents: "../brain2/posts"
+  contents: "../../posts"
   type: default
   sort: "date desc"
   sort-ui: false
