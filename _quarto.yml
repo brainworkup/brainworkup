@@ -21,7 +21,7 @@ website:
   repo-actions: [issue]
   page-navigation: true
   bread-crumbs: true
-  google-analytics: UA-XXXXXXXXX-X
+  # google-analytics: UA-XXXXXXXXX-X
   search:
     show-item-context: true
     type: overlay # more todo here
@@ -75,13 +75,13 @@ website:
     align: left
     contents:
       - section: Dr Trampush
-        contents: docs/trampush/*
+        contents: docs/trampush/index.qmd
       - section: Clinical Services
         contents: docs/services/*/*
       - section: FAQ
-        contents: docs/faq/*
+        contents: docs/faq/index.qmd
       - section: Contact Us
-        contents: docs/contact/*
+        contents: docs/contact/index.qmd
 
 bibliography: refs.bib
 
