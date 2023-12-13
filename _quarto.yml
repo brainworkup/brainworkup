@@ -63,15 +63,18 @@ website:
     right:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
-        # text: Brainworkup Github
+        aria-label: Brainworkup Github
       - icon: twitter
         href: https://twitter.com/brainworkup
         aria-label: brainworkup Twitter
+      - icon: instagram
+        href: https://instagram.com/brainworkup
+        aria-label: brainworkup Instagram
 
   sidebar:
     title: "Contact Us"
     style: floating
-    collapse-level: 3
+    collapse-level: 2
     align: left
     contents:
       - section: Dr Trampush
