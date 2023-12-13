@@ -1,27 +1,35 @@
+---
+css: index.css
+description: | 
+  Academic and clinical site for Dr. Joey Trampush @ USC brainworkup.org.
+hide-description: true
+---
+
 # BrainWorkUp Neuropsychology Clinic
 
-Our clinical neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
+<br>
 
 <center><a><img src="images/card.png" alt="BWU logo" width="300px"/></a></center>
 
 <br>
 
-## Services Tailored for Young Minds
+Our clinical neuropsychology practice is committed to providing thorough,
+evidence-informed neuropsychological assessments for children and adolescents.
+Our expertise covers a broad spectrum, from ADHD to learning disabilities,
+ensuring your child receives the best care possible.
+
+## Services Tailored for Developing Minds
 
 - **In-depth Neuropsychological Evaluations:** Dive deep into understanding your child's cognitive landscape.
 - **Targeted Consultation and Advice:** Customized support for families and educators, fostering optimal growth.
 - **Continued Care and Guidance:** We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
 
-## Ready to Connect?
+## Contact to Connect
 
-Let's embark on this journey together. [Reach out to us](contact.html) to start a conversation.
+Please contact us questions. [Reach out to us](docs/contact/index.qmd) to start a conversation.
 
 ## Learn More:
 
-Learn about our recent work: [Blog](docs/blog/index.qmd) • [Presentations](/about.qmd#slides) • [Annual Reports](https://github.com/NASA-Openscapes/how_we_work)
+Learn about our recent work: [Blog](docs/blog/index.qmd)
 
 Please connect with us on Mastodon [\@brainworkup\@mastodon.org](https://mastodon.org/@brainworkup) or join [our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
-
----
-
-© 2023 BrainWorkUp - Neuropsychology Clinic in Los Angeles
