@@ -9,7 +9,10 @@ _notes_on_website_design.md
 # /_site/
 .Rproj.user
 posts/
-# package-lock.json
-# package.json
-# yarn.lock
+package-lock.json
+package.json
+yarn.lock
 .dbxignore
+static/
+netlify.toml
+node_modules/

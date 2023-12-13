@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "headroom.js": "^0.12.0",
-    "@quarto/netlify-plugin-quarto": "^0.0.5"
-  }
-}
