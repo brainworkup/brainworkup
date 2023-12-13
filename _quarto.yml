@@ -71,17 +71,17 @@ website:
   sidebar:
     title: "Contact Us"
     style: floating
-    collapse-level: 2
+    collapse-level: 3
     align: left
     contents:
       - section: Dr Trampush
-        contents: docs/trampush/index.qmd
+        contents: docs/trampush/*
       - section: Clinical Services
         contents: docs/services/*/*
       - section: FAQ
-        contents: docs/faq/index.qmd
+        contents: docs/faq/*
       - section: Contact Us
-        contents: docs/contact/index.qmd
+        contents: docs/contact/*
 
 bibliography: refs.bib
 
