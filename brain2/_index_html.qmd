@@ -1,7 +1,12 @@
+<center><a><img src="images/card.png" alt="BWU logo" width="300px"/></a></center>
 
+<center>
 
+<h1>BrainWorkUp Neuropsychology Clinic</h1>
 
+</center>
 
+<br>
 
 At BrainWorkUp, we're committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
 

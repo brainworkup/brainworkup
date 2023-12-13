@@ -1,12 +1,10 @@
----
-title: "BrainWorkup Neuropsychology Clinic"
----
+# BrainWorkUp Neuropsychology Clinic
+
+Our clinical neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
 
 <center><a><img src="images/card.png" alt="BWU logo" width="300px"/></a></center>
 
 <br>
-
-At BrainWorkUp, we're committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
 
 ## Services Tailored for Young Minds
 
@@ -18,87 +16,12 @@ At BrainWorkUp, we're committed to providing thorough, evidence-informed neurops
 
 Let's embark on this journey together. [Reach out to us](contact.html) to start a conversation.
 
-## Upcoming Events:
-
-Project announcements: [NASA](https://earthdata.nasa.gov/learn/openscapes) • [Openscapes](https://www.openscapes.org/blog/2021/03/10/nasa-announcement/)
+## Learn More:
 
 Learn about our recent work: [Blog](docs/blog/index.qmd) • [Presentations](/about.qmd#slides) • [Annual Reports](https://github.com/NASA-Openscapes/how_we_work)
 
-Please connect with us on Mastodon [\@openscapes\@fosstodon.org](https://fosstodon.org/@openscapes) or join [our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
+Please connect with us on Mastodon [\@brainworkup\@mastodon.org](https://mastodon.org/@brainworkup) or join [our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
 
 ---
 
 © 2023 BrainWorkUp - Neuropsychology Clinic in Los Angeles
-
-
-<!-- ---
-pagetitle: "BrainWorkUp - Expert Pediatric Neuropsychology in Los Angeles"
-page-layout: custom
-section-divs: false
-toc: false
-css: index.css
-description: |
-  At BrainWorkUp, we blend expertise in pediatric neuropsychology with a passion
-  for nurturing young minds. Located in the heart of Los Angeles, we're here to
-  guide your child's cognitive and emotional development.
-hide-description: true
-image: bwu-logo.png
----
-
-```{r}
-#| label: logo
-#| echo: false
-#| image-width: 12em
-#| image-shape: rounded
-knitr::include_graphics("images/card.png")
-```
-
-## Nurturing the Next Generation: Our Mission
-
-At BrainWorkUp, we are committed to providing thorough, evidence-informed neuropsychological assessments for children and adolescents. Our expertise covers a broad spectrum, from ADHD to learning disabilities, ensuring your child receives the best care possible.
-
-## Services Tailored for Young Minds
-
-### In-depth Neuropsychological Evaluations
-
-Dive deep into understanding your child's cognitive landscape.
-
-### Targeted Consultation and Advice
-
-Customized support for families and educators, fostering optimal growth.
-
-### Continued Care and Guidance
-
-We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
-
-::: {.feature}
-## Dynamic Documents
-Generate dynamic output using Python, R, Julia, and Observable. Create reproducible documents that can be regenerated when underlying assumptions or data change.
-:::
-
-::: {.feature}
-## Beautiful Publications
-Publish high-quality articles, reports, presentations, websites, and books in HTML, PDF, MS Word, ePub, and more. Use a single source document to target multiple formats.
-:::
-
-::: {.feature}
-### Dr. Joey Trampush
-Use your favorite tools including VS Code, RStudio, Jupyter Lab, or any text editor. Use the Quarto visual markdown editor for long-form documents.
-:::
-
-
-::: {.learn-more}
-[Learn more »](docs/trampush/index.qmd)
-:::
-
-
-
-## Ready to Connect?
-
-Let's embark on this journey together. [Reach out to us](contact.html) to start a conversation.
-
----
-
-© 2023 BrainWorkUp - Comprehensive Pediatric Neuropsychology Services in Los Angeles
-
- -->
