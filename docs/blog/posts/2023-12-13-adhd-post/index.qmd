@@ -3,17 +3,13 @@ title: "ADHD Across the Lifespan"
 subtitle: "Evaluating ADHD from childhood to adulthood"
 description:  |
   First quarto post about ADHD.
-author: "Joey Trampush"
+author: "Joey Trampush PhD"
 date: "2023-12-13"
 image: "biggie.jpg"
 image-alt: "Evaluating ADHD across development post"
 categories: [adhd]
-date-modified: "2023-12-13"
+# date-modified: "2023-12-13"
 draft: false
----
-
-Certainly! I will provide starter texts for each subheading related to evaluating ADHD across the lifespan for your website.
-
 ---
 
 ## Introduction

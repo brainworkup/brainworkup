@@ -20,7 +20,7 @@
 <lastBuildDate>Wed, 13 Dec 2023 08:00:00 GMT</lastBuildDate>
 <item>
   <title>ADHD Across the Lifespan</title>
-  <dc:creator>Joey Trampush</dc:creator>
+  <dc:creator>Joey Trampush PhD</dc:creator>
   <link>https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/</link>
   <description><![CDATA[ 
 
@@ -28,8 +28,6 @@
 
 
 
-<p>Certainly! I will provide starter texts for each subheading related to evaluating ADHD across the lifespan for your website.</p>
-<hr>
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental condition that manifests differently across various stages of life. In this post, we delve into how ADHD impacts individuals from preschool age to older adulthood, emphasizing the importance of tailored approaches in diagnosis and management.</p>
@@ -73,9 +71,14 @@
 </item>
 <item>
   <title>Welcome</title>
-  <dc:creator>Joey Trampush</dc:creator>
+  <dc:creator>Joey Trampush PhD</dc:creator>
   <link>https://brainworkup.org/docs/blog/posts/welcome/</link>
   <description><![CDATA[ 
+
+
+
+
+
 <p>Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, especially its onset during college years.</p>
 <p>In this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.</p>
 <p>As we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it’s also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.</p>
@@ -84,10 +87,12 @@
 <p>Remember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you’re here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you’re in the right place. Welcome aboard!</p>
 
 
+
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>brain2</category>
   <guid>https://brainworkup.org/docs/blog/posts/welcome/</guid>
-  <pubDate>Mon, 04 Dec 2023 08:00:00 GMT</pubDate>
+  <pubDate>Mon, 11 Dec 2023 08:00:00 GMT</pubDate>
+  <media:content url="https://brainworkup.org/docs/blog/posts/welcome/logo_space.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>
