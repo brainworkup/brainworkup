@@ -1,10 +1,9 @@
-# Joey W. Trampush, Ph.D.
-
-<br>
-
-<center><a><img src="images/jwt.jpg" alt="Joey W Trampush, PhD image" width="300px"/></a></center>
-
-<br>
+---
+title: "Joey W. Trampush, Ph.D."
+about:
+  template: solana #broadside #jolla
+  image: images/jwt.jpg
+---  
 
 **Dr. Trampush** is the founder and chief neuropsychologist at
 [Brainworkup, LLC](https://brainworkup.org). He is an Assistant
