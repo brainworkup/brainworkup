@@ -2,7 +2,9 @@
 
 :root {
   --background: #33373f;
+  --background-2: #41454e;
   --foreground: white;
+  --foreground-2: #484d54;
   --content-width: 1000px;
 }
 
@@ -26,9 +28,9 @@ h3 {
   text-align: center;
 } */
 
-/* #title-block-header {
+#title-block-header {
   display: default;
-} */
+}
 
 .navbar {
   background: var(--background);
@@ -51,7 +53,7 @@ h3 {
   background: linear-gradient(240.01deg, #78858c 15.29%, rgba(105, 117, 123, 0) 138.75%);
 } */
 
-/* .content-block {
+.content-block {
   margin-left: 30px;
   margin-right: 30px;
   overflow-x: hidden;
@@ -158,15 +160,15 @@ h3 {
   line-height: 20px; /* identical to box height */
 }
 
-/* .btn-action-primary:hover,
+.btn-action-primary:hover,
 .btn-action-primary:active,
 .btn-action-primary:focus {
   background: #35acf0;
-} */
+}
 
-/* .btn-action {
+.btn-action {
   min-width: 165px;
   border-radius: 8px;
   padding: 20px 48px;
   border: none;
-} */
+}

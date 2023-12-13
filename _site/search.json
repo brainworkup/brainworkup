@@ -138,47 +138,33 @@
     ]
   },
   {
-    "objectID": "docs/blog/posts/welcome/index.html",
-    "href": "docs/blog/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "docs/faq/index.html",
+    "href": "docs/faq/index.html",
+    "title": "FAQ",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "docs/blog/posts/post-with-code/index.html",
-    "href": "docs/blog/posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "docs/trampush/index.html",
-    "href": "docs/trampush/index.html",
-    "title": "Joey W. Trampush, Ph.D.",
-    "section": "",
-    "text": "Dr. Trampush is the founder and chief neuropsychologist at brainworkukp. He is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field.\n\n\nMy expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.\n\n\n\n\n\nMolecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
+    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.\n\n\n\n\nComprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
     "crumbs": [
-      "Dr Trampush"
+      "FAQ"
     ]
   },
   {
-    "objectID": "docs/trampush/index.html#background",
-    "href": "docs/trampush/index.html#background",
-    "title": "Joey W. Trampush, Ph.D.",
+    "objectID": "docs/faq/index.html#our-mission",
+    "href": "docs/faq/index.html#our-mission",
+    "title": "FAQ",
     "section": "",
-    "text": "My expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.",
+    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.",
     "crumbs": [
-      "Dr Trampush"
+      "FAQ"
     ]
   },
   {
-    "objectID": "docs/trampush/index.html#research-and-interests",
-    "href": "docs/trampush/index.html#research-and-interests",
-    "title": "Joey W. Trampush, Ph.D.",
+    "objectID": "docs/faq/index.html#our-services",
+    "href": "docs/faq/index.html#our-services",
+    "title": "FAQ",
     "section": "",
-    "text": "Molecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
+    "text": "Comprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
     "crumbs": [
-      "Dr Trampush"
+      "FAQ"
     ]
   },
   {
@@ -222,41 +208,34 @@
     ]
   },
   {
-    "objectID": "docs/faq/index.html",
-    "href": "docs/faq/index.html",
-    "title": "FAQ",
+    "objectID": "docs/trampush/index.html",
+    "href": "docs/trampush/index.html",
+    "title": "Joey W. Trampush, Ph.D.",
     "section": "",
-    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.\n\n\n\n\nComprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
+    "text": "Dr. Trampush is the founder and chief neuropsychologist at brainworkukp. He is an Assistant Professor of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and a practicing pediatric neuropsychologist with more than 20 years of experience in the field.\n\n\nMy expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.\n\n\n\n\n\nMolecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
     "crumbs": [
-      "FAQ"
+      "Dr Trampush"
     ]
   },
   {
-    "objectID": "docs/faq/index.html#our-mission",
-    "href": "docs/faq/index.html#our-mission",
-    "title": "FAQ",
+    "objectID": "docs/trampush/index.html#background",
+    "href": "docs/trampush/index.html#background",
+    "title": "Joey W. Trampush, Ph.D.",
     "section": "",
-    "text": "Our mission is to provide comprehensive, evidence-based neuropsychological assessments for children and adolescents. We specialize in diagnosing and offering recommendations for a variety of conditions including ADHD, learning disabilities, and more.",
+    "text": "My expertise lies in the intersection of neuropsychology and genetics.\n\n\n\nPhD in Clinical Neuropsychology (2010)\n\nCUNY Graduate Center\n\nMPhil in Clinical Neuropsychology (2008)\n\nCUNY Graduate Center\n\nMA in Clinical Neuropsychology (2007)\n\nCUNY Queens College\n\nBA in Psychology (2000)\n\nBowling Green State University\n\n\n\n\n\nMy focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions.\n\n\n\nAs a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.",
     "crumbs": [
-      "FAQ"
+      "Dr Trampush"
     ]
   },
   {
-    "objectID": "docs/faq/index.html#our-services",
-    "href": "docs/faq/index.html#our-services",
-    "title": "FAQ",
+    "objectID": "docs/trampush/index.html#research-and-interests",
+    "href": "docs/trampush/index.html#research-and-interests",
+    "title": "Joey W. Trampush, Ph.D.",
     "section": "",
-    "text": "Comprehensive Neuropsychological Assessments: We offer detailed assessments to understand cognitive strengths and challenges.\nConsultation and Recommendations: Personalized strategies and support for parents and educators.\nFollow-up and Support: Ongoing support and follow-up services tailored to each child’s needs.",
+    "text": "Molecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.\n\n\n© 2023 BrainWorkup - Dr. Joey Trampush’s Neuropsychology Practice",
     "crumbs": [
-      "FAQ"
+      "Dr Trampush"
     ]
-  },
-  {
-    "objectID": "docs/blog/posts/index.html",
-    "href": "docs/blog/posts/index.html",
-    "title": "brainworkup Blog",
-    "section": "",
-    "text": "No matching items"
   },
   {
     "objectID": "docs/services/adult/index.html",

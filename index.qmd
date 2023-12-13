@@ -33,3 +33,5 @@ Please contact us questions. [Reach out to us](docs/contact/index.qmd) to start 
 Learn about our recent work: [Blog](docs/blog/index.qmd)
 
 Please connect with us on Mastodon [\@brainworkup\@mastodon.org](https://mastodon.org/@brainworkup) or join [our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
+
+<!-- ![](images/logo_bwu.png){.preview-image fig-align="center" width="100px"} -->

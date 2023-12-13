@@ -1,0 +1,17 @@
+---
+title: "ADHD Post"
+subtitle: "Evaluating ADHD in college students"
+description:  |
+  First quarto post about ADHD using biggie image
+author: "Joey Trampush"
+date: "2023-12-13"
+image: "biggie.jpg"
+image-alt: "Evaluating ADHD in college students post"
+categories: [adhd]
+date-modified: "2023-12-13"
+draft: false
+---
+
+## Introduction
+
+This is the first post about ADHD. It is a test to see if the image works.

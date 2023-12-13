@@ -27,12 +27,12 @@ website:
     type: overlay # more todo here
   page-footer:
     left: |
-      &copy; 2023 joey trampush, phd @ brainworkup, llc
+      **&copy; 2023 joey trampush, phd @ brainworkup, llc**
     center:
-      - text: "FAQ"
+      - text: "**FAQ**"
         href: docs/faq/index.qmd
     right:
-      - text: "Contact"
+      - text: "**Contact**"
         href: docs/contact/index.qmd
 
   navbar:

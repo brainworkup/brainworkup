@@ -1,16 +1,17 @@
 ---
 title: BWU Blog
-subtitle: News, tips, and commentary about all things Brainworkup
+subtitle: |
+  Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
-  sort: "date desc"
+  sort: "date asc"
   contents: "posts/*/index.qmd"
   sort-ui: false
   filter-ui: false
   categories: true
   feed: true
 page-layout: full
-# margin-header: signup.html
-title-block-banner: "#EDF3F9"
+margin-header: signup.html
+title-block-banner: "#466b90"
 title-block-banner-color: body
 search: false
 # image: quarto-blog-v2.png
