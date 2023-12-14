@@ -74,11 +74,14 @@ website:
         href: docs/contact/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
-
-    right:
       - icon: file-pdf
         text: CV
         href: /files/cv.pdf
+
+    right:
+      - icon: envelope
+        text: Email
+        href: mailto:info@brainworkup.org
       - icon: github
         href: https://github.com/brainworkup/brainworkup
         aria-label: brainworkup Github
@@ -94,9 +97,6 @@ website:
       - icon: rss
         href: https://brainworkup.org/docs/blog/index.xml
         aria-label: BWU Blog RSS
-      - icon: envelope
-        text: Email
-        href: mailto:info@brainworkup.org
 
   sidebar:
     title: brainworkup
@@ -122,6 +122,7 @@ format:
     css: styles.css
     toc: true
     toc-depth: 4
+    smooth-scroll: true
     grid:
       sidebar-width: 250px
       body-width: 900px
