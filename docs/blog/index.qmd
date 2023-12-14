@@ -4,7 +4,7 @@ subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
   sort: "date desc"
-  contents: "posts/*/index.qmd"
+  contents: "posts/**/index.qmd"
   sort-ui: false
   filter-ui: false
   categories: numbered #cloud

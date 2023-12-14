@@ -62,6 +62,7 @@ website:
           - text: "Forensic Neuropsychology"
             href: docs/services/forensic/index.qmd
       - text: "Research"
+        href: docs/research/index.qmd
         menu:
           - text: "Projects"
             href: docs/research/projects/index.qmd
@@ -75,6 +76,9 @@ website:
         href: docs/blog/index.qmd
 
     right:
+      - icon: file-pdf
+        text: CV
+        href: /files/cv.pdf
       - icon: github
         href: https://github.com/brainworkup/brainworkup
         aria-label: brainworkup Github
@@ -84,22 +88,26 @@ website:
       - icon: instagram
         href: https://instagram.com/brainworkup
         aria-label: brainworkup Instagram
+      - icon: linkedin
+        aria-label: brainworkkup LinkedIn
+        href: https://www.linkedin.com/in//joey-trampush-brainworkup/
       - icon: rss
         href: https://brainworkup.org/docs/blog/index.xml
         aria-label: BWU Blog RSS
 
   sidebar:
+    title: brainworkup
+    # contents: auto
     contents:
       - section: "Clinical Services"
-        contents: "docs/services/*/index.qmd"
+        contents: "docs/services/**/index.qmd"
       - section: "Contact"
         contents: "docs/contact"
       - section: "General Information"
         contents: "docs/faq"
-      # contents: auto
     type: dark
     style: floating
-    collapse-level: 1
+    collapse-level: 2
     align: left
     pinned: true
 
