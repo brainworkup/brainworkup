@@ -102,15 +102,15 @@ website:
     # contents: auto
     contents:
       - section: "Dr Trampush"
-        contents: "docs/trampush/**"
+        contents: "docs/trampush"
       - section: "Clinical Services"
-        contents: "docs/services/**"
+        contents: "docs/services"
       - section: "FAQ"
-        contents: "docs/faq/**"
+        contents: "docs/faq"
       - section: "Contact"
-        contents: "docs/contact/**"
+        contents: "docs/contact"
       - section: "Research"
-        contents: "docs/research/**"
+        contents: "docs/research"
       - section: "Blog"
         contents: "docs/blog"
     type: dark
