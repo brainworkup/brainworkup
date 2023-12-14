@@ -2,7 +2,7 @@
 title: "Research"
 subtitle: Research projects at USC.
 page-layout: article
-anchor-sections: false
+anchor-sections: true
 search: false
 listing:
   id: research-links

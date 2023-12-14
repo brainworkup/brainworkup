@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -187,10 +188,6 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="../../docs/research/index.html" aria-current="page"> 
-<span class="menu-text">Research</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../docs/faq/index.html"> 
 <span class="menu-text">FAQ</span></a>
   </li>  
@@ -199,20 +196,24 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link active" href="../../docs/research/index.html" aria-current="page"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../docs/blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../files/cv.pdf"> <i class="bi bi-file-pdf" role="img">
 </i> 
 <span class="menu-text">CV</span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
+  <li class="nav-item compact">
     <a class="nav-link" href="mailto:info@brainworkup.org"> <i class="bi bi-envelope" role="img">
 </i> 
-<span class="menu-text">Email</span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/brainworkup/brainworkup"> <i class="bi bi-github" role="img" aria-label="brainworkup Github">
@@ -281,9 +282,9 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
 <div class="card">
 <div class="card-body">
 <section id="projects-and-grants" class="level4 card-title">
-<h4 data-anchor-id="projects-and-grants">Projects and Grants</h4>
+<h4 class="anchored" data-anchor-id="projects-and-grants">Projects and Grants</h4>
 <section id="create-content-with-markdown" class="level6 card-subtitle text-muted">
-<h6 data-anchor-id="create-content-with-markdown">Create content with markdown</h6>
+<h6 class="anchored" data-anchor-id="create-content-with-markdown">Create content with markdown</h6>
 </section>
 </section>
 <ul>
@@ -294,9 +295,9 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
 <div class="card">
 <div class="card-body">
 <section id="publications" class="level4 card-title">
-<h4 data-anchor-id="publications">Publications</h4>
+<h4 class="anchored" data-anchor-id="publications">Publications</h4>
 <section id="execute-code-and-display-its-output" class="level6 card-subtitle text-muted">
-<h6 data-anchor-id="execute-code-and-display-its-output">Execute code and display its output</h6>
+<h6 class="anchored" data-anchor-id="execute-code-and-display-its-output">Execute code and display its output</h6>
 </section>
 </section>
 <ul>
@@ -334,6 +335,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -61,6 +61,10 @@ website:
             href: docs/services/adult/index.qmd
           - text: "Forensic Neuropsychology"
             href: docs/services/forensic/index.qmd
+      - text: "FAQ"
+        href: docs/faq/index.qmd
+      - text: "Contact"
+        href: docs/contact/index.qmd
       - text: "Research"
         href: docs/research/index.qmd
         menu:
@@ -68,19 +72,15 @@ website:
             href: docs/research/projects/index.qmd
           - text: "Publications"
             href: docs/research/publications/index.qmd
-      - text: "FAQ"
-        href: docs/faq/index.qmd
-      - text: "Contact"
-        href: docs/contact/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
+
+    right:
       - icon: file-pdf
         text: CV
         href: /files/cv.pdf
-
-    right:
       - icon: envelope
-        text: Email
+        # text: E-mail
         href: mailto:info@brainworkup.org
       - icon: github
         href: https://github.com/brainworkup/brainworkup
@@ -128,6 +128,8 @@ format:
       body-width: 900px
       margin-width: 300px
       # gutter-width: 1.5rem
+    fontsize: 1.2em
+    linestretch: 1.4
 
 metadata-files: [brain2.yml]
 
