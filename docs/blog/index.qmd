@@ -1,11 +1,11 @@
 ---
-title: Articles
+title: BWU Articles
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
   sort: "date asc"
-  contents: posts
-  sort-ui: true
+  contents: "posts/*/index.qmd"
+  sort-ui: false
   filter-ui: false
   categories: true
   feed: true

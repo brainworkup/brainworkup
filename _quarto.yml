@@ -54,8 +54,6 @@ website:
     title: brainworkup
     collapse-below: lg
     left:
-      # - text: "Home"
-      #   href: index.qmd
       - text: "Dr Trampush"
         href: docs/trampush/index.qmd
       - text: "Clinical Services"
@@ -113,10 +111,10 @@ format:
     toc: true
     toc-depth: 4
     grid:
-      sidebar-width: 300px
+      sidebar-width: 250px
       body-width: 900px
       margin-width: 300px
-      gutter-width: 1.5rem
+      # gutter-width: 1.5rem
 
 metadata-files: [brain2.yml]
 
