@@ -1,0 +1,81 @@
+---
+title: Forensic Neuropsychologcal Services
+description: "An overview of the forensic neuropsychological and medicolegal
+services provided by Dr. Trampush @ Brainworkup, LLC, services offered, the process, and legal
+and ethical considerations."
+format: html
+logo: forensic.webp
+tags:
+  - forensic neuropsychology
+  - medicolegal
+about:
+  template: marquee
+  image: "forensic.webp"
+sidebar: false
+page-navigation: true
+sections:
+  - title: "Introduction"
+    description: "Introduction to Forensic Neuropsychology and its importance in legal settings."
+  - title: "What is Forensic Neuropsychology?"
+    description: "Detailed explanation of Forensic Neuropsychology, its definition, scope, and application."
+  - title: "Services Offered"
+    description: "Types of evaluations provided, including competency evaluations and criminal responsibility assessments."
+  - title: "Who Can Benefit?"
+    description: "Potential beneficiaries of the services, including lawyers, courts, and insurance companies."
+  - title: "The Process"
+    description: "Explanation of the consultation and assessment process."
+  - title: "Legal and Ethical Considerations"
+    description: "Statement on adherence to confidentiality and legal compliance."
+  - title: "Contact Information"
+    description: "Contact information for scheduling and more information."
+---
+
+## Introduction
+
+Forensic neuropsychological evaluations are critical in legal settings, blending
+the expertise of neuropsychology with legal requirements. With our extensive experience and qualifications in this field, clients are assured of
+comprehensive and ethical evaluations.
+
+## What is Forensic Neuropsychology?
+
+### Definition
+
+> Forensic neuropsychology is a specialized branch of neuropsychology that applies its principles to legal matters.
+
+### Scope
+
+> It goes beyond general neuropsychology by focusing on issues such as competency and criminal responsibility.
+
+### Application
+
+> These evaluations are essential in various legal contexts, aiding in decision-making processes.
+
+## Services Offered
+
+We provide several types of evaluations, including competency evaluations and criminal responsibility assessments, following evidence-based practices and ethical guidelines.
+
+## Who Can Benefit?
+
+Our services are beneficial to lawyers, courts, and insurance companies, providing essential insights in legal cases.
+
+## The Process
+
+### Consultation
+
+> Potential clients can start with a consultation to understand their needs.
+
+### Assessment Process
+
+> Our assessment process is thorough, tailored to each case.
+
+## Legal and Ethical Considerations
+
+We adhere to the highest standards of confidentiality and legal compliance in our practice.
+
+## Contact Information
+
+For scheduling and more information, please contact us at ([Contact](../../contact/index.qmd)).
+
+
+
+
