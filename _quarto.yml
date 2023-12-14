@@ -94,6 +94,9 @@ website:
       - icon: rss
         href: https://brainworkup.org/docs/blog/index.xml
         aria-label: BWU Blog RSS
+      - icon: envelope
+        text: Email
+        href: mailto:info@brainworkup.org
 
   sidebar:
     title: brainworkup
