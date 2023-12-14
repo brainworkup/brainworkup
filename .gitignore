@@ -18,3 +18,4 @@ netlify.toml
 node_modules/
 /images/adult-services.png/
 /Users/joey/brainworkup/images/jwt_fighton.jpg
+local/
