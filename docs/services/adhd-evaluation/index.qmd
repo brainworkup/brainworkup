@@ -2,8 +2,9 @@
 title: ADHD Evaluations
 description: "An overview of ADHD and the process of evaluating ADHD across the
 lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC."
+hide-descritpion: true
 format: html
-logo: "/images/adult-services.webp"
+logo: "adult-services.webp"
 tags:
   - ADHD
   - childhood ADHD
@@ -16,7 +17,7 @@ tags:
   - report
 about:
   template: marquee
-  image: "/images/adult-services.webp"
+  image: "adult-services.webp"
 sidebar: false
 page-navigation: true
 ---
