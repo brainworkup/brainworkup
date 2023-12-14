@@ -53,6 +53,9 @@ website:
     left:
       - text: "Dr Trampush"
         href: docs/trampush/index.qmd
+      - icon: file-pdf
+        text: CV
+        href: /files/cv.pdf
       - text: "Clinical Services"
         menu:
           - text: "Pediatric Neuropsychology"
@@ -76,9 +79,6 @@ website:
         href: docs/blog/index.qmd
 
     right:
-      - icon: file-pdf
-        text: CV
-        href: /files/cv.pdf
       - icon: envelope
         # text: E-mail
         href: mailto:info@brainworkup.org
