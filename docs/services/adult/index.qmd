@@ -1,11 +1,10 @@
 # Adult Neuropsychological Services
 
-<center><a><img src="adult.png" alt="Forensic Neuropsychology logo" width="300px"/></a></center>
+<center><a><img src="/images/adult-services.webp" alt="Adult Neuropsychology logo" width="300px"/></a></center>
 
 ## ADHD in College Students
 
-We can provide comprehensive ADHD evaluations for college students. We can also
-provide documentation for accommodations at your university.
+We provide comprehensive ADHD evaluations for college students. We can also provide documentation for accommodations at your university.
 
 ## Psychoeducational Testing
 
@@ -26,6 +25,4 @@ Following the evaluation, a feedback session with you and your family may be con
 
 ## Report
 
-A comprehensive report will be provided to you and your family. The report will
-include background information, test results, diagnosis, and recommendations.
-The report can then be used to apply for testing accommodations.
+A comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.
