@@ -128,12 +128,12 @@ format:
     toc-depth: 4
     smooth-scroll: true
     grid:
-      sidebar-width: 250px
+      sidebar-width: 300px
       body-width: 900px
-      margin-width: 250px
+      margin-width: 300px
       gutter-width: 1.5rem
     fontsize: 1.2em
-    linestretch: 1.4
+    linestretch: 1.14
     default-image-extension: svg
 
 metadata-files: [brain2.yml]
