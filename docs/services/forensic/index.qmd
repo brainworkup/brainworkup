@@ -1,6 +1,9 @@
-# Forensic Neuropsychological Evaluation Services
+---
+title: Forensic Neuropsychological Services
+logo: forensic2.png
+---
 
-<center><a><img src="forensic1.png" alt="Forensic Neuropsychology logo" width="300px"/></a></center>
+<center><a><img src="forensic2.png" alt="Forensic Neuropsychology logo" width="300px"/></a></center>
 
 ## Introduction
 
