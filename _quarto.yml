@@ -39,9 +39,6 @@ website:
     center:
       - text: "**FAQ**"
         href: docs/faq/index.qmd
-      - icon: rss
-        href: https://brainworkup.org/docs/blog/index.xml
-        aria-label: BWU Blog RSS
     right:
       - text: "**Contact**"
         href: docs/contact/index.qmd
@@ -87,6 +84,9 @@ website:
       - icon: instagram
         href: https://instagram.com/brainworkup
         aria-label: brainworkup Instagram
+      - icon: rss
+        href: https://brainworkup.org/docs/blog/index.xml
+        aria-label: BWU Blog RSS
 
   sidebar:
     contents:
