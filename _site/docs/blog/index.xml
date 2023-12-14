@@ -20,7 +20,7 @@
 <lastBuildDate>Wed, 13 Dec 2023 08:00:00 GMT</lastBuildDate>
 <item>
   <title>ADHD Across the Lifespan</title>
-  <dc:creator>Joey Trampush PhD</dc:creator>
+  <dc:creator>Joey Trampush</dc:creator>
   <link>https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/</link>
   <description><![CDATA[ 
 
@@ -72,7 +72,7 @@
 </item>
 <item>
   <title>Welcome</title>
-  <dc:creator>Joey Trampush PhD</dc:creator>
+  <dc:creator>Joey Trampush</dc:creator>
   <link>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</link>
   <description><![CDATA[ 
 
@@ -89,7 +89,16 @@
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{trampush2023,
+  author = {Trampush, Joey},
+  title = {Welcome},
+  date = {2023-12-11},
+  url = {https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-trampush2023" class="csl-entry quarto-appendix-citeas">
+Trampush, Joey. 2023. <span>“Welcome.”</span> December 11, 2023. <a href="https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/">https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/</a>.
+</div></div></section></div> ]]></description>
   <category>brain2</category>
   <guid>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</guid>
   <pubDate>Mon, 11 Dec 2023 08:00:00 GMT</pubDate>
