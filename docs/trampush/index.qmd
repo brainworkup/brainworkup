@@ -2,7 +2,7 @@
 title: About
 about:
   template: solana
-  image: "jwt.jpg"
+  image: "jwt.webp"
 sidebar: true
 ---  
 
