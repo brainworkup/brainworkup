@@ -13,21 +13,6 @@ about:
   image: "forensic.webp"
 sidebar: false
 page-navigation: true
-sections:
-  - title: "Introduction"
-    description: "Introduction to Forensic Neuropsychology and its importance in legal settings."
-  - title: "What is Forensic Neuropsychology?"
-    description: "Detailed explanation of Forensic Neuropsychology, its definition, scope, and application."
-  - title: "Services Offered"
-    description: "Types of evaluations provided, including competency evaluations and criminal responsibility assessments."
-  - title: "Who Can Benefit?"
-    description: "Potential beneficiaries of the services, including lawyers, courts, and insurance companies."
-  - title: "The Process"
-    description: "Explanation of the consultation and assessment process."
-  - title: "Legal and Ethical Considerations"
-    description: "Statement on adherence to confidentiality and legal compliance."
-  - title: "Contact Information"
-    description: "Contact information for scheduling and more information."
 ---
 
 ## Introduction

@@ -1,5 +1,18 @@
 ---
-title: "About"
+title: "Joey W. Trampush, Ph.D."
+description: "Dr. Joey W. Trampush, Ph.D., is the founder and chief
+neuropsychologist at BrainWorkup, LLC, and an Assistant Professor of Psychiatry
+and Behavioral Sciences at the Keck School of Medicine of USC. With over two
+decades of experience in pediatric neuropsychology, Dr. Trampush specializes in
+integrating molecular genetics with neuropsychology to understand behavior and
+psychiatric illness risk. His clinical expertise focuses on evaluating and
+diagnosing cognitive, learning, and emotional difficulties in children and young
+adults. He conducts research in molecular genetics,
+neuropsychology, neurodevelopment, and data science, aimed at enhancing our
+comprehension of psychiatric conditions and developmental trajectories."
+hide-description: true
+format: html
+logo: "jwt.webp"
 about:
   template: solana
   image: "jwt.webp"
@@ -7,10 +20,13 @@ sidebar: false
 page-navigation: true
 ---  
 
-**Joey W. Trampush, Ph.D.** is the founder and chief neuropsychologist at
-[Brainworkup, LLC](https://brainworkup.org). Dr. Trampush is an Assistant
+## About
+
+**Joey Trampush, PhD** is the founder and chief neuropsychologist at
+[BrainWorkup, LLC](https://brainworkup.org). Dr. Trampush is an Assistant
 Professor
-of Psychiatry and Behavioral Sciences at the Keck School of Medicine of USC and
+of [Psychiatry and the Behavioral Sciences](https://keck.usc.edu/psychiatry/) at the Keck School of Medicine of
+USC and
 a practicing pediatric neuropsychologist with more than 20 years of experience in the
 field.
 
@@ -21,26 +37,40 @@ Dr. Trampush's expertise lies in the intersection of neuropsychology and genetic
 ### Education
 
 - **Ph.D., Clinical Neuropsychology (2010)**
-  - CUNY Graduate Center
+  - CUNY Graduate Center  
+
 - **M.Phil., Clinical Neuropsychology (2008)**
-  - CUNY Graduate Center
+  - CUNY Graduate Center  
+
 - **M.A., Clinical Neuropsychology (2007)**
-  - CUNY Queens College
+  - CUNY Queens College  
+
 - **B.A., Psychology, Minor: Sociology (2000)**
   - Bowling Green State University
 
-### Specialization
 
-My focus is on understanding how molecular genetics shape behavior and the risk for psychiatric illness. I employ tools based on open-source data science to delve into these complex interactions. 
+## Specialization and Expertise
 
-### Clinical Expertise
+As a clinician, Dr. Trampush's expertise lies in developmental neuropsychology, where he focuses on diagnosing cognitive, learning, and emotional difficulties. His primary goal is to provide diagnostic clarity for children and young adults, helping them gain a deeper understanding of themselves and their potential.
 
-As a clinician and developmental neuropsychologist, I specialize in evaluating cognitive, learning, and emotional difficulties. My goal is to provide diagnostic clarification for children and young adults, guiding them towards a better understanding of themselves and their capabilities.
+## Research Interests
 
-## Research and Interests
+As a researcher, Dr. Trampush operates at the confluence of neuropsychology and genetics, striving to comprehend how molecular genetics influence behavior and the risk for psychiatric illness. His approach is grounded in the utilization of open-source data science tools, allowing him to delve into the complex interactions between genetics and neuropsychology.
 
 - **Molecular Genetics:** Exploring the genetic underpinnings of behavior and mental health.
+
 - **Neuropsychology:** Delving into the cognitive aspects of mental health conditions.
+
 - **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
+
 - **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
 
+
+## Contact Me
+
+My work offers a unique glimpse into the intersection of
+neuropsychology and genetics, providing valuable insights into the complex
+interactions of the human mind. If you would like to learn more about my work
+and our neuropsychology practice, please send an e-mail to:
+
+> [info@brainworkup.org](mailto:joey.trampush@brainworkup.org)
