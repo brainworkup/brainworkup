@@ -28,7 +28,6 @@
 
 
 
-<!-- [![](biggie.jpg){.preview-image fig-align="center" width="100px" fig-alt="Evaluating ADHD across development post."}] -->
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental condition that manifests differently across various stages of life. In this post, we delve into how ADHD impacts individuals from preschool age to older adulthood, emphasizing the importance of tailored approaches in diagnosis and management.</p>
@@ -69,7 +68,7 @@
   <category>neurodevelopment</category>
   <guid>https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/</guid>
   <pubDate>Wed, 13 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/biggie.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/brain.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Welcome</title>
@@ -81,11 +80,9 @@
 
 
 
-<!-- [![](brain.webp){.preview-image fig-align="center" width="100px"
-fig-alt="Welcome post image."}] -->
 <section id="hello" class="level2">
 <h2 class="anchored" data-anchor-id="hello">Hello!</h2>
-<p>Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, especially its onset during college years.</p>
+<p>Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatic disorders.</p>
 <p>In this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.</p>
 </section>
 <section id="content" class="level2">
@@ -111,7 +108,7 @@ Trampush, Joey. 2023. <span>“Welcome.”</span> December 11, 2023. <a href="ht
   <category>brain2</category>
   <guid>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</guid>
   <pubDate>Mon, 11 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/brain.webp" medium="image" type="image/webp"/>
+  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/biggie.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

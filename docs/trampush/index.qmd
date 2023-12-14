@@ -2,7 +2,7 @@
 title: "Joey W. Trampush, Ph.D."
 about:
   template: solana #broadside #jolla
-  image: images/jwt.jpg
+  image: "jwt.jpg"
 sidebar: true
 ---  
 

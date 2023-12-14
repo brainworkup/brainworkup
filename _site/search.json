@@ -206,13 +206,6 @@
     ]
   },
   {
-    "objectID": "docs/research/publications/index.html#book-chapters",
-    "href": "docs/research/publications/index.html#book-chapters",
-    "title": "Publications",
-    "section": "Book Chapters",
-    "text": "Book Chapters"
-  },
-  {
     "objectID": "docs/research/projects/index.html#adhd",
     "href": "docs/research/projects/index.html#adhd",
     "title": "Research Projects",
@@ -225,6 +218,13 @@
     "title": "Research Projects",
     "section": "Neurodevelopment",
     "text": "Neurodevelopment\n\nPubs\npubs"
+  },
+  {
+    "objectID": "docs/research/publications/index.html#book-chapters",
+    "href": "docs/research/publications/index.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters"
   },
   {
     "objectID": "docs/trampush/index.html",

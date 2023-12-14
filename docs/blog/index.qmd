@@ -1,5 +1,5 @@
 ---
-title: Blog Articles
+title: Blog
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
@@ -7,9 +7,10 @@ listing:
   contents: "posts/*/index.qmd"
   sort-ui: false
   filter-ui: false
-  categories: true
+  categories: numbered #cloud
   feed: true
   date-format: medium
+  type: default
 page-layout: full
 margin-header: signup.html
 title-block-banner: true

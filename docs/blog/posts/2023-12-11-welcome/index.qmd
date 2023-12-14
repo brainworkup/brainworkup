@@ -9,7 +9,7 @@ author:
     affiliation-url: https://usc.edu/ 
 date: "2023-12-11"
 categories: [brain2]
-image: "brain.webp"
+image: "biggie.jpg"
 description:  |
   Welcome post.
 image-alt: "Welcome post image."
@@ -17,12 +17,12 @@ citation:
   url: https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/ 
 ---
 
-<!-- [![](brain.webp){.preview-image fig-align="center" width="100px"
-fig-alt="Welcome post image."}] -->
-
 ## Hello!
 
-Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, especially its onset during college years.
+Welcome to my neuropsychology blog, a dedicated space where we explore the
+intricacies of pediatric and developmental neuropsychology, and delve into the
+complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental
+and neuropsychiatic disorders. 
 
 In this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.
 
