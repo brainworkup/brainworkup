@@ -1,5 +1,5 @@
 ---
-title: BWU Articles
+title: BLOG
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
