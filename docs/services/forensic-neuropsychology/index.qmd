@@ -1,8 +1,11 @@
 ---
 title: Forensic Neuropsychologcal Services
+aliases:
+  - forensic-neuropsychology.html
 description: "An overview of the forensic neuropsychological and medicolegal
 services provided by Dr. Trampush @ Brainworkup, LLC, services offered, the process, and legal
 and ethical considerations."
+hide-description: true
 format: html
 logo: forensic.webp
 tags:
@@ -12,7 +15,6 @@ about:
   template: marquee
   image: "forensic.webp"
 sidebar: false
-page-navigation: true
 ---
 
 ## Introduction
@@ -29,11 +31,11 @@ comprehensive and ethical evaluations.
 
 ### Scope
 
-> It goes beyond general neuropsychology by focusing on issues such as competency and criminal responsibility.
+It goes beyond general neuropsychology by focusing on issues such as competency and criminal responsibility.
 
 ### Application
 
-> These evaluations are essential in various legal contexts, aiding in decision-making processes.
+These evaluations are essential in various legal contexts, aiding in decision-making processes.
 
 ## Services Offered
 
@@ -47,11 +49,11 @@ Our services are beneficial to lawyers, courts, and insurance companies, providi
 
 ### Consultation
 
-> Potential clients can start with a consultation to understand their needs.
+Potential clients can start with a consultation to understand their needs.
 
 ### Assessment Process
 
-> Our assessment process is thorough, tailored to each case.
+Our assessment process is thorough, tailored to each case.
 
 ## Legal and Ethical Considerations
 
