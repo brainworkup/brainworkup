@@ -9,6 +9,8 @@ image: biggie.jpg
 image-alt: "Evaluating ADHD across development post"
 categories: [adhd, neurodevelopment]
 draft: false
+resources:
+  - biggie.jpg
 ---
 
 ## Introduction

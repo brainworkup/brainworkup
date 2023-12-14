@@ -29,6 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete-preset-algolia.umd.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-listing/list.min.js"></script>
@@ -49,6 +50,14 @@ ul.task-list li input[type="checkbox"] {
   "panel-placement": "end",
   "type": "overlay",
   "limit": 50,
+  "algolia": {
+    "application-id": "MUSKCL25U0",
+    "search-only-api-key": "88aa5eda961e038670ae6e8aa6e60687",
+    "index-name": "prod_netlify_brainworkup",
+    "analytics-events": true,
+    "show-logo": true,
+    "libDir": "site_libs"
+  },
   "keyboard-shortcut": [
     "f",
     "/",
@@ -69,6 +78,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"></script>
+
+
+<script type="text/javascript">
+var ALGOLIA_INSIGHTS_SRC = "https://cdn.jsdelivr.net/npm/search-insights/dist/search-insights.iife.min.js";
+!function(e,a,t,n,s,i,c){e.AlgoliaAnalyticsObject=s,e[s]=e[s]||function(){
+(e[s].queue=e[s].queue||[]).push(arguments)},i=a.createElement(t),c=a.getElementsByTagName(t)[0],
+i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
+}(window,document,"script",ALGOLIA_INSIGHTS_SRC,"aa");
+</script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-plugin-algolia-insights">
+
+</script>
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
@@ -236,7 +259,117 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="adhd">adhd <span class="quarto-category-count">(1)</span></div><div class="category" data-category="brain2">brain2 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="neurodevelopment">neurodevelopment <span class="quarto-category-count">(1)</span></div></div></div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="brain2" data-listing-date-sort="1702281600000" data-listing-file-modified-sort="1702518413486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="303">
+<div class="thumbnail">
+<p><a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external"></a></p><a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">
+<p><img src="../../docs/blog/posts/2023-12-11-welcome/brain.webp" class="thumbnail-image" alt="Welcome post"></p>
+</a><p><a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">Welcome</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">My Public Autopsy</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('brain2'); return false;">
+brain2
+</div>
+</div>
+<div class="listing-description">
+<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">Welcome post. </a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">
+<div class="listing-date">
+Dec 11, 2023
+</div>
+<div class="listing-author">
+Joey Trampush
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="adhd,neurodevelopment" data-listing-date-sort="1702454400000" data-listing-file-modified-sort="1702518397255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
+<div class="thumbnail">
+<p><a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external"></a></p><a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">
+<p><img src="../../docs/blog/posts/2023-12-13-adhd-post/biggie.jpg" class="thumbnail-image" alt="Evaluating ADHD across development post"></p>
+</a><p><a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">ADHD Across the Lifespan</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">Evaluating ADHD from childhood to adulthood</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('adhd'); return false;">
+adhd
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('neurodevelopment'); return false;">
+neurodevelopment
+</div>
+</div>
+<div class="listing-description">
+<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">First quarto post about ADHD. </a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">
+<div class="listing-date">
+Dec 13, 2023
+</div>
+<div class="listing-author">
+Joey Trampush
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_shell">
     <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
@@ -281,118 +414,6 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
     <script type="text/javascript">( function ( $ ) { window.fnames = new Array(); window.ftypes = new Array(); fnames[ 0 ] = 'EMAIL'; ftypes[ 0 ] = 'email'; fnames[ 1 ] = 'FNAME'; ftypes[ 1 ] = 'text'; fnames[ 2 ] = 'LNAME'; ftypes[ 2 ] = 'text'; fnames[ 3 ] = 'ADDRESS'; ftypes[ 3 ] = 'address'; fnames[ 4 ] = 'PHONE'; ftypes[ 4 ] = 'phone'; fnames[ 5 ] = 'BIRTHDAY'; ftypes[ 5 ] = 'birthday'; }( jQuery ) ); var $mcj = jQuery.noConflict( true );</script>
 </div>
 <!--End mc_embed_signup-->
-
-</div></div>
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="adhd">adhd <span class="quarto-category-count">(1)</span></div><div class="category" data-category="brain2">brain2 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="neurodevelopment">neurodevelopment <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="brain2" data-listing-date-sort="1702281600000" data-listing-file-modified-sort="1702516107634" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="303">
-<div class="thumbnail">
-<p><a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external"></a></p><a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">
-<p><img src="../../docs/blog/posts/2023-12-11-welcome/brain.webp" class="thumbnail-image" alt="Welcome post"></p>
-</a><p><a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">Welcome</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">My Public Autopsy</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('brain2'); return false;">
-brain2
-</div>
-</div>
-<div class="listing-description">
-<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">Welcome post. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../docs/blog/posts/2023-12-11-welcome/index.html" class="no-external">
-<div class="listing-date">
-Dec 11, 2023
-</div>
-<div class="listing-author">
-Joey Trampush
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="adhd,neurodevelopment" data-listing-date-sort="1702454400000" data-listing-file-modified-sort="1702514812903" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
-<div class="thumbnail">
-<p><a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external"></a></p><a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">
-<p><img src="../../docs/blog/posts/2023-12-13-adhd-post/biggie.jpg" class="thumbnail-image" alt="Evaluating ADHD across development post"></p>
-</a><p><a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">ADHD Across the Lifespan</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">Evaluating ADHD from childhood to adulthood</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('adhd'); return false;">
-adhd
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('neurodevelopment'); return false;">
-neurodevelopment
-</div>
-</div>
-<div class="listing-description">
-<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">First quarto post about ADHD. </a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../docs/blog/posts/2023-12-13-adhd-post/index.html" class="no-external">
-<div class="listing-date">
-Dec 13, 2023
-</div>
-<div class="listing-author">
-Joey Trampush
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -802,6 +823,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="../../docs/faq/index.html">
 <p><strong>FAQ</strong></p>
 </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://brainworkup.org/docs/blog/index.xml">
+      <i class="bi bi-rss" role="img" aria-label="BWU Blog RSS">
+</i> 
+    </a>
   </li>  
 </ul>
     <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/edit/main/docs/blog/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>

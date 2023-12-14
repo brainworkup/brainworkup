@@ -8,8 +8,11 @@ freeze: auto
 title-block-banner: true
 title-block-banner-color: body
 page-layout: full
-margin-header: signup.html
 
 sidebar: false
-
 search: false
+
+format:
+  html:
+    include-after-body:
+      - signup.html

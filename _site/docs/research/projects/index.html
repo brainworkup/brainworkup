@@ -29,6 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete-preset-algolia.umd.js"></script>
 <meta name="quarto:offset" content="../../../">
 <link href="../../../favicon.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
@@ -47,6 +48,14 @@ ul.task-list li input[type="checkbox"] {
   "panel-placement": "end",
   "type": "overlay",
   "limit": 50,
+  "algolia": {
+    "application-id": "MUSKCL25U0",
+    "search-only-api-key": "88aa5eda961e038670ae6e8aa6e60687",
+    "index-name": "prod_netlify_brainworkup",
+    "analytics-events": true,
+    "show-logo": true,
+    "libDir": "site_libs"
+  },
   "keyboard-shortcut": [
     "f",
     "/",
@@ -67,6 +76,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"></script>
+
+
+<script type="text/javascript">
+var ALGOLIA_INSIGHTS_SRC = "https://cdn.jsdelivr.net/npm/search-insights/dist/search-insights.iife.min.js";
+!function(e,a,t,n,s,i,c){e.AlgoliaAnalyticsObject=s,e[s]=e[s]||function(){
+(e[s].queue=e[s].queue||[]).push(arguments)},i=a.createElement(t),c=a.getElementsByTagName(t)[0],
+i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
+}(window,document,"script",ALGOLIA_INSIGHTS_SRC,"aa");
+</script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-plugin-algolia-insights">
+
+</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HW85H7H8P6"></script>
 
 <script type="text/javascript">
@@ -705,6 +728,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="../../../docs/faq/index.html">
 <p><strong>FAQ</strong></p>
 </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://brainworkup.org/docs/blog/index.xml">
+      <i class="bi bi-rss" role="img" aria-label="BWU Blog RSS">
+</i> 
+    </a>
   </li>  
 </ul>
     <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/edit/main/docs/research/projects/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
