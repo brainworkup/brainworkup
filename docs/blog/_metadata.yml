@@ -6,3 +6,8 @@ freeze: auto
 
 # Enable banner style title blocks
 title-block-banner: true
+title-block-banner-color: body
+
+sidebar: false
+
+search: true

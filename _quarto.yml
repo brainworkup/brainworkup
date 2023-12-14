@@ -45,6 +45,8 @@ website:
     title: brainworkup
     collapse-below: lg
     left:
+      # - text: "Home"
+      #   href: index.qmd
       - text: "Dr Trampush"
         href: docs/trampush/index.qmd
       - text: "Clinical Services"
