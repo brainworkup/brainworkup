@@ -4,7 +4,7 @@ logo: forensic2.png
 about:
   template: marquee
   image: "forensic2.png"
-sidebar: true
+sidebar: false
 page-navigation: true
 ---
 
