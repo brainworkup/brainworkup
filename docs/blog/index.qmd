@@ -1,5 +1,5 @@
 ---
-title: Articles and Resources
+title: Articles
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
@@ -9,8 +9,5 @@ listing:
   filter-ui: false
   categories: true
   feed: true
-  type: default
-page-layout: full
-margin-header: signup.html
 ---
 

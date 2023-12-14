@@ -7,7 +7,9 @@ freeze: auto
 # Enable banner style title blocks
 title-block-banner: true
 title-block-banner-color: body
+page-layout: full
+margin-header: signup.html
 
 sidebar: false
 
-search: true
+search: false
