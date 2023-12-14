@@ -1,6 +1,6 @@
 ---
-title: Child and Adolescent Services
-subtitle: Neurocognitive Evaluation
+title: Pediatric Neuropsychology
+subtitle: Child and Adolescent Neurocognitive Evaluation
 logo: logo-kids.png
 ---
 
