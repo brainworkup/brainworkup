@@ -8,10 +8,9 @@ date: "2023-12-13"
 image: "biggie.jpg"
 image-alt: "Evaluating ADHD across development post."
 categories: [adhd, neurodevelopment]
-tags: [adhd, neurodevelopment]
 ---
 
-[![](biggie.jpg){.preview-image fig-align="center" width="100px" fig-alt="Evaluating ADHD across development post."}]
+<!-- [![](biggie.jpg){.preview-image fig-align="center" width="100px" fig-alt="Evaluating ADHD across development post."}] -->
 
 ## Introduction
 

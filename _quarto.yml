@@ -101,6 +101,7 @@ website:
     style: floating
     collapse-level: 1
     align: left
+    pinned: true
 
 bibliography: refs.bib
 

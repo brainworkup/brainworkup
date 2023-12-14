@@ -2,3 +2,12 @@
 title: "Research Projects"
 subtitle: "One of the unfortunate things about reality is that it often poses complex problems that demand complex solutions"
 ---
+
+## Memory
+
+## ADHD
+
+## Neurodevelopment
+
+### Pubs
+[pubs](../publications/index.qmd)

@@ -1,9 +1,5 @@
+title-block-banner: true
 title-block-banner-color: body
-
-# comments:
-#   giscus:
-#     repo: brainworkup/brainworkup
-#     category: Blog
 toc-location: left
 format:
   html:

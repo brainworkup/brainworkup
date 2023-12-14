@@ -28,7 +28,7 @@
 
 
 
-<p>[<img src="https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/biggie.jpg" class="preview-image img-fluid quarto-figure quarto-figure-center" alt="Evaluating ADHD across development post." width="100">]</p>
+<!-- [![](biggie.jpg){.preview-image fig-align="center" width="100px" fig-alt="Evaluating ADHD across development post."}] -->
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental condition that manifests differently across various stages of life. In this post, we delve into how ADHD impacts individuals from preschool age to older adulthood, emphasizing the importance of tailored approaches in diagnosis and management.</p>
@@ -81,7 +81,8 @@
 
 
 
-<p>[<img src="https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/brain.webp" class="preview-image img-fluid quarto-figure quarto-figure-center" alt="Welcome post image." width="100">]</p>
+<!-- [![](brain.webp){.preview-image fig-align="center" width="100px"
+fig-alt="Welcome post image."}] -->
 <section id="hello" class="level2">
 <h2 class="anchored" data-anchor-id="hello">Hello!</h2>
 <p>Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, especially its onset during college years.</p>
