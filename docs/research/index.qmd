@@ -12,5 +12,8 @@ image: /images/jwt-fighton-small.jpg
 sidebar: true
 ---
 
-::: {#research-links .column-body-outset style="max-width: 850px;"}
-:::
+<!-- ::: {#research-links .column-body-outset style="max-width: 850px;"}
+::: -->
+
+<!-- <center><a><img src="/images/jwt-fighton-small.jpg" alt="Fight On logo"
+width="300px"/></a></center> -->

@@ -1,6 +1,4 @@
----
-title: "Contact Information"
----
+# General Information
 
 If you have any questions or would like to schedule a consultation, please feel free to reach out. Below are the contact details.
 
@@ -11,16 +9,14 @@ If you have any questions or would like to schedule a consultation, please feel 
 Suite 661  \
 Marina Del Rey, CA 90292  \
 
-## Contact Details
+## E-mail Inquiries
 
 - **Email:** [info](mailto:info@brainworkup.org)
+
+::: {.callout-note}
+Note that `email` is the fastest way to contact the office.
+:::
 
 ## Online Inquiry
 
 For online inquiries, please fill out the form below. We will get back to you as soon as possible.
-
-
-::: {.callout-note}
-Note that there are five types of callouts, including:
-`note`, `warning`, `important`, `tip`, and `caution`.
-:::
