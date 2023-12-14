@@ -1,10 +1,14 @@
 ---
 title: Pediatric Neuropsychology
 subtitle: Child and Adolescent Neurocognitive Evaluation
-logo: logo-kids.png
+about:
+  template: marquee
+  image: "logo-kids.png"
+sidebar: false
+page-navigation: true
 ---
 
-<center><a><img src="logo-kids.png" alt="Pediatric Neuropsychology logo" width="300px"/></a></center>
+<!-- <center><a><img src="logo-kids.png" alt="Pediatric Neuropsychology logo" width="300px"/></a></center> -->
 
 ## Practice Focus
 

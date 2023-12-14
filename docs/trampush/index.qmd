@@ -3,8 +3,8 @@ title: "About"
 about:
   template: solana
   image: "jwt.webp"
-sidebar: true
-page-navigation: false
+sidebar: false
+page-navigation: true
 ---  
 
 **Joey W. Trampush, Ph.D.** is the founder and chief neuropsychologist at
@@ -44,8 +44,3 @@ As a clinician and developmental neuropsychologist, I specialize in evaluating c
 - **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
 - **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
 
-
-
----
-page-navigation: true
----

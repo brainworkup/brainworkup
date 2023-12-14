@@ -1,9 +1,14 @@
 ---
 title: Forensic Neuropsychology
 logo: forensic2.png
+about:
+  template: marquee
+  image: "forensic2.png"
+sidebar: true
+page-navigation: true
 ---
 
-<center><a><img src="forensic2.png" alt="Forensic Neuropsychology logo" width="300px"/></a></center>
+<!-- <center><a><img src="forensic2.png" alt="Forensic Neuropsychology logo" width="300px"/></a></center> -->
 
 ## Introduction
 
