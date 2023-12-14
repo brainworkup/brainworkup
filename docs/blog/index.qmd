@@ -4,7 +4,7 @@ subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
   sort: "date asc"
-  contents: "posts"
+  contents: posts
   sort-ui: true
   filter-ui: false
   categories: true
