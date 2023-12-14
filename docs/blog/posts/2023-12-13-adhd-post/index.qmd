@@ -5,10 +5,9 @@ description:  |
   First quarto post about ADHD.
 author: "Joey Trampush PhD"
 date: "2023-12-13"
-image: "biggie.jpg"
+image: biggie.jpg
 image-alt: "Evaluating ADHD across development post"
-categories: [adhd]
-# date-modified: "2023-12-13"
+categories: [adhd, neurodevelopment]
 draft: false
 ---
 
