@@ -46,8 +46,6 @@ website:
   navbar:
     background: dark
     foreground: light
-    # logo: bwu-logo.png
-    # logo-alt: "BWU logo."
     title: brainworkup
     collapse-below: lg
     left:
@@ -99,19 +97,20 @@ website:
         aria-label: BWU Blog RSS
 
   sidebar:
+    search: true
     title: brainworkup
     # contents: auto
     contents:
       - section: "Dr Trampush"
-        contents: "docs/trampush"
-      - section: "Services"
-        contents: "docs/services"
-      - section: "Contact"
-        contents: "docs/contact"
+        contents: "docs/trampush/**"
+      - section: "Clinical Services"
+        contents: "docs/services/**"
       - section: "FAQ"
-        contents: "docs/faq"
+        contents: "docs/faq/**"
+      - section: "Contact"
+        contents: "docs/contact/**"
       - section: "Research"
-        contents: "docs/research"
+        contents: "docs/research/**"
       - section: "Blog"
         contents: "docs/blog"
     type: dark
@@ -135,6 +134,7 @@ format:
       gutter-width: 1.5rem
     fontsize: 1.2em
     linestretch: 1.4
+    default-image-extension: svg
 
 metadata-files: [brain2.yml]
 

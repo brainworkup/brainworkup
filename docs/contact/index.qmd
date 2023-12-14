@@ -20,3 +20,7 @@ Marina Del Rey, CA 90292  \
 For online inquiries, please fill out the form below. We will get back to you as soon as possible.
 
 
+::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+:::

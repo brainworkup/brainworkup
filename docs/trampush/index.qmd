@@ -1,10 +1,12 @@
 ---
-title: "Joey W. Trampush, Ph.D."
+title: Joey W. Trampush, Ph.D.
 about:
   template: solana
   image: "jwt.jpg"
 sidebar: true
 ---  
+
+## About
 
 **Dr. Trampush** is the founder and chief neuropsychologist at
 [Brainworkup, LLC](https://brainworkup.org). He is an Assistant

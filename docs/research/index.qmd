@@ -12,5 +12,5 @@ image: /images/jwt-fighton-small.jpg
 sidebar: true
 ---
 
-::: {#research-links .column-screen-inset-right style="max-width: 850px;"}
+::: {#research-links .column-body-outset style="max-width: 850px;"}
 :::
