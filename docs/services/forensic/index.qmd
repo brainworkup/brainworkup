@@ -1,5 +1,5 @@
 ---
-title: Forensic Neuropsychological Services
+title: Forensic Neuropsychology
 logo: forensic2.png
 ---
 
