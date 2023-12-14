@@ -1,9 +1,9 @@
 ---
-title: Brainworkup Blog
+title: Blog Articles
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
-  sort: "date asc"
+  sort: "date desc"
   contents: "posts/*/index.qmd"
   sort-ui: false
   filter-ui: false

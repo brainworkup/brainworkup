@@ -8,7 +8,7 @@ _notes_on_website_design.md
 
 # /_site/
 .Rproj.user
-posts/
+# posts/
 package-lock.json
 package.json
 yarn.lock
