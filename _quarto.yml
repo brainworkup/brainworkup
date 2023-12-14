@@ -102,17 +102,22 @@ website:
     title: brainworkup
     # contents: auto
     contents:
-      - section: "Clinical Services"
-        contents: "docs/services/**/index.qmd"
+      - section: "Dr Trampush"
+        contents: "docs/trampush"
+      - section: "Services"
+        contents: "docs/services"
       - section: "Contact"
         contents: "docs/contact"
-      - section: "General Information"
+      - section: "FAQ"
         contents: "docs/faq"
+      - section: "Research"
+        contents: "docs/research"
+      - section: "Blog"
+        contents: "docs/blog"
     type: dark
     style: floating
-    collapse-level: 2
+    collapse-level: 1
     align: left
-    pinned: true
 
 bibliography: refs.bib
 
@@ -126,8 +131,8 @@ format:
     grid:
       sidebar-width: 250px
       body-width: 900px
-      margin-width: 300px
-      # gutter-width: 1.5rem
+      margin-width: 250px
+      gutter-width: 1.5rem
     fontsize: 1.2em
     linestretch: 1.4
 
