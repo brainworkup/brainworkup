@@ -1,0 +1,39 @@
+---
+title: "Joey W. Trampush, Ph.D."
+subtitle: "Curriculum Vitae"
+format: html
+logo: "logo.webp"
+date: today
+---
+
+## Contact Information  
+Assistant Professor of Psychiatry  
+Department of Psychiatry and the Behavioral Sciences  
+Keck School of Medicine of USC  
+University of Southern California  
+2250 Alcazar Street, Suite 2200  
+Los Angeles, CA 90033
+
+## Education
+- **Ph.D., Psychology: Clinical Neuropsychology**, Graduate Center of the City University of New York, 2003-2010
+  - Thesis: Moderator effects of working memory on symptom stability in ADHD by dopamine D1 and D2 receptor polymorphisms during development
+- **M.Phil., Psychology: Clinical Neuropsychology**, Graduate Center of the City University of New York, 2003-2008
+- **M.A., Psychology: Clinical Neuropsychology**, Queens College of the City University of New York, 2003-2007
+- **B.A., Psychology, Minor: Sociology**, Bowling Green State University, 1998-2000
+
+## Postdoctoral Training
+- **Postdoctoral Fellow**, National Institute of Mental Health of the National Institutes of Health, Bethesda, 2010-2012
+  - Clinical Brain Disorders Branch and Genes, Cognition and Psychosis Program
+
+## Faculty Academic Appointments
+- **Della Martin Endowed Assistant Professorship in Psychiatry**, Della Martin Foundation, Department of Psychiatry and the Behavioral Sciences, Keck School of Medicine of USC, 2019-
+- **Assistant Professor of Clinical Psychiatry and Behavioral Sciences**, Department of Psychiatry and the Behavioral Sciences, Keck School of Medicine of USC, 2018-
+
+[... Additional content truncated for brevity ...]
+
+## Professional Affiliations
+- American Psychological Association (APA), Division 40 (Clinical Neuropsychology)
+- American Psychological Society (APS)
+- International Neuropsychological Society (INS)
+- ADHD Molecular Genetics Network
+- Society of Biological Psychiatry (SOBP)

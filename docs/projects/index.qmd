@@ -1,7 +1,9 @@
 ---
 title: "Research Projects"
-subtitle: "One of the unfortunate things about reality is that it often poses complex problems that demand complex solutions"
+format: html
 ---
+
+> One of the unfortunate things about reality is that it often poses complex problems that demand complex solutions. - Cite 
 
 ## Memory
 
@@ -10,4 +12,7 @@ subtitle: "One of the unfortunate things about reality is that it often poses co
 ## Neurodevelopment
 
 ### Pubs
-[pubs](../publications/index.qmd)
+
+List of publications can be found [here]
+
+- [pubs](../publications/index.qmd)

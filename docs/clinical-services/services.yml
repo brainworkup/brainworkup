@@ -13,7 +13,7 @@
 - title: ADHD Evaluations
   subtitle: "ADHD examination across development and adulthood"
   links:
-    - text: ADHD Evaluations
+    - text: ADHD
       href: ../adhd-evaluation/adhd.qmd
     - text: MCAT
       href: ../adhd-evaluation/mcat.qmd

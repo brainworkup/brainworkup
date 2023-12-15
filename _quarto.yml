@@ -64,12 +64,12 @@ website:
         href: docs/trampush/index.qmd
       - text: "Neuropsychological Services"
         href: docs/clinical-services/index.qmd
+      - text: "Research"
+        href: docs/research/index.qmd
       - text: "FAQ"
         href: docs/faq/index.qmd
       - text: "Contact Us"
         href: docs/contact/index.qmd
-      - text: "Research"
-        href: docs/research/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
       - icon: file-pdf
@@ -106,6 +106,8 @@ website:
       align: left
       contents:
         - docs/trampush/index.qmd
+        - docs/trampush/cv.qmd
+
     - id: clinical-services
       collapse-level: 1
       contents:
@@ -132,10 +134,10 @@ website:
           contents:
             - section: "Projects"
               contents:
-                - docs/research/projects/index.qmd
+                - docs/projects/index.qmd
             - section: "Publications"
               contents:
-                - docs/research/publications/index.qmd
+                - docs/publications/index.qmd
 
     - id: faq
       title: "FAQ"
