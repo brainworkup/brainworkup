@@ -30,7 +30,7 @@ website:
     algolia:
       index-name: dev_BWU
       application-id: MUSKCL25U0
-      search-only-api-key: 88aa5eda961e038670ae6e8aa6e60687
+      search-only-api-key: "88aa5eda961e038670ae6e8aa6e60687"
       analytics-events: true
       show-logo: false
   page-footer:
@@ -160,6 +160,7 @@ format:
     theme:
       light: [cosmo, css/theme.scss]
     css: css/styles.css
+    include-in-header: algolia.html
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap
