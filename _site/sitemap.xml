@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brainworkup.org/docs/adhd-evaluation/index.html</loc>
-    <lastmod>2023-12-14T22:20:56.480Z</lastmod>
+    <loc>https://brainworkup.org/docs/adhd-evaluation/adhd.html</loc>
+    <lastmod>2023-12-15T00:23:45.721Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/adhd-evaluation/mcat.html</loc>
+    <lastmod>2023-12-15T00:33:19.811Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/docs/pediatric-neuropsychology/index.html</loc>
@@ -51,6 +55,10 @@
   <url>
     <loc>https://brainworkup.org/docs/clinical-services/index.html</loc>
     <lastmod>2023-12-14T23:52:02.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/adhd-evaluation/index.html</loc>
+    <lastmod>2023-12-14T22:20:56.480Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/index.html</loc>

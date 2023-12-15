@@ -106,9 +106,8 @@ website:
       align: left
       contents:
         - docs/trampush/index.qmd
-
     - id: clinical-services
-      collapse-level: 2
+      collapse-level: 1
       contents:
         - section: "Clinical Services"
           href: docs/clinical-services/index.qmd
@@ -121,7 +120,8 @@ website:
                 - docs/forensic-neuropsychology/index.qmd
             - section: "ADHD"
               contents:
-                - docs/adhd-evaluation/index.qmd
+                - docs/adhd-evaluation/adhd.qmd
+                - docs/adhd-evaluation/mcat.qmd
 
     - id: research
       title: "Research"
