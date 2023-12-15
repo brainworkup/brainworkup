@@ -1,6 +1,6 @@
 /* https://github.com/fastai/nbdev/blob/master/nbs/styles.css */
 
-.cell {
+/* .cell {
   margin-bottom: 1rem;
 }
 
@@ -38,12 +38,12 @@ div.description {
   font-style: italic;
   font-size: 135%;
   opacity: 70%;
-}
+} */
 
 /* show_doc signature */
-blockquote > pre {
+/* blockquote > pre {
   font-size: 14px;
-}
+} */
 
 .table {
   font-size: 16px;
@@ -51,14 +51,14 @@ blockquote > pre {
   --bs-table-striped-bg: var(--bs-table-bg);
 }
 
-.quarto-figure-center > figure > figcaption {
+/* .quarto-figure-center > figure > figcaption {
   text-align: center;
 }
 
 .figure-caption {
   font-size: 75%;
   font-style: italic;
-}
+} */
 
 /* --------------------------------- */
 /* Quarto quarto-web styles.css file */
