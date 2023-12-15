@@ -1,0 +1,17 @@
+- title: Pediatric Neuropsychology
+  subtitle: Child and adolescent neurocognitive assessment
+  links:
+    - text: Pediatric Evaluation
+      href: ../pediatric-neuropsychology/index.qmd
+
+- title: Forensic Neuropsychology
+  subtitle: "Neurocognitive examination for forensic and medicolegal cases"
+  links:
+    - text: "Medicolegal Consultation"
+      href: ../forensic-neuropsychology/index.qmd
+
+- title: ADHD Evaluations
+  subtitle: "ADHD examination across development and adulthood"
+  links:
+    - text: "ADHD"
+      href: ../adhd-evaluation/index.qmd

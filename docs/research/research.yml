@@ -1,11 +1,11 @@
 - title: Projects and Grants
-  subtitle: Create content with markdown
+  subtitle: Onging and completed research projects
   links:
     - text: "Grants"
-      href: projects/index.qmd
+      href: ../projects/index.qmd
 
 - title: Publications
-  subtitle: Execute code and display its output
+  subtitle: Peer-reviewed publications
   links:
-    - text: "Pubs"
-      href: publications/index.qmd
+    - text: "Publications"
+      href: ../publications/index.qmd

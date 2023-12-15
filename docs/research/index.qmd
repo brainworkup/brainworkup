@@ -9,11 +9,7 @@ listing:
   template: ../../ejs/links.ejs
   contents: research.yml
 image: /images/jwt-fighton-small.jpg
-sidebar: true
 ---
 
-<!-- ::: {#research-links .column-body-outset style="max-width: 850px;"}
-::: -->
-
-<!-- <center><a><img src="/images/jwt-fighton-small.jpg" alt="Fight On logo"
-width="300px"/></a></center> -->
+::: {#research-links .column-screen-inset-right style="max-width: 850px;"}
+:::

@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brainworkup.org/docs/services/adhd-evaluation/index.html</loc>
+    <loc>https://brainworkup.org/docs/adhd-evaluation/index.html</loc>
     <lastmod>2023-12-14T22:20:56.480Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/docs/services/forensic-neuropsychology/index.html</loc>
-    <lastmod>2023-12-14T22:22:41.897Z</lastmod>
+    <loc>https://brainworkup.org/docs/pediatric-neuropsychology/index.html</loc>
+    <lastmod>2023-12-14T22:26:41.706Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/index.html</loc>
     <lastmod>2023-12-14T03:34:43.216Z</lastmod>
   </url>
   <url>
+    <loc>https://brainworkup.org/docs/projects/index.html</loc>
+    <lastmod>2023-12-14T02:25:44.448Z</lastmod>
+  </url>
+  <url>
     <loc>https://brainworkup.org/docs/faq/index.html</loc>
     <lastmod>2023-12-13T21:51:07.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/trampush/index.html</loc>
+    <lastmod>2023-12-14T22:25:26.519Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/docs/research/index.html</loc>
+    <lastmod>2023-12-14T23:22:46.470Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/docs/contact/index.html</loc>
     <lastmod>2023-12-14T06:40:36.136Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/docs/research/projects/index.html</loc>
-    <lastmod>2023-12-14T02:25:44.448Z</lastmod>
+    <loc>https://brainworkup.org/docs/forensic-neuropsychology/index.html</loc>
+    <lastmod>2023-12-14T23:29:25.932Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/docs/research/publications/index.html</loc>
+    <loc>https://brainworkup.org/docs/publications/index.html</loc>
     <lastmod>2023-12-13T19:57:36.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/research/index.html</loc>
-    <lastmod>2023-12-14T06:38:21.731Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/docs/trampush/index.html</loc>
-    <lastmod>2023-12-14T21:18:42.634Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/index.html</loc>
@@ -45,8 +49,8 @@
     <lastmod>2023-12-14T04:27:19.989Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/docs/services/pediatric-neuropsychology/index.html</loc>
-    <lastmod>2023-12-14T22:21:07.931Z</lastmod>
+    <loc>https://brainworkup.org/docs/clinical-services/index.html</loc>
+    <lastmod>2023-12-14T23:52:02.437Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/index.html</loc>

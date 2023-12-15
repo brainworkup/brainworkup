@@ -12,10 +12,9 @@ about:
   template: marquee
   image: "logo-kids.webp"
 sidebar: false
-page-navigation: true
 ---
 
-# Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 
+## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 
 
 Welcome to our practice. Below we describe the comprehensive pediatric neuropsychological services that our clinic offers. With a specialization in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad variety of neurodevelopmental evaluations, we cater to a wide range of needs. We will walk you through our child-centered, evidence-based approach that focuses on detailed assessments and personalized care, and our commitment to working in collaboration with families and educators to support each child's unique developmental journey. 
 

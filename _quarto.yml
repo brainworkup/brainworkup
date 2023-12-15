@@ -37,39 +37,39 @@ website:
     left: |
       **&copy; 2023 joey trampush, phd @ brainworkup, llc**
     center:
-      - text: "**FAQ**"
+      - text: "About"
+        href: docs/trampush/index.qmd
+      - text: "FAQ"
         href: docs/faq/index.qmd
-    right:
-      - text: "**Contact**"
+      - text: "Contact"
         href: docs/contact/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/brainworkup/brainworkup
+        aria-label: Brainworkup Github
+      - icon: twitter
+        href: https://twitter.com/brainworkup
+        aria-label: Brainworkup Twitter
+      - icon: instagram
+        href: https://instagram.com/brainworkup
+        aria-label: Brainworkup Instagram
 
   navbar:
     background: dark
     foreground: light
-    title: brainworkup
+    title: "brainworkup"
     collapse-below: lg
     left:
       - text: "Dr Trampush"
         href: docs/trampush/index.qmd
-      - text: "Clinical Services"
-        menu:
-          - text: "Pediatric Neuropsychology"
-            href: docs/services/pediatric-neuropsychology/index.qmd
-          - text: "Forensic Neuropsychology"
-            href: docs/services/forensic-neuropsychology/index.qmd
-          - text: "ADHD Evaluation"
-            href: docs/services/adhd-evaluation/index.qmd
-      # - text: "Research"
-      #   href: docs/research/index.qmd
-      #   menu:
-      #     - text: "Projects"
-      #       href: docs/research/projects/index.qmd
-      #     - text: "Publications"
-      #       href: docs/research/publications/index.qmd
+      - text: "Neuropsychological Services"
+        href: docs/clinical-services/index.qmd
       - text: "FAQ"
         href: docs/faq/index.qmd
       - text: "Contact Us"
         href: docs/contact/index.qmd
+      - text: "Research"
+        href: docs/research/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
       - icon: file-pdf
@@ -80,6 +80,8 @@ website:
       - icon: envelope
         text: info@brainworkup.org
         href: mailto:info@brainworkup.org
+
+    tools:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
         aria-label: brainworkup Github
@@ -97,46 +99,79 @@ website:
         aria-label: BWU Blog RSS
 
   sidebar:
-    search: true
-    title: brainworkup
-    # contents: auto
-    contents:
-      - section: "Dr Trampush"
-        contents: "docs/trampush"
-      - section: "Clinical Services"
-        contents: "docs/services/**"
-      - section: "FAQ"
-        contents: "docs/faq"
-      - section: "Contact Us"
-        contents: "docs/contact"
-      - section: "Research"
-        contents: "docs/research/**"
-      - section: "Blog"
-        contents: "docs/blog"
-    type: dark
-    style: floating
-    collapse-level: 1
-    align: left
+    - id: trampush
+      title: "About"
+      style: "floating"
+      collapse-level: 1
+      align: left
+      contents:
+        - docs/trampush/index.qmd
+
+    - id: clinical-services
+      collapse-level: 2
+      contents:
+        - section: "Clinical Services"
+          href: docs/clinical-services/index.qmd
+          contents:
+            - section: "Pediatrics"
+              contents:
+                - docs/pediatric-neuropsychology/index.qmd
+            - section: "Forensic/Medicolegal"
+              contents:
+                - docs/forensic-neuropsychology/index.qmd
+            - section: "ADHD"
+              contents:
+                - docs/adhd-evaluation/index.qmd
+
+    - id: research
+      title: "Research"
+      collapse-level: 2
+      contents:
+        - section: "Research"
+          href: docs/research/index.qmd
+          contents:
+            - section: "Projects"
+              contents:
+                - docs/research/projects/index.qmd
+            - section: "Publications"
+              contents:
+                - docs/research/publications/index.qmd
+
+    - id: faq
+      title: "FAQ"
+      collapse-level: 1
+      contents:
+        - section: "FAQ"
+          href: docs/faq/index.qmd
+
+    - id: contact
+      title: "Contact Us"
+      collapse-level: 1
+      contents:
+        - section: "Contact Us"
+          href: docs/contact/index.qmd
 
 bibliography: refs.bib
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
     toc: true
     toc-depth: 4
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
     smooth-scroll: true
     grid:
-      sidebar-width: 300px
+      sidebar-width: 250px
       body-width: 900px
       margin-width: 300px
       gutter-width: 1.5rem
     fontsize: 1.2em
     linestretch: 1.14
-    default-image-extension: svg
 
 metadata-files: [brain2.yml]
 
-execute:
-  freeze: auto
+freeze: true
+
+editor: source
