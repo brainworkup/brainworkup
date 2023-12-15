@@ -160,7 +160,6 @@ format:
     theme:
       light: [cosmo, css/theme.scss]
     css: css/styles.css
-    include-in-header: custom-layout.html
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap

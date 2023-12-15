@@ -11,9 +11,6 @@ hide-description: false
 sidebar: false
 ---
 
-<div id="search"></div>
-
-
 Our clinical neuropsychology practice is committed to providing thorough,
 evidence-informed neuropsychological assessments for children and adolescents.
 Our expertise covers a broad spectrum, from ADHD to learning disabilities,
