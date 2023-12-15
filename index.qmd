@@ -3,7 +3,7 @@ title: "BrainWorkup, LLC"
 about:
   template: trestles
   image: images/card.webp
-css: index.css
+css: css/index.css
 description: | 
   Clinical Neuropsychology Practice \
   Joey Trampush, PhD

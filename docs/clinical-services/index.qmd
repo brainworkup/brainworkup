@@ -6,7 +6,7 @@ format: html
 #   - services.html
 subtitle: "Pediatric, forensic, young adult/college student, and older adult
 clinical neuropsychological services."
-page-layout: article #full
+page-layout: article
 toc: false
 anchor-sections: false
 editor: source

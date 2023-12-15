@@ -157,10 +157,9 @@ bibliography: refs.bib
 format:
   html:
     toc: true
-    toc-depth: 4
     theme:
-      light: [cosmo, theme.scss]
-    css: styles.css
+      light: [cosmo, css/theme.scss]
+    css: css/styles.css
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap
@@ -174,9 +173,6 @@ format:
     linestretch: 1.14
 
 metadata-files: [brain2.yml]
-
-filters:
-  - filters/tools-tabset.lua
 
 freeze: true
 
