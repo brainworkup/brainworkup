@@ -1,9 +1,9 @@
 ---
 title: Neurocognitive Examination
 format: html
-aliases:
-  - /docs/services/
-  - services.html
+# aliases:
+#   - /docs/services/
+#   - services.html
 subtitle: "Pediatric, forensic, young adult/college student, and older adult
 clinical neuropsychological services."
 page-layout: article #full
