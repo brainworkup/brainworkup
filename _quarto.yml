@@ -38,7 +38,7 @@ website:
       **&copy; 2023 joey trampush, phd @ brainworkup, llc**
     center:
       - text: "About"
-        href: docs/trampush/joey-trampush.qmd
+        href: docs/about/joey-trampush.qmd
       - text: "FAQ"
         href: docs/faq/index.qmd
       - text: "Contact"
@@ -61,7 +61,7 @@ website:
     collapse-below: lg
     left:
       - text: "Dr Trampush"
-        href: docs/trampush/joey-trampush.qmd
+        href: docs/about/joey-trampush.qmd
       - text: "Neuropsychological Services"
         href: docs/clinical-services/index.qmd
       - text: "Research"
@@ -105,7 +105,7 @@ website:
       collapse-level: 1
       align: left
       contents:
-        - docs/trampush/joey-trampush.qmd
+        - docs/about/joey-trampush.qmd
 
     - id: clinical-services
       collapse-level: 1
