@@ -2,13 +2,14 @@
 title: "BrainWorkup, LLC"
 about:
   template: trestles
-  image: images/card.webp
+  image: images/card2.webp
 css: css/index.css
 description: | 
   Clinical Neuropsychology Practice \
   Joey Trampush, PhD
 hide-description: false
 sidebar: false
+lightbox: true
 ---
 
 Our clinical neuropsychology practice is committed to providing thorough,
