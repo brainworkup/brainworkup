@@ -1,5 +1,16 @@
 ---
 title: Contact Us
+description: "Contact information for Joey Trampush, PhD @ BrainWorkup, LLC."
+hide-description: true
+tags:
+  - brainworkup contact
+  - brain
+  - workup
+  - Joey Trampush
+# about:
+#   template: marquee
+#   image: "forensic.webp"
+sidebar: false
 format: 
   html:
     include-in-header: 
