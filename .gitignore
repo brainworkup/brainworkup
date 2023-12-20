@@ -21,7 +21,7 @@ node_modules/
 local/
 img/
 data/
-
+/local/**
 docs/faq/insurance.md
 docs/pediatric-neuropsychology/nvld.qmd
 docs/pediatric-neuropsychology/adolescent.qmd
