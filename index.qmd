@@ -14,14 +14,16 @@ lightbox: true
 
 Our clinical neuropsychology practice is committed to providing thorough,
 evidence-informed neuropsychological assessments for children, adolescents, and adults.
-Our expertise covers a broad spectrum, from ADHD to learning disabilities,
-ensuring your and/or your child receives the best care possible.
+Our expertise covers a broad spectrum, from ADHD to learning disabilities to
+medicolegal cases,
+ensuring you and/or your child receive the best care possible.
 
 ## Services Tailored for Developing Minds
 
-- **In-depth Neuropsychological Evaluations:** Dive deep into understanding your child's cognitive landscape.
+- **Comprehensive Neuropsychological Evaluations:** Dive deep into understanding
+your or your child's cognitive landscape.
 
-- **Targeted Consultation and Advice:** Customized support for families and educators, fostering optimal growth.
+- **Targeted Consultation and Advice:** Customized support for individuals and families, fostering optimal growth.
 
 - **Continued Care and Guidance:** We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
 

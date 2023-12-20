@@ -1,4 +1,80 @@
-# General Information
+---
+title: Contact Us
+format: 
+  html:
+    include-in-header: 
+    - file: submit_form.md
+    toc: true
+
+form:
+  id: ContactFormID
+  submit: "Submit"
+  action: "javascript:submit()"
+  fields:
+  - name: Text1
+    type: text
+    id: textid1
+    label: "First Name"
+    required: true
+  - name: Text2
+    type: text
+    id: textid2
+    label: "Last Name"
+  # - text: "This is a form spacer"
+  # - text: ---
+  # - name: Radio
+  #   type: radio
+  #   label: "My Radio Button"
+  #   id: radio1
+  #   values:
+  #   - text: Good
+  #     value: 1
+  #   - text: Bad
+  #     value: 0
+  # - name: Checkbox
+  #   type: checkbox
+  #   id: checkbox1
+  #   label: "My Checkbox"
+  #   values:
+  #   - text: "High"
+  #     value: "hi"
+  #   - text: "Low"
+  #     value: "lo"
+  #   - text: "Mid"
+  #     value: "mid"
+  # - name: Selector
+  #   type: select
+  #   id: selector1
+  #   label: My Selector
+  #   multiple: true #multiple selections?
+  #   size: 3 #number to size
+  #   values:
+  #   - text: Option 1
+  #     value: 1
+  #   - text: Option 2
+  #     value: 2
+  #   - text: Option 3
+  #     value: 3
+  #   - text: Option 4
+  #     value: 4
+  - name: MyEmail
+    id: email1
+    type: email
+    label: "Enter your email address"
+  - text: ---
+  - name: BigText
+    id: textarea1
+    type: textarea
+    label: In your own words, please describe your reason for contacting us.
+    width: 30 #in rows
+    height: 30 #in cols
+  # - name: FileUpload
+  #   id: file1
+  #   type: file
+  #   label: Upload a file
+---
+
+## General Information
 
 If you have any questions or would like to schedule a consultation, please feel free to reach out. Below are the contact details.
 
@@ -11,12 +87,14 @@ Marina Del Rey, CA 90292  \
 
 ## E-mail Inquiries
 
-- **Email:** [info](mailto:info@brainworkup.org)
+- **Email:** [info@brainworkup.org](mailto:info@brainworkup.org)
 
 ::: {.callout-note}
-Note that `email` is the fastest way to contact the office.
+`email` is the fastest way to contact the office
 :::
 
 ## Online Inquiry
 
 For online inquiries, please fill out the form below. We will get back to you as soon as possible.
+
+{{< form >}}

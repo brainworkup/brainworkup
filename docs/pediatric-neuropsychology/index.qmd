@@ -14,9 +14,28 @@ about:
 sidebar: false
 ---
 
+Across these age groups, our evaluation can be used to determine the existence
+and/or severity of major neurodevelopmental disorders.
+
+- Learning problems (e.g., dyslexia)
+- ADHD
+- Autism Spectrum Disorders
+- Mood disorders such as depression
+- Anxiety
+- OCD and pefectionism
+- Traumatic brain injury (TBI) and concussion
+- Social-emotional problems
+- Neurological changes
+
 ## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 
 
-Welcome to our practice. Below we describe the comprehensive pediatric neuropsychological services that our clinic offers. With a specialization in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad variety of neurodevelopmental evaluations, we cater to a wide range of needs. We will walk you through our child-centered, evidence-based approach that focuses on detailed assessments and personalized care, and our commitment to working in collaboration with families and educators to support each child's unique developmental journey. 
+Below we describe the comprehensive pediatric neuropsychological services that
+our clinic offers. With a specialization in ADHD in general and in girls in particular, autism, dyslexia, OCD
+and perfectionism, and a broad variety of other common (and rare) neurodevelopmental
+evaluations, we cater to a wide range of needs. We will walk you through our
+child-centered, evidence-based approach that focuses on detailed assessments and
+personalized care, and our commitment to working in collaboration with families
+and educators to support each child's unique developmental journey. 
 
 ## Spotlight on ADHD in Girls 
 
@@ -46,7 +65,7 @@ We are committed to staying up-to-date with the latest research and advancements
 
 ## Get in Touch 
 
-To know more about our pediatric neuropsychological services or to schedule an appointment, please feel free to contact us. We eagerly look forward to partnering with you and your child on their developmental journey. Stay tuned to our blog for more insights into pediatric neuropsychology and expert guidance for your child's cognitive, academic, and social-emotional growth.
+To know more about our pediatric neuropsychological services or to schedule an appointment, please feel free to contact us. We look forward to partnering with you and your child on their developmental journey. Stay tuned to our blog for more insights into pediatric neuropsychology and expert guidance for your child's cognitive, academic, and social-emotional growth.
 
 
 

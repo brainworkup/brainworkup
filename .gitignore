@@ -23,3 +23,7 @@ img/
 data/
 
 /.luarc.json
+docs/faq/insurance.md
+docs/pediatric-neuropsychology/adolescent.qmd
+docs/pediatric-neuropsychology/preschool.qmd
+docs/pediatric-neuropsychology/school-age.qmd
