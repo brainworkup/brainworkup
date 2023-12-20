@@ -19,7 +19,6 @@ form:
   submit: "Submit"
   action: "javascript:submit()"
   # action: "/action_page.php"
-  # action: "http://localhost:8000/contact"
   method: "post"
   fields:
   - name: Text1
@@ -40,37 +39,35 @@ form:
     id: textarea1
     type: textarea
     label: "In your own words, please describe your reason for contacting us."
-    width: 30 #in rows
-    height: 30 #in cols
+    width: 40 #in rows
+    height: 5 #in cols
 ---
 
 ## General Information
 
-If you have any questions or would like to schedule a consultation, please feel
-free to reach out. Below are the contact details. 
+If you have questions or want to schedule a consultation at **Brainworkup Neuropsychology, LLC**, feel free to reach out. We're here to assist you.
 
-Call or email us today for more information.
+**Phone:** (213) 495-1155\
+**Email:** [info@brainworkup.org](mailto:info@brainworkup.org)
+
+::: {.callout-note}
+Email is the fastest way to contact us.
+:::
 
 ## Office Location
 
-**Brainworkup Neuropsychology Clinic**\
-4136 Del Rey Avenue\
-Suite 661\
+**Brainworkup Neuropsychology, LLC**\
+4136 Del Rey Avenue, Suite 661,\
 Marina Del Rey, CA 90292\
-Phone: (213) 495-1155
+**Phone:** (213) 495-1155
 
-## E-mail Inquiries
-
-- **Email:** [info@brainworkup.org](mailto:info@brainworkup.org)
-
-::: {.callout-note}
-`email` is the fastest way to contact the office
-:::
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.507752037753!2d-118.44124318478369!3d33.98028588062893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2ba3713c9d4c7%3A0x7e2b1a2e5f23d79c!2s4136%20Del%20Rey%20Ave%2C%20Marina%20Del%20Rey%2C%20CA%2090292%2C%20USA!5e0!3m2!1sen!2s!4v1662032749326!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Online Inquiry
 
-For online inquiries, please fill out the form below. We will get back to you as soon as possible.
+For additional questions or to schedule a consultation online, please use our convenient inquiry form:
+
+[Online Inquiry Form](https://forms.gle/UNx9qUcihytE63qt5)
+
 
 <!-- {{< form >}} -->
-
-(https://forms.gle/UNx9qUcihytE63qt5)
