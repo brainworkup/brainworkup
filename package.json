@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    // "@quarto/netlify-plugin-quarto": "^0.0.5",
     "@algolia/netlify-plugin-crawler": "^1.0.0"
   }
 }
