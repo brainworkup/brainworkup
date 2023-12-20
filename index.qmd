@@ -36,6 +36,7 @@ Please contact us with any questions or to obtain neuropsychological services.
 
 Learn about our recent articles and posts: [Blog](docs/blog/index.qmd)
 
-Connect with us on Mastodon: [\@brainworkup\@fosstodon.org](https://fosstodon.org/@brainworkup) 
+Connect with us on Fosstodon:
+[\@brainworkup\@fosstodon.org](https://fosstodon.org/@brainworkup).
 
-<a rel="me" href="https://fosstodon.org/@brainworkup">Mastodon</a>
+<!-- <a rel="me" href="https://fosstodon.org/@brainworkup">Mastodon</a> -->
