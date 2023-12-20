@@ -11,7 +11,7 @@ format:
 about:
   template: marquee
   image: "logo-kids.webp"
-sidebar: false
+sidebar: true
 ---
 
 Across these age groups, our evaluation can be used to determine the existence

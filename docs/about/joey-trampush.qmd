@@ -25,7 +25,7 @@ sidebar: false
 page-navigation: true
 ---  
 
-**Joey Trampush, PhD** is the founder and chief neuropsychologist at
+Joey is the founder and chief neuropsychologist at
 [BrainWorkup, LLC](https://brainworkup.org). Dr. Trampush is an Assistant
 Professor
 of [Psychiatry and the Behavioral Sciences](https://keck.usc.edu/psychiatry/) at the Keck School of Medicine of

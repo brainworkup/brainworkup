@@ -8,8 +8,8 @@ project:
 
 website:
   title: 'Joey Trampush, PhD @ Brainworkup Neuropsychology, LLC'
-  image: 'bwu-logo.png'
-  favicon: 'favicon.png'
+  image: bwu-logo.png
+  favicon: logo.ico
   open-graph: true
   twitter-card:
     creator: '@brainworkup'
@@ -65,8 +65,8 @@ website:
         href: docs/about/joey-trampush.qmd
       - text: 'Neuropsychological Services'
         href: docs/clinical-services/index.qmd
-      - text: 'Research'
-        href: docs/research/index.qmd
+      # - text: 'Research'
+      #   href: docs/research/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
       - text: 'Contact'
@@ -85,19 +85,19 @@ website:
     tools:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
-        aria-label: brainworkup Github
+        aria-label: Brainworkup Github
       - icon: twitter
         href: https://twitter.com/brainworkup
-        aria-label: brainworkup Twitter
+        aria-label: Brainworkup Twitter
       - icon: instagram
         href: https://instagram.com/brainworkup
-        aria-label: brainworkup Instagram
+        aria-label: Brainworkup Instagram
       - icon: linkedin
-        aria-label: brainworkkup LinkedIn
+        aria-label: Brainworkkup LinkedIn
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
       - icon: rss
         href: https://brainworkup.org/docs/blog/index.xml
-        aria-label: BWU Blog RSS
+        aria-label: Brainworkup Blog RSS
 
   sidebar:
     - id: trampush
@@ -127,19 +127,19 @@ website:
                 - docs/adhd-evaluation/adhd.qmd
                 - docs/adhd-evaluation/mcat.qmd
 
-    - id: research
-      title: 'Research'
-      collapse-level: 2
-      contents:
-        - section: 'Research'
-          href: docs/research/index.qmd
-          contents:
-            - section: 'Projects'
-              contents:
-                - docs/projects/index.qmd
-            - section: 'Publications'
-              contents:
-                - docs/publications/index.qmd
+    # - id: research
+    #   title: 'Research'
+    #   collapse-level: 2
+    #   contents:
+    #     - section: 'Research'
+    #       href: docs/research/index.qmd
+    #       contents:
+    #         - section: 'Projects'
+    #           contents:
+    #             - docs/projects/index.qmd
+    #         - section: 'Publications'
+    #           contents:
+    #             - docs/publications/index.qmd
 
     - id: faq
       title: 'FAQ'
