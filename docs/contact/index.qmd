@@ -71,5 +71,6 @@ Phone: (213) 495-1155
 
 For online inquiries, please fill out the form below. We will get back to you as soon as possible.
 
-{{< form >}}
+<!-- {{< form >}} -->
 
+(https://forms.gle/UNx9qUcihytE63qt5)

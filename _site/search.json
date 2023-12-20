@@ -310,7 +310,7 @@
     "href": "docs/contact/index.html#office-location",
     "title": "Contact Us",
     "section": "Office Location",
-    "text": "Office Location\nBrainworkup Neuropsychology Clinic\n4136 Del Rey Avenue\nSuite 661\nMarina Del Rey, CA 90292",
+    "text": "Office Location\nBrainworkup Neuropsychology Clinic\n4136 Del Rey Avenue\nSuite 661\nMarina Del Rey, CA 90292\nPhone: (213) 495-1155",
     "crumbs": [
       "Contact",
       "Contact Us"
@@ -332,7 +332,7 @@
     "href": "docs/contact/index.html#online-inquiry",
     "title": "Contact Us",
     "section": "Online Inquiry",
-    "text": "Online Inquiry\nFor online inquiries, please fill out the form below. We will get back to you as soon as possible.\n\n \n\nFirst Name\n  \n\n\nLast Name\n  \n\n\nEnter your email address\n\n\n\n\nIn your own words, please describe your reason for contacting us.",
+    "text": "Online Inquiry\nFor online inquiries, please fill out the form below. We will get back to you as soon as possible.\n\n(https://forms.gle/UNx9qUcihytE63qt5)",
     "crumbs": [
       "Contact",
       "Contact Us"
@@ -819,7 +819,7 @@
     "href": "index.html#contact-to-connect",
     "title": "BrainWorkup, LLC",
     "section": "Contact to Connect",
-    "text": "Contact to Connect\nPlease contact us with any questions or to obtain neuropsychological services. Reach out to us to start a conversation or contact us for more information by completing this form Online Inquiry."
+    "text": "Contact to Connect\nPlease contact us with any questions or to obtain neuropsychological services. Reach out to us to start a conversation!"
   },
   {
     "objectID": "index.html#learn-more",
