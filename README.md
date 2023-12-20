@@ -24,4 +24,5 @@ Static repository for brainworkup.org, brainworkup.io, brainworkup.com, joeytram
 [![Netlify Status](https://api.netlify.com/api/v1/badges/104efd43-d6ca-45be-b3cc-806c026e306c/deploy-status)](https://app.netlify.com/sites/brainworkup/deploys)
 
 
-![bwu favicon](logo.svg)
+![bwu favicon](logo.svg){width=70%, height=70%}
+
