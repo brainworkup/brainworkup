@@ -1,7 +1,4 @@
 [[plugins]]
-package = "@quarto/netlify-plugin-quarto"
-
-[[plugins]]
 package = "@algolia/netlify-plugin-crawler"
   [plugins.inputs]
   branches = ['main']
