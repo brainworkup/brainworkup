@@ -1,5 +1,5 @@
 project:
-  title: "brainworkup"
+  title: 'brainworkup'
   type: website
   output-dir: _site
   preview:
@@ -7,21 +7,22 @@ project:
     browser: true
 
 website:
-  title: "Joey Trampush, PhD @ Brainworkup Neuropsychology, LLC"
-  image: "bwu-logo.png"
-  favicon: "favicon.png"
+  title: 'Joey Trampush, PhD @ Brainworkup Neuropsychology, LLC'
+  image: 'bwu-logo.png'
+  favicon: 'favicon.png'
   open-graph: true
   twitter-card:
-    creator: "@brainworkup"
-    site: "@brainworkup"
-    card-style: "summary_large_image"
-  site-url: https://brainworkup.org
+    creator: '@brainworkup'
+    site: '@brainworkup'
+    card-style: 'summary_large_image'
+  site-url: 'https://brainworkup.org'
+  site-path: '/'
   repo-url: https://github.com/brainworkup/brainworkup
   issue-url: https://github.com/brainworkup/brainworkup/issues
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
-  google-analytics: "G-HW85H7H8P6"
+  google-analytics: 'G-HW85H7H8P6'
   back-to-top-navigation: true
   reader-mode: false
   search:
@@ -29,19 +30,19 @@ website:
     type: overlay
     algolia:
       index-name: dev_BWU
-      application-id: "MUSKCL25U0"
-      search-only-api-key: "88aa5eda961e038670ae6e8aa6e60687"
+      application-id: 'MUSKCL25U0'
+      search-only-api-key: '88aa5eda961e038670ae6e8aa6e60687'
       analytics-events: true
       show-logo: false
   page-footer:
     left: |
       &copy; 2023 joey trampush @ brainworkup
     center:
-      - text: "About"
+      - text: 'About'
         href: docs/about/joey-trampush.qmd
-      - text: "FAQ"
+      - text: 'FAQ'
         href: docs/faq/index.qmd
-      - text: "Contact"
+      - text: 'Contact'
         href: docs/contact/index.qmd
     right:
       - icon: github
@@ -57,20 +58,20 @@ website:
   navbar:
     background: dark
     foreground: light
-    title: "brainworkup"
+    title: 'brainworkup'
     collapse-below: lg
     left:
-      - text: "Dr Trampush"
+      - text: 'Dr Trampush'
         href: docs/about/joey-trampush.qmd
-      - text: "Neuropsychological Services"
+      - text: 'Neuropsychological Services'
         href: docs/clinical-services/index.qmd
-      - text: "Research"
+      - text: 'Research'
         href: docs/research/index.qmd
-      - text: "FAQ"
+      - text: 'FAQ'
         href: docs/faq/index.qmd
-      - text: "Contact"
+      - text: 'Contact'
         href: docs/contact/index.qmd
-      - text: "Blog"
+      - text: 'Blog'
         href: docs/blog/index.qmd
       - icon: file-pdf
         text: CV
@@ -100,8 +101,8 @@ website:
 
   sidebar:
     - id: trampush
-      title: "About"
-      style: "floating"
+      title: 'About'
+      style: 'floating'
       collapse-level: 1
       align: left
       contents:
@@ -110,46 +111,46 @@ website:
     - id: clinical-services
       collapse-level: 1
       contents:
-        - section: "Clinical Services"
+        - section: 'Clinical Services'
           href: docs/clinical-services/index.qmd
           contents:
-            - section: "Pediatric Neuropsychology"
+            - section: 'Pediatric Neuropsychology'
               contents:
                 - docs/pediatric-neuropsychology/index.qmd
-            - section: "Forensic/Medicolegal"
+            - section: 'Forensic/Medicolegal'
               contents:
                 - docs/forensic-neuropsychology/index.qmd
-            - section: "ADHD"
+            - section: 'ADHD'
               contents:
                 - docs/adhd-evaluation/adhd.qmd
                 - docs/adhd-evaluation/mcat.qmd
 
     - id: research
-      title: "Research"
+      title: 'Research'
       collapse-level: 2
       contents:
-        - section: "Research"
+        - section: 'Research'
           href: docs/research/index.qmd
           contents:
-            - section: "Projects"
+            - section: 'Projects'
               contents:
                 - docs/projects/index.qmd
-            - section: "Publications"
+            - section: 'Publications'
               contents:
                 - docs/publications/index.qmd
 
     - id: faq
-      title: "FAQ"
+      title: 'FAQ'
       collapse-level: 1
       contents:
-        - section: "FAQ"
+        - section: 'FAQ'
           href: docs/faq/index.qmd
 
     - id: contact
-      title: "Contact Us"
+      title: 'Contact Us'
       collapse-level: 1
       contents:
-        - section: "Contact Us"
+        - section: 'Contact Us'
           href: docs/contact/index.qmd
 
 bibliography: refs.bib
