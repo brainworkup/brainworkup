@@ -2,7 +2,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $firstName = $_POST['Text1'];
     $lastName = $_POST['Text2'];
-    $email = $_POST['userEmail'];
+    $email = $_POST['UserEmail'];
     $message = $_POST['BigText'];
 
     // Save to file (append mode)

@@ -1,15 +1,12 @@
 ---
 title: Contact Us
-description: "Contact information for Joey Trampush, PhD @ BrainWorkup, LLC."
+description: "Contact information for Joey Trampush, PhD @ BrainWorkup Neuropsychology, LLC."
 hide-description: true
 tags:
   - brainworkup contact
   - brain
   - workup
   - Joey Trampush
-# about:
-#   template: marquee
-#   image: "forensic.webp"
 sidebar: false
 format: 
   html:
@@ -20,7 +17,10 @@ format:
 form:
   id: ContactFormID
   submit: "Submit"
-  action: "javascript:submit()"  
+  action: "javascript:submit()"
+  # action: "/action_page.php"
+  # action: "http://localhost:8000/contact"
+  method: "post"
   fields:
   - name: Text1
     type: text
@@ -31,7 +31,7 @@ form:
     type: text
     id: textid2
     label: "Last Name"
-  - name: UserEmail
+  - name: userEmail
     id: email1
     type: email
     label: "Enter your email address"
@@ -39,21 +39,24 @@ form:
   - name: BigText
     id: textarea1
     type: textarea
-    label: In your own words, please describe your reason for contacting us.
+    label: "In your own words, please describe your reason for contacting us."
     width: 30 #in rows
     height: 30 #in cols
 ---
 
 ## General Information
 
-If you have any questions or would like to schedule a consultation, please feel free to reach out. Below are the contact details.
+If you have any questions or would like to schedule a consultation, please feel
+free to reach out. Below are the contact details. 
+
+Call or email us today for more information.
 
 ## Office Location
 
-**Brainworkup Neuropsychology Clinic**  \
-4136 Del Rey Avenue  \
-Suite 661  \
-Marina Del Rey, CA 90292  \
+**Brainworkup Neuropsychology Clinic**\
+4136 Del Rey Avenue\
+Suite 661\
+Marina Del Rey, CA 90292
 
 ## E-mail Inquiries
 
@@ -68,3 +71,4 @@ Marina Del Rey, CA 90292  \
 For online inquiries, please fill out the form below. We will get back to you as soon as possible.
 
 {{< form >}}
+
