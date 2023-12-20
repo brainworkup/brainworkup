@@ -24,11 +24,9 @@ tags:
   - workup
 ---
 
-Our clinical neuropsychology practice is committed to providing thorough,
-evidence-informed neuropsychological assessments for children, adolescents, and adults.
-Our expertise covers a broad spectrum, from ADHD to learning disabilities to
-medicolegal cases,
-ensuring you and/or your child receive the best care possible.
+**Navigating Growth and Change with Confidence**
+
+BrainWorkup Neuropsychology is your trusted partner in understanding and supporting the unique journeys of children, adolescents, and adults. We provide comprehensive neuropsychological assessments and tailored interventions, empowering individuals and families to thrive. Our neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children, adolescents, and adults. Our expertise covers a broad spectrum, from ADHD to learning disabilities to medicolegal cases, ensuring you and/or your child receive the best care possible.
 
 ## Services Tailored for Developing Minds
 
@@ -39,16 +37,39 @@ your or your child's cognitive landscape.
 
 - **Continued Care and Guidance:** We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
 
-## Contact to Connect
+<!-- ## Contact to Connect
 
 Please contact us with any questions or to obtain neuropsychological services.
-[Reach out](docs/contact/index.qmd) to start a conversation!
+[Reach out](docs/contact/index.qmd) to start a conversation! -->
 
-## Learn More
+<!-- ## Learn More
 
 Learn about our recent articles and posts: [Blog](docs/blog/index.qmd)
 
 Connect with us on Fosstodon:
-[\@brainworkup\@fosstodon.org](https://fosstodon.org/@brainworkup).
+[\@brainworkup\@fosstodon.org](https://fosstodon.org/@brainworkup). -->
 
 <!-- <a rel="me" href="https://fosstodon.org/@brainworkup">Mastodon</a> -->
+
+**Meet Dr. Joey Trampush**
+
+[Dr. Joey Trampush](docs/about/joey-trampush.qmd), a compassionate and experienced clinical neuropsychologist, is dedicated to providing the highest quality care. Learn more about his expertise and approach.
+
+**Recent Insights from Our Blog**
+
+- **Unlocking Learning Potential: Strategies for ADHD**
+- **The Neuropsychology of Resilience: Building Strength in Challenging Times**
+- **Understanding Brain Development: A Guide for Parents**
+
+**Join the Conversation**
+
+Stay connected with the latest insights and resources:
+
+- [Subscribe to Our Blog](docs/blog/index.qmd)
+- [Follow Us on Fosstodon](https://fosstodon.org/@brainworkup)
+
+**Ready to Take the Next Step?**
+
+Connect with us today to explore how we can help you or your loved one reach their full potential.
+
+[Schedule a Consultation](docs/contact/index.qmd)

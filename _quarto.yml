@@ -117,6 +117,8 @@ website:
             - section: 'Pediatric Neuropsychology'
               contents:
                 - docs/pediatric-neuropsychology/index.qmd
+                - docs/pediatric-neuropsychology/preschool.qmd
+                - docs/pediatric-neuropsychology/school-age.qmd
             - section: 'Forensic/Medicolegal'
               contents:
                 - docs/forensic-neuropsychology/index.qmd

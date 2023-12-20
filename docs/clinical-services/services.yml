@@ -3,15 +3,19 @@
   links:
     - text: Pediatric Neuropsychological Services
       href: ../pediatric-neuropsychology/index.qmd
+    - text: Preschoolers
+      href: ../pediatric-neuropsychology/preschool.qmd
+    - text: School-Age Children
+      href: ../pediatric-neuropsychology/school-age.qmd
 
 - title: Forensic Neuropsychology
-  subtitle: "Neurocognitive examination for forensic and medicolegal cases"
+  subtitle: 'Neurocognitive examination for forensic and medicolegal cases'
   links:
     - text: Forensic Neuropsychology
       href: ../forensic-neuropsychology/index.qmd
 
 - title: ADHD Evaluations
-  subtitle: "ADHD examination across development and adulthood"
+  subtitle: 'ADHD examination across development and adulthood'
   links:
     - text: ADHD
       href: ../adhd-evaluation/adhd.qmd
