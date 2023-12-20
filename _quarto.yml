@@ -17,8 +17,8 @@ website:
     card-style: 'summary_large_image'
   site-url: 'https://brainworkup.org'
   site-path: '/'
-  repo-url: https://github.com/brainworkup/brainworkup
-  issue-url: https://github.com/brainworkup/brainworkup/issues
+  repo-url: 'https://github.com/brainworkup/brainworkup'
+  issue-url: 'https://github.com/brainworkup/brainworkup/issues'
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
