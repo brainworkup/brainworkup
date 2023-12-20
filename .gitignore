@@ -9,12 +9,12 @@ _notes_on_website_design.md
 # /_site/
 .Rproj.user
 # posts/
-package-lock.json
-package.json
+# package-lock.json
+# package.json
 yarn.lock
 .dbxignore
 static/
-netlify.toml
+# netlify.toml
 node_modules/
 /images/adult-services.png/
 /Users/joey/brainworkup/images/jwt_fighton.jpg
@@ -22,11 +22,9 @@ local/
 img/
 data/
 
-# /.luarc.json
 docs/faq/insurance.md
 docs/pediatric-neuropsychology/nvld.qmd
 docs/pediatric-neuropsychology/adolescent.qmd
 docs/pediatric-neuropsychology/preschool.qmd
 docs/pediatric-neuropsychology/school-age.qmd
 
-/.luarc.json

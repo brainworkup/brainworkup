@@ -246,10 +246,7 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
 </section>
 <section id="contact-me" class="level2">
 <h2 data-anchor-id="contact-me">Contact Me</h2>
-<p>My work offers a unique glimpse into the intersection of neuropsychology and genetics, providing valuable insights into the complex interactions of the human mind. If you would like to learn more about my work and our neuropsychology practice, please send an e-mail to:</p>
-<blockquote class="blockquote">
-<p><a href="mailto:joey.trampush@brainworkup.org">info@brainworkup.org</a></p>
-</blockquote>
+<p>My work offers a unique glimpse into the intersection of neuropsychology and genetics, providing valuable insights into the complex interactions of the human mind. If you would like to learn more about my work and our neuropsychology practice, please send an e-mail to <a href="mailto:joey.trampush@brainworkup.org">info@brainworkup.org</a>.</p>
 
 
 </section>
@@ -344,6 +341,26 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/brainworkup\.org\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,

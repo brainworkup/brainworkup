@@ -192,7 +192,7 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#what-is-forensic-neuropsychology" id="toc-what-is-forensic-neuropsychology" class="nav-link" data-scroll-target="#what-is-forensic-neuropsychology">What is Forensic Neuropsychology?</a>
-  <ul class="collapse">
+  <ul>
   <li><a href="#definition" id="toc-definition" class="nav-link" data-scroll-target="#definition">Definition</a></li>
   <li><a href="#scope" id="toc-scope" class="nav-link" data-scroll-target="#scope">Scope</a></li>
   <li><a href="#application" id="toc-application" class="nav-link" data-scroll-target="#application">Application</a></li>
@@ -200,7 +200,7 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
   <li><a href="#services-offered" id="toc-services-offered" class="nav-link" data-scroll-target="#services-offered">Services Offered</a></li>
   <li><a href="#who-can-benefit" id="toc-who-can-benefit" class="nav-link" data-scroll-target="#who-can-benefit">Who Can Benefit?</a></li>
   <li><a href="#the-process" id="toc-the-process" class="nav-link" data-scroll-target="#the-process">The Process</a>
-  <ul class="collapse">
+  <ul>
   <li><a href="#consultation" id="toc-consultation" class="nav-link" data-scroll-target="#consultation">Consultation</a></li>
   <li><a href="#assessment-process" id="toc-assessment-process" class="nav-link" data-scroll-target="#assessment-process">Assessment Process</a></li>
   </ul></li>
@@ -361,6 +361,26 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/brainworkup\.org\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,

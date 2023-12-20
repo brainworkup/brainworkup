@@ -11,6 +11,11 @@ adults. He conducts research in molecular genetics,
 neuropsychology, neurodevelopment, and data science, aimed at enhancing our
 comprehension of psychiatric conditions and developmental trajectories."
 hide-description: true
+tags:
+  - neuropsychology
+  - Joey Trampush
+  - brainworkup
+  - brain workup
 format: html
 logo: "jwt.webp"
 about:
@@ -64,6 +69,4 @@ As a researcher, Dr. Trampush operates at the confluence of neuropsychology and 
 My work offers a unique glimpse into the intersection of
 neuropsychology and genetics, providing valuable insights into the complex
 interactions of the human mind. If you would like to learn more about my work
-and our neuropsychology practice, please send an e-mail to:
-
-> [info@brainworkup.org](mailto:joey.trampush@brainworkup.org)
+and our neuropsychology practice, please send an e-mail to [info@brainworkup.org](mailto:joey.trampush@brainworkup.org).

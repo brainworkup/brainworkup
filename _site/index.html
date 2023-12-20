@@ -197,7 +197,7 @@ Joey Trampush, PhD">
   <ul>
   <li><a href="#services-tailored-for-developing-minds" id="toc-services-tailored-for-developing-minds" class="nav-link active" data-scroll-target="#services-tailored-for-developing-minds">Services Tailored for Developing Minds</a></li>
   <li><a href="#contact-to-connect" id="toc-contact-to-connect" class="nav-link" data-scroll-target="#contact-to-connect">Contact to Connect</a></li>
-  <li><a href="#learn-more" id="toc-learn-more" class="nav-link" data-scroll-target="#learn-more">Learn More:</a></li>
+  <li><a href="#learn-more" id="toc-learn-more" class="nav-link" data-scroll-target="#learn-more">Learn More</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -236,9 +236,9 @@ Joey Trampush, PhD">
 <p>Please contact us with any questions or to obtain neuropsychological services. <a href="./docs/contact/index.html">Reach out to us</a> to start a conversation!</p>
 </section>
 <section id="learn-more" class="level2">
-<h2 data-anchor-id="learn-more">Learn More:</h2>
+<h2 data-anchor-id="learn-more">Learn More</h2>
 <p>Learn about our recent articles and posts: <a href="./docs/blog/index.html">Blog</a></p>
-<p>Please connect with us on Mastodon <a href="https://mastodon.org/@brainworkup">@brainworkup@mastodon.org</a></p>
+<p>Connect with us on Mastodon: <a href="https://mastodon.org/@brainworkup">@brainworkup@mastodon.org</a></p>
 
 
 </section>
@@ -329,6 +329,26 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/brainworkup\.org\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,

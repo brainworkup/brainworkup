@@ -157,6 +157,7 @@ bibliography: refs.bib
 format:
   html:
     toc: true
+    toc-depth: 4
     theme:
       light: [cosmo, css/theme.scss]
     css: css/styles.css
@@ -171,6 +172,9 @@ format:
       gutter-width: 1.5rem
     fontsize: 1.2em
     linestretch: 1.14
+    highlight-style: dracula
+    link-external-icon: true
+    link-external-newwindow: true
 
 metadata-files: [brain2.yml]
 

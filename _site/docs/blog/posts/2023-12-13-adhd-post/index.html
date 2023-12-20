@@ -233,7 +233,7 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#preschoolers" id="toc-preschoolers" class="nav-link" data-scroll-target="#preschoolers">Preschoolers</a>
-  <ul class="collapse">
+  <ul>
   <li><a href="#parents-of-preschoolers" id="toc-parents-of-preschoolers" class="nav-link" data-scroll-target="#parents-of-preschoolers">Parents of Preschoolers</a></li>
   </ul></li>
   <li><a href="#school-age-children" id="toc-school-age-children" class="nav-link" data-scroll-target="#school-age-children">School-Age Children</a></li>
@@ -312,7 +312,7 @@ if (!kPlatformMac) {
             false;
             clear: left;
             font: 14px Helvetica, Arial, sans-serif;
-            width: 300px;
+            width: 150px;
         }
 
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
@@ -426,6 +426,26 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/brainworkup\.org\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,

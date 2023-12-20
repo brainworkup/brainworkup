@@ -254,7 +254,7 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
   <li><a href="#memory" id="toc-memory" class="nav-link active" data-scroll-target="#memory">Memory</a></li>
   <li><a href="#adhd" id="toc-adhd" class="nav-link" data-scroll-target="#adhd">ADHD</a></li>
   <li><a href="#neurodevelopment" id="toc-neurodevelopment" class="nav-link" data-scroll-target="#neurodevelopment">Neurodevelopment</a>
-  <ul class="collapse">
+  <ul>
   <li><a href="#pubs" id="toc-pubs" class="nav-link" data-scroll-target="#pubs">Pubs</a></li>
   </ul></li>
   </ul>
@@ -396,6 +396,26 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/brainworkup\.org\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,

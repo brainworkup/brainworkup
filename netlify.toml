@@ -1,0 +1,19 @@
+[[plugins]]
+package = "@quarto/netlify-plugin-quarto"
+
+[[plugins]]
+package = "@algolia/netlify-plugin-crawler"
+  [plugins.inputs]
+  branches = ['main']
+
+[[redirects]]
+from = "https://joeytrampush.com/"
+to = "https://brainworkup.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/contact"
+to = "https://brainworkup.org/contact"
+status = 301
+force = true
