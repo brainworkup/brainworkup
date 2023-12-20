@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Frequently Asked Questions
 
 ## Our Objective

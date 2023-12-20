@@ -20,7 +20,7 @@ format:
 form:
   id: ContactFormID
   submit: "Submit"
-  action: "/action_page.php"
+  action: "javascript:submit()"  
   fields:
   - name: Text1
     type: text
