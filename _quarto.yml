@@ -22,7 +22,7 @@ website:
   page-navigation: true
   bread-crumbs: true
   google-analytics: "G-HW85H7H8P6"
-  back-to-top-navigation: true
+  back-to-top-navigation: false #true
   reader-mode: false
   search:
     show-item-context: true
@@ -35,7 +35,7 @@ website:
       show-logo: false
   page-footer:
     left: |
-      **&copy; 2023 joey trampush, phd @ brainworkup, llc**
+      &copy; 2023 joey trampush @ brainworkup
     center:
       - text: "About"
         href: docs/about/joey-trampush.qmd
@@ -68,7 +68,7 @@ website:
         href: docs/research/index.qmd
       - text: "FAQ"
         href: docs/faq/index.qmd
-      - text: "Contact Us"
+      - text: "Contact"
         href: docs/contact/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
