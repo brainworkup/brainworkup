@@ -17,7 +17,9 @@
 - title: ADHD Evaluations
   subtitle: 'ADHD examination across development and adulthood'
   links:
+    - text: ADHD in Young Adults
+      href: ../adhd-evaluation/index.qmd
     - text: ADHD
-      href: ../adhd-evaluation/adhd.qmd
+      href: ../adhd-evaluation/adhd-adults.qmd
     - text: MCAT
       href: ../adhd-evaluation/mcat.qmd

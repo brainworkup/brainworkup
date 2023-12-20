@@ -111,7 +111,7 @@ website:
     - id: clinical-services
       collapse-level: 1
       contents:
-        - section: 'Clinical Services'
+        - section: 'Neuropsychological Services'
           href: docs/clinical-services/index.qmd
           contents:
             - section: 'Pediatric Neuropsychology'
@@ -119,10 +119,10 @@ website:
                 - docs/pediatric-neuropsychology/index.qmd
                 - docs/pediatric-neuropsychology/preschool.qmd
                 - docs/pediatric-neuropsychology/school-age.qmd
-            - section: 'Forensic/Medicolegal'
+            - section: 'Forensic Neuropsychology'
               contents:
                 - docs/forensic-neuropsychology/index.qmd
-            - section: 'ADHD'
+            - section: 'ADHD Evaluations'
               contents:
                 - docs/adhd-evaluation/adhd.qmd
                 - docs/adhd-evaluation/mcat.qmd

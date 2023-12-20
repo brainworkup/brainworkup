@@ -1,7 +1,7 @@
 ---
-title: Child and Adolescent Evaluations
-aliases: 
-  - /docs/services/
+title: Pediatric Neuropsychological Services
+# aliases: 
+#   - /docs/services/
 description: "Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental evaluations. Our child-centered, evidence-based approach focuses on detailed assessments and personalized care, collaborating with families and educators to support each child's unique developmental journey. Stay informed about the latest in pediatric neuropsychology and find expert guidance for your child's cognitive, academic, and social-emotional growth."
 hide-description: true
 logo: logo-kids.webp
@@ -11,7 +11,7 @@ format:
 about:
   template: marquee
   image: "logo-kids.webp"
-sidebar: true
+sidebar: false
 ---
 
 Across these age groups, our evaluation can be used to determine the existence

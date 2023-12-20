@@ -1,5 +1,5 @@
 ---
-title: ADHD Evaluations
+title: Adult-Onset ADHD Evaluation
 aliases: 
   - adhd-evaluations.html
   - adult-neuropsychology.html
@@ -10,7 +10,6 @@ format: html
 logo: "adult-services.webp"
 tags:
   - ADHD
-  - childhood ADHD
   - adult-onset ADHD
   - college students
   - psychoeducational testing
