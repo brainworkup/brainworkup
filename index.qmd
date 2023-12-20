@@ -30,10 +30,12 @@ your or your child's cognitive landscape.
 ## Contact to Connect
 
 Please contact us with any questions or to obtain neuropsychological services.
-[Reach out to us](docs/contact/index.qmd) to start a conversation!
+[Reach out](docs/contact/index.qmd) to start a conversation!
 
 ## Learn More
 
 Learn about our recent articles and posts: [Blog](docs/blog/index.qmd)
 
-Connect with us on Mastodon: [\@brainworkup\@mastodon.org](https://mastodon.org/@brainworkup) 
+Connect with us on Mastodon: [\@brainworkup\@fosstodon.org](https://fosstodon.org/@brainworkup) 
+
+<a rel="me" href="https://fosstodon.org/@brainworkup">Mastodon</a>
