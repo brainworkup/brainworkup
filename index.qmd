@@ -1,13 +1,14 @@
 ---
 title: "BrainWorkup Neuropsychology, LLC"
+subtitle: | 
+  Clinical Neuropsychology Practice \
+  **Joey Trampush, PhD**
 about:
   template: trestles
   image: images/card2.webp
 css: css/index.css
-description: | 
-  Clinical Neuropsychology Practice \
-  Joey Trampush, PhD
-hide-description: false
+description: "Clinical Neuropsychology Practice in Los Angeles, California founded by Joey Trampush, PhD."
+hide-description: true
 sidebar: false
 lightbox: true
 tags:
@@ -16,9 +17,11 @@ tags:
   - neuropsychological assessment
   - ADHD
   - learning disorders
-  - Dr. Joey Trampush
+  - Joey Trampush
   - brainworkup
-  - brain workup
+  - brain
+  - work-up
+  - workup
 ---
 
 Our clinical neuropsychology practice is committed to providing thorough,
