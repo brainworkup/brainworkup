@@ -1,5 +1,5 @@
 ---
-title: "BrainWorkup, LLC"
+title: "BrainWorkup Neuropsychology, LLC"
 about:
   template: trestles
   image: images/card2.webp
@@ -10,6 +10,15 @@ description: |
 hide-description: false
 sidebar: false
 lightbox: true
+tags:
+  - neuropsychology
+  - forensic neuropsychology
+  - neuropsychological assessment
+  - ADHD
+  - learning disorders
+  - Dr. Joey Trampush
+  - brainworkup
+  - brain workup
 ---
 
 Our clinical neuropsychology practice is committed to providing thorough,
