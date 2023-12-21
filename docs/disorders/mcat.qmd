@@ -1,10 +1,11 @@
 ---
-title: "MCAT Accommodations"
+title: "Academic Accommodations"
 subtitle: "Academic Accommodations for Students with Disabilities"
 description: "MCAT Accommodations: Academic Accommodations for Students with Disabilities"
 hide-description: true
 format: html
 ---
+TODO:
 
 Many children, teenagers, and adults struggle with a range of mental and
 physical disabilities including ADHD, learning disabilities such as Dyslexia,
@@ -21,6 +22,18 @@ The Medical College Admission Test (MCAT) is essential for medical school applic
 It evaluates problem-solving, critical thinking, and science knowledge.
 For students with disabilities, the Americans with Disabilities Act (ADA)
 ensures the right to reasonable academic accommodations.
+
+Accommodations can be provided for the following standardized tests:
+
+- ACT
+- SAT
+- GMAT
+- GRE
+- LSAT
+- MCAT
+- PCAT
+- State of California Bar Exam
+- Any other standardized test or professional licensing exam
 
 <!-- The Medical College Admission Test (MCAT) is essential for medical school
 applicants in the U.S. and Canada. It evaluates problem-solving, critical

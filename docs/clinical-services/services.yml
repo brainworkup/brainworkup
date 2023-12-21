@@ -19,7 +19,7 @@
       href: ../forensic-neuropsychology/mental-health-diversion.qmd
 
 - title: Adult Neuropsychology
-  subtitle: 'Neuropsychology of emerging adulthood including late-/adult-onset ADHD'
+  subtitle: 'Neuropsychology of emerging adulthood including late-onset ADHD'
   links:
     - text: Overview
       href: ../adult-neuropsychology/index.qmd
@@ -28,7 +28,7 @@
     - text: Late-Onset ADHD
       href: ../adult-neuropsychology/adult-onset-adhd.qmd
 
-- title: Neurobehavioral and Neurocognitive Disorders
+- title: Specific Disorders
   subtitle: Areas of expertise include ADHD, dyslexia and learning disorders, autism and Asperger's, OCD and perfectionism, and executive dysfunction
   links:
     - text: Overview

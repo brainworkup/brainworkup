@@ -1,5 +1,6 @@
 ---
-title: ADHD Evaluations
+title: Attention-Deficit/Hyperactivity Disorder (ADHD)
+subtitle: Evaluating ADHD
 description: "An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC."
 hide-description: true
 format: html
@@ -20,7 +21,13 @@ sidebar: false
 page-navigation: true
 ---
 
-*ADHD* is a lifelong disorder characterized by symptoms of inattention (not being able to keep focus), hyperactivity (excess movement that is not fitting to the setting) and impulsivity (hasty acts that occur in the moment without thought). Many ADHD symptoms, such as high activity levels, difficulty remaining still for long periods of time, and limited attention span are common from time to time in everyone. The difference in individuals with ADHD is that their inattention, poor impulse control, and hyperactivity are substantially greater than expected for their age and cause distress and/or problems functioning at home, at school, at work, and/or with friends.
+**ADHD** is a lifelong disorder characterized by symptoms of inattention (not being able to keep focus), hyperactivity (excess movement that is not fitting to the setting) and impulsivity (hasty acts that occur in the moment without thought). Many ADHD symptoms, such as high activity levels, difficulty remaining still for long periods of time, and limited attention span are common from time to time in everyone. The difference in individuals with ADHD is that their inattention, poor impulse control, and hyperactivity are substantially greater than expected for their age and cause distress and/or problems functioning at home, at school, at work, and/or with friends.
+
+## Spotlight on ADHD in Girls 
+
+A niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients. 
+
+In our clinic, we adopt a comprehensive assessment approach that includes behavioral observations, standardized testing, and close collaboration with schools and families. The goal is to achieve a holistic understanding of each girl's strengths and challenges, and to support them in unlocking their full potential.
 
 ## ADHD in Children and Adolescents
 

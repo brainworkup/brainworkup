@@ -129,7 +129,7 @@ website:
                 - docs/adult-neuropsychology/index.qmd
                 - docs/adult-neuropsychology/emerging-adulthood.qmd
                 - docs/adult-neuropsychology/adult-onset-adhd.qmd
-            - section: 'Neurobehavioral and Neurocognitive Disorders'
+            - section: 'Specific Disorders'
               contents:
                 - docs/disorders/index.qmd
                 - docs/disorders/adhd.qmd
