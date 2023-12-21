@@ -57,9 +57,9 @@ Connect with us on Fosstodon:
 
 <!-- <a rel="me" href="https://fosstodon.org/@brainworkup">Mastodon</a> -->
 
-## Meet Dr. Trampush
+<!-- ## Meet Dr. Trampush
 
-[Joey Trampush, PhD](docs/about/joey-trampush.qmd) is a compassionate and experienced clinical neuropsychologist dedicated to providing the highest quality care. Learn more about his expertise and approach.
+[Joey Trampush, PhD](docs/about/joey-trampush.qmd) is a compassionate and experienced clinical neuropsychologist dedicated to providing the highest quality care. Learn more about his expertise and approach. -->
 
 <!-- **Recent Insights from Our Blog**
 

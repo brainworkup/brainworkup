@@ -1,7 +1,7 @@
 - title: Pediatric Neuropsychology
   subtitle: Child and adolescent neurocognitive assessment
   links:
-    - text: Pediatric Services Overview
+    - text: Overview
       href: ../pediatric-neuropsychology/index.qmd
     - text: Preschoolers
       href: ../pediatric-neuropsychology/preschool.qmd
@@ -9,26 +9,30 @@
       href: ../pediatric-neuropsychology/school-age.qmd
 
 - title: Forensic Neuropsychology
-  subtitle: 'Neurocognitive examination for forensic and medicolegal cases'
+  subtitle: Neurocognitive examination for forensic and medicolegal cases
   links:
-    - text: Forensic Services Overview
+    - text: Overview
       href: ../forensic-neuropsychology/index.qmd
-    - text: Independent Medical Examination
+    - text: Independent Medical Examinations
       href: ../forensic-neuropsychology/ime.qmd
     - text: Mental Health Diversion
       href: ../forensic-neuropsychology/mental-health-diversion.qmd
 
 - title: Adult Neuropsychology
-  subtitle: 'Neuropsychology of emerging adulthood'
+  subtitle: 'Neuropsychology of emerging adulthood including late-/adult-onset ADHD'
   links:
-    - text: Emerging Adulthood
+    - text: Overview
       href: ../adult-neuropsychology/index.qmd
-    - text: Adult-Onset ADHD
-      href: ../adult-neuropsychology/adhd-adults.qmd
+    - text: Emerging Adulthood
+      href: ../adult-neuropsychology/emerging-adulthood.qmd
+    - text: Late-Onset ADHD
+      href: ../adult-neuropsychology/adult-onset-adhd.qmd
 
-- title: Specific Disorders
-  subtitle: 'Specialize in ADHD, LD, autism, OCD/perfectionism, and executive dysfunction'
+- title: Neurobehavioral and Neurocognitive Disorders
+  subtitle: Areas of expertise include ADHD, dyslexia and learning disorders, autism and Asperger's, OCD and perfectionism, and executive dysfunction
   links:
+    - text: Overview
+      href: ../disorders/index.qmd
     - text: ADHD
       href: ../disorders/adhd.qmd
     - text: Executive Dysfunction
@@ -39,5 +43,7 @@
     #   href: ../disorders/autism.qmd
     - text: Dyslexia
       href: ../disorders/dyslexia.qmd
+    - text: Sports-Related Concussion
+      href: ../disorders/concussion.qmd
     - text: Testing Accommodations
       href: ../disorders/mcat.qmd

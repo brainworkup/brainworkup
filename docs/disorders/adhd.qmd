@@ -1,12 +1,9 @@
 ---
 title: ADHD Evaluations
-aliases: 
-  - adhd-evaluations.html
-  - adult-neuropsychology.html
 description: "An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC."
 hide-description: true
 format: html
-logo: "adult-services.webp"
+# logo: "adult-services.webp"
 tags:
   - ADHD
   - adult-onset ADHD
@@ -18,7 +15,7 @@ tags:
   - report
 about:
   template: marquee
-  image: "adult-services.webp"
+  # image: "adult-services.webp"
 sidebar: false
 page-navigation: true
 ---

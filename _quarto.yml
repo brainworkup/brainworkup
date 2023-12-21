@@ -109,7 +109,7 @@ website:
         - docs/about/joey-trampush.qmd
 
     - id: clinical-services
-      collapse-level: 1
+      collapse-level: 2
       contents:
         - section: 'Neuropsychological Services'
           href: docs/clinical-services/index.qmd
@@ -122,10 +122,21 @@ website:
             - section: 'Forensic Neuropsychology'
               contents:
                 - docs/forensic-neuropsychology/index.qmd
-            - section: 'ADHD Evaluations'
+                - docs/forensic-neuropsychology/ime.qmd
+                - docs/forensic-neuropsychology/mental-health-diversion.qmd
+            - section: 'Adult Neuropsychology'
               contents:
-                - docs/adhd-evaluation/adhd.qmd
-                - docs/adhd-evaluation/mcat.qmd
+                - docs/adult-neuropsychology/index.qmd
+                - docs/adult-neuropsychology/emerging-adulthood.qmd
+                - docs/adult-neuropsychology/adult-onset-adhd.qmd
+            - section: 'Neurobehavioral and Neurocognitive Disorders'
+              contents:
+                - docs/disorders/index.qmd
+                - docs/disorders/adhd.qmd
+                - docs/disorders/dyslexia.qmd
+                - docs/disorders/executive-function.qmd
+                - docs/disorders/concussion.qmd
+                - docs/disorders/mcat.qmd
 
     # - id: research
     #   title: 'Research'
