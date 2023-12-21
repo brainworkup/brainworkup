@@ -18,6 +18,7 @@ website:
   site-url: https://brainworkup.org
   site-path: '/'
   repo-url: https://github.com/brainworkup/brainworkup
+  repo-branch: origin
   issue-url: https://github.com/brainworkup/brainworkup/issues
   repo-actions: [edit, issue]
   page-navigation: true
@@ -66,7 +67,6 @@ website:
     title: 'brainworkup'
     background: dark
     foreground: light
-    search: true
     collapse-below: lg
     left:
       - text: 'Dr Trampush'
@@ -86,7 +86,7 @@ website:
         href: /files/cv.pdf
     right:
       - icon: envelope
-        text: info@brainworkup.org
+        text: '**info@brainworkup.org**'
         href: mailto:info@brainworkup.org
     tools:
       - icon: github
@@ -115,6 +115,7 @@ website:
         - docs/about/joey-trampush.qmd
 
     - id: clinical-services
+      search: true
       collapse-level: 3
       contents:
         - section: 'Neuropsychological Services'
@@ -175,10 +176,14 @@ website:
 
 bibliography: refs.bib
 
+search: true
+
 format:
   html:
     toc: true
     toc-depth: 4
+    toc-expand: 1
+    toc-title: '**On this page...**'
     theme:
       light: [cosmo, theme.scss]
     css: styles.css
@@ -197,6 +202,9 @@ format:
     linkcolor: '#02577B'
     link-external-icon: true
     link-external-newwindow: true
+    fig-align: center
+    author-meta: 'Joey Trampush'
+    lightbox: true
 
 metadata-files: [brain2.yml]
 

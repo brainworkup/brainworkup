@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: "Contact Us"
 description: "Contact information for Joey Trampush, PhD @ BrainWorkup Neuropsychology, LLC."
 hide-description: true
 tags:
@@ -71,15 +71,3 @@ For additional questions or to schedule a consultation online, please use our co
 
 <!-- {{< form >}} -->
 
----
-
-```{r}
-#| label: logo
-#| out-width: 25%
-#| fig-align: center
-#| echo: false
-#| eval: true
-library(knitr)
-path <- file.path("/Users/joey/brainworkup/logo3.svg")
-knitr::include_graphics(path)
-```

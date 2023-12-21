@@ -27,6 +27,7 @@ about:
   #     href: https://www.linkedin.com/in/joey-trampush-brainworkup
 sidebar: false
 from: markdown+emoji
+repo-actions: false
 ---  
 
 ## Welcome! :wave:
@@ -86,7 +87,8 @@ interactions between genetics and neuropsychology.
 My work offers a unique glimpse into the intersection of
 neuropsychology and neuroscience, providing valuable insights into the complex
 interactions of the human mind. If you would like to learn more about my work
-and our neuropsychology practice, please send an e-mail to:
+and our neuropsychology practice, please visit the [contact](../contact/index.qmd#general-information)
+page or send an e-mail to:
 
 > [info@brainworkup.org](mailto:joey.trampush@brainworkup.org).
 
