@@ -1,8 +1,11 @@
 ---
 title: Our Expertise
 description: "An overview of the specific disorders we have expertise in."
-hide-description: true
-format: html
+hide-description: false
+format:
+  html:
+    linkcolor: "#02577B"
+    page-layout: article
 tags:
   - ADHD
   - dyslexia
@@ -21,12 +24,17 @@ tags:
   - anxiety
   - perfectionism
 about:
+  id: hero-heading
   template: marquee
   image: disorders.webp
   image-shape: rounded
-  image-width: 90%
+  image-width: 95%
 sidebar: true
 ---
+
+:::{#hero-heading}
+
+:::
 
 ## Psychodiagnostic Evaluations
 

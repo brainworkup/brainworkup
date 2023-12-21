@@ -4,16 +4,26 @@ title-meta: Neuropsychological Assessment for Adults
 subtitle: Neurocognitive Testing in Adults
 description: "Understanding Neuropsychological Evaluations for Diverse Adult Age Groups."
 hide-description: true
+format:
+  html:
+    linkcolor: "#02577B"
+    page-layout: article
 tags:
   - neuropsychological assessment
   - cognitive health
   - adult neurocognitive testing
-logo: mentalhealth1.jpeg
 about:
+  id: hero-heading
   template: marquee
   image: mentalhealth1.jpeg
+  image-shape: rounded
+  image-width: 95%
 sidebar: true
 ---
+
+:::{#hero-heading}
+
+:::
 
 ## Purpose of Neuropsychological Testing
 

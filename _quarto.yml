@@ -44,23 +44,29 @@ website:
         href: docs/faq/index.qmd
       - text: 'Contact'
         href: docs/contact/index.qmd
+      - file: logo3.svg
     right:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
-        aria-label: Brainworkup Github
+        aria-label: Github
       - icon: twitter
         href: https://twitter.com/brainworkup
-        aria-label: Brainworkup Twitter
+        aria-label: Twitter
       - icon: instagram
         href: https://instagram.com/brainworkup
-        aria-label: Brainworkup Instagram
+        aria-label: Instagram
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/joey-trampush-brainworkup/
+      - icon: rss
+        href: https://brainworkup.org/docs/blog/index.xml
+        aria-label: RSS
 
   navbar:
+    title: 'brainworkup'
     background: dark
     foreground: light
-    # logo: logo_ss.png
-    # logo-alt: 'Brainworkkup logo.'
-    title: 'brainworkup'
+    search: true
     collapse-below: lg
     left:
       - text: 'Dr Trampush'
