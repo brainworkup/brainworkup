@@ -3,6 +3,10 @@ title: "BrainWorkup Neuropsychology, LLC"
 subtitle: | 
   Clinical Neuropsychology Practice \
   **Joey Trampush, PhD**
+format:
+  html:
+    linkcolor: "#02577B"
+    page-layout: full
 about:
   template: trestles
   image: images/card2.webp
@@ -24,9 +28,10 @@ tags:
   - workup
 ---
 
-## Welcome
+## About
 
-At BrainWorkup, we believe in the power of understanding. Understanding our brain, its unique strengths and weaknesses, is the key to unlocking our full
+At BrainWorkup, we believe in the power of understanding. Understanding our
+brain and its unique strengths and weaknesses is the key to unlocking our full
 potential. We take a collaborative approach, working with you, your family, and
 other providers to unravel the mysteries of your cognitive landscape. We are
 your trusted partner in understanding and supporting the unique journeys of
@@ -72,11 +77,8 @@ Connect with us on Fosstodon:
 Stay connected with the latest insights and resources:
 
 - [Subscribe to Our Blog](docs/blog/index.qmd)
-- [Follow Us on Fosstodon](https://fosstodon.org/@brainworkup)
+- [Follow Us on Mastodon](https://fosstodon.org/@brainworkup)
 
-
-## Ready to Take the Next Step?
-
-Connect with us today to explore how we can help you or your loved one reach their full potential.
+Contact us to explore how we can help you or your loved one reach their full potential.
 
 [Schedule a Consultation](docs/contact/index.qmd)

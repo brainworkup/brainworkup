@@ -13,7 +13,7 @@
 - title: Forensic Neuropsychology
   subtitle: Neurocognitive examination for forensic and medicolegal cases
   links:
-    - text: Medicolegal/Forensics
+    - text: Medicolegal Services
       href: ../forensic-neuropsychology/index.qmd
     - text: Independent Medical Exams
       href: ../forensic-neuropsychology/ime.qmd
@@ -30,10 +30,10 @@
     - text: 'Adult-Onset ADHD'
       href: ../adult-neuropsychology/adult-onset-adhd.qmd
 
-- title: Specific Disorders
-  subtitle: Specialize in evaluating ADHD, dyslexia/LD, autism, OCD/perfectionism, and executive dysfunction
+- title: 'Specific Disorders'
+  subtitle: 'We have unique expertise in evaluating the disorders/syndromes described below'
   links:
-    - text: Our Expertise
+    - text: Overview
       href: ../disorders/index.qmd
     - text: ADHD
       href: ../disorders/adhd.qmd

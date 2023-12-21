@@ -44,7 +44,7 @@ website:
         href: docs/faq/index.qmd
       - text: 'Contact'
         href: docs/contact/index.qmd
-      - file: logo3.svg
+      - href: logo3.svg
     right:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
@@ -115,28 +115,28 @@ website:
         - docs/about/joey-trampush.qmd
 
     - id: clinical-services
-      collapse-level: 1
+      collapse-level: 2
       contents:
         - section: 'Neuropsychological Services'
           href: docs/clinical-services/index.qmd
           contents:
-            - section: 'Pediatric Neuropsychology'
+            - section: '**Pediatric Neuropsychology**'
               contents:
                 - docs/pediatric-neuropsychology/index.qmd
                 - docs/pediatric-neuropsychology/preschool.qmd
                 - docs/pediatric-neuropsychology/school-age.qmd
                 - docs/pediatric-neuropsychology/adolescent.qmd
-            - section: 'Forensic Neuropsychology'
+            - section: '**Forensic Neuropsychology**'
               contents:
                 - docs/forensic-neuropsychology/index.qmd
                 - docs/forensic-neuropsychology/ime.qmd
                 - docs/forensic-neuropsychology/mental-health-diversion.qmd
-            - section: 'Adult Neuropsychology'
+            - section: '**Adult Neuropsychology**'
               contents:
                 - docs/adult-neuropsychology/index.qmd
                 - docs/adult-neuropsychology/emerging-adulthood.qmd
                 - docs/adult-neuropsychology/adult-onset-adhd.qmd
-            - section: 'Specific Disorders'
+            - section: '**Specific Disorders**'
               contents:
                 - docs/disorders/index.qmd
                 - docs/disorders/adhd.qmd
