@@ -8,17 +8,17 @@ project:
 
 website:
   title: 'Joey Trampush, PhD @ Brainworkup Neuropsychology, LLC'
-  image: bwu-logo.png
-  favicon: logo.ico
+  image: 'logo.png'
+  favicon: 'logo.ico'
   open-graph: true
   twitter-card:
     creator: '@brainworkup'
     site: '@brainworkup'
     card-style: 'summary_large_image'
-  site-url: 'https://brainworkup.org'
+  site-url: https://brainworkup.org
   site-path: '/'
-  repo-url: 'https://github.com/brainworkup/brainworkup'
-  issue-url: 'https://github.com/brainworkup/brainworkup/issues'
+  repo-url: https://github.com/brainworkup/brainworkup
+  issue-url: https://github.com/brainworkup/brainworkup/issues
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
@@ -30,13 +30,13 @@ website:
     type: overlay
     algolia:
       index-name: dev_BWU
-      application-id: 'MUSKCL25U0'
-      search-only-api-key: '88aa5eda961e038670ae6e8aa6e60687'
+      application-id: MUSKCL25U0
+      search-only-api-key: 88aa5eda961e038670ae6e8aa6e60687
       analytics-events: true
-      show-logo: false
+      show-logo: true
   page-footer:
     left: |
-      &copy; 2023 joey trampush @ brainworkup
+      **&copy; 2023 joey trampush @ brainworkup**
     center:
       - text: 'About'
         href: docs/about/joey-trampush.qmd
@@ -58,9 +58,10 @@ website:
   navbar:
     background: dark
     foreground: light
+    # logo: logo_ss.png
+    # logo-alt: 'Brainworkkup logo.'
     title: 'brainworkup'
     collapse-below: lg
-
     left:
       - text: 'Dr Trampush'
         href: docs/about/joey-trampush.qmd
@@ -77,12 +78,10 @@ website:
       - icon: file-pdf
         text: CV
         href: /files/cv.pdf
-
     right:
       - icon: envelope
         text: info@brainworkup.org
         href: mailto:info@brainworkup.org
-
     tools:
       - icon: github
         href: https://github.com/brainworkup/brainworkup

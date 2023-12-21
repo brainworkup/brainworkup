@@ -75,7 +75,7 @@ For additional questions or to schedule a consultation online, please use our co
 
 ```{r}
 #| label: logo
-#| out-width: 50%
+#| out-width: 25%
 #| fig-align: center
 #| echo: false
 #| eval: true

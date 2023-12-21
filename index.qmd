@@ -6,7 +6,7 @@ subtitle: |
 about:
   template: trestles
   image: images/card2.webp
-css: css/index.css
+css: index.css
 description: "Clinical Neuropsychology Practice in Los Angeles, California founded by Joey Trampush, PhD."
 hide-description: true
 sidebar: false

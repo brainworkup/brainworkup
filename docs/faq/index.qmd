@@ -83,12 +83,11 @@ We accept cash, checks, Venmo, Zelle, MasterCard, and Visa.
 
 Should a check be returned, your account will be charged a $25 fee for each occurrence. Furthermore, you will be requested to bring cash to our office to cover the returned check fee.
 
----
 
 
 ```{r}
 #| label: logo
-#| out-width: 50%
+#| out-width: 25%
 #| fig-align: center
 #| echo: false
 #| eval: true
