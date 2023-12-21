@@ -183,7 +183,7 @@ format:
     toc: true
     toc-depth: 4
     toc-expand: 1
-    toc-title: '**On this page...**'
+    toc-title: '**On this page**'
     theme:
       light: [cosmo, theme.scss]
     css: styles.css

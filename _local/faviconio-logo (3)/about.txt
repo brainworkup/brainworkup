@@ -1,6 +1,0 @@
-This logo was generated using the following font:
-
-- Font Title: Supermercado One
-- Font Author: Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com eben@eyebytes.com) with Reserved Font Name "Supermercado One".
-- Font Source: http://fonts.gstatic.com/s/supermercadoone/v26/OpNXnpQWg8jc_xps_Gi14kVVEXOn60b3MClBRTs.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
