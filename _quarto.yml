@@ -20,7 +20,7 @@ website:
   repo-url: https://github.com/brainworkup/brainworkup
   repo-branch: origin
   issue-url: https://github.com/brainworkup/brainworkup/issues
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
   page-navigation: true
   bread-crumbs: true
   google-analytics: 'G-HW85H7H8P6'
@@ -37,8 +37,7 @@ website:
       show-logo: true
   page-footer:
     left: |
-      [![](logo4.svg){fig-alt="brainworkup" width=105px}](https://brainworkup.org) 
-      &copy; 2023 joey trampush @ brainworkup
+      ![](logo4.svg){fig-alt="brainworkup" width=105px} &copy; 2023 joey trampush @ brainworkup
     center:
       - text: 'About'
         href: docs/about/joey-trampush.qmd
@@ -85,6 +84,9 @@ website:
         text: 'CV'
         href: /files/cv.pdf
     right:
+      - icon: phone
+        text: '**(213) 495-1155**'
+        href: tel:2134951155
       - icon: envelope
         text: '**info@brainworkup.org**'
         href: mailto:info@brainworkup.org
