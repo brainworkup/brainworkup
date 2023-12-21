@@ -41,7 +41,7 @@ website:
         text: body
   page-footer:
     left: |
-      ![](/logo4.svg){fig-alt="brainworkup" width=95px} &copy; 2023 joey trampush @ brainworkup
+      ![](/logo.webp){fig-alt="brainworkup" width=85px} &copy; 2023 joey trampush @ brainworkup
     center:
       - text: 'About'
         href: docs/about/joey-trampush.qmd
