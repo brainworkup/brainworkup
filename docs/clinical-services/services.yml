@@ -20,14 +20,14 @@
     - text: Mental Health Diversion
       href: ../forensic-neuropsychology/mental-health-diversion.qmd
 
-- title: Adult Neuropsychology
+- title: 'Adult Neuropsychology'
   subtitle: 'Neuropsychology of emerging adulthood including late-onset ADHD'
   links:
-    - text: Overview
+    - text: 'Overview'
       href: ../adult-neuropsychology/index.qmd
-    - text: Emerging Adulthood
+    - text: 'Emerging Adulthood'
       href: ../adult-neuropsychology/emerging-adulthood.qmd
-    - text: Late-Onset ADHD
+    - text: 'Late-Onset ADHD'
       href: ../adult-neuropsychology/adult-onset-adhd.qmd
 
 - title: Specific Disorders

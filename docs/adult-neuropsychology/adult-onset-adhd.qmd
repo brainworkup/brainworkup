@@ -1,10 +1,10 @@
 ---
-title-meta: "Late Onset ADHD: Understanding the Debate"
+title: "Adult-Onset ADHD"
+subtitle: "Understanding the Debate"
 description: "A balanced exploration of the concept of Late Onset ADHD, contrasting it with childhood-diagnosed ADHD."
 format: html
 ---
 TODO:
-# Late Onset ADHD: Unraveling the Evidence
 
 ## Introduction
 

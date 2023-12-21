@@ -1,7 +1,9 @@
 ---
-title: "Independent Medical Evaluation"
+title: "Independent Medical Evaluations"
 format: html
 ---
+
+## Background
 
 Dr. Trampush conducts independent neurocognitive and personality medical examinations (IMEs) in the medicolegal context for both private law firms and federal agencies as an expert witness. To purpose of this work is to identify the impact of neurodevelopmental disorders, traumatic brain injuries, and traumatic stress on clients, assisting in determining appropriate compensation, sentencing, and treatment strategies.
 
@@ -28,7 +30,7 @@ Comprehensive assessments are conducted to understand the individual's situation
 Medical-legal reports are prepared specifically for legal proceedings, aiming for impartiality.
 Opinions are based on established methods and relevant evidence (e.g., psychological/neuropsychological tests). -->
 
-## Focus on Impact and Potential Solutions:
+## Focus on Impact and Potential Solutions
 
 The assessment aims to identify how the event affected the individual.
 Treatment recommendations are provided to improve the individual's quality of life.

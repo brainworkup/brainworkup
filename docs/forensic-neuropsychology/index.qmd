@@ -7,10 +7,10 @@ aliases:
 description: "An overview of the forensic neuropsychological and medicolegal services provided by Dr. Trampush @ Brainworkup, LLC, services offered, the process, and legal and ethical considerations."
 hide-description: true
 format: html
-logo: forensic.webp
 tags:
   - forensic neuropsychology
   - medicolegal
+logo: forensic.webp
 about:
   template: marquee
   image: "forensic.webp"

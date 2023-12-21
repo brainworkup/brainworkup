@@ -3,40 +3,28 @@ title: "Mental Health Diversion Evaluations"
 format: html
 ---
 
-In 2018, Governor Jerry Brown signed into law Senate Bill 215, which created a pre-trial diversion program for defendants with a mental disorder that has been accused of committing specific crimes. 
+## An Introduction to Mental Health Diversion Evaluations
 
-If they complete treatment, the criminal charges will be dismissed and the record of the arrest will be sealed.
+In recent years, the intersection of mental health and the criminal justice system has become a focal point of discussion and legislation. In 2018, a significant stride was made when Governor Jerry Brown signed into law Senate Bill 215. This bill paved the way for a pre-trial diversion program specifically designed for defendants who are suffering from a mental disorder and stand accused of committing certain crimes. 
 
-## How We Can Help
-We take a collaborative approach and work with the client, their family, mental health treatment providers, and attorney when we complete a mental health diversion evaluation.
+## Understanding the Impact of Senate Bill 215
 
-Our in-depth assessment will help answer the following questions related to the mental health diversion criteria:
+The implications of Senate Bill 215 are far-reaching. It offers a potential lifeline for individuals whose mental disorders may have played a significant role in their alleged criminal activities. Instead of facing the traditional punitive measures, these individuals are given the opportunity to complete a treatment program. 
 
-- Whether the defendant suffers from a mental disorder, excluding Antisocial Personality Disorder, Borderline Personality Disorder, and Pedophilic Disorder.
-- Whether the mental disorder significantly contributed to the defendant’s involvement in the commission of the offense.
-- Whether the defendant’s symptoms motivating the criminal behavior would respond to mental health treatment.
-- Whether the defendant agrees to comply with treatment as a condition of diversion.
-- Whether the defendant will pose an unreasonable risk of danger to public safety, as defined in PC 1170.18 if treated in the community.
+The benefits of this approach are two-fold. If the accused completes the treatment, not only will the criminal charges be dismissed, but their arrest record will also be sealed. This allows for a fresh start, free from the stigma of a criminal record.
 
-## What to Expect
-Our in-depth evaluation will help gather the necessary information to answer the relevant questions to help the court determine if the client is suitable for mental health diversion. 
+## Our Approach to Mental Health Diversion Evaluations
 
-Our mental health diversion evaluations typically involve:
+As experts in mental health evaluations, we believe in a collaborative approach. We work closely with the client, their family, their mental health treatment providers, and their attorney to conduct a comprehensive mental health diversion evaluation. 
 
-A clinical interview with the client and close members of their family. The interview will help us understand important psychological, medical, and social background information, and their current cognitive and psychological functioning.
-Consultation with the client’s attorney to determine the legal questions that need to be answered.
-A review of medical, psychological, and legal documents to help us have a better understanding of the client’s psychological, cognitive, and emotional functioning leading up to and during the alleged offense.
-- Depending on the client’s history and requirements for the case, we will administer psychological and neuropsychological tests to objectively assess for mental health diagnoses and cognitive abilities.  We will administer and interpret paper and computer-based tests to assess for:
-  - General intellectual abilities
-  - Higher level executive skills such as reasoning and problem solving
-  - Attention and concentration
-  - Language comprehension and communication
-  - Visual-spatial skills and perception
-  - Memory impairment
-  - Motor and sensory skills
-  - Mood and personality
-  - Psychological diagnoses
+Our in-depth assessment is designed to answer the critical questions related to the mental health diversion criteria. This includes:
 
-We will complete a violence risk assessment to determine the appropriate course of treatment in the community and ways to mitigate future violence risk.
-After we complete the evaluation, we will write a comprehensive report that integrates our findings and give it to the client’s representative or attorney.
-A mental health diversion evaluation will determine if your client qualifies to attend treatment in the community
+- Confirming if the defendant suffers from a mental disorder. It's important to note that Antisocial Personality Disorder, Borderline Personality Disorder, and Pedophilic Disorder are excluded from this category.
+- Determining if the mental disorder played a significant role in the defendant's involvement in the alleged crime.
+- Evaluating whether the defendant's symptoms that may have motivated the criminal behavior would respond positively to mental health treatment.
+- Establishing whether the defendant agrees to comply with the treatment as a condition of diversion.
+- Assessing if the defendant, if treated in the community, will pose an unreasonable risk of danger to public safety, as defined in PC 1170.18.
+
+By providing these evaluations, we hope to contribute to a more understanding and compassionate approach to criminal justice, where mental health is given the consideration it deserves.
+
+TODO:
