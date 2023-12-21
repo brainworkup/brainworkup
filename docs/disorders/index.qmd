@@ -1,0 +1,29 @@
+---
+title: Overview
+description: "An overview of the specific disorders we have expertise in."
+hide-description: true
+format: html
+logo: "disorders.webp"
+tags:
+  - ADHD
+  - dyslexia
+  - dyscalculia
+  - dysgraphia
+  - dyspraxia
+  - autism
+  - aspergers
+  - tourettes
+  - tics
+  - OCD
+  - oppositional defiant disorder
+  - ODD
+  - conduct disorder
+  - depression
+  - anxiety
+  - perfectionism
+about:
+  template: marquee
+  image: "disorders.webp"
+sidebar: false
+page-navigation: true
+---

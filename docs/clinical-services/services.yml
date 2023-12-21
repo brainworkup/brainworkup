@@ -1,7 +1,7 @@
 - title: Pediatric Neuropsychology
   subtitle: Child and adolescent neurocognitive assessment
   links:
-    - text: Pediatric Neuropsychological Services
+    - text: Pediatric Services Overview
       href: ../pediatric-neuropsychology/index.qmd
     - text: Preschoolers
       href: ../pediatric-neuropsychology/preschool.qmd
@@ -11,15 +11,33 @@
 - title: Forensic Neuropsychology
   subtitle: 'Neurocognitive examination for forensic and medicolegal cases'
   links:
-    - text: Forensic Neuropsychology
+    - text: Forensic Services Overview
       href: ../forensic-neuropsychology/index.qmd
+    - text: Independent Medical Examination
+      href: ../forensic-neuropsychology/ime.qmd
+    - text: Mental Health Diversion
+      href: ../forensic-neuropsychology/mental-health-diversion.qmd
 
-- title: ADHD Evaluations
-  subtitle: 'ADHD examination across development and adulthood'
+- title: Adult Neuropsychology
+  subtitle: 'Neuropsychology of emerging adulthood'
   links:
-    - text: ADHD in Young Adults
-      href: ../adhd-evaluation/index.qmd
+    - text: Emerging Adulthood
+      href: ../adult-neuropsychology/index.qmd
+    - text: Adult-Onset ADHD
+      href: ../adult-neuropsychology/adhd-adults.qmd
+
+- title: Specific Disorders
+  subtitle: 'Specialize in ADHD, LD, autism, OCD/perfectionism, and executive dysfunction'
+  links:
     - text: ADHD
-      href: ../adhd-evaluation/adhd-adults.qmd
-    - text: MCAT
-      href: ../adhd-evaluation/mcat.qmd
+      href: ../disorders/adhd.qmd
+    - text: Executive Dysfunction
+      href: ../disorders/executive-function.qmd
+    # - text: OCD and Pathological Perfectionism
+    #   href: ../disorders/ocd.qmd
+    # - text: Autism Spectrum Disorder
+    #   href: ../disorders/autism.qmd
+    - text: Dyslexia
+      href: ../disorders/dyslexia.qmd
+    - text: Testing Accommodations
+      href: ../disorders/mcat.qmd
