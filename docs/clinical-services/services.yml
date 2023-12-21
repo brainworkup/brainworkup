@@ -7,6 +7,8 @@
       href: ../pediatric-neuropsychology/preschool.qmd
     - text: School-Age Children
       href: ../pediatric-neuropsychology/school-age.qmd
+    - text: Adolescents
+      href: ../pediatric-neuropsychology/adolescent.qmd
 
 - title: Forensic Neuropsychology
   subtitle: Neurocognitive examination for forensic and medicolegal cases

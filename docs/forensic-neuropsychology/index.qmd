@@ -1,5 +1,7 @@
 ---
-title: Forensic Neuropsychological Services
+title: Overview
+subtitle: Forensic Neuropsychological Services
+title-meta: Forensic Neuropsychological Services
 aliases:
   - forensic-neuropsychology.html
 description: "An overview of the forensic neuropsychological and medicolegal services provided by Dr. Trampush @ Brainworkup, LLC, services offered, the process, and legal and ethical considerations."
@@ -12,7 +14,7 @@ tags:
 about:
   template: marquee
   image: "forensic.webp"
-sidebar: false
+sidebar: true
 ---
 
 ## Introduction

@@ -120,6 +120,7 @@ website:
                 - docs/pediatric-neuropsychology/index.qmd
                 - docs/pediatric-neuropsychology/preschool.qmd
                 - docs/pediatric-neuropsychology/school-age.qmd
+                - docs/pediatric-neuropsychology/adolescent.qmd
             - section: 'Forensic Neuropsychology'
               contents:
                 - docs/forensic-neuropsychology/index.qmd
@@ -181,10 +182,10 @@ format:
     code-overflow: wrap
     smooth-scroll: true
     grid:
-      sidebar-width: 300px
+      sidebar-width: 350px
       body-width: 900px
-      margin-width: 300px
-      gutter-width: 1.75rem
+      margin-width: 250px
+      gutter-width: 1.5rem
     fontsize: 1.2em
     linestretch: 1.14
     highlight-style: dracula

@@ -5,15 +5,14 @@ aliases:
   - /docs/services/
 subtitle: "Neurocognitive examination of pediatric patients, forensic and medicolegal cases, psychoeducational testing, and late-onset ADHD."
 page-layout: article
-toc: false
+toc: true
 anchor-sections: false
-editor: source
-search: false
 listing:
   id: services-links
   template: ../../ejs/links.ejs
   contents: services.yml
-# image: /images/hero_right.png
+sidebar: true
+page-navigation: true
 ---
 
 ::: {#services-links .column-screen-inset-right style="max-width: 850px;"}
