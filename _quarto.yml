@@ -36,7 +36,7 @@ website:
       analytics-events: true
       show-logo: true
       index-fields:
-        href: https://brainworkup.org/docs/search/index.html
+        href: https://brainworkup.org/search.json
         section: sec
         text: body
   page-footer:
