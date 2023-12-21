@@ -8,7 +8,7 @@ project:
 
 website:
   title: 'Joey Trampush, PhD @ Brainworkup Neuropsychology, LLC'
-  image: 'logo.png'
+  image: '/images/card2.webp'
   favicon: 'logo.ico'
   open-graph: true
   twitter-card:
@@ -36,7 +36,7 @@ website:
       show-logo: true
   page-footer:
     left: |
-      **&copy; 2023 joey trampush @ brainworkup**
+      &copy; 2023 joey trampush @ brainworkup
     center:
       - text: 'About'
         href: docs/about/joey-trampush.qmd
