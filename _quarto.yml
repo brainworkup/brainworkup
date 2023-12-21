@@ -60,6 +60,7 @@ website:
     foreground: light
     title: 'brainworkup'
     collapse-below: lg
+
     left:
       - text: 'Dr Trampush'
         href: docs/about/joey-trampush.qmd
@@ -85,19 +86,19 @@ website:
     tools:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
-        aria-label: Brainworkup Github
+        aria-label: Github
       - icon: twitter
         href: https://twitter.com/brainworkup
-        aria-label: Brainworkup Twitter
+        aria-label: Twitter
       - icon: instagram
         href: https://instagram.com/brainworkup
-        aria-label: Brainworkup Instagram
+        aria-label: Instagram
       - icon: linkedin
-        aria-label: Brainworkkup LinkedIn
+        aria-label: LinkedIn
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
       - icon: rss
         href: https://brainworkup.org/docs/blog/index.xml
-        aria-label: Brainworkup Blog RSS
+        aria-label: RSS
 
   sidebar:
     - id: trampush
@@ -109,7 +110,7 @@ website:
         - docs/about/joey-trampush.qmd
 
     - id: clinical-services
-      collapse-level: 2
+      collapse-level: 1
       contents:
         - section: 'Neuropsychological Services'
           href: docs/clinical-services/index.qmd
@@ -160,7 +161,7 @@ website:
           href: docs/faq/index.qmd
 
     - id: contact
-      title: 'Contact Us'
+      title: 'Contact'
       collapse-level: 1
       contents:
         - section: 'Contact Us'
@@ -173,20 +174,21 @@ format:
     toc: true
     toc-depth: 4
     theme:
-      light: [cosmo, css/theme.scss]
-    css: css/styles.css
+      light: [cosmo, theme.scss]
+    css: styles.css
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap
     smooth-scroll: true
     grid:
-      sidebar-width: 250px
+      sidebar-width: 300px
       body-width: 900px
       margin-width: 300px
-      gutter-width: 1.5rem
+      gutter-width: 1.75rem
     fontsize: 1.2em
     linestretch: 1.14
     highlight-style: dracula
+    linkcolor: '#02577B'
     link-external-icon: true
     link-external-newwindow: true
 

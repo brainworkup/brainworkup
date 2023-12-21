@@ -15,8 +15,10 @@ tags:
   - neuropsychology
   - Joey Trampush
   - brainworkup
-  - brain workup
-format: html
+  - brain work-up
+format: 
+  html:
+    linkcolor: "#02577B"
 logo: "jwt.webp"
 about:
   template: solana
