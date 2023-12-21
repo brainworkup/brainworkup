@@ -115,7 +115,7 @@ website:
         - docs/about/joey-trampush.qmd
 
     - id: clinical-services
-      collapse-level: 2
+      collapse-level: 3
       contents:
         - section: 'Neuropsychological Services'
           href: docs/clinical-services/index.qmd
@@ -126,16 +126,16 @@ website:
                 - docs/pediatric-neuropsychology/preschool.qmd
                 - docs/pediatric-neuropsychology/school-age.qmd
                 - docs/pediatric-neuropsychology/adolescent.qmd
-            - section: '**Forensic Neuropsychology**'
-              contents:
-                - docs/forensic-neuropsychology/index.qmd
-                - docs/forensic-neuropsychology/ime.qmd
-                - docs/forensic-neuropsychology/mental-health-diversion.qmd
             - section: '**Adult Neuropsychology**'
               contents:
                 - docs/adult-neuropsychology/index.qmd
                 - docs/adult-neuropsychology/emerging-adulthood.qmd
                 - docs/adult-neuropsychology/adult-onset-adhd.qmd
+            - section: '**Forensic Neuropsychology**'
+              contents:
+                - docs/forensic-neuropsychology/index.qmd
+                - docs/forensic-neuropsychology/ime.qmd
+                - docs/forensic-neuropsychology/mental-health-diversion.qmd
             - section: '**Specific Disorders**'
               contents:
                 - docs/disorders/index.qmd

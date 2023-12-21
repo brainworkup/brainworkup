@@ -10,6 +10,16 @@
     - text: Adolescents
       href: ../pediatric-neuropsychology/adolescent.qmd
 
+- title: 'Adult Neuropsychology'
+  subtitle: 'Neuropsychology of emerging adulthood including adult-onset ADHD'
+  links:
+    - text: 'Overview'
+      href: ../adult-neuropsychology/index.qmd
+    - text: 'Emerging Adulthood'
+      href: ../adult-neuropsychology/emerging-adulthood.qmd
+    - text: 'Adult-Onset ADHD'
+      href: ../adult-neuropsychology/adult-onset-adhd.qmd
+
 - title: Forensic Neuropsychology
   subtitle: Neurocognitive examination for forensic and medicolegal cases
   links:
@@ -20,18 +30,8 @@
     - text: Mental Health Diversion
       href: ../forensic-neuropsychology/mental-health-diversion.qmd
 
-- title: 'Adult Neuropsychology'
-  subtitle: 'Neuropsychology of emerging adulthood including late-onset ADHD'
-  links:
-    - text: 'Overview'
-      href: ../adult-neuropsychology/index.qmd
-    - text: 'Emerging Adulthood'
-      href: ../adult-neuropsychology/emerging-adulthood.qmd
-    - text: 'Adult-Onset ADHD'
-      href: ../adult-neuropsychology/adult-onset-adhd.qmd
-
 - title: 'Specific Disorders'
-  subtitle: 'We have unique expertise in evaluating the disorders/syndromes described below'
+  subtitle: 'We have unique expertise in evaluating the disorders described below'
   links:
     - text: Overview
       href: ../disorders/index.qmd

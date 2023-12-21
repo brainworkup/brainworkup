@@ -8,13 +8,21 @@ tags:
   - neurocognitive assessment
   - neuropsychiatric disorders
 sidebar: true
-format: html
+format:
+  html:
+    linkcolor: "#02577B"
+    page-layout: article
 about:
+  id: hero-heading
   template: marquee
   image: bad-brain.webp
   image-shape: rounded
   image-width: 95%
 ---
+
+:::{#hero-heading}
+
+:::
 
 ## Understanding Executive Functioning: Core to Neurocognitive Health
 
