@@ -2,15 +2,17 @@
 title: Frequently Asked Questions
 format:
   html:
-    linkcolor: "#02577B"
     page-layout: article
 repo-actions: false
 about:
   template: marquee
   image: ../../logo-faq.webp
-  image-shape: rectangle
-  image-width: 100%
+  image-shape: rounded
+  image-width: 95%
 sidebar: false
+tags:
+  - faq
+  - brainworkup
 ---
 
 ## Overview of the practice 
