@@ -1,23 +1,22 @@
 ---
-title-meta: Executive Functioning in Neurocognitive Assessments
+title: Executive Functioning
+subtitle: EF in Neurocognitive Assessments
 description: "Understanding and Addressing Executive Dysfunction in Neurodevelopmental and Neuropsychiatric Disorders."
 hide-description: true
 tags:
   - executive functioning
   - neurocognitive assessment
   - neuropsychiatric disorders
-sidebar: false
+sidebar: true
 format: html
-logo: bad-brain.webp
 about:
   template: marquee
   image: bad-brain.webp
-page-navigation: true
+  image-shape: rounded
+  image-width: 95%
 ---
 
-# Executive Functioning: Core to Neurocognitive Health
-
-## Understanding Executive Functioning
+## Understanding Executive Functioning: Core to Neurocognitive Health
 
 Executive functioning is a crucial aspect of cognitive processes that governs skills like attention, working memory, planning, inhibition, and emotion regulation. These functions are fundamental in daily activities and decision-making, enabling individuals to plan, organize, remember instructions, and manage time and space efficiently.
 

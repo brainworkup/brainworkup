@@ -23,7 +23,44 @@ tags:
   - perfectionism
 about:
   template: marquee
-  image: "disorders.webp"
-sidebar: false
-page-navigation: true
+  image: disorders.webp
+  image-shape: rounded
+  image-width: 95%
+sidebar: true
 ---
+
+## Psychodiagnostic Evaluations
+
+TODO:
+
+## Neurodevelopmental Disorders
+
+### ADHD
+
+## Disruptive Behavior Disorders
+
+### Learning Disorders
+
+### Autism Spectrum Disorders
+
+## Executive Functioning
+
+### Testing/Acaddemic Accomodations
+
+## Neuropsychiatric Disorders
+
+### Mood Disorders
+
+### Anxiety Disorders
+
+### Obsessive-Compulsive Disorders
+
+## Neurological Disorders
+
+### Sports-Related Concussions
+
+### Traumatic Brain Injury
+
+
+
+

@@ -12,6 +12,25 @@ Your initial evaluation will serve as a baseline benchmark of neurocognitive fun
 
 Performance on the neurocognitive tests that we use has remarkable predictive value across a diverse range of social, health and behavioral outcomes (Deary et al., 2011).  As examples, neurocognitive performance has been shown to be a better predictor of mortality from heart disease than smoking, blood glucose and cholesterol (Batty et al., 2008), can predict how long people live (Deary, 2008), and is associated with educational attainment and earned income (Johnson et al., 2009).  Furthermore, deficits in neurocognitive performance are pervasive in most psychiatric (e.g., ADHD and depression) and neurologic (e.g., dementia and Parkinson’s disease) disorders (Millan et al., 2012).  As such, the results of your workup will allow us to provide you with objective information for improving and/or maintaining your cognitive and emotional well being.
 
+## What is a neuropsychological evaluation?
+
+Our evaluations typically include:
+
+- A clinical interview to gather background information on psychological, medical, educational, and social aspects, alongside current cognitive and psychological functioning.
+- Review of relevant medical, psychological, and educational records for a comprehensive understanding of your psychological and academic history.
+- Administration of psychological and neuropsychological tests to assess various cognitive and educational aspects, including:
+  - Intellectual abilities
+  - Academic skills (reading, writing, spelling, math)
+  - Executive functions (reasoning, problem-solving)
+  - Attention and concentration
+  - Language and communication
+  - Visual-spatial abilities
+  - Memory
+  - Motor and sensory skills
+  - Emotional and personality assessment
+
+Following the evaluation, we will compile a detailed report integrating our findings. This report will be provided to you, your school, and any relevant organizations for academic accommodations. Additionally, a feedback session will be conducted to discuss the results and treatment recommendations. This evaluation aims to identify dyslexia and facilitate necessary academic support.
+
 ## Our Objective
 
 Our primary objective is to deliver comprehensive, evidence-based
@@ -56,7 +75,7 @@ In case your insurance company mandates authorization for a neuropsychological e
 
 Please note that school advocacy is not a benefit covered by insurance plans. The fee is $300 for the initial hour and $75 for each succeeding 15 minutes.
 
-## Payments
+### Payments
 
 We accept cash, checks, Venmo, Zelle, MasterCard, and Visa.
 
