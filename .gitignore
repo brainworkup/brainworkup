@@ -1,4 +1,4 @@
-# site_libs/
+site_libs/
 # docs/
 /.quarto/
 /.vscode/
@@ -16,13 +16,13 @@ yarn.lock
 static/
 # netlify.toml
 node_modules/
-/images/adult-services.png/
+# /images/adult-services.png/
 /Users/joey/brainworkup/images/jwt_fighton.jpg
 local/
 _local/
 img/
 data/
-/local/**
+/_local/**
 docs/faq/insurance.md
 docs/pediatric-neuropsychology/nvld.qmd
 docs/pediatric-neuropsychology/adolescent.qmd
@@ -75,8 +75,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
 
 # translation temp files
 po/*~
