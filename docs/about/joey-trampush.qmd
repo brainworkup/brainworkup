@@ -48,23 +48,35 @@ psychologist in the States of California and New York.
 
 ## Education/Training
 
-- **Postdoctoral Fellowship, Psychiatric Genetics (2012)**, National Institute of Mental Health @ NIH, Bethesda, MD
-
-- **Predoctoral Internship, Pediatric Neuropsychology (2009)**, Henry Ford
-Hospital, Detroit, MI (APA accredited)
-
-- **Ph.D., Clinical Neuropsychology (2010)**, CUNY Graduate Center, New York, NY 
-
-- **M.Phil., Clinical Neuropsychology (2008)**, CUNY Graduate Center, New York, NY
-
-- **M.A., Clinical Neuropsychology (2007)**, CUNY Queens College, Flushing, NY  
-
-- **B.A., Psychology, Minor: Sociology (2000)**, Bowling Green State University, Bowling Green, OH
+- National Institute of Mental Health @ NIH, Bethesda, MD (2012)
+  - **Postdoctoral Fellowship, Psychiatric Genetics**  
 
 
-## Specialization and Expertise
+- CUNY Graduate Center, New York, NY (2010)
+  - **Ph.D., Clinical Neuropsychology**  
 
-As a clinician, my expertise lies in developmental neuropsychology, where I focus on diagnosing cognitive, learning, and emotional difficulties. My primary goal is to provide diagnostic clarity for children and young adults, helping them gain a deeper understanding of themselves and their potential.
+
+- Henry Ford Hospital, Detroit, MI (2009)
+  - **Predoctoral Internship, Pediatric Neuropsychology, APA accredited**  
+
+
+- CUNY Graduate Center, New York, NY (2008)
+  - **M.Phil., Clinical Neuropsychology**  
+
+
+- CUNY Queens College, Flushing, NY (2007)
+  - **M.A., Neuroscience/Neuropsychology**  
+
+
+- Bowling Green State University, Bowling Green, OH (2000)
+  - **B.A., Psychology, Minor: Sociology**
+
+<!-- - Mater Dei High School, Santa Ana, CA (1995)
+  - High School Diploma -->
+
+<!-- ## Specialization and Expertise
+
+As a clinician, my expertise lies in developmental neuropsychology, where I focus on diagnosing cognitive, learning, and emotional difficulties. My primary goal is to provide diagnostic clarity for children and young adults, helping them gain a deeper understanding of themselves and their potential. -->
 
 ## Research Interests
 
@@ -92,5 +104,5 @@ page or send an e-mail to:
 
 > [info@brainworkup.org](mailto:joey.trampush@brainworkup.org).
 
-~ Joey
+~ JWT
 

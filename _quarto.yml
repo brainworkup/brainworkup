@@ -69,20 +69,20 @@ website:
     foreground: light
     collapse-below: lg
     left:
-      - text: 'Dr Trampush'
+      - text: '**Dr Trampush**'
         href: docs/about/joey-trampush.qmd
-      - text: 'Neuropsychological Services'
+      - text: '**Neuropsychological Services**'
         href: docs/clinical-services/index.qmd
       # - text: 'Research'
       #   href: docs/research/index.qmd
-      - text: 'FAQ'
+      - text: '**FAQ**'
         href: docs/faq/index.qmd
-      - text: 'Contact'
+      - text: '**Contact**'
         href: docs/contact/index.qmd
-      - text: 'Blog'
+      - text: '**Blog**'
         href: docs/blog/index.qmd
       - icon: file-pdf
-        text: CV
+        text: '**CV**'
         href: /files/cv.pdf
     right:
       - icon: envelope

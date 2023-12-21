@@ -41,7 +41,6 @@ form:
     label: "In your own words, please describe your reason for contacting us."
     width: 30 #in rows
     height: 30 #in cols
-title-block-banner: false
 ---
 
 ## General Information
