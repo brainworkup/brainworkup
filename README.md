@@ -23,9 +23,8 @@ Static repository for brainworkup.org, brainworkup.io, brainworkup.com, joeytram
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/104efd43-d6ca-45be-b3cc-806c026e306c/deploy-status)](https://app.netlify.com/sites/brainworkup/deploys)
 
-
-## BWU Logo
+## Logo
 
 <div style="text-align:center">
-    <img src="logo3.svg" alt="bwu favicon" width="70%" height="70%"/>
+    <img src="logo-faq.webp" alt="bwu favicon" fig-align="center" width="70%" height="70%"/>
 </div>
