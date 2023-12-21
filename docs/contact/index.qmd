@@ -69,5 +69,17 @@ For additional questions or to schedule a consultation online, please use our co
 
 [Online Inquiry Form](https://forms.gle/UNx9qUcihytE63qt5)
 
-
 <!-- {{< form >}} -->
+
+---
+
+```{r}
+#| label: logo
+#| out-width: 50%
+#| fig-align: center
+#| echo: false
+#| eval: true
+library(knitr)
+path <- file.path("/Users/joey/brainworkup/logo3.svg")
+knitr::include_graphics(path)
+```

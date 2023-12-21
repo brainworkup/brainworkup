@@ -1,15 +1,6 @@
 ---
 title: "Joey W. Trampush, Ph.D."
-description: "Dr. Joey W. Trampush, Ph.D., is the founder and chief
-neuropsychologist at BrainWorkup, LLC, and an Assistant Professor of Psychiatry
-and the Behavioral Sciences at the Keck School of Medicine of USC. With over two
-decades of experience in pediatric neuropsychology, Dr. Trampush specializes in
-integrating molecular genetics with neuropsychology to understand behavior and
-psychiatric illness risk. His clinical expertise focuses on evaluating and
-diagnosing cognitive, learning, and emotional difficulties in children and young
-adults. He conducts research in molecular genetics,
-neuropsychology, neurodevelopment, and data science, aimed at enhancing our
-comprehension of psychiatric conditions and developmental trajectories."
+description: "Dr. Joey W. Trampush, Ph.D., is the founder and chief neuropsychologist at BrainWorkup, LLC, and an Assistant Professor of Psychiatry and the Behavioral Sciences at the Keck School of Medicine of USC. With over two decades of experience in pediatric neuropsychology, Dr. Trampush specializes in integrating molecular genetics with neuropsychology to understand behavior and psychiatric illness risk. His clinical expertise focuses on evaluating and diagnosing cognitive, learning, and emotional difficulties in children and young adults. He conducts research in molecular genetics, neuropsychology, neurodevelopment, and data science, aimed at enhancing our comprehension of psychiatric conditions and developmental trajectories."
 hide-description: true
 tags:
   - neuropsychology
@@ -19,12 +10,10 @@ tags:
 format: 
   html:
     linkcolor: "#02577B"
-logo: "jwt.webp"
 about:
   template: solana
   image: "jwt.webp"
-sidebar: false
-page-navigation: true
+sidebar: true
 ---  
 
 Joey is the founder and chief neuropsychologist at
@@ -72,3 +61,4 @@ My work offers a unique glimpse into the intersection of
 neuropsychology and genetics, providing valuable insights into the complex
 interactions of the human mind. If you would like to learn more about my work
 and our neuropsychology practice, please send an e-mail to [info@brainworkup.org](mailto:joey.trampush@brainworkup.org).
+
