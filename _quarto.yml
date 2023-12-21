@@ -37,7 +37,7 @@ website:
       show-logo: true
   page-footer:
     left: |
-      [![](logo4.svg){fig-alt="brainworkup" width=115px}](https://brainworkup.org) 
+      [![](logo4.svg){fig-alt="brainworkup" width=105px}](https://brainworkup.org) 
       &copy; 2023 joey trampush @ brainworkup
     center:
       - text: 'About'
