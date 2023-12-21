@@ -6,7 +6,6 @@ description: "An overview of the forensic neuropsychological and medicolegal ser
 hide-description: true
 format:
   html:
-    linkcolor: "#02577B"
     page-layout: article
 tags:
   - forensic neuropsychology

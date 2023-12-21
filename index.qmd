@@ -3,16 +3,15 @@ title: "BrainWorkup Neuropsychology, LLC"
 subtitle: | 
   Clinical Neuropsychology Practice \
   **Joey Trampush, PhD**
+description: "Clinical Neuropsychology Practice in Los Angeles, California founded by Joey Trampush, PhD."
+hide-description: true
 format:
   html:
-    linkcolor: "#02577B"
     page-layout: full
 about:
   template: trestles
   image: images/card2.webp
 css: index.css
-description: "Clinical Neuropsychology Practice in Los Angeles, California founded by Joey Trampush, PhD."
-hide-description: true
 sidebar: false
 lightbox: true
 tags:
@@ -26,41 +25,27 @@ tags:
   - brain
   - work-up
   - workup
+repo-actions: false
 ---
 
 ## About
 
-At BrainWorkup, we believe in the power of understanding. Understanding our
-brain and its unique strengths and weaknesses is the key to unlocking our full
-potential. We take a collaborative approach, working with you, your family, and
-other providers to unravel the mysteries of your cognitive landscape. We are
-your trusted partner in understanding and supporting the unique journeys of
-children, adolescents, and adults. 
-
-We provide comprehensive neuropsychological assessments and tailored interventions, empowering individuals and families to thrive. Our neuropsychology practice is committed to providing thorough, evidence-informed neuropsychological assessments for children, adolescents, and adults. Our expertise covers a broad spectrum, from ADHD to learning disabilities to medicolegal cases, ensuring you and/or your child receive the best care possible.
+BrainWorkup is dedicated to understanding individual cognitive strengths and
+weaknesses, working collaboratively with you and your family. We offer
+comprehensive neuropsychological assessments, diagnostic clarification, and individualized treatment planning
+for children, adolescents, and adults. Our expertise spans from ADHD to learning
+disabilities and medicolegal cases, ensuring optimal care.
 
 ## Services Tailored for Developing Minds
 
-- **Comprehensive Neuropsychological Evaluations:** Dive deep into understanding
-your or your child's cognitive landscape.
+- **Comprehensive Neurocognitive Examination:** Dive deep into understanding
+your or your child's neurocognitive landscape and brain-based behavioral difficulties.
 
 - **Targeted Consultation and Advice:** Customized support for individuals and families, fostering optimal growth.
 
-- **Continued Care and Guidance:** We're here for the long haul, offering ongoing assistance to adapt to your child's evolving needs.
+- **Continued Care and Guidance:** We're here for the long haul, offering
+ongoing assistance to adapt to your or your child's evolving needs.
 
-<!-- ## Contact to Connect
-
-Please contact us with any questions or to obtain neuropsychological services.
-[Reach out](docs/contact/index.qmd) to start a conversation! -->
-
-<!-- ## Learn More
-
-Learn about our recent articles and posts: [Blog](docs/blog/index.qmd)
-
-Connect with us on Fosstodon:
-[\@brainworkup\@fosstodon.org](https://fosstodon.org/@brainworkup). -->
-
-<!-- <a rel="me" href="https://fosstodon.org/@brainworkup">Mastodon</a> -->
 
 <!-- ## Meet Dr. Trampush
 
@@ -74,11 +59,12 @@ Connect with us on Fosstodon:
 
 ## Contact to Connect
 
+Get in touch with us to see how we can help you and your family with our
+clinical services.
+
+[Schedule a Consultation](docs/contact/index.qmd)
+
 Stay connected with the latest insights and resources:
 
 - [Subscribe to Our Blog](docs/blog/index.qmd)
 - [Follow Us on Mastodon](https://fosstodon.org/@brainworkup)
-
-Contact us to explore how we can help you or your loved one reach their full potential.
-
-[Schedule a Consultation](docs/contact/index.qmd)

@@ -10,8 +10,7 @@ tags:
   - brain work-up
 format:
   html:
-    linkcolor: "#02577B"
-    page-layout: full
+    page-layout: full #article
 lightbox: true
 about:
   template: solana
@@ -21,21 +20,17 @@ from: markdown+emoji
 repo-actions: false
 ---
 
-## Welcome! :wave:
+## Welcome :wave:
 
-I am the founder and chief neuropsychologist at [BrainWorkup Neuropsychology, LLC]. I also hold a position as an Assistant Professor in the [Department of Psychiatry and the Behavioral Sciences] at the [Keck School of Medicine of USC].
+Thank you for taking the time to visit our site!
 
-With nearly two decades of experience in both research and clinical practice, I have cultivated a unique expertise at the nexus of neuropsychology, psychiatric genetics, and data science.
-My journey has been marked by a relentless pursuit of knowledge and understanding.
+I am the founder and chief neuropsychologist at BrainWorkup Neuropsychology,
+LLC, and an Assistant Professor at the Keck School of Medicine of USC's
+Department of Psychiatry and the Behavioral Sciences. My primary goal is to provide diagnostic clarity for children and adults, helping them gain a deeper understanding of themselves and their potential.
 
-In my capacity as a clinical pediatric neuropsychologist, I have dedicated over ten years to the evaluation and diagnosis of cognitive, learning, and emotional difficulties in children and young adults.
-Concurrently, my research has delved deep into the genetic foundations of behavior and mental health for over 15 years.
+My two-decade career spans research and clinical practice, focusing on neuropsychology, psychiatric genetics, and data science. As a clinical pediatric neuropsychologist, I've spent over a decade diagnosing cognitive and emotional difficulties in children and young adults, while my research investigates the genetic underpinnings of behavior and mental health.
 
-My contributions to the field are reflected in many high-impact peer-reviewed articles and book chapters that I have authored.
-I am also a recipient of funding from the National Institutes of Health (NIH).
-
-I maintain active memberships with esteemed organizations such as the [American Psychological Association], the [International Neuropsychological Society], and the [Society for Biological Psychiatry].
-Lastly, I am a licensed psychologist in the States of California and New York.
+My work is published in numerous high-impact journals, and I am involved in multiple federally-funded research projects with colleagues at USC and CHLA. I'm a member of the American Psychological Association, the International Neuropsychological Society, and the Society for Biological Psychiatry, and a licensed psychologist in California and New York.
 
 ## Education/Training
 
@@ -63,15 +58,6 @@ Lastly, I am a licensed psychologist in the States of California and New York.
 
     -   **B.A., Psychology, Minor: Sociology**
 
-```{=html}
-<!-- - Mater Dei High School, Santa Ana, CA (1995)
-  - High School Diploma -->
-```
-```{=html}
-<!-- ## Specialization and Expertise
-
-As a clinician, my expertise lies in developmental neuropsychology, where I focus on diagnosing cognitive, learning, and emotional difficulties. My primary goal is to provide diagnostic clarity for children and young adults, helping them gain a deeper understanding of themselves and their potential. -->
-```
 ## Research Interests
 
 As a researcher, I operate at the confluence of neuropsychology and genetics, striving to comprehend how molecular genetics influence behavior and the risk for psychiatric illness.
@@ -87,12 +73,25 @@ My approach is grounded in the utilization of open-source data science tools, al
 
 ## Contact Me
 
-My work offers a unique glimpse into the intersection of neuropsychology and neuroscience, providing valuable insights into the complex interactions of the human mind.
-If you would like to learn more about my work and our neuropsychology practice, please visit the [contact] page or send an e-mail to:
+My work offers a unique glimpse into the intersection of neuropsychology and
+neuroscience, providing valuable insights into the complex interactions of the
+human mind. If you would like to learn more about my work and our
+neuropsychology practice, please visit the [contact] page or send an e-mail to
+[info\@brainworkup.org](mailto:info@brainworkup.org).
 
-> [info\@brainworkup.org].
+Sincerely,
 
-\~ JWT
+![](jwt_phd.webp){width="25%"}
+
+
+**Joey Trampush, PhD**\
+Chief Neuropsychologist\
+Assistant Professor of Psychiatry\
+Department of Psychiatry and the Behavioral Sciences\
+Keck School of Medicine of USC\
+CA License PSY29212
+
+
 
   [BrainWorkup Neuropsychology, LLC]: https://brainworkup.org
   [Department of Psychiatry and the Behavioral Sciences]: https://keck.usc.edu/psychiatry/

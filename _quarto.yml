@@ -37,6 +37,7 @@ website:
       show-logo: true
   page-footer:
     left: |
+      [![](logo4.svg){fig-alt="brainworkup" width=115px}](https://brainworkup.org) 
       &copy; 2023 joey trampush @ brainworkup
     center:
       - text: 'About'
@@ -45,7 +46,6 @@ website:
         href: docs/faq/index.qmd
       - text: 'Contact'
         href: docs/contact/index.qmd
-      - href: logo3.svg
     right:
       - icon: github
         href: https://github.com/brainworkup/brainworkup
@@ -199,7 +199,7 @@ format:
     fontsize: 1.2em
     linestretch: 1.14
     highlight-style: dracula
-    linkcolor: '#02577B'
+    linkcolor: '#1e2e51'
     link-external-icon: true
     link-external-newwindow: true
     fig-align: center

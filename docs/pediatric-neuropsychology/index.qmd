@@ -7,7 +7,6 @@ hide-description: false
 lightbox: true
 format:
   html:
-    linkcolor: "#02577B"
     page-layout: article
 about:
   id: hero-heading

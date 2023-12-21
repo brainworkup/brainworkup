@@ -4,7 +4,6 @@ description: "An overview of the specific disorders we have expertise in."
 hide-description: false
 format:
   html:
-    linkcolor: "#02577B"
     page-layout: article
 tags:
   - ADHD
