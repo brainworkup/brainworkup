@@ -8,7 +8,7 @@ project:
 
 website:
   title: 'Joey Trampush, PhD @ Brainworkup Neuropsychology, LLC'
-  image: '/images/card2.webp'
+  image: 'logo.png'
   favicon: 'logo.ico'
   open-graph: true
   twitter-card:

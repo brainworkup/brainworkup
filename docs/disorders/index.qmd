@@ -1,9 +1,8 @@
 ---
-title: Expertise
+title: Our Expertise
 description: "An overview of the specific disorders we have expertise in."
 hide-description: true
 format: html
-logo: "disorders.webp"
 tags:
   - ADHD
   - dyslexia
@@ -25,7 +24,7 @@ about:
   template: marquee
   image: disorders.webp
   image-shape: rounded
-  image-width: 95%
+  image-width: 90%
 sidebar: true
 ---
 
