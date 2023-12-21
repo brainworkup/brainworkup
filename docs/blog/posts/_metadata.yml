@@ -1,5 +1,6 @@
 title-block-banner: true
 title-block-banner-color: body
+toc: false
 toc-location: left
 format:
   html:

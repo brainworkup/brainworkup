@@ -76,12 +76,12 @@ My approach is grounded in the utilization of open-source data science tools, al
 My work offers a unique glimpse into the intersection of neuropsychology and
 neuroscience, providing valuable insights into the complex interactions of the
 human mind. If you would like to learn more about my work and our
-neuropsychology practice, please visit the [contact] page or send an e-mail to
-[info\@brainworkup.org](mailto:info@brainworkup.org).
+neuropsychology practice, please visit the ([contact](../contact/index.qmd)) page or send an e-mail to
+[info@brainworkup.org](mailto:info@brainworkup.org).
 
 Sincerely,
 
-![](jwt_phd.webp){width="25%"}
+![](/jwt_phd.png){width="25%" fig-alt="signature"}
 
 
 **Joey Trampush, PhD**\
@@ -100,4 +100,3 @@ CA License PSY29212
   [International Neuropsychological Society]: https://www.the-ins.org/
   [Society for Biological Psychiatry]: https://www.sobp.org/
   [contact]: ../contact/index.qmd#general-information
-  [info\@brainworkup.org]: mailto:joey.trampush@brainworkup.org

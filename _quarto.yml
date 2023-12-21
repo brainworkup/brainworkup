@@ -35,9 +35,13 @@ website:
       search-only-api-key: 88aa5eda961e038670ae6e8aa6e60687
       analytics-events: true
       show-logo: true
+      index-fields:
+        href: https://brainworkup.org/docs/search/index.html
+        section: sec
+        text: body
   page-footer:
     left: |
-      ![](logo4.svg){fig-alt="brainworkup" width=105px} &copy; 2023 joey trampush @ brainworkup
+      ![](/logo4.svg){fig-alt="brainworkup" width=95px} &copy; 2023 joey trampush @ brainworkup
     center:
       - text: 'About'
         href: docs/about/joey-trampush.qmd
@@ -72,8 +76,6 @@ website:
         href: docs/about/joey-trampush.qmd
       - text: 'Neuropsychological Services'
         href: docs/clinical-services/index.qmd
-      # - text: 'Research'
-      #   href: docs/research/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
       - text: 'Contact'
