@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact
 description: "Contact information for Joey Trampush, PhD @ BrainWorkup Neuropsychology, LLC."
 hide-description: true
 tags:
@@ -17,8 +17,8 @@ format:
 form:
   id: ContactFormID
   submit: "Submit"
-  action: "javascript:submit()"
-  # action: "/action_page.php"
+  # action: "javascript:submit()"
+  action: contact_form.php
   method: "post"
   fields:
   - name: Text1
@@ -39,8 +39,8 @@ form:
     id: textarea1
     type: textarea
     label: "In your own words, please describe your reason for contacting us."
-    width: 40 #in rows
-    height: 5 #in cols
+    width: 30 #in rows
+    height: 30 #in cols
 ---
 
 ## General Information
@@ -56,7 +56,7 @@ Email is the fastest way to contact us.
 
 ## Office Location
 
-Brainworkup Neuropsychology Clinic, LLC\
+**Brainworkup Neuropsychology Clinic, LLC**\
 4136 Del Rey Avenue\
 Suite 661\
 Marina Del Rey, CA 90292\
@@ -70,4 +70,4 @@ For additional questions or to schedule a consultation online, please use our co
 [Online Inquiry Form](https://forms.gle/UNx9qUcihytE63qt5)
 
 
-<!-- {{< form >}} -->
+{{< form >}}
