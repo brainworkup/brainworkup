@@ -71,7 +71,7 @@ For additional questions or to schedule a consultation online, please use our co
 
 <!-- {{< form >}} -->
 
-#### Form submission
+<!-- #### Form submission
 
 <form name="contact" netlify>
   <p>
@@ -83,4 +83,4 @@ For additional questions or to schedule a consultation online, please use our co
   <p>
     <button type="submit">Send</button>
   </p>
-</form>
+</form> -->

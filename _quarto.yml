@@ -23,7 +23,7 @@ website:
   page-navigation: true
   bread-crumbs: true
   google-analytics: 'G-HW85H7H8P6'
-  back-to-top-navigation: true
+  back-to-top-navigation: false
   reader-mode: false
   search:
     location: navbar
@@ -179,6 +179,7 @@ format:
     toc-title: '**On this page**'
     theme:
       light: [cosmo, theme.scss]
+      dark: [solar]
     css: styles.css
     include-after-body: js.html
     code-copy: true
