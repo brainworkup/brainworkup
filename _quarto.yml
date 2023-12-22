@@ -6,8 +6,8 @@ project:
     browser: true
 
 website:
-  image: 'logo.png'
-  favicon: 'logo.ico'
+  image: bwu-logo-transparent.png
+  favicon: neural.png
   open-graph: true
   twitter-card:
     creator: '@brainworkup'
@@ -45,7 +45,7 @@ website:
       ![](/logo.webp){fig-alt="brainworkup" width=85px} &copy; 2023 joey trampush @ brainworkup
     center:
       - text: 'About'
-        href: docs/about/joey-trampush.qmd
+        href: docs/joey-trampush/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
       - text: 'Contact'
@@ -68,13 +68,13 @@ website:
         aria-label: RSS
 
   navbar:
-    title: 'brainworkup'
+    title: brainworkup
     background: dark
     foreground: light
     collapse-below: lg
     left:
       - text: 'Dr Trampush'
-        href: docs/about/joey-trampush.qmd
+        href: docs/joey-trampush/index.qmd
       - text: 'Neuropsychological Services'
         href: docs/clinical-services/index.qmd
       - text: 'FAQ'
@@ -117,7 +117,7 @@ website:
       collapse-level: 1
       align: left
       contents:
-        - docs/about/joey-trampush.qmd
+        - docs/joey-trampush/index.qmd
 
     - id: clinical-services
       collapse-level: 3

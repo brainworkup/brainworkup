@@ -11,15 +11,14 @@ tags:
   - forensic neuropsychology
   - medicolegal
 about:
-  id: hero-heading
+  id: hero-forensic
   template: marquee
   image: forensic.webp
   image-width: 95%
 sidebar: true
 ---
 
-:::{#hero-heading}
-
+:::{#hero-forensic}
 :::
 
 ## Introduction

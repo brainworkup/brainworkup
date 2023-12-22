@@ -3,22 +3,6 @@ $link-color: #6610f2;
 // $link-color: #39729E;
 $text-muted: #6a737b;
 
-// Colors
-$dark-green: #858E79;
-$light-green: #D1D9CE;
-$cream: #FDFBF7;
-$gray: #64605f;
-$purple: #9158A2;
-$orange: #ad7237;
-
-/* -- define Sass vars --*/
-$darkblue: #053660;
-$teal: #147C91;
-$darkgray: #333333;
-
-// Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
-
 /*-- scss:rules --*/
 
 .layout-example {
@@ -48,13 +32,4 @@ $darkgray: #333333;
   margin-bottom: 0.5rem;
 }
 
-/*-- use vars in CSS rules (we'll learn more about how to write CSS soon!) --*/
-h1 {
-  font-color: $darkblue;
-}
 
-.button-styling {
-  background: $teal;
-  color: $darkblue; 
-  border-color: $darkgray;
-}

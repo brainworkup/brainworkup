@@ -74,3 +74,4 @@ Stay connected with the latest insights and resources:
 
 - [Subscribe to Our Blog](docs/blog/index.qmd)
 - [Follow Us on Mastodon](https://fosstodon.org/@brainworkup)
+

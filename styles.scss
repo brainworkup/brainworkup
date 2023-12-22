@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Nunito+Sans:wght@200&family=Roboto+Mono:wght@300&family=Sanchez&display=swap');
+
+/* -- define Sass vars --*/
+
+// Colors
+$dark-green: #858E79;
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
+
+$darkblue: #053660;
+$teal: #147C91;
+$darkgray: #333333;
+
+// Fonts
+$font-family-serif: 'Sanchez', serif; 
+$font-family-sans-serif: 'Montserrat', sans-serif; 
+$font-family-monospace: 'Roboto Mono', monospace;
+
+/*-- scss:rules --*/
+
+/*-- use vars in CSS rules (we'll learn more about how to write CSS soon!) --*/
+h1 {
+  font-color: $darkblue;
+}
+
+.button-styling {
+  background: $teal;
+  color: $darkblue; 
+  border-color: $darkgray;
+}

@@ -1,6 +1,6 @@
 ---
 title: "Joey W. Trampush, Ph.D."
-image: jwt.jpg
+image: jwt.webp
 subtitle: |
   Chief Neuropsychologist\
   Assistant Professor of Psychiatry\
@@ -12,6 +12,7 @@ toc: false
 aliases:
   - trampush.html
   - about.html
+  - /docs/about/joey-trampush.html
 tags:
   - neuropsychology
   - Joey Trampush
