@@ -11,7 +11,7 @@ format:
 about:
   template: trestles
   image: images/card2.webp
-css: index2.css
+css: index.css
 sidebar: false
 tags:
   - neuropsychology

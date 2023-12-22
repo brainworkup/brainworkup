@@ -176,7 +176,7 @@ format:
     toc-title: '**On this page**'
     theme:
       light: [cosmo, theme.scss]
-    css: styles2.css
+    css: styles.css
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap

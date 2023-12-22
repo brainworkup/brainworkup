@@ -1,7 +1,7 @@
 [[plugins]]
 package = "@algolia/netlify-plugin-crawler"
-  [plugins.inputs]
-  branches = ['main']
+[plugins.inputs]
+branches = ['main']
 
 [[redirects]]
 from = "https://joeytrampush.com/"
@@ -29,6 +29,12 @@ force = true
 
 [[redirects]]
 from = "https://brainworkup.net/"
+to = "https://brainworkup.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.io/"
 to = "https://brainworkup.org/"
 status = 301
 force = true
