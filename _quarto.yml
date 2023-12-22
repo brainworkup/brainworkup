@@ -148,24 +148,11 @@ website:
               contents:
                 - docs/disorders/index.qmd
                 - docs/disorders/adhd.qmd
-                - docs/disorders/dyslexia.qmd
                 - docs/disorders/executive-function.qmd
+                - docs/disorders/dyslexia.qmd
+                - docs/disorders/autism.qmd
                 - docs/disorders/concussion.qmd
                 - docs/disorders/mcat.qmd
-
-    # - id: research
-    #   title: 'Research'
-    #   collapse-level: 2
-    #   contents:
-    #     - section: 'Research'
-    #       href: docs/research/index.qmd
-    #       contents:
-    #         - section: 'Projects'
-    #           contents:
-    #             - docs/projects/index.qmd
-    #         - section: 'Publications'
-    #           contents:
-    #             - docs/publications/index.qmd
 
     - id: faq
       title: 'FAQ'

@@ -3,8 +3,9 @@ title: ADHD
 subtitle: Evaluating ADHD across the lifespan
 description: "An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC."
 hide-description: true
-format: html
-# logo: "adult-services.webp"
+format:
+  html:
+    page-layout: article
 tags:
   - ADHD
   - adult-onset ADHD

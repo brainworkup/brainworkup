@@ -41,11 +41,11 @@
       href: ../disorders/executive-function.qmd
     # - text: OCD and Pathological Perfectionism
     #   href: ../disorders/ocd.qmd
-    # - text: Autism Spectrum Disorder
-    #   href: ../disorders/autism.qmd
     - text: Dyslexia
       href: ../disorders/dyslexia.qmd
-    - text: Sports-Related Concussion
+    - text: Autism
+      href: ../disorders/autism.qmd
+    - text: Sports-Related Concussions
       href: ../disorders/concussion.qmd
-    - text: Testing Accommodations
+    - text: Test Accommodations
       href: ../disorders/mcat.qmd
