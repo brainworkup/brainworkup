@@ -10,7 +10,13 @@ status = 301
 force = true
 
 [[redirects]]
-from = "https://joeytrampush.com/contact"
-to = "https://brainworkup.org/contact"
+from = "https://brainworkup.com/"
+to = "https://brainworkup.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.net/"
+to = "https://brainworkup.org/"
 status = 301
 force = true
