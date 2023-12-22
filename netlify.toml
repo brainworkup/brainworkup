@@ -10,6 +10,18 @@ status = 301
 force = true
 
 [[redirects]]
+from = "www.joeytrampush.com"
+to = "www.brainworkup.org"
+status = 301
+force = true
+
+[[redirects]]
+from = "joeytrampush.com"
+to = "brainworkup.org"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://brainworkup.com/"
 to = "https://brainworkup.org/"
 status = 301

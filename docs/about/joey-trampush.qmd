@@ -6,7 +6,8 @@ description-meta: "Dr. Joey Trampush is the founder and chief neuropsychologist 
 hide-description: true
 aliases:
   - trampush.html
-keywords:
+  - about.html
+tags:
   - neuropsychology
   - Joey Trampush
   - brainworkup
