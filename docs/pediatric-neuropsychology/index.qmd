@@ -13,7 +13,6 @@ about:
   template: marquee
   image: logo-kids.webp
   image-width: 95%
-  image-shape: rounded
 sidebar: true
 ---
 

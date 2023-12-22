@@ -1,19 +1,23 @@
 ---
 title: Frequently Asked Questions
+image: logo-faq.webp
 format:
   html:
     page-layout: article
 repo-actions: false
 about:
+  id: hero-heading
   template: marquee
-  image: logo-faq.webp
-  image-shape: rounded
-  image-width: 45em
+  image-width: 95%
 sidebar: false
 tags:
   - faq
   - brainworkup
 ---
+
+:::{#hero-heading}
+
+:::
 
 ## Overview of the practice 
 
