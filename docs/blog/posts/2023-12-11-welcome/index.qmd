@@ -1,12 +1,12 @@
 ---
 title: "Welcome"
 subtitle: "My Public Autopsy"
-author:
-  - name: Joey Trampush
-    url: https://github.com/brainworkup/
-    orcid: 0000-0003-0830-508X
-    affiliation: USC
-    affiliation-url: https://usc.edu/ 
+# author:
+#   - name: Joey Trampush
+#     url: https://github.com/brainworkup/
+#     orcid: 0000-0003-0830-508X
+#     affiliation: USC
+#     affiliation-url: https://usc.edu/ 
 date: "2023-12-11"
 categories: [brain2]
 image: "biggie.jpg"

@@ -7,14 +7,14 @@ listing:
   contents: "posts/**/index.qmd"
   sort-ui: false
   filter-ui: false
-  categories: numbered #cloud
+  categories: numbered
   feed: true
   date-format: medium
   type: default
 page-layout: full
 margin-header: signup.html
 title-block-banner: true
-title-block-banner-color: body #"#c3d658"
+title-block-banner-color: "#c3d658" #body
 title-block-style: default
 search: false
 sidebar: false

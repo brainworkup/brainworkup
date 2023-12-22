@@ -6,12 +6,10 @@ description:  |
   the wonder of this process, we can become partners in our children's growth,
   nurturing their potential and supporting them to blossom into happy, healthy
   individuals.
-author: "Joey Trampush"
 date: "2023-12-20"
-image: "bad-brain.webp"
+image: cyberpunk.webp
 image-alt: "Here is a futuristic digital wallpaper that captures the theme you're interested in. It features a highly detailed human brain with glowing neural networks and cybernetic enhancements, set against a backdrop of technological elements without any text."
 categories: [neurodevelopment]
-draft: false
 ---
 
 <!-- 

@@ -6,7 +6,6 @@ project:
     browser: true
 
 website:
-  title: 'brainworkup'
   image: 'logo.png'
   favicon: 'logo.ico'
   open-graph: true
