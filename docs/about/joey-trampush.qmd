@@ -1,6 +1,11 @@
 ---
 title: "Joey W. Trampush, Ph.D."
 image: jwt.jpg
+subtitle: |
+  Chief Neuropsychologist\
+  Assistant Professor of Psychiatry\
+  Department of Psychiatry and the Behavioral Sciences\
+  Keck School of Medicine of USC
 description: "Dr. Joey Trampush is the founder and chief neuropsychologist at BrainWorkup, LLC, and an Assistant Professor of Psychiatry and the Behavioral Sciences at the Keck School of Medicine of USC. With over two decades of experience in pediatric neuropsychology, Dr. Trampush specializes in integrating molecular genetics with neuropsychology to understand behavior and psychiatric illness risk. His clinical expertise focuses on evaluating and diagnosing cognitive, learning, and emotional difficulties in children and young adults. He conducts research in molecular genetics, neuropsychology, neurodevelopment, and data science, aimed at enhancing our comprehension of psychiatric conditions and developmental trajectories."
 hide-description: true
 toc: false
