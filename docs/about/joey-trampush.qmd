@@ -85,12 +85,12 @@ My approach is grounded in the utilization of open-source data science tools, al
 My work offers a unique glimpse into the intersection of neuropsychology and
 neuroscience, providing valuable insights into the complex interactions of the
 human mind. If you would like to learn more about my work and our
-neuropsychology practice, please visit the ([contact](../contact/index.qmd)) page or send an e-mail to
-([info@brainworkup.org](mailto:info@brainworkup.org)).
+neuropsychology practice, please visit the [contact](../contact/index.qmd) page or send an e-mail to
+[info@brainworkup.org](mailto:info@brainworkup.org).
 
 Sincerely,
 
-![](/jwt_phd.png){width="25%" fig-alt="signature"}
+![](jwt_phd.png){width="25%" fig-alt="signature"}
 
 
 <!-- **Joey Trampush, PhD**\

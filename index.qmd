@@ -31,8 +31,6 @@ toc: false
 
 ## About
 
---- 
-
 BrainWorkup is dedicated to understanding individual cognitive strengths and
 weaknesses, working collaboratively with you and your family. We offer
 comprehensive neuropsychological assessments, diagnostic clarification, and individualized treatment planning
@@ -42,6 +40,7 @@ disabilities and medicolegal cases, ensuring optimal care.
 ---
 
 ## Services Tailored for Developing Minds
+
 
 - **Comprehensive Neurocognitive Examination:** Dive deep into understanding
 your or your child's neurocognitive landscape and brain-based behavioral difficulties.
@@ -65,6 +64,7 @@ ongoing assistance to adapt to your or your child's evolving needs.
 ---
 
 ## Contact to Connect
+
 
 Get in touch with us to see how we can help you and your family with our
 clinical services.

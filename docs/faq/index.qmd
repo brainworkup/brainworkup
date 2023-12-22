@@ -6,9 +6,9 @@ format:
 repo-actions: false
 about:
   template: marquee
-  image: ../../logo-faq.webp
+  image: logo-faq.webp
   image-shape: rounded
-  image-width: 95%
+  image-width: 45em
 sidebar: false
 tags:
   - faq
@@ -67,7 +67,7 @@ Understanding and monitoring neurocognitive functioning in everyone is critical 
 
 ## Fee Structure
 
-The cost for evaluations varies based on the services required. A standard neuropsychological evaluation may range from $2200-3500, contingent upon referral questions and various other factors. We encourage you to contact our office for further information tailored to your specific situation.
+The cost for evaluations varies based on the services required. A standard neuropsychological evaluation may range from $2,500-4,000, contingent upon referral questions and various other factors. We encourage you to contact our office for further information tailored to your specific situation.
 
 The fee for intervention services and whether the intervention is a covered insurance benefit differ by the type of intervention and a patient’s specific insurance plan. We advise you to reach out to our office with any queries.
 

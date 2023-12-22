@@ -196,7 +196,6 @@ format:
     linkcolor: '#6610f2' #'#590007' #'#2A81BA'
     link-external-icon: true
     link-external-newwindow: true
-    link-external-filter: ^(?:http:|https:)\/\/www\.brainworkup\.org\/custom
     fig-align: center
     author-meta: 'Joey Trampush'
     lightbox: true
