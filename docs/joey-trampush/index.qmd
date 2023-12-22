@@ -1,6 +1,6 @@
 ---
 title: "Joey W. Trampush, Ph.D."
-image: jwt.webp
+image: jwt.jpg
 subtitle: |
   Chief Neuropsychologist\
   Assistant Professor of Psychiatry\
