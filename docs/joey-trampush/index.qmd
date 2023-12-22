@@ -13,6 +13,7 @@ aliases:
   - trampush.html
   - about.html
   - /docs/about/joey-trampush.html
+  - joeytrampush.com/docs/trampush/index.html
 tags:
   - neuropsychology
   - Joey Trampush
@@ -96,7 +97,7 @@ neuropsychology practice, please visit the [contact](../contact/index.qmd) page 
 
 Sincerely,
 
-![](jwt_phd.png){width="25%" fig-alt="signature"}
+![](jwt_phd.png){width="33%" fig-alt="signature"}
 
 
 <!-- **Joey Trampush, PhD**\
