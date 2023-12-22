@@ -150,6 +150,7 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 </item>
 <item>
   <title>Welcome</title>
+  <dc:creator>Joey Trampush, PhD</dc:creator>
   <dc:creator>Joey Trampush</dc:creator>
   <link>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</link>
   <description><![CDATA[ 
@@ -173,15 +174,16 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{trampush2023,
-  author = {Trampush, Joey},
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{trampush, phd2023,
+  author = {Trampush, PhD, Joey and Trampush, Joey},
   title = {Welcome},
   date = {2023-12-11},
   url = {https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-trampush2023" class="csl-entry quarto-appendix-citeas">
-Trampush, Joey. 2023. <span>“Welcome.”</span> December 11, 2023. <a href="https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/">https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/</a>.
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-trampush, phd2023" class="csl-entry quarto-appendix-citeas">
+Trampush, PhD, Joey, and Joey Trampush. 2023. <span>“Welcome.”</span>
+December 11, 2023. <a href="https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/">https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/</a>.
 </div></div></section></div> ]]></description>
   <category>brain2</category>
   <guid>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</guid>
