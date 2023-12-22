@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-contrib/forms/forms.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
-  "copy-button": false,
+  "copy-button": true,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
@@ -209,7 +209,10 @@ function submit() {
   <ul>
   <li><a href="#general-information" id="toc-general-information" class="nav-link active" data-scroll-target="#general-information">General Information</a></li>
   <li><a href="#office-location" id="toc-office-location" class="nav-link" data-scroll-target="#office-location">Office Location</a></li>
-  <li><a href="#online-inquiry" id="toc-online-inquiry" class="nav-link" data-scroll-target="#online-inquiry">Online Inquiry</a></li>
+  <li><a href="#online-inquiry" id="toc-online-inquiry" class="nav-link" data-scroll-target="#online-inquiry">Online Inquiry</a>
+  <ul>
+  <li><a href="#form-submission" id="toc-form-submission" class="nav-link" data-scroll-target="#form-submission">Form submission</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -269,8 +272,24 @@ Marina Del Rey, CA 90292<br>
 <p>For additional questions or to schedule a consultation online, please use our convenient inquiry form:</p>
 <p><a href="https://forms.gle/UNx9qUcihytE63qt5">Online Inquiry Form</a></p>
 <!--  -->
+<section id="form-submission" class="level4">
+<h4 class="anchored" data-anchor-id="form-submission">Form submission</h4>
+<form name="contact" netlify="">
+<p>
+<label>Name <input type="text" name="name"></label>
+</p>
+<p>
+<label>Email <input type="email" name="email"></label>
+</p>
+<p>
+<button type="submit">
+Send
+</button>
+</p>
+</form>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->

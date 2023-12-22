@@ -27,8 +27,10 @@ website:
   back-to-top-navigation: true
   reader-mode: false
   search:
-    show-item-context: true
+    location: navbar
     type: overlay
+    copy-button: true
+    show-item-context: true
     algolia:
       index-name: netlify_104efd43-d6ca-45be-b3cc-806c026e306c_main_all
       application-id: MUSKCL25U0
