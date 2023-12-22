@@ -6,7 +6,7 @@ project:
     browser: true
 
 website:
-  image: /bwu-logo-transparent.png
+  image: /images/brainspace.webp
   favicon: /favicon.io.png
   open-graph: true
   twitter-card:

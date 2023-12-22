@@ -10,7 +10,7 @@ format:
     page-layout: full
 about:
   template: trestles
-  image: images/card2.webp
+  image: /images/brainspace.webp
 css: index.css
 sidebar: false
 tags:
