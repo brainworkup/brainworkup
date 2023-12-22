@@ -26,15 +26,20 @@ tags:
   - work-up
   - workup
 repo-actions: false
+toc: false
 ---
 
 ## About
+
+--- 
 
 BrainWorkup is dedicated to understanding individual cognitive strengths and
 weaknesses, working collaboratively with you and your family. We offer
 comprehensive neuropsychological assessments, diagnostic clarification, and individualized treatment planning
 for children, adolescents, and adults. Our expertise spans from ADHD to learning
 disabilities and medicolegal cases, ensuring optimal care.
+
+---
 
 ## Services Tailored for Developing Minds
 
@@ -56,6 +61,8 @@ ongoing assistance to adapt to your or your child's evolving needs.
 - **Unlocking Learning Potential: Strategies for ADHD**
 - **The Neuropsychology of Resilience: Building Strength in Challenging Times**
 - **Understanding Brain Development: A Guide for Parents** -->
+
+---
 
 ## Contact to Connect
 

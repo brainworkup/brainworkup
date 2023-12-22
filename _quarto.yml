@@ -1,5 +1,4 @@
 project:
-  title: 'brainworkup'
   type: website
   output-dir: _site
   preview:
@@ -7,7 +6,7 @@ project:
     browser: true
 
 website:
-  title: 'Joey Trampush, PhD @ Brainworkup Neuropsychology, LLC'
+  title: 'brainworkup'
   image: 'logo.png'
   favicon: 'logo.ico'
   open-graph: true
