@@ -11,9 +11,8 @@ format:
 about:
   template: trestles
   image: images/card2.webp
-css: index.css
+css: index2.css
 sidebar: false
-lightbox: true
 tags:
   - neuropsychology
   - forensic neuropsychology

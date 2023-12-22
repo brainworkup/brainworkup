@@ -121,7 +121,6 @@ website:
         - docs/about/joey-trampush.qmd
 
     - id: clinical-services
-      search: true
       collapse-level: 3
       contents:
         - section: 'Neuropsychological Services'
@@ -169,8 +168,6 @@ website:
 
 bibliography: refs.bib
 
-search: true
-
 format:
   html:
     toc: true
@@ -179,7 +176,7 @@ format:
     toc-title: '**On this page**'
     theme:
       light: [cosmo, theme.scss]
-    css: styles.css
+    css: styles2.css
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap
@@ -193,7 +190,7 @@ format:
     linestretch: 1.14
     highlight-style: dracula
     fontcolor: '#181818'
-    linkcolor: '#6610f2' #'#590007' #'#2A81BA'
+    linkcolor: '#6610f2'
     link-external-icon: true
     link-external-newwindow: true
     fig-align: center

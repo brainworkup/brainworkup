@@ -6,6 +6,5 @@ format:
   html:
     include-after-body:
       - ../signup.html
-search: false
 sidebar: false
 author: Joey Trampush, PhD

@@ -16,7 +16,7 @@ margin-header: signup.html
 title-block-banner: true
 title-block-banner-color: body #"#c3d658"
 title-block-style: default
-search: true
+search: false
 sidebar: false
 ---
 

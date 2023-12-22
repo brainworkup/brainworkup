@@ -26,7 +26,6 @@ about:
   id: hero-heading
   template: marquee
   image: disorders.webp
-  image-shape: rounded
   image-width: 95%
 sidebar: true
 ---

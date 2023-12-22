@@ -51,11 +51,6 @@ div.description {
   --bs-table-striped-bg: var(--bs-table-bg);
 }
 
-/* .about-image img {
-  width: 70%;
-  height: 70%; /* or set a specific height */
-} */
-
 .quarto-figure-center > figure > figcaption {
   text-align: center;
 }
