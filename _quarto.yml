@@ -6,8 +6,8 @@ project:
     browser: true
 
 website:
-  image: bwu-logo-transparent.png
-  favicon: favicon.png
+  image: /bwu-logo-transparent.png
+  favicon: /favicon.io.png
   open-graph: true
   twitter-card:
     creator: '@brainworkup'
