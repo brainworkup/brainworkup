@@ -143,7 +143,7 @@ website:
                 - docs/forensic-neuropsychology/mental-health-diversion.qmd
             - section: '**Specific Disorders**'
               contents:
-                - docs/disorders/index.qmd
+                # - docs/disorders/index.qmd
                 - docs/disorders/adhd.qmd
                 - docs/disorders/executive-function.qmd
                 - docs/disorders/dyslexia.qmd
@@ -164,8 +164,6 @@ website:
       contents:
         - section: 'Contact Us'
           href: docs/contact/index.qmd
-
-bibliography: refs.bib
 
 format:
   html:
@@ -196,6 +194,7 @@ format:
     author-meta: 'Joey Trampush'
     lightbox: true
 
+bibliography: refs.bib
 metadata-files: [brain2.yml]
 
 execute:

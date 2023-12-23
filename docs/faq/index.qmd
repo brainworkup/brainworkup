@@ -1,23 +1,21 @@
 ---
 title: Frequently Asked Questions
 image: logo-faq.webp
+image-width: 50%
+image-height: 50%
 format:
   html:
     page-layout: article
 repo-actions: false
-about:
-  id: hero-heading
-  template: marquee
-  image-width: 95%
 sidebar: false
 tags:
   - faq
   - brainworkup
+# title-block-banner: true
+# title-block-banner-color: '#d7c1fc'
+# title-block-style: default
 ---
-
-:::{#hero-heading}
-
-:::
+![](logo-faq.webp "FAQ")
 
 ## Overview of the practice 
 

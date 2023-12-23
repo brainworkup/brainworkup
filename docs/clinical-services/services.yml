@@ -33,8 +33,8 @@
 - title: 'Specific Disorders'
   subtitle: 'We have unique expertise in evaluating the disorders described below'
   links:
-    - text: Overview
-      href: ../disorders/index.qmd
+    # - text: Overview
+    #   href: ../disorders/index.qmd
     - text: ADHD
       href: ../disorders/adhd.qmd
     - text: Executive Dysfunction
