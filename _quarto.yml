@@ -8,7 +8,7 @@ project:
 website:
   title: brainworkup
   image: logo4.png
-  favicon: /favicon.io.png
+  favicon: favicon.io.png
   open-graph: true
   twitter-card:
     creator: '@brainworkup'
