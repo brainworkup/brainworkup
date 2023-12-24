@@ -138,7 +138,7 @@ theme_merge <-
 
 ```{r}
 #| label: plot1
-#| include: true
+#| include: false
 #| fig-cap: Drilldown from broad to narrow neurocognitive domains.
 #| fig-width: 12
 #| fig-height: 8
