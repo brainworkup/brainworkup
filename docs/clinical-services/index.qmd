@@ -17,7 +17,7 @@ listing:
 sidebar: true
 ---
 
-::: {#services-links .column-screen-inset-right style="max-width: 850px;"}
+::: {#services-links .column-screen-inset-right style="max-width: 900px;"}
 :::
 
 

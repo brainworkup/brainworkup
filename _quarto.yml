@@ -172,7 +172,7 @@ format:
     toc-expand: 1
     toc-title: '**On this page**'
     theme:
-      light: [src/cosmo, src/theme.scss]
+      light: [cosmo, src/theme.scss]
     css: src/styles.css
     include-after-body: js.html
     code-copy: true

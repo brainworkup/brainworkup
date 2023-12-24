@@ -4,6 +4,6 @@ project:
 
 website:
   title: brainworkup
-  site-url: 'https://brainworkup.org/'
-  description: Brainworkup Neuropsychology Practice, Los Angeles, California
-  repo-url: 'https://github.com/brainworkup/brainworkup/'
+  site-url: https://brainworkup.org/
+  description: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
+  repo-url: https://github.com/brainworkup/brainworkup/
