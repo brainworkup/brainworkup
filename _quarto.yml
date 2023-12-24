@@ -6,7 +6,7 @@ project:
     browser: true
 
 website:
-  title: Joey Trampush
+  title: 'Joey Trampush'
   image: logo4.png
   favicon: favicon.io.png
   open-graph: true
@@ -43,7 +43,7 @@ website:
         text: body
   page-footer:
     left: |
-      ![](/logo.webp){fig-alt="brainworkup" width=85px} &copy; 2023 joey trampush @ brainworkup
+      MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
     center:
       - text: 'About'
         href: docs/joey-trampush/index.qmd

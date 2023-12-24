@@ -10,8 +10,10 @@ format:
     page-layout: full
 about:
   template: trestles
-  image: /images/brainspace.webp
+  image: /images/brainspace.webp  
 css: index.css
+image-width: 20em
+image-height: 20em
 sidebar: false
 tags:
   - neuropsychology
