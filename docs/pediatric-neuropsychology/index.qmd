@@ -8,16 +8,16 @@ lightbox: true
 format:
   html:
     page-layout: article
+image: logo-kids.webp
+image-height: 5em
+image-width: 5em
 about:
   id: hero-heading
   template: marquee
-  image: logo-kids.webp
-  image-width: 95%
 sidebar: true
 ---
 
 :::{#hero-heading}
-
 :::
 
 ## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 

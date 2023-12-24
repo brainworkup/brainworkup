@@ -257,6 +257,17 @@
     ]
   },
   {
+    "objectID": "docs/joey-trampush/index.html#research-interests",
+    "href": "docs/joey-trampush/index.html#research-interests",
+    "title": "Joey W. Trampush, Ph.D.",
+    "section": "Research Interests",
+    "text": "Research Interests\nAs a researcher, I operate at the confluence of neuropsychology and genetics, striving to comprehend how molecular genetics influence behavior and the risk for psychiatric illness. My approach is grounded in the utilization of open-source data science tools, allowing my colleagues and I to delve into the complex interactions between genetics and neuropsychology.\n\nMolecular Genetics: Exploring the genetic underpinnings of behavior and mental health.\nNeuropsychology: Delving into the cognitive aspects of mental health conditions.\nNeurodevelopment: Understanding how the brain develops and changes from childhood into adulthood.\nData Science: Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.",
+    "crumbs": [
+      "Dr Trampush",
+      "Joey W. Trampush, Ph.D."
+    ]
+  },
+  {
     "objectID": "docs/joey-trampush/index.html#contact-me",
     "href": "docs/joey-trampush/index.html#contact-me",
     "title": "Joey W. Trampush, Ph.D.",
@@ -518,11 +529,22 @@
     ]
   },
   {
+    "objectID": "docs/contact/index.html",
+    "href": "docs/contact/index.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "If you have questions or want to schedule a consultation, feel free to reach out. We’re here to assist you.\nPhone: (213) 495-1155\nEmail: info@brainworkup.org\n\n\n\n\n\n\nNote\n\n\n\nEmail is the fastest way to contact us.",
+    "crumbs": [
+      "Contact",
+      "Contact Us"
+    ]
+  },
+  {
     "objectID": "docs/contact/index.html#general-information",
     "href": "docs/contact/index.html#general-information",
     "title": "Contact Us",
-    "section": "General Information",
-    "text": "General Information\nIf you have questions or want to schedule a consultation, feel free to reach out. We’re here to assist you.\nPhone: (213) 495-1155\nEmail: info@brainworkup.org\n\n\n\n\n\n\nNote\n\n\n\nEmail is the fastest way to contact us.",
+    "section": "",
+    "text": "If you have questions or want to schedule a consultation, feel free to reach out. We’re here to assist you.\nPhone: (213) 495-1155\nEmail: info@brainworkup.org\n\n\n\n\n\n\nNote\n\n\n\nEmail is the fastest way to contact us.",
     "crumbs": [
       "Contact",
       "Contact Us"
@@ -1155,14 +1177,14 @@
     "href": "index.html",
     "title": "BrainWorkup Neuropsychology, LLC",
     "section": "",
-    "text": "BrainWorkup is dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family. We offer comprehensive neuropsychological assessments, diagnostic clarification, and individualized treatment planning for children, adolescents, and adults. Our expertise spans from ADHD to learning disabilities and medicolegal cases, ensuring optimal care."
+    "text": "Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "BrainWorkup Neuropsychology, LLC",
     "section": "",
-    "text": "BrainWorkup is dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family. We offer comprehensive neuropsychological assessments, diagnostic clarification, and individualized treatment planning for children, adolescents, and adults. Our expertise spans from ADHD to learning disabilities and medicolegal cases, ensuring optimal care."
+    "text": "Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family."
   },
   {
     "objectID": "index.html#services-tailored-for-developing-minds",
@@ -1170,6 +1192,13 @@
     "title": "BrainWorkup Neuropsychology, LLC",
     "section": "Services Tailored for Developing Minds",
     "text": "Services Tailored for Developing Minds\n\nComprehensive Neurocognitive Examination: Dive deep into understanding your or your child’s neurocognitive landscape and brain-based behavioral difficulties.\nTargeted Consultation and Advice: Customized support for individuals and families, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your or your child’s evolving needs."
+  },
+  {
+    "objectID": "index.html#data-driven-assessment-and-interpretation",
+    "href": "index.html#data-driven-assessment-and-interpretation",
+    "title": "BrainWorkup Neuropsychology, LLC",
+    "section": "Data-Driven Assessment and Interpretation",
+    "text": "Data-Driven Assessment and Interpretation\nWe use the latest data analytic and data visualization tools to help us interpret and make sense of all the neuropsychological and behavioral data you provide throughout the evaluation to understand your or your child’s unique neurocognitive profile. We then translate these data into actionable insights to help you and your family gain novel insights about your concerns.\n\n\n\n\nDrilldown from broad to narrow neurocognitive domains."
   },
   {
     "objectID": "index.html#contact-to-connect",

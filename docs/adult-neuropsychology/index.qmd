@@ -14,14 +14,13 @@ tags:
 about:
   id: hero-heading-adult
   template: marquee
-  image: "adults.webp"
+  image: adults.webp
   image-shape: rounded
   image-width: 95%
 sidebar: true
 ---
 
 :::{#hero-heading-adult}
-
 :::
 
 ## Purpose of Neuropsychological Testing

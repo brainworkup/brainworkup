@@ -1,19 +1,21 @@
 ---
-title: "Joey W. Trampush, Ph.D."
+title: Joey W. Trampush, Ph.D.
 image: jwt.jpg
+image-width: 5em
+image-height: 5em
 subtitle: |
   Chief Neuropsychologist\
   Assistant Professor of Psychiatry\
   Department of Psychiatry and the Behavioral Sciences\
   Keck School of Medicine of USC
-description: "Dr. Joey Trampush is the founder and chief neuropsychologist at BrainWorkup, LLC, and an Assistant Professor of Psychiatry and the Behavioral Sciences at the Keck School of Medicine of USC. With over two decades of experience in pediatric neuropsychology, Dr. Trampush specializes in integrating molecular genetics with neuropsychology to understand behavior and psychiatric illness risk. His clinical expertise focuses on evaluating and diagnosing cognitive, learning, and emotional difficulties in children and young adults. He conducts research in molecular genetics, neuropsychology, neurodevelopment, and data science, aimed at enhancing our comprehension of psychiatric conditions and developmental trajectories."
+description: "Joey Trampush, PhD, is the founder and chief neuropsychologist at BrainWorkup, LLC. He is an Assistant Professor of Psychiatry and the Behavioral Sciences at the Keck School of Medicine of USC."
 hide-description: true
 toc: false
 aliases:
   - trampush.html
   - about.html
   - /docs/about/joey-trampush.html
-  - joeytrampush.com/docs/trampush/index.html
+  - joeytrampush.com/docs/joey-trampush/index.html
 tags:
   - neuropsychology
   - Joey Trampush
@@ -24,17 +26,17 @@ format:
   html:
     page-layout: full
 about:
-  template: trestles #solana
-  image-width: 20em
+  id: about
+  template: trestles
   image-shape: round
   links:
-    - text: github
+    - icon: github
       href: https://github.com/brainworkup/brainworkup
     - icon: twitter
       href: https://twitter.com/brainworkup
     - icon: linkedin
       href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-    - text: Email
+    - icon: envelope
       href: mailto:joey.trampush@brainworkup.org
 sidebar: false
 from: markdown+emoji
@@ -44,8 +46,8 @@ repo-actions: false
 ## Welcome :wave:
 
 I am the founder and chief neuropsychologist at BrainWorkup Neuropsychology,
-LLC, and an Assistant Professor at the Keck School of Medicine of USC's
-Department of Psychiatry and the Behavioral Sciences. My primary goal is to provide diagnostic clarity for children and adults, helping them gain a deeper understanding of themselves and their potential.
+LLC, and an Assistant Professor at the [Keck School of Medicine of USC's
+Department of Psychiatry and the Behavioral Sciences](https://keck.usc.edu/psychiatry/). My primary goal is to provide diagnostic clarity for children and adults, helping them gain a deeper understanding of themselves and their potential.
 
 My two-decade career spans research and clinical practice, focusing on neuropsychology, psychiatric genetics, and data science. As a clinical pediatric neuropsychologist, I've spent over a decade diagnosing cognitive and emotional difficulties in children and young adults, while my research investigates the genetic underpinnings of behavior and mental health.
 
@@ -75,7 +77,7 @@ My work is published in numerous high-impact journals, and I am involved in mult
 
 ---
 
-<!-- ## Research Interests
+## Research Interests
 
 As a researcher, I operate at the confluence of neuropsychology and genetics, striving to comprehend how molecular genetics influence behavior and the risk for psychiatric illness.
 My approach is grounded in the utilization of open-source data science tools, allowing my colleagues and I to delve into the complex interactions between genetics and neuropsychology.
@@ -85,14 +87,14 @@ My approach is grounded in the utilization of open-source data science tools, al
 -   **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
 -   **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
 
---- -->
+---
 
 ## Contact Me
 
 My work offers a unique glimpse into the intersection of neuropsychology and
 neuroscience, providing valuable insights into the complex interactions of the
 human mind. If you would like to learn more about my work and our
-neuropsychology practice, please visit the [contact](../contact/index.qmd) page or send an e-mail to
+neuropsychology practice, please visit the [contact](../contact/index.qmd#general-information) page or send an e-mail to
 [info@brainworkup.org](mailto:info@brainworkup.org).
 
 Sincerely,
@@ -106,13 +108,3 @@ Assistant Professor of Psychiatry\
 Department of Psychiatry and the Behavioral Sciences\
 Keck School of Medicine of USC\
 CA License PSY29212 -->
-
-
-
-  [BrainWorkup Neuropsychology, LLC]: https://brainworkup.org
-  [Department of Psychiatry and the Behavioral Sciences]: https://keck.usc.edu/psychiatry/
-  [Keck School of Medicine of USC]: https://keck.usc.edu/
-  [American Psychological Association]: https://www.apa.org/
-  [International Neuropsychological Society]: https://www.the-ins.org/
-  [Society for Biological Psychiatry]: https://www.sobp.org/
-  [contact]: ../contact/index.qmd#general-information

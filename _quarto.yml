@@ -6,9 +6,9 @@ project:
     browser: true
 
 website:
-  title: 'Joey Trampush'
-  image: logo4.png
-  favicon: favicon.io.png
+  title: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
+  image: src/logo.png
+  favicon: src/favicon.io.png
   open-graph: true
   twitter-card:
     creator: '@brainworkup'
@@ -70,7 +70,7 @@ website:
 
   navbar:
     title: brainworkup
-    background: dark
+    background: '#33373f'
     foreground: light
     collapse-below: lg
     left:
@@ -112,8 +112,8 @@ website:
         aria-label: RSS
 
   sidebar:
-    - id: trampush
-      title: 'About'
+    - id: about
+      title: 'Dr Trampush'
       style: 'floating'
       collapse-level: 1
       align: left
@@ -144,7 +144,6 @@ website:
                 - docs/forensic-neuropsychology/mental-health-diversion.qmd
             - section: '**Specific Disorders**'
               contents:
-                # - docs/disorders/index.qmd
                 - docs/disorders/adhd.qmd
                 - docs/disorders/executive-function.qmd
                 - docs/disorders/dyslexia.qmd
@@ -173,8 +172,8 @@ format:
     toc-expand: 1
     toc-title: '**On this page**'
     theme:
-      light: [cosmo, theme.scss]
-    css: styles.css
+      light: [src/cosmo, src/theme.scss]
+    css: src/styles.css
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap

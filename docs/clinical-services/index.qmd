@@ -1,12 +1,13 @@
 ---
 title: 'Neuropsychological Services'
 pagetitle: 'Neuropsychological Services'
-format: html
+format:
+  html:
+    page-layout: full
 subtitle: "Neurocognitive examination of pediatric patients, forensic and medicolegal cases, psychoeducational testing, and late-onset ADHD."
 aliases:
   - /docs/services
   - services.html
-page-layout: article
 toc: false
 anchor-sections: false
 listing:

@@ -14,7 +14,7 @@ about:
   id: hero-forensic
   template: marquee
   image: forensic.webp
-  image-width: 95%
+  image-width: 5em
 sidebar: true
 ---
 

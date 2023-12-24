@@ -1,18 +1,18 @@
 ---
 title: Frequently Asked Questions
-image: /bwu-blue-black.webp
+image: /src/logo.png
 image-width: 5em
 image-height: 5em
 format:
   html:
     page-layout: article
 repo-actions: false
-sidebar: false
+sidebar: true
 tags:
   - faq
   - brainworkup
 ---
-![](/bwu-blue-black.webp "FAQ")
+![](/src/logo.png "FAQ"){image-width=5em image-height=5em}
 
 ## Overview of the practice 
 

@@ -1,6 +1,7 @@
 ---
 title: Our Expertise
-description: "An overview of the specific disorders we have expertise in."
+description: "An overview of the specific disorders we consider to be our areas
+of expertise."
 hide-description: false
 format:
   html:
@@ -23,15 +24,14 @@ tags:
   - anxiety
   - perfectionism
 about:
-  id: hero-heading
+  id: index-heading
   template: marquee
   image: disorders.webp
-  image-width: 95%
+  image-width: 20em
 sidebar: true
 ---
 
-:::{#hero-heading}
-
+:::{#index-heading}
 :::
 
 # 🚧 This Page is Under Construction 🚧

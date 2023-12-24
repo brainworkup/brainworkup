@@ -16,6 +16,16 @@ html {
     sans-serif;
 }
 
+h1, h2, h3 {
+  font-weight: normal;
+}
+
+/* body {
+  background: var(--background);
+  color: var(--foreground);
+  text-align: left;
+} */
+
 #title-block-header {
   display: default;
 }
@@ -25,6 +35,13 @@ html {
   text-align: left;
   font-size: 16px;
 }
+
+/* .title, .navbar-title {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+} */
 
 .navbar-title {
   font-weight: bold;
@@ -36,6 +53,10 @@ html {
 .navbar-title {
   background: linear-gradient(240.01deg, #4b555b 15.29%, rgba(67, 78, 84, 0) 138.75%);
 }
+
+/* .title {
+  background: linear-gradient(240.01deg, #78858C 15.29%, rgba(105, 117, 123, 0) 138.75%);
+} */
 
 .content-block {
   margin-left: 30px;
