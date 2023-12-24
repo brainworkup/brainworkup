@@ -6,7 +6,7 @@ project:
     browser: true
 
 website:
-  image: /images/brainspace.webp
+  image: logo4.png
   favicon: /favicon.io.png
   open-graph: true
   twitter-card:
