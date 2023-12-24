@@ -15,9 +15,10 @@ listing:
   template: ../../ejs/links.ejs
   contents: services.yml
 sidebar: true
+fontsize: 1.1em
 ---
 
-::: {#services-links .column-screen-inset-right style="max-width: 900px;"}
+::: {#services-links .column-screen-inset-right style="max-width: 850px;"}
 :::
 
 

@@ -40,7 +40,7 @@ knitr:
     collapse: true
     comment: "#>" 
     R.options:
-      knitr.graphics.auto_pdf: true
+      knitr.graphics.auto_pdf: false
 ---
 
 ## About
@@ -136,11 +136,20 @@ theme_merge <-
   )
 ```
 
-```{r drilldown-plot1, fig.cap = "Drilldown from broad to narrow neurocognitive domains.", fig.width = 12, fig.height = 8, fig.retina = 3, out.width = '100%'}
+```{r}
+#| label: plot1
+#| include: true
+#| fig-cap: Drilldown from broad to narrow neurocognitive domains.
+#| fig-width: 12
+#| fig-height: 8
+#| fig-retina: 3
+#| out-width: 100%
+
 patient <- "Biggie"
 data <- neurocog
 neuro_domain <- "Neuropsychological Test Scores"
 theme <- theme_merge
+
 plot1 <-
   bwu::drilldown(
     data = data,
@@ -149,6 +158,8 @@ plot1 <-
     theme = theme
   ) |>
   highcharter::hc_chart(backgroundColor = "#000000")
+options(widgetframe.allowfullscreen = TRUE)
+# frameWidget(plot1)
 plot1
 ```
 

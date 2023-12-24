@@ -1,5 +1,4 @@
-- title: |
-    Pediatric Neuropsychology
+- title: Pediatric Neuropsychology
   subtitle: Child and adolescent neurocognitive assessment
   links:
     - text: Neurodevelopment
@@ -11,7 +10,7 @@
     - text: Adolescents
       href: ../pediatric-neuropsychology/adolescent.qmd
 
-- title: 'Adult Neuropsychology'
+- title: Adult Neuropsychology
   subtitle: 'Neuropsychology of emerging adulthood including adult-onset ADHD'
   links:
     - text: 'Overview'
@@ -31,11 +30,9 @@
     - text: Mental Health Diversion
       href: ../forensic-neuropsychology/mental-health-diversion.qmd
 
-- title: 'Specific Disorders'
+- title: Specific Disorders
   subtitle: 'We have unique expertise in evaluating the disorders described below'
   links:
-    # - text: Overview
-    #   href: ../disorders/index.qmd
     - text: ADHD
       href: ../disorders/adhd.qmd
     - text: Executive Dysfunction
