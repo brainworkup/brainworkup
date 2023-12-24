@@ -2,8 +2,8 @@ project:
   output-dir: _site
 
 website:
-  title: brainworkup
-  site-url: 'https://brainworkup.org/'
-  description: Brainworkup Neuropsychology Practice, Los Angeles, California
+  title: Joey Trampush
+  site-url: https://brainworkup.org/
+  description: Brainworkup Neuropsychology Practice, LLC, Los Angeles, California
   repo-branch: main
-  repo-url: 'https://github.com/brainworkup/brainworkup/'
+  repo-url: https://github.com/brainworkup/brainworkup/

@@ -2,9 +2,9 @@
 title: Contact Us
 description: "Contact information for Joey Trampush, PhD @ BrainWorkup Neuropsychology, LLC."
 hide-description: true
-image: boomboxbrain.webp
-image-width: 50%
-image-height: 50%
+image: /bwu-blue-black.webp
+image-width: 5em
+image-height: 5em
 tags:
   - brainworkup contact
   - brain
@@ -45,7 +45,7 @@ form:
     width: 30 #in rows
     height: 30 #in cols
 ---
-![](boomboxbrain.webp)
+![](/bwu-blue-black.webp)
 
 ## General Information
 

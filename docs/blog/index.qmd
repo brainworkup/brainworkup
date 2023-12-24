@@ -14,7 +14,7 @@ listing:
 page-layout: full
 margin-header: signup.html
 title-block-banner: true
-title-block-banner-color: "#d4eb50" #"#c3d658"
+title-block-banner-color: "#d4eb50"
 title-block-style: default
 search: false
 sidebar: false

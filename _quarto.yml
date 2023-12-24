@@ -188,7 +188,7 @@ format:
     linestretch: 1.14
     highlight-style: dracula
     fontcolor: '#181818'
-    linkcolor: "#AA336A" #6610f2'
+    linkcolor: '#AA336A'
     link-external-icon: true
     link-external-newwindow: true
     fig-align: center

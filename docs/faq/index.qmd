@@ -1,8 +1,8 @@
 ---
 title: Frequently Asked Questions
-image: logo-faq.webp
-image-width: 50%
-image-height: 50%
+image: /bwu-blue-black.webp
+image-width: 5em
+image-height: 5em
 format:
   html:
     page-layout: article
@@ -11,11 +11,8 @@ sidebar: false
 tags:
   - faq
   - brainworkup
-# title-block-banner: true
-# title-block-banner-color: '#d7c1fc'
-# title-block-style: default
 ---
-![](logo-faq.webp "FAQ")
+![](/bwu-blue-black.webp "FAQ")
 
 ## Overview of the practice 
 
