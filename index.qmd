@@ -101,7 +101,7 @@ knitr::opts_chunk$set(
 
 ```{r}
 #| label: data
-#| include: true
+#| include: false
 neurocog <-
   readr::read_csv(here::here("resources/neurocog.csv"), show_col_types = TRUE) |>
   dplyr::filter(scale != "Orientation") |>
@@ -111,7 +111,7 @@ neurocog <-
 
 ```{r}
 #| label: merge-themes
-#| include: true
+#| include: false
 # if using single theme
 theme <- highcharter::hc_theme_sandsignika()
 # if merging themes
@@ -124,8 +124,8 @@ theme_merge <-
 
 ```{r}
 #| label: fig-drilldown
-#| include: true
-#| eval: true
+#| include: false
+#| eval: false
 #| fig-cap: Drilldown from broad to narrow neurocognitive domains.
 #| fig-width: 12
 #| fig-height: 8
