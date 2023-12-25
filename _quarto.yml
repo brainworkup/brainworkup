@@ -145,11 +145,11 @@ website:
             - section: '**Specific Disorders**'
               contents:
                 - docs/disorders/adhd.qmd
-                - docs/disorders/executive-function.qmd
+                - docs/disorders/mcat.qmd
                 - docs/disorders/dyslexia.qmd
+                - docs/disorders/executive-function.qmd
                 - docs/disorders/autism.qmd
                 - docs/disorders/concussion.qmd
-                - docs/disorders/mcat.qmd
 
     - id: faq
       title: 'FAQ'
@@ -173,7 +173,6 @@ format:
     toc-title: '**On this page**'
     theme:
       light: [cosmo, theme.scss]
-      dark: [peacock-theme.css]
     css: styles.css
     include-after-body: js.html
     code-copy: true

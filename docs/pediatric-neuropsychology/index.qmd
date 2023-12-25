@@ -9,8 +9,8 @@ format:
   html:
     page-layout: article
 image: logo-kids.webp
-image-height: 5em
-image-width: 5em
+image-height: 20em
+image-width: 20em
 about:
   id: hero-peds
   template: marquee
