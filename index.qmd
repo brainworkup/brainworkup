@@ -123,33 +123,27 @@ theme_merge <-
 ```
 
 ```{r}
-#| label: plot1
+#| label: fig-drilldown
 #| include: true
 #| eval: true
 #| fig-cap: Drilldown from broad to narrow neurocognitive domains.
 #| fig-width: 12
 #| fig-height: 8
-#| fig-retina: 3
 #| out-width: 100%
-options(widgetframe.allowfullscreen = TRUE)
 
 patient <- "Biggie"
 data <- neurocog
 neuro_domain <- "Neuropsychological Test Scores"
 theme <- theme_merge
 
-plot1 <-
-  bwu::drilldown(
-    data = data,
-    patient = patient,
-    neuro_domain = neuro_domain,
-    theme = theme
-  ) |>
-  highcharter::hc_chart(backgroundColor = "#000000")
-
-# frameWidget(plot1)
-
-plot1
+bwu::drilldown(
+  data = data,
+  patient = patient,
+  neuro_domain = neuro_domain,
+  theme = theme
+) |>
+  highcharter::hc_chart(backgroundColor = "#000000") |>
+  highcharter::hc_tooltip(useHTML = TRUE)
 ```
 
 ---
