@@ -1,6 +1,5 @@
 ---
-title: |
-  BrainWorkup Neuropsychology, LLC
+title: BrainWorkup Neuropsychology, LLC
 subtitle: | 
   Clinical Neuropsychology Practice \
   **Joey Trampush, PhD**
@@ -10,10 +9,10 @@ section-divs: true
 format:
   html:
     page-layout: full
-image: src/hero.png
-image-width: 20em
-image-height: 20em
-css: src/index.css
+image: hero.png
+image-width: 5em
+image-height: 5em
+css: index.css
 about:
   template: trestles
   image-shape: rounded
@@ -35,12 +34,6 @@ execute:
   echo: false
   warning: false
   message: false
-knitr:
-  opts_chunk: 
-    collapse: true
-    comment: "#>" 
-    R.options:
-      knitr.graphics.auto_pdf: false
 ---
 
 ## About

@@ -7,8 +7,8 @@ project:
 
 website:
   title: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
-  image: src/logo.png
-  favicon: src/favicon.io.png
+  image: logo.png
+  favicon: favicon.io.png
   open-graph: true
   twitter-card:
     creator: '@brainworkup'
@@ -86,7 +86,7 @@ website:
         href: docs/blog/index.qmd
       - icon: file-pdf
         text: 'CV'
-        href: /files/cv.pdf
+        href: /resources/cv.pdf
     right:
       - icon: phone
         text: '**(213) 495-1155**'
@@ -172,8 +172,9 @@ format:
     toc-expand: 1
     toc-title: '**On this page**'
     theme:
-      light: [cosmo, src/theme.scss]
-    css: src/styles.css
+      light: [cosmo, theme.scss]
+      dark: [peacock-theme.css]
+    css: styles.css
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap

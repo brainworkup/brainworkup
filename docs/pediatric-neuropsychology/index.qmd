@@ -12,12 +12,12 @@ image: logo-kids.webp
 image-height: 5em
 image-width: 5em
 about:
-  id: hero-heading
+  id: hero-peds
   template: marquee
 sidebar: true
 ---
 
-:::{#hero-heading}
+:::{#hero-peds}
 :::
 
 ## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 

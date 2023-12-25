@@ -12,7 +12,7 @@ tags:
   - cognitive health
   - adult neurocognitive testing
 about:
-  id: hero-heading-adult
+  id: hero-adult
   template: marquee
   image: adults.webp
   image-shape: rounded
@@ -20,7 +20,7 @@ about:
 sidebar: true
 ---
 
-:::{#hero-heading-adult}
+:::{#hero-adult}
 :::
 
 ## Purpose of Neuropsychological Testing

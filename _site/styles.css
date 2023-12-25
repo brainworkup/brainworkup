@@ -6,6 +6,11 @@
   --bs-table-striped-bg: var(--bs-table-bg);
 }
 
+/* .about-image img {
+  width: 70%;
+  height: 70%; /* or set a specific height */
+} */
+
 .quarto-figure-center > figure > figcaption {
   text-align: center;
 }
@@ -298,7 +303,7 @@ iframe.reveal-demo {
   margin-bottom: 2px;
 }
 
-/*
+
 .panel-tabset[data-group="tools-tabset"] .nav-tabs .nav-link {
   text-align: center;
   margin-right: 10px;
@@ -315,7 +320,7 @@ iframe.reveal-demo {
   display: block;
   margin-bottom: 2px;
 }
-*/
+
 
 .download-text {
   font-size: 1.1em;

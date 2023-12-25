@@ -17,7 +17,7 @@ html {
 }
 
 h1, h2, h3 {
-  font-weight: normal;
+  font-weight: 700;
 }
 
 /* body {
@@ -36,12 +36,12 @@ h1, h2, h3 {
   font-size: 16px;
 }
 
-/* .title, .navbar-title {
+.title, .navbar-title {
   font-weight: bold;
   padding: 4px 8px;
   border-radius: 8px;
   margin-right: 4px;
-} */
+}
 
 .navbar-title {
   font-weight: bold;
@@ -157,3 +157,14 @@ h1, h2, h3 {
   padding-top: 30px !important;
   border-top: 1px solid var(--foreground-2);
 }
+
+.home .hero img {
+  max-width: 100%;
+  max-height: 280px;
+  display: block;
+  margin:
+    margin-top: 3rem;
+    margin-right: auto;
+    margin-bottom: 1.5rem;
+    margin-left: auto;
+} 
