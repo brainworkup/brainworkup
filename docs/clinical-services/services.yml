@@ -35,6 +35,8 @@
   links:
     - text: ADHD
       href: ../disorders/adhd.qmd
+    - text: ADHD in Girls
+      href: ../disorders/adhd-in-girls.qmd
     - text: Test Accommodations
       href: ../disorders/mcat.qmd
     - text: Dyslexia

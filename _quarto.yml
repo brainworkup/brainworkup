@@ -145,6 +145,7 @@ website:
             - section: '**Specific Disorders**'
               contents:
                 - docs/disorders/adhd.qmd
+                - docs/disorders/adhd-in-girls.qmd
                 - docs/disorders/mcat.qmd
                 - docs/disorders/dyslexia.qmd
                 - docs/disorders/executive-function.qmd

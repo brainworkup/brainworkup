@@ -1,0 +1,30 @@
+---
+title: ADHD in Girls
+subtitle: Evaluating ADHD in girls
+description: "An overview of increasing recognition that girls often have ADHD yet go undiagnosed most of the time."
+hide-description: true
+format:
+  html:
+    page-layout: article
+tags:
+  - ADHD
+  - girls
+  - ADHD in girls
+sidebar: true
+---
+
+## Spotlight on ADHD in Girls 
+
+A niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients. 
+
+In our clinic, we adopt a comprehensive assessment approach that includes
+behavioral observations, standardized testing, and close collaboration with
+schools and families. The goal is to achieve a holistic understanding of each
+girl's strengths and challenges, and to support them in unlocking their full
+potential.
+
+### Suggested reading
+
+- [Dr. Steve Hinshaw's book on girls with ADHD](https://www.guilford.com/books/Straight-Talk-about-ADHD-in-Girls/Stephen-Hinshaw/9781462547517)
+
+
