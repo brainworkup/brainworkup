@@ -55,6 +55,18 @@ My work is published in numerous high-impact journals, and I am involved in mult
 
 ---
 
+## Featured Services
+
+We specialize in the following neuropsychological services:
+
+- [**ADHD in Girls**](../disorders/adhd-in-girls.qmd)
+
+- [**Academic/Testing Accommodations**](../disorders/mcat.qmd)
+
+- [**Forensics/Independent Medical Exams**](../forensic-neuropsychology/ime.qmd)
+
+---
+
 ## Education/Training
 
 -   National Institute of Mental Health \@ NIH, Bethesda, MD (2012)
@@ -83,8 +95,11 @@ As a researcher, I operate at the confluence of neuropsychology and genetics, st
 My approach is grounded in the utilization of open-source data science tools, allowing my colleagues and I to delve into the complex interactions between genetics and neuropsychology.
 
 -   **Molecular Genetics:** Exploring the genetic underpinnings of behavior and mental health.
+
 -   **Neuropsychology:** Delving into the cognitive aspects of mental health conditions.
+
 -   **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
+
 -   **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
 
 ---
