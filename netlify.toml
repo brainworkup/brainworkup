@@ -3,6 +3,9 @@ package = "@algolia/netlify-plugin-crawler"
 [plugins.inputs]
 branches = ['main']
 
+[[plugins]]
+package = "netlify-plugin-amp-server-side-rendering"
+
 [[redirects]]
 from = "https://joeytrampush.com/"
 to = "https://brainworkup.org/"
