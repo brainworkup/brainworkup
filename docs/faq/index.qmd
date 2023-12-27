@@ -25,7 +25,12 @@ Performance on the neurocognitive tests that we use has remarkable predictive va
 
 ## What is a neuropsychological evaluation?
 
-Our evaluations typically include:
+Here is an article Dr. Trampush co-wrote that explains what a neuropsychological
+evaluation is and why it is important:
+
+- [**What Is Neuropsychological Testing?**](https://internalmedicine.usc.edu/blog/what-is-neuropsychological-testing/)
+
+### Our evaluations typically include:
 
 - A neurobehavioral status exam and clinical interview to gather background information on psychological, medical, educational, and social aspects, alongside current cognitive and psychological functioning.
 - Review of relevant medical, psychological, and educational records for a comprehensive understanding of your psychological and academic history.
@@ -44,6 +49,10 @@ and weaknesses, including:
   - Emotional/Behavioral/Personality
 
 Following the evaluation, we will compile a detailed report integrating our findings. This report will be provided to you, your school, and any relevant organizations for academic accommodations. Additionally, a feedback session will be conducted to discuss the results and treatment recommendations.
+
+## Additional Links
+
+- [**APA Definition**](https://www.apa.org/topics/neuropsychology)
 
 ## Our Objective
 
