@@ -15,7 +15,7 @@ aliases:
   - trampush.html
   - about.html
   - /docs/about/joey-trampush.html
-  - joeytrampush.com/docs/joey-trampush/index.html
+  - joeytrampush.com/docs/trampush/
 tags:
   - neuropsychology
   - Joey Trampush
