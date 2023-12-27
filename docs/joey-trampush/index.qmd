@@ -32,12 +32,16 @@ about:
   links:
     - icon: github
       href: https://github.com/brainworkup/brainworkup
+      aria-label: Github
     - icon: twitter
       href: https://twitter.com/brainworkup
+      aria-label: Twitter
+    - icon: instagram
+      href: https://instagram.com/brainworkup
+      aria-label: Instagram
     - icon: linkedin
       href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-    - icon: envelope
-      href: mailto:joey.trampush@brainworkup.org
+      aria-label: LinkedIn
 sidebar: false
 from: markdown+emoji
 repo-actions: false
@@ -114,12 +118,9 @@ neuropsychology practice, please visit the [contact](../contact/index.qmd#genera
 
 Sincerely,
 
-![](jwt_phd.png){width="33%" fig-alt="signature"}
+![](jwt_phd.png){width=20em fig-alt="signature"}
 
-
-<!-- **Joey Trampush, PhD**\
+**Joey W. Trampush, PhD**\
 Chief Neuropsychologist\
-Assistant Professor of Psychiatry\
-Department of Psychiatry and the Behavioral Sciences\
-Keck School of Medicine of USC\
-CA License PSY29212 -->
+BrainWorkup Neuropsychology, LLC\
+CA License PSY29212
