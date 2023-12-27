@@ -1,6 +1,5 @@
 ---
 title: Frequently Asked Questions
-icon: pin-angle
 image: /logo.png
 image-width: 20em
 format:
