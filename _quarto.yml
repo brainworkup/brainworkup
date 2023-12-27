@@ -47,6 +47,8 @@ website:
     center:
       - text: 'About'
         href: docs/joey-trampush/index.qmd
+      - text: 'Clinical Services'
+        href: docs/clinical-services/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
       - text: 'Contact'
@@ -64,9 +66,6 @@ website:
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-      - icon: rss
-        href: https://brainworkup.org/docs/blog/index.xml
-        aria-label: RSS
 
   navbar:
     title: brainworkup
@@ -80,7 +79,6 @@ website:
         href: docs/clinical-services/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
-        icon: pin-angle
       - text: 'Contact'
         href: docs/contact/index.qmd
       - text: 'Blog'
@@ -108,9 +106,6 @@ website:
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-      - icon: rss
-        href: https://brainworkup.org/docs/blog/index.xml
-        aria-label: RSS
 
   sidebar:
     - id: about
@@ -124,7 +119,7 @@ website:
     - id: clinical-services
       collapse-level: 3
       contents:
-        - section: 'Neuropsychological Services'
+        - section: 'Clinical Services'
           href: docs/clinical-services/index.qmd
           contents:
             - section: '**Pediatric Neuropsychology**'

@@ -1,5 +1,17 @@
 /* https://github.com/fastai/nbdev/blob/master/nbs/styles.css */
 
+
+.navbar-title {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+}
+
+.navbar-title {
+  background: linear-gradient(240.01deg, #4b555b 15.29%, rgba(67, 78, 84, 0) 138.75%);
+}
+
 .cell {
   margin-bottom: 1rem;
 }
@@ -85,7 +97,8 @@ blockquote > pre {
 
   .navbar .bi-twitter,
   .navbar .bi-github,
-  .navbar .bi-rss {
+  .navbar .bi-rss,
+  .navbar .bi-instagram {
     font-size: 0.8em;
   }
 }
