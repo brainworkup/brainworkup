@@ -68,7 +68,7 @@ website:
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
 
   navbar:
-    title: brainworkup
+    title: '**brainworkup**'
     background: '#33373f'
     foreground: light
     collapse-below: lg
@@ -106,6 +106,9 @@ website:
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
+      - icon: rss
+        href: https://brainworkup.org/docs/blog/index.xml
+        aria-label: RSS
 
   sidebar:
     - id: about
