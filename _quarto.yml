@@ -47,7 +47,7 @@ website:
     center:
       - text: 'About'
         href: docs/joey-trampush/index.qmd
-      - text: 'Clinical Services'
+      - text: 'Services'
         href: docs/clinical-services/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
