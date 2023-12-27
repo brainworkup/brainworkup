@@ -76,19 +76,15 @@ website:
     left:
       - text: 'Dr Trampush'
         href: docs/joey-trampush/index.qmd
-        icon: person
       - text: 'Neuropsychological Services'
         href: docs/clinical-services/index.qmd
-        icon: prescription2
       - text: 'FAQ'
         href: docs/faq/index.qmd
         icon: pin-angle
       - text: 'Contact'
         href: docs/contact/index.qmd
-        icon: calendar-check
       - text: 'Blog'
         href: docs/blog/index.qmd
-        icon: boombox
       - icon: file-pdf
         text: 'CV'
         href: /resources/cv.pdf
