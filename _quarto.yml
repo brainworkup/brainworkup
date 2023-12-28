@@ -19,11 +19,11 @@ website:
   repo-url: https://github.com/brainworkup/brainworkup
   repo-branch: origin
   issue-url: https://github.com/brainworkup/brainworkup/issues
-  repo-actions: [issue]
+  repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
   google-analytics: 'G-HW85H7H8P6'
-  back-to-top-navigation: false
+  back-to-top-navigation: true
   reader-mode: false
   search:
     location: navbar
