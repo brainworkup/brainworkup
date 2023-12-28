@@ -69,6 +69,8 @@ We specialize in the following neuropsychological services:
 
 - [**Forensics/Independent Medical Exams**](../forensic-neuropsychology/ime.qmd)
 
+- [**Adult-Onset ADHD**](../adult-neuropsychology/adult-onset-adhd.qmd)
+
 ---
 
 ## Education/Training
