@@ -89,7 +89,7 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 </section>
 </section>
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>neurodevelopment</category>
   <guid>https://brainworkup.org/docs/blog/posts/2023-12-20-brain-development-tutorial/</guid>
   <pubDate>Wed, 20 Dec 2023 08:00:00 GMT</pubDate>
@@ -139,7 +139,7 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 
 </section>
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>adhd</category>
   <category>neurodevelopment</category>
   <guid>https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/</guid>
@@ -170,7 +170,7 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{trampush, phd2023,
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{trampush, phd2023,
   author = {Trampush, PhD, Joey},
   title = {Welcome},
   date = {2023-12-11},
