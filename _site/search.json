@@ -669,7 +669,7 @@
     "href": "docs/forensic-neuropsychology/index.html#contact-information",
     "title": "General Forensic Services",
     "section": "Contact Information",
-    "text": "Contact Information\nFor scheduling and more information, please contact us at (Contact).",
+    "text": "Contact Information\nFor scheduling and more information, please Contact us here.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -759,6 +759,17 @@
     ]
   },
   {
+    "objectID": "docs/contact/index.html#online-inquiry",
+    "href": "docs/contact/index.html#online-inquiry",
+    "title": "Contact Us",
+    "section": "Online Inquiry",
+    "text": "Online Inquiry\nFor additional questions or to schedule a consultation online, please use our convenient inquiry form:\nOnline Inquiry Form",
+    "crumbs": [
+      "Contact",
+      "Contact Us"
+    ]
+  },
+  {
     "objectID": "docs/contact/index.html#office-location",
     "href": "docs/contact/index.html#office-location",
     "title": "Contact Us",
@@ -770,11 +781,22 @@
     ]
   },
   {
-    "objectID": "docs/contact/index.html#online-inquiry",
-    "href": "docs/contact/index.html#online-inquiry",
+    "objectID": "docs/contact/index.html#telemedicine",
+    "href": "docs/contact/index.html#telemedicine",
     "title": "Contact Us",
-    "section": "Online Inquiry",
-    "text": "Online Inquiry\nFor additional questions or to schedule a consultation online, please use our convenient inquiry form:\nOnline Inquiry Form",
+    "section": "Telemedicine",
+    "text": "Telemedicine\nWe offer telemedicine services for patients who are unable to travel to our office for the initial consultation visit and for the feedback visit. Please contact us for more information.",
+    "crumbs": [
+      "Contact",
+      "Contact Us"
+    ]
+  },
+  {
+    "objectID": "docs/contact/index.html#testing-at-home",
+    "href": "docs/contact/index.html#testing-at-home",
+    "title": "Contact Us",
+    "section": "Testing at Home",
+    "text": "Testing at Home\nIn some cases, we can provide testing services at your home (i.e., a “house call”). Please contact us for more information. Additional fees may apply.",
     "crumbs": [
       "Contact",
       "Contact Us"
@@ -1296,21 +1318,21 @@
     "href": "index.html",
     "title": "BrainWorkup Neuropsychology, LLC",
     "section": "",
-    "text": "Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family."
+    "text": "Founded by Joey Trampush, PhD, BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "BrainWorkup Neuropsychology, LLC",
     "section": "",
-    "text": "Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family."
+    "text": "Founded by Joey Trampush, PhD, BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family."
   },
   {
     "objectID": "index.html#services-tailored-for-developing-minds",
     "href": "index.html#services-tailored-for-developing-minds",
     "title": "BrainWorkup Neuropsychology, LLC",
     "section": "Services Tailored for Developing Minds",
-    "text": "Services Tailored for Developing Minds\n\nComprehensive Neurocognitive Examination: Dive deep into understanding your or your child’s neurocognitive landscape and brain-based behavioral difficulties.\nTargeted Consultation and Advice: Customized support for individuals and families, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your or your child’s evolving needs."
+    "text": "Services Tailored for Developing Minds\n\nComprehensive Neurocognitive Examination: Dive deep into understanding your or your child’s neurocognitive landscape and brain-based behavioral difficulties.\n\nWhat is Neuropsychological Testing? Read More\n\nTargeted Consultation and Advice: Customized support for individuals and families, fostering optimal growth.\nContinued Care and Guidance: We’re here for the long haul, offering ongoing assistance to adapt to your or your child’s evolving needs."
   },
   {
     "objectID": "index.html#data-driven-assessment-and-interpretation",
@@ -1324,6 +1346,6 @@
     "href": "index.html#contact-to-connect",
     "title": "BrainWorkup Neuropsychology, LLC",
     "section": "Contact to Connect",
-    "text": "Contact to Connect\nGet in touch with us to see how we can help you and your family with our clinical services.\nSchedule a Consultation\nStay connected with the latest insights and resources:\n\nSubscribe to Our Blog\nFollow Us on Mastodon"
+    "text": "Contact to Connect\nGet in touch with us to see how we can help you and your family with our clinical services.\nSchedule a Consultation\nStay connected with the latest insights and resources:\n\nSubscribe to Our Blog\nFollow us on Mastodon"
   }
 ]
