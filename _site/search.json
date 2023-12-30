@@ -65,6 +65,19 @@
     ]
   },
   {
+    "objectID": "docs/adult-neuropsychology/index.html#highlighted-services-for-adults",
+    "href": "docs/adult-neuropsychology/index.html#highlighted-services-for-adults",
+    "title": "Overview",
+    "section": "Highlighted Services for Adults",
+    "text": "Highlighted Services for Adults\n\nEmerging Adulthood\nAdult-Onset ADHD\nMCAT and Related Testing Accommodations\nSports-Related Concussion",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Adult Neuropsychology**",
+      "Overview"
+    ]
+  },
+  {
     "objectID": "docs/pediatric-neuropsychology/preschool.html",
     "href": "docs/pediatric-neuropsychology/preschool.html",
     "title": "Preschoolers",
@@ -101,19 +114,6 @@
       "Clinical Services",
       "**Pediatric Neuropsychology**",
       "Preschoolers"
-    ]
-  },
-  {
-    "objectID": "docs/pediatric-neuropsychology/index.html",
-    "href": "docs/pediatric-neuropsychology/index.html",
-    "title": "Neurodevelopmental Evaluations",
-    "section": "",
-    "text": "Figure 1: Pediatric Neuropsychology\n\n\nFigure 1: Pediatric Neuropsychology",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Pediatric Neuropsychology**",
-      "Neurodevelopmental Evaluations"
     ]
   },
   {
@@ -180,6 +180,13 @@
       "**Pediatric Neuropsychology**",
       "Neurodevelopmental Evaluations"
     ]
+  },
+  {
+    "objectID": "docs/blog/index.html",
+    "href": "docs/blog/index.html",
+    "title": "bwu blog",
+    "section": "",
+    "text": "Brain Development Tutorial\n\n\nUnderstanding Brain Development: A Brief Guide for Parents\n\n\n\nneurodevelopment\n\n\n\nUnderstanding brain development is a journey, not a destination. By embracing the wonder of this process, we can become partners in our children’s growth, nurturing their potential and supporting them to blossom into happy, healthy individuals. \n\n\n\n\n\nDec 20, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nADHD Across the Lifespan\n\n\nEvaluating ADHD from childhood to adulthood\n\n\n\nadhd\n\n\nneurodevelopment\n\n\n\nFirst quarto post about ADHD. \n\n\n\n\n\nDec 13, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\nMy Public Autopsy\n\n\n\nbrain2\n\n\n\nWelcome post. \n\n\n\n\n\nDec 11, 2023\n\n\nJoey Trampush, PhD\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "docs/blog/posts/2023-12-13-adhd-post/index.html",
@@ -415,7 +422,7 @@
     "href": "docs/disorders/mcat.html",
     "title": "Academic Accommodations",
     "section": "",
-    "text": "TODO:\nMany children, teenagers, and adults struggle with a range of mental and physical disabilities including ADHD, learning disabilities such as Dyslexia, Dysgraphia, or Dyscalculia, mental health conditions such as depression, anxiety, and PTSD, and neurocognitive conditions such as a head injury. These conditions can occur together and cause difficulties at school and work, which is why the Americans with Disabilities Act (ADA) provides individuals with reasonable academic accommodations such as extended time on exams, start and stop breaks, access to assistive devices, and private testing rooms.",
+    "text": "Many children, teenagers, and adults struggle with a range of mental and physical disabilities including ADHD, learning disabilities such as Dyslexia, Dysgraphia, or Dyscalculia, mental health conditions such as depression, anxiety, and PTSD, and neurocognitive conditions such as a head injury. These conditions can occur together and cause difficulties at school and work, which is why the Americans with Disabilities Act (ADA) provides individuals with reasonable academic accommodations such as extended time on exams, start and stop breaks, access to assistive devices, and private testing rooms.\nFor students with disabilities, the Americans with Disabilities Act (ADA) ensures the right to reasonable academic accommodations.\nAccommodations can be provided for the following standardized tests:\n\nACT\nSAT\nGMAT\nGRE\nLSAT\nMCAT\nPCAT\nState of California Bar Exam\nAny other standardized test or professional licensing exam",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -427,8 +434,8 @@
     "objectID": "docs/disorders/mcat.html#overview",
     "href": "docs/disorders/mcat.html#overview",
     "title": "Academic Accommodations",
-    "section": "Overview",
-    "text": "Overview\nThe Medical College Admission Test (MCAT) is essential for medical school applicants in the U.S. and Canada. It evaluates problem-solving, critical thinking, and science knowledge. For students with disabilities, the Americans with Disabilities Act (ADA) ensures the right to reasonable academic accommodations.\nAccommodations can be provided for the following standardized tests:\n\nACT\nSAT\nGMAT\nGRE\nLSAT\nMCAT\nPCAT\nState of California Bar Exam\nAny other standardized test or professional licensing exam",
+    "section": "",
+    "text": "Many children, teenagers, and adults struggle with a range of mental and physical disabilities including ADHD, learning disabilities such as Dyslexia, Dysgraphia, or Dyscalculia, mental health conditions such as depression, anxiety, and PTSD, and neurocognitive conditions such as a head injury. These conditions can occur together and cause difficulties at school and work, which is why the Americans with Disabilities Act (ADA) provides individuals with reasonable academic accommodations such as extended time on exams, start and stop breaks, access to assistive devices, and private testing rooms.\nFor students with disabilities, the Americans with Disabilities Act (ADA) ensures the right to reasonable academic accommodations.\nAccommodations can be provided for the following standardized tests:\n\nACT\nSAT\nGMAT\nGRE\nLSAT\nMCAT\nPCAT\nState of California Bar Exam\nAny other standardized test or professional licensing exam",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -437,11 +444,11 @@
     ]
   },
   {
-    "objectID": "docs/disorders/mcat.html#ada-and-mcat-accommodations",
-    "href": "docs/disorders/mcat.html#ada-and-mcat-accommodations",
+    "objectID": "docs/disorders/mcat.html#ada-and-testing-accommodations",
+    "href": "docs/disorders/mcat.html#ada-and-testing-accommodations",
     "title": "Academic Accommodations",
-    "section": "ADA and MCAT Accommodations",
-    "text": "ADA and MCAT Accommodations\nUnder the ADA, individuals with a disability (physical or mental) that substantially limits major life activities are entitled to reasonable academic accommodations. These modifications ensure equal opportunities and true potential performance.",
+    "section": "ADA and Testing Accommodations",
+    "text": "ADA and Testing Accommodations\nUnder the ADA, individuals with a disability (physical or mental) that substantially limits major life activities are entitled to reasonable academic accommodations. These modifications ensure equal opportunities and true potential performance.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -454,7 +461,7 @@
     "href": "docs/disorders/mcat.html#covered-disabilities",
     "title": "Academic Accommodations",
     "section": "Covered Disabilities",
-    "text": "Covered Disabilities\nThe ADA recognizes a range of disabilities for MCAT accommodations: - Attention-Deficit/Hyperactivity Disorder (ADHD) - Dyslexia - Psychological Conditions (e.g., Depression, Anxiety) - Physical Disabilities - Sensory impairments (vision/hearing) - Physical impairments (e.g., Crohn’s disease) - Acquired head injuries",
+    "text": "Covered Disabilities\nThe ADA recognizes a range of disabilities for accommodations:\n\nAttention-Deficit/Hyperactivity Disorder (ADHD)\nDyslexia\nPsychological Conditions (e.g., Depression, Anxiety)\nPhysical Disabilities\nSensory impairments (vision/hearing)\nPhysical impairments (e.g., Crohn’s disease)\nAcquired head injuries/TBI",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -467,7 +474,7 @@
     "href": "docs/disorders/mcat.html#documentation-requirements",
     "title": "Academic Accommodations",
     "section": "Documentation Requirements",
-    "text": "Documentation Requirements\nApplicants must create a profile on the MCAT Accommodations portal and provide extensive documentation, including: - History of receiving accommodations - Strategies, devices, or medications used - Insufficiency of strategies for MCAT - Documentation of the condition - Types of accommodations requested - Personal statement - Supporting documents (diagnosis verification, prior evaluations, academic transcripts, standardized test scores, past accommodations, academic documents)\n\nRequired Documents Table\n\n\n\n\n\n\n\n\n\nAccommodation Type\nRequired Documents\nStrongly Recommended\nIf Applicable\n\n\n\n\n[Insert Accommodation]\n[Insert Required Documents]\n[Insert Documents]\n[Insert Documents]",
+    "text": "Documentation Requirements\nApplicants must create a profile on the tests website portal and provide extensive documentation, including:\n\nHistory of receiving accommodations\nStrategies, devices, or medications used\nInsufficiency of strategies for MCAT\nDocumentation of the condition\nTypes of accommodations requested\nPersonal statement\nSupporting documents (diagnosis verification, prior evaluations, academic transcripts, standardized test scores, past accommodations, academic documents)",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -480,7 +487,7 @@
     "href": "docs/disorders/mcat.html#submission-timeline",
     "title": "Academic Accommodations",
     "section": "Submission Timeline",
-    "text": "Submission Timeline\nRequests should be submitted at least 60 days before the test date. Accommodations must be approved 15 days prior to the exam.",
+    "text": "Submission Timeline\nIn general, requests should be submitted at least 60 days before the test date.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -506,7 +513,59 @@
     "href": "docs/disorders/mcat.html#comprehensive-evaluation-requirement",
     "title": "Academic Accommodations",
     "section": "Comprehensive Evaluation Requirement",
-    "text": "Comprehensive Evaluation Requirement\nA comprehensive evaluation by a qualified professional is essential to support the request. It should include: - Clinical interview - Behavioral observations - Neuropsychological/psychoeducational testing - Detailed report with individualized analysis and recommendations",
+    "text": "Comprehensive Evaluation Requirement\nA comprehensive evaluation by a qualified professional is essential to support the request. It should include:\n\nClinical interview\nBehavioral observations\nNeuropsychological/psychoeducational testing\nDetailed report with individualized analysis and recommendations",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Specific Disorders**",
+      "Academic Accommodations"
+    ]
+  },
+  {
+    "objectID": "docs/disorders/mcat.html#consultation",
+    "href": "docs/disorders/mcat.html#consultation",
+    "title": "Academic Accommodations",
+    "section": "Consultation",
+    "text": "Consultation\nAn initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Specific Disorders**",
+      "Academic Accommodations"
+    ]
+  },
+  {
+    "objectID": "docs/disorders/mcat.html#testing-evaluation",
+    "href": "docs/disorders/mcat.html#testing-evaluation",
+    "title": "Academic Accommodations",
+    "section": "Testing & Evaluation",
+    "text": "Testing & Evaluation\nThe testing session may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Specific Disorders**",
+      "Academic Accommodations"
+    ]
+  },
+  {
+    "objectID": "docs/disorders/mcat.html#feedback-session",
+    "href": "docs/disorders/mcat.html#feedback-session",
+    "title": "Academic Accommodations",
+    "section": "Feedback Session",
+    "text": "Feedback Session\nFollowing the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Specific Disorders**",
+      "Academic Accommodations"
+    ]
+  },
+  {
+    "objectID": "docs/disorders/mcat.html#report",
+    "href": "docs/disorders/mcat.html#report",
+    "title": "Academic Accommodations",
+    "section": "Report",
+    "text": "Report\nA comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -519,7 +578,7 @@
     "href": "docs/disorders/mcat.html#conclusion",
     "title": "Academic Accommodations",
     "section": "Conclusion",
-    "text": "Conclusion\nMCAT accommodations aim to level the playing field for applicants with disabilities, ensuring fair assessment of abilities. Comprehensive evaluations by licensed professionals are vital for substantiating accommodation requests.",
+    "text": "Conclusion\nTesting accommodations aim to level the playing field for applicants with disabilities, ensuring fair assessment of abilities. Comprehensive evaluations by licensed professionals are vital for substantiating accommodation requests.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -673,7 +732,7 @@
   {
     "objectID": "docs/contact/submit_form.html",
     "href": "docs/contact/submit_form.html",
-    "title": "Joey Trampush",
+    "title": "BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD",
     "section": "",
     "text": "Back to top"
   },
@@ -958,11 +1017,11 @@
     ]
   },
   {
-    "objectID": "docs/disorders/adhd-in-girls.html",
-    "href": "docs/disorders/adhd-in-girls.html",
+    "objectID": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
+    "href": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
     "title": "ADHD in Girls",
-    "section": "",
-    "text": "A niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients.\nIn our clinic, we adopt a comprehensive assessment approach that includes behavioral observations, standardized testing, and close collaboration with schools and families. The goal is to achieve a holistic understanding of each girl’s strengths and challenges, and to support them in unlocking their full potential.\n\n\n\nDr. Steve Hinshaw’s book on girls with ADHD",
+    "section": "Spotlight on ADHD in Girls",
+    "text": "Spotlight on ADHD in Girls\nA niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients.\nIn our clinic, we adopt a comprehensive assessment approach that includes behavioral observations, standardized testing, and close collaboration with schools and families. The goal is to achieve a holistic understanding of each girl’s strengths and challenges, and to support them in unlocking their full potential.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -971,11 +1030,11 @@
     ]
   },
   {
-    "objectID": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
-    "href": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
+    "objectID": "docs/disorders/adhd-in-girls.html#suggested-reading",
+    "href": "docs/disorders/adhd-in-girls.html#suggested-reading",
     "title": "ADHD in Girls",
-    "section": "",
-    "text": "A niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients.\nIn our clinic, we adopt a comprehensive assessment approach that includes behavioral observations, standardized testing, and close collaboration with schools and families. The goal is to achieve a holistic understanding of each girl’s strengths and challenges, and to support them in unlocking their full potential.\n\n\n\nDr. Steve Hinshaw’s book on girls with ADHD",
+    "section": "Suggested reading",
+    "text": "Suggested reading\n\nDr. Steve Hinshaw’s book on girls with ADHD",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -1002,19 +1061,6 @@
     "title": "ADHD",
     "section": "",
     "text": "Attention-Deficit/Hyperactivity Disorder (ADHD) is a lifelong disorder characterized by symptoms of inattention (not being able to keep focus), hyperactivity (excess movement that is not fitting to the setting) and impulsivity (hasty acts that occur in the moment without thought). Many ADHD symptoms, such as high activity levels, difficulty remaining still for long periods of time, and limited attention span are common from time to time in everyone. The difference in individuals with ADHD is that their inattention, poor impulse control, and hyperactivity are substantially greater than expected for their age and cause distress and/or problems functioning at home, at school, at work, and/or with friends.",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "ADHD"
-    ]
-  },
-  {
-    "objectID": "docs/disorders/adhd.html#spotlight-on-adhd-in-girls",
-    "href": "docs/disorders/adhd.html#spotlight-on-adhd-in-girls",
-    "title": "ADHD",
-    "section": "Spotlight on ADHD in Girls",
-    "text": "Spotlight on ADHD in Girls\nA niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients.\nIn our clinic, we adopt a comprehensive assessment approach that includes behavioral observations, standardized testing, and close collaboration with schools and families. The goal is to achieve a holistic understanding of each girl’s strengths and challenges, and to support them in unlocking their full potential.\n\nSuggested reading\n\nDr. Steve Hinshaw’s book on girls with ADHD",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -1054,58 +1100,6 @@
     "title": "ADHD",
     "section": "ADHD in Older Adults",
     "text": "ADHD in Older Adults\nEvaluating ADHD in older adults presents unique challenges, as symptoms may often be mistaken for age-related cognitive decline. Our approach includes:\n\nComprehensive Clinical Assessment: We conduct detailed interviews to understand the individual’s life history, focusing on long-standing patterns of behavior indicative of ADHD.\nNeuropsychological Testing: Our evaluations include neuropsychological testing to differentiate ADHD symptoms from other conditions common in older age, such as dementia or depression.\nReview of Medical History: We consider the entire medical history, including any medications or health conditions that may mimic or exacerbate ADHD symptoms.\nLifestyle and Occupational Impact Analysis: We assess how ADHD affects daily living, work, and social relationships in older adults, recognizing that these impacts may differ significantly from those in younger individuals.\nCollaboration with Healthcare Providers: When necessary, we collaborate with other healthcare providers to ensure a comprehensive approach to diagnosis and management.\nTailored Management Strategies: We provide personalized recommendations, which may include medication, cognitive-behavioral therapy, lifestyle modifications, and strategies to improve organizational skills and time management.",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "ADHD"
-    ]
-  },
-  {
-    "objectID": "docs/disorders/adhd.html#consultation",
-    "href": "docs/disorders/adhd.html#consultation",
-    "title": "ADHD",
-    "section": "Consultation",
-    "text": "Consultation\nAn initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "ADHD"
-    ]
-  },
-  {
-    "objectID": "docs/disorders/adhd.html#testing-evaluation",
-    "href": "docs/disorders/adhd.html#testing-evaluation",
-    "title": "ADHD",
-    "section": "Testing & Evaluation",
-    "text": "Testing & Evaluation\nThe testing session may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "ADHD"
-    ]
-  },
-  {
-    "objectID": "docs/disorders/adhd.html#feedback-session",
-    "href": "docs/disorders/adhd.html#feedback-session",
-    "title": "ADHD",
-    "section": "Feedback Session",
-    "text": "Feedback Session\nFollowing the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "ADHD"
-    ]
-  },
-  {
-    "objectID": "docs/disorders/adhd.html#report",
-    "href": "docs/disorders/adhd.html#report",
-    "title": "ADHD",
-    "section": "Report",
-    "text": "Report\nA comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",

@@ -11,7 +11,13 @@ tags:
   - girls
   - ADHD in girls
 sidebar: true
+image: /images/adhd-girls.webp
+image-width: 20em
+image-height: 20em
+lightbox: true
 ---
+
+![](/images/adhd-girls.webp "ADHD in Girls"){width=20em height=20em fig-align="center" fig-alt="A brainworkup kids logo for adhd in girls."}
 
 ## Spotlight on ADHD in Girls 
 
@@ -23,7 +29,7 @@ schools and families. The goal is to achieve a holistic understanding of each
 girl's strengths and challenges, and to support them in unlocking their full
 potential.
 
-### Suggested reading
+## Suggested reading
 
 - [Dr. Steve Hinshaw's book on girls with ADHD](https://www.guilford.com/books/Straight-Talk-about-ADHD-in-Girls/Stephen-Hinshaw/9781462547517)
 

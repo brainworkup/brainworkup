@@ -1,7 +1,6 @@
 ---
 title: Our Expertise
-description: "An overview of the specific disorders we consider to be our areas
-of expertise."
+description: "An overview of the specific disorders we consider to be our areas of expertise."
 hide-description: false
 format:
   html:

@@ -1,5 +1,5 @@
 ---
-title: BrainWorkup Neuropsychology, LLC
+title: "BrainWorkup Neuropsychology, LLC"
 subtitle: | 
   Clinical Neuropsychology Practice \
   **Joey Trampush, PhD**
@@ -34,6 +34,7 @@ execute:
   echo: false
   warning: false
   message: false
+lightbox: true
 ---
 
 ## About

@@ -1,6 +1,6 @@
 ---
-title: Joey W. Trampush, Ph.D.
-image: jwt.jpg
+title: "Joey W. Trampush, Ph.D."
+image: jwt_large.jpeg
 image-width: 5em
 image-height: 5em
 subtitle: |
@@ -45,6 +45,7 @@ about:
 sidebar: false
 from: markdown+emoji
 repo-actions: false
+lightbox: true
 ---
 
 ## Welcome :wave:
