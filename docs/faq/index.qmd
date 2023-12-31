@@ -1,7 +1,8 @@
 ---
 title: Frequently Asked Questions
-image: bwu-logo-transparent.png
+image: logo-transparent.png
 image-width: 20em
+image-height: 20em
 format:
   html:
     page-layout: article
@@ -12,7 +13,7 @@ tags:
   - faq
   - brainworkup
 ---
-![](bwu-logo-transparent.png "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
+![](logo-transparent.png "FAQ"){width=20em height=20em fig-align="center" fig-alt="The brainworkup logo on the FAQ page."}
 
 ## Overview of the practice 
 
@@ -26,7 +27,7 @@ Performance on the neurocognitive tests that we use has remarkable predictive va
 
 ## What is a neuropsychological evaluation?
 
-Here is an article Dr. Trampush co-wrote that explains what a neuropsychological
+Dr. Trampush contributed to this article explaining hat a neuropsychological
 evaluation is and why it is important:
 
 - [**What Is Neuropsychological Testing?**](https://internalmedicine.usc.edu/blog/what-is-neuropsychological-testing/)
