@@ -1,10 +1,10 @@
 ---
 title: Contact Us
-description: "Contact information for Joey Trampush, PhD @ BrainWorkup Neuropsychology, LLC."
-hide-description: true
+description: "Contact us for more information or to schedule an evaluation. We're here to help."
+hide-description: false
 image: /logo.png
-image-width: 5em
-image-height: 5em
+image-width: 20em
+image-height: 20em
 tags:
   - brainworkup contact
   - brain
@@ -57,6 +57,12 @@ If you have questions or want to schedule a consultation, feel free to reach out
 Email is the fastest way to contact us.
 :::
 
+## Online Inquiry
+
+For additional questions or to schedule a consultation online, please use our convenient inquiry form:
+
+[Online Inquiry Form](https://forms.gle/UNx9qUcihytE63qt5)
+
 ## Office Location
 
 **Brainworkup Neuropsychology Clinic, LLC**\
@@ -66,11 +72,15 @@ Marina Del Rey, CA 90292\
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.507752037753!2d-118.44124318478369!3d33.98028588062893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2ba3713c9d4c7%3A0x7e2b1a2e5f23d79c!2s4136%20Del%20Rey%20Ave%2C%20Marina%20Del%20Rey%2C%20CA%2090292%2C%20USA!5e0!3m2!1sen!2s!4v1662032749326!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-## Online Inquiry
+## Telemedicine
 
-For additional questions or to schedule a consultation online, please use our convenient inquiry form:
+We offer telemedicine services for patients who are unable to travel to our
+office for the initial consultation visit and for the feedback visit. Please contact us for more information.
 
-[Online Inquiry Form](https://forms.gle/UNx9qUcihytE63qt5)
+## Testing at Home
+
+In some cases, we can provide testing services at your home (i.e., a "house
+call"). Please contact us for more information. Additional fees may apply.
 
 <!-- {{< form >}} -->
 

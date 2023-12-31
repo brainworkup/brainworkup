@@ -1,6 +1,6 @@
 ---
-title: Joey W. Trampush, Ph.D.
-image: jwt.jpg
+title: "Joey W. Trampush, Ph.D."
+image: jwt_fitted.jpg
 image-width: 5em
 image-height: 5em
 subtitle: |
@@ -14,7 +14,7 @@ toc: false
 aliases:
   - trampush.html
   - about.html
-  - /docs/about/joey-trampush.html
+  - /docs/about/joey-trampush/
   - joeytrampush.com/docs/trampush/
 tags:
   - neuropsychology
@@ -45,6 +45,7 @@ about:
 sidebar: false
 from: markdown+emoji
 repo-actions: false
+lightbox: true
 ---
 
 ## Welcome :wave:

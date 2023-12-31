@@ -3,6 +3,7 @@
     "@algolia/netlify-plugin-crawler": "^1.0.0",
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "bootstrap": "^5.3.2",
+    "cloudinary": "^1.41.1",
     "postcss-scss": "^4.0.9",
     "search-insights": "^2.13.0"
   }

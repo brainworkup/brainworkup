@@ -1,11 +1,21 @@
 ---
 title: "Academic Accommodations"
-subtitle: "Academic Accommodations for Students with Disabilities"
-description: "MCAT Accommodations: Academic Accommodations for Students with Disabilities"
+subtitle: Testing and School Accommodations for Students with Disabilities 
+description: "Academic and standardized testing accommodations for students with disabilities."
 hide-description: true
-format: html
+format:
+  html:
+    page-layout: article
+sidebar: true
+image: ocd.webp
+image-width: 480px
+image-height: 480px
+lightbox: true
 ---
-TODO:
+
+![](ocd.webp "Accommodations"){width=480px height=480px fig-align="center" fig-alt="A brainworkup logo for mcat." style="background-color: white;"}
+
+## Overview
 
 Many children, teenagers, and adults struggle with a range of mental and
 physical disabilities including ADHD, learning disabilities such as Dyslexia,
@@ -16,76 +26,89 @@ is why the Americans with Disabilities Act (ADA) provides individuals with
 reasonable academic accommodations such as extended time on exams, start and
 stop breaks, access to assistive devices, and private testing rooms. 
 
-## Overview
+**Accommodations can be provided for the following standardized tests:**
 
-The Medical College Admission Test (MCAT) is essential for medical school applicants in the U.S. and Canada.
-It evaluates problem-solving, critical thinking, and science knowledge.
-For students with disabilities, the Americans with Disabilities Act (ADA)
-ensures the right to reasonable academic accommodations.
+::: {.grid}
 
-Accommodations can be provided for the following standardized tests:
+::: {.g-col-4}
 
-- ACT
+**College**
+
+- [**ACT**](https://www.act.org/content/act/en/products-and-services/the-act/registration/accommodations.html?hsa_acc=5799955628&hsa_cam=20819547777&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1)
+
 - SAT
-- GMAT
-- GRE
-- LSAT
+:::
+
+::: {.g-col-4}
+**Graduate/Medical School**
+
 - MCAT
-- PCAT
+
+- GMAT
+
+- GRE
+
+- LSAT
+:::
+
+::: {.g-col-4}
+**Licensure**
+
+- [**PCAT**](https://www.pearsonassessments.com/graduate-admissions/pcat/about.html)
+
 - State of California Bar Exam
+
 - Any other standardized test or professional licensing exam
+:::
 
-<!-- The Medical College Admission Test (MCAT) is essential for medical school
-applicants in the U.S. and Canada. It evaluates problem-solving, critical
-thinking, and science knowledge. For students with disabilities, the Americans
-with Disabilities Act (ADA) ensures the right to reasonable academic
-accommodations. Under the ADA, individuals with a disability (physical or
-mental) that substantially limits major life activities are entitled to
-reasonable academic accommodations. These modifications ensure equal
-opportunities and true potential performance. The ADA recognizes a range of
-disabilities for MCAT accommodations: - Attention-Deficit/Hyperactivity Disorder
-(ADHD) - Dyslexia - Psychological Conditions (e.g., Depression, Anxiety) -
-Physical Disabilities - Sensory impairments (vision/hearing) - Physical
-impairments (e.g., Crohn’s disease) - Acquired head injuries Applicants must
-create a profile on the MCAT Accommodations portal and provide extensive
-documentation, including: - History of receiving accommodations - Strategies,
-devices, or medications used - Insufficiency of strategies for MCAT -
-Documentation of the condition - Types of accommodations requested - Personal
-statement - Supporting documents (diagnosis verification, prior evaluations,
-academic transcripts, standardized test scores, past accommodations, academic
-documents) Requests should be submitted at least 60 days before the test date.
-Accommodations must be approved 15 days prior to the exam. Accommodations vary
-by disability, but common ones include extended time, private testing rooms, and
-additional breaks. A comprehensive evaluation by a qualified professional is
-essential to support the request. It should include: 
-- Clinical interview 
-- Behavioral observations 
-- Neuropsychological/psychoeducational testing 
-- Detailed report with individualized analysis and recommendations MCAT accommodations aim to level the playing field for applicants with disabilities, ensuring fair assessment of abilities. Comprehensive evaluations by licensed professionals are vital for substantiating accommodation requests. -->
+:::
 
-## ADA and MCAT Accommodations
+
+## ADA and Testing Accommodations
 
 Under the ADA, individuals with a disability (physical or mental) that substantially limits major life activities are entitled to reasonable academic accommodations.
 These modifications ensure equal opportunities and true potential performance.
 
 ## Covered Disabilities
 
-The ADA recognizes a range of disabilities for MCAT accommodations: - Attention-Deficit/Hyperactivity Disorder (ADHD) - Dyslexia - Psychological Conditions (e.g., Depression, Anxiety) - Physical Disabilities - Sensory impairments (vision/hearing) - Physical impairments (e.g., Crohn’s disease) - Acquired head injuries
+The ADA recognizes a range of disabilities for accommodations:
+
+ - Attention-Deficit/Hyperactivity Disorder (ADHD) 
+ 
+ - Dyslexia 
+ 
+ - Psychological Conditions (e.g., Depression, Anxiety) 
+ 
+ - Physical Disabilities 
+ 
+ - Sensory impairments (vision/hearing) 
+ 
+ - Physical impairments (e.g., Crohn’s disease) 
+ 
+ - Acquired head injuries/TBI
 
 ## Documentation Requirements
 
-Applicants must create a profile on the MCAT Accommodations portal and provide extensive documentation, including: - History of receiving accommodations - Strategies, devices, or medications used - Insufficiency of strategies for MCAT - Documentation of the condition - Types of accommodations requested - Personal statement - Supporting documents (diagnosis verification, prior evaluations, academic transcripts, standardized test scores, past accommodations, academic documents)
+Applicants must create a profile on the tests website portal and provide
+extensive documentation, including: 
 
-### Required Documents Table
+- History of receiving accommodations 
 
-| Accommodation Type       | Required Documents            | Strongly Recommended | If Applicable        |
-|-------------------|--------------------|-----------------|-----------------|
-| \[Insert Accommodation\] | \[Insert Required Documents\] | \[Insert Documents\] | \[Insert Documents\] |
+- Strategies, devices, or medications used 
+
+- Insufficiency of strategies for MCAT 
+
+- Documentation of the condition 
+
+- Types of accommodations requested 
+
+- Personal statement 
+
+- Supporting documents (diagnosis verification, prior evaluations, academic transcripts, standardized test scores, past accommodations, academic documents)
 
 ## Submission Timeline
 
-Requests should be submitted at least 60 days before the test date.
-Accommodations must be approved 15 days prior to the exam.
+In general, requests should be submitted at least 60 days before the test date.
 
 ## Available Accommodations
 
@@ -94,9 +117,33 @@ Accommodations vary by disability, but common ones include extended time, privat
 ## Comprehensive Evaluation Requirement
 
 A comprehensive evaluation by a qualified professional is essential to support the request.
-It should include: - Clinical interview - Behavioral observations - Neuropsychological/psychoeducational testing - Detailed report with individualized analysis and recommendations
+It should include: 
+
+- Clinical interview 
+
+- Behavioral observations 
+
+- Neuropsychological/psychoeducational testing 
+
+- Detailed report with individualized analysis and recommendations
+
+## Consultation
+
+An initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.
+
+## Testing & Evaluation
+
+The testing session may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.
+
+## Feedback Session
+
+Following the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.
+
+## Report
+
+A comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.
 
 ## Conclusion
 
-MCAT accommodations aim to level the playing field for applicants with disabilities, ensuring fair assessment of abilities.
+Testing accommodations aim to level the playing field for applicants with disabilities, ensuring fair assessment of abilities.
 Comprehensive evaluations by licensed professionals are vital for substantiating accommodation requests.

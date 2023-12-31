@@ -1,5 +1,5 @@
 ---
-title: BrainWorkup Neuropsychology, LLC
+title: "BrainWorkup Neuropsychology, LLC"
 subtitle: | 
   Clinical Neuropsychology Practice \
   **Joey Trampush, PhD**
@@ -15,7 +15,7 @@ image-height: 5em
 css: index.css
 about:
   template: trestles
-  image-shape: rounded
+  image-shape: round
 sidebar: false
 tags:
   - neuropsychology
@@ -34,11 +34,12 @@ execute:
   echo: false
   warning: false
   message: false
+lightbox: true
 ---
 
 ## About
 
-Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based
+Founded by [Joey Trampush, PhD](docs/joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based
 in Southern California. We specialize in state-of-the-art neurocognitive and
 neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and
 weaknesses, working collaboratively with you and your family. 
@@ -48,12 +49,15 @@ weaknesses, working collaboratively with you and your family.
 ## Services Tailored for Developing Minds
 
 - **Comprehensive Neurocognitive Examination:** Dive deep into understanding
-your or your child's neurocognitive landscape and brain-based behavioral difficulties.
+your or your child's neurocognitive landscape and brain-based behavioral
+difficulties.
 
 - **Targeted Consultation and Advice:** Customized support for individuals and families, fostering optimal growth.
 
 - **Continued Care and Guidance:** We're here for the long haul, offering
 ongoing assistance to adapt to your or your child's evolving needs.
+
+- **What is Neuropsychological Testing?** [Read More](https://internalmedicine.usc.edu/blog/what-is-neuropsychological-testing/)
 
 ---
 
@@ -158,5 +162,5 @@ clinical services.
 Stay connected with the latest insights and resources:
 
 - [Subscribe to Our Blog](docs/blog/index.qmd)
-- [Follow Us on Mastodon](https://fosstodon.org/@brainworkup)
+- [Follow us on Mastodon](https://fosstodon.org/@brainworkup)
 

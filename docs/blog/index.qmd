@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: "bwu blog"
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
 listing:
@@ -14,9 +14,9 @@ listing:
 page-layout: full
 margin-header: signup.html
 title-block-banner: true
-title-block-banner-color: "#d4eb50"
+title-block-banner-color: "rgba(173, 255, 47, 1)" #"#d4eb50"
 title-block-style: default
-search: false
+search: true
 sidebar: false
 ---
 

@@ -6,13 +6,14 @@ hide-description: true
 format:
   html:
     page-layout: article
-image: logo-kids.webp
-image-width: 70%
+image: /images/kids.webp
+image-width: 20em
+image-height: 20em
 sidebar: true
+lightbox: true
 ---
 
-![Pediatric Neuropsychology](logo-kids.webp){#fig-kids width=70% fig-align="center" fig-alt="A brainworkup logo for
-pediatric neuropsychological services."}
+![](/images/kids.webp "Pediatric Neuropsychology"){width=20em height=20em fig-align="center" fig-alt="A brainworkup logo for pediatric neuropsychological services."}
 
 ## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 
 

@@ -16,26 +16,18 @@ tags:
   - feedback session
   - report
 sidebar: true
+image: adhd-black.webp
+image-width: 480px
+image-height: 480px
+lightbox: true
 ---
+
+![](adhd-black.webp "ADHD"){width=480px height=480px
+fig-align="center" fig-alt="A brainworkup logo for ADHD."}
 
 ## Overview
 
 **Attention-Deficit/Hyperactivity Disorder (ADHD)** is a lifelong disorder characterized by symptoms of inattention (not being able to keep focus), hyperactivity (excess movement that is not fitting to the setting) and impulsivity (hasty acts that occur in the moment without thought). Many ADHD symptoms, such as high activity levels, difficulty remaining still for long periods of time, and limited attention span are common from time to time in everyone. The difference in individuals with ADHD is that their inattention, poor impulse control, and hyperactivity are substantially greater than expected for their age and cause distress and/or problems functioning at home, at school, at work, and/or with friends.
-
-## Spotlight on ADHD in Girls 
-
-A niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients. 
-
-In our clinic, we adopt a comprehensive assessment approach that includes
-behavioral observations, standardized testing, and close collaboration with
-schools and families. The goal is to achieve a holistic understanding of each
-girl's strengths and challenges, and to support them in unlocking their full
-potential.
-
-### Suggested reading
-
-- [Dr. Steve Hinshaw's book on girls with ADHD](https://www.guilford.com/books/Straight-Talk-about-ADHD-in-Girls/Stephen-Hinshaw/9781462547517)
-
 
 ## ADHD in Children and Adolescents
 
@@ -79,18 +71,3 @@ Evaluating ADHD in older adults presents unique challenges, as symptoms may ofte
 
 6. **Tailored Management Strategies**: We provide personalized recommendations, which may include medication, cognitive-behavioral therapy, lifestyle modifications, and strategies to improve organizational skills and time management.
 
-## Consultation
-
-An initial consultation is scheduled to gather relevant background information. This is a good time to ask specific questions and address concerns you may have. We can provide the highest quality of service by working collaboratively with you. If further testing is warranted, a testing appointment will be made at that time.
-
-## Testing & Evaluation
-
-The testing session may last from 2-8 hours, depending on the referral question, nature of the problem, and availability of previous testing results. Of course, you will be allowed to take breaks as needed.
-
-## Feedback Session
-
-Following the evaluation, a feedback session with you and your family may be conducted to discuss results and recommendations. With consent, other professionals involved in treatment may participate and/or receive information about the evaluation.
-
-## Report
-
-A comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.

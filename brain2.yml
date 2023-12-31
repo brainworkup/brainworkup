@@ -2,8 +2,8 @@ project:
   output-dir: _site
 
 website:
-  title: Joey Trampush
+  title: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
   site-url: https://brainworkup.org/
-  description: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
+  description: 'Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults.'
   repo-branch: main
   repo-url: https://github.com/brainworkup/brainworkup/
