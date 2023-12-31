@@ -1,0 +1,35 @@
+---
+title: Autism
+subtitle: Evaluating social difficulties, behavioral patterns, and sensory processing differences characteristic of autism spectrum disorders (ASD)
+description: |
+  "We provide diagnostic and intervention services for Autism Spectrum Disorders (ASD). Our team utilizes evidence-based methods to assess social communication, behavioral patterns, and sensory processing differences characteristic of ASD. We tailor each evaluation to the person, ensuring a comprehensive understanding of their individual profile and needs."
+hide-description: true
+aliases:
+  - ../docs/disorders/autism/
+format:
+  html:
+    page-layout: article
+tags:
+  - autism
+  - Asperger's
+sidebar: true
+---
+
+TODO:
+
+## Understanding Autism
+
+We provide diagnostic and intervention services for Autism Spectrum Disorders
+(ASD). Our team utilizes evidence-based methods to assess social communication,
+behavioral patterns, and sensory processing differences characteristic of ASD.
+We tailor each evaluation to the person, ensuring a comprehensive understanding
+of their individual profile and needs.
+
+I trained for a year at the Center for Autism and Developmental Disabilites at
+Henry Ford Hospital. MORE...
+
+# 🚧 This Page is Under Construction 🚧
+
+We're working hard to finish the development of this site. Our target launch
+date is **Coming Soon**!
+

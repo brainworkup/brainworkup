@@ -1,0 +1,71 @@
+---
+title: "Independent Medical Exam"
+format:
+  html:
+    page-layout: article
+aliases:
+  - ../docs/forensic-neuropsychology/ime/
+---
+
+## Background
+
+Dr. Trampush conducts independent neurocognitive and personality medical examinations (IMEs) in the medicolegal context for both private law firms and federal agencies as an expert witness. To purpose of this work is to identify the impact of neurodevelopmental disorders, traumatic brain injuries, and traumatic stress on clients, assisting in determining appropriate compensation, sentencing, and treatment strategies.
+
+## Overview of Exam Procedures
+
+The process involves comprehensive evaluations for individuals experiencing
+psychological or neuropsychological issues due to various factors, including but
+not limited to developmental history, medical history, injuries or traumatic
+events. The focus is on creating medical-legal reports that cater to the
+specific needs of clients requiring unbiased disability assessments.
+
+The evaluations are based on a reasonable degree of medical certainty and utilize evidence-based psychological and neuropsychological tests. The goal is to ascertain the impact of the event on the individual and suggest treatment options aimed at enhancing their quality of life.
+
+### Key points:
+
+- **Evaluations are thorough:** We employ a comprehensive approach to assess the impact of injuries or trauma on psychological and neuropsychological functioning.
+- **Reports are impartial and evidence-based:** Our medical-legal reports are grounded in evidence-based testing and objective analysis, ensuring unbiased conclusions.
+- **We identify impact and provide recommendations:** We assess how events affected the individual and offer treatment suggestions to improve their quality of life.
+- **Common reasons for testing:** The document lists various situations where such evaluations are often requested, including emotional distress, discrimination, trauma exposure, accidents, and legal matters.
+
+<!-- ## Objective Evaluations for Legal Concerns:
+
+Comprehensive assessments are conducted to understand the individual's situation.
+Medical-legal reports are prepared specifically for legal proceedings, aiming for impartiality.
+Opinions are based on established methods and relevant evidence (e.g., psychological/neuropsychological tests). -->
+
+## Focus on Impact and Potential Solutions
+
+The assessment aims to identify how the event affected the individual.
+Treatment recommendations are provided to improve the individual's quality of life.
+
+<!-- ### Examples of Situations Where Evaluations May Be Relevant:
+
+- Emotional distress or trauma-related symptoms.
+- Workplace issues like discrimination, harassment, or wrongful termination.
+- Accidents involving vehicles, industrial settings, or medical/psychological negligence.
+- Head injuries with persistent symptoms (post-concussion syndrome).
+- Experiences of sexual abuse or harassment. -->
+
+<!-- ## What to Expect
+Our personal injury and independent medical evaluations typically involve:
+
+A detailed clinical interview with your client and collateral sources to determine their pre and post-injury functioning. These interviews will help us understand important psychological, medical, and social background information, and their current cognitive and psychological functioning.
+Consultation with the attorney or insurance company to determine the medical-legal questions that need to be answered.
+A review of medical, psychological, and other collateral documents that help us have a better understanding of your client’s psychological and emotional functioning pre and post-injury.
+We will administer neuropsychological and psychological tests to objectively assess for mental health diagnoses or cognitive impairment.
+
+We will administer and interpret paper and computer-based tests to assess for:
+- General intellectual abilities
+- Higher level executive skills such as reasoning and problem solving
+- Attention and concentration
+- Language comprehension and communication
+- Visual-spatial skills and perception
+- Memory impairment
+- Motor and sensory skills
+- Mood and personality
+- Psychological diagnoses -->
+
+After we complete the evaluation, we will write a comprehensive report that
+integrates our findings, reviews the course of the injury, discusses your or
+your client’s prognosis, and provide appropriate recommendations.

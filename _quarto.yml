@@ -56,7 +56,7 @@ website:
       - text: 'About'
         href: docs/joey-trampush/index.qmd
       - text: 'Services'
-        href: docs/clinical-services/index.qmd
+        href: docs/services/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
       - text: 'Contact'
@@ -83,8 +83,8 @@ website:
     left:
       - text: 'Dr Trampush'
         href: docs/joey-trampush/index.qmd
-      - text: 'Neuropsychological Services'
-        href: docs/clinical-services/index.qmd
+      - text: 'Clinical Services'
+        href: docs/services/index.qmd
       - text: 'FAQ'
         href: docs/faq/index.qmd
       - text: 'Contact'
@@ -131,33 +131,34 @@ website:
       collapse-level: 3
       contents:
         - section: 'Clinical Services'
-          href: docs/clinical-services/index.qmd
+          href: docs/services/index.qmd
           contents:
             - section: '**Pediatric Neuropsychology**'
               contents:
                 - docs/pediatric-neuropsychology/index.qmd
-                - docs/pediatric-neuropsychology/preschool.qmd
-                - docs/pediatric-neuropsychology/school-age.qmd
-                - docs/pediatric-neuropsychology/adolescent.qmd
+                - docs/pediatric-neuropsychology/preschool/index.qmd
+                - docs/pediatric-neuropsychology/school-age/index.qmd
+                - docs/pediatric-neuropsychology/adolescent/index.qmd
             - section: '**Adult Neuropsychology**'
               contents:
                 - docs/adult-neuropsychology/index.qmd
-                - docs/adult-neuropsychology/emerging-adulthood.qmd
-                - docs/adult-neuropsychology/adult-onset-adhd.qmd
+                - docs/adult-neuropsychology/emerging-adulthood/index.qmd
+                - docs/adult-neuropsychology/adult-onset-adhd/index.qmd
             - section: '**Forensic Neuropsychology**'
               contents:
                 - docs/forensic-neuropsychology/index.qmd
-                - docs/forensic-neuropsychology/ime.qmd
-                - docs/forensic-neuropsychology/mental-health-diversion.qmd
-            - section: '**Specific Disorders**'
+                - docs/independent-medical-exam/index.qmd
+                - docs/mental-health-diversion/index.qmd
+            - section: '**Conditions Treated**'
               contents:
-                - docs/disorders/adhd.qmd
-                - docs/disorders/adhd-in-girls.qmd
-                - docs/disorders/mcat.qmd
-                - docs/disorders/dyslexia/index.qmd
-                - docs/disorders/executive-function.qmd
-                - docs/disorders/autism.qmd
-                - docs/disorders/concussion.qmd
+                - docs/conditions-treated/index.qmd
+                - docs/conditions-treated/adhd/index.qmd
+                - docs/conditions-treated/adhd-in-girls/index.qmd
+                - docs/conditions-treated/testing-accommodations/index.qmd
+                - docs/conditions-treated/dyslexia/index.qmd
+                - docs/conditions-treated/executive-function/index.qmd
+                - docs/conditions-treated/autism/index.qmd
+                - docs/conditions-treated/concussion/index.qmd
 
     - id: faq
       title: 'FAQ'

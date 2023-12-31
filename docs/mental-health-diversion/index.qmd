@@ -1,0 +1,34 @@
+---
+title: "Mental Health Diversion"
+format:
+  html:
+    page-layout: article
+aliases:
+  - ../docs/forensic-neuropsychology/mental-health-diversion/
+---
+
+## An Introduction to Mental Health Diversion Evaluations
+
+In recent years, the intersection of mental health and the criminal justice system has become a focal point of discussion and legislation. In 2018, a significant stride was made when Governor Jerry Brown signed into law Senate Bill 215. This bill paved the way for a pre-trial diversion program specifically designed for defendants who are suffering from a mental disorder and stand accused of committing certain crimes. 
+
+## Understanding the Impact of Senate Bill 215
+
+The implications of Senate Bill 215 are far-reaching. It offers a potential lifeline for individuals whose mental disorders may have played a significant role in their alleged criminal activities. Instead of facing the traditional punitive measures, these individuals are given the opportunity to complete a treatment program. 
+
+The benefits of this approach are two-fold. If the accused completes the treatment, not only will the criminal charges be dismissed, but their arrest record will also be sealed. This allows for a fresh start, free from the stigma of a criminal record.
+
+## Our Approach to Mental Health Diversion Evaluations
+
+As experts in mental health evaluations, we believe in a collaborative approach. We work closely with the client, their family, their mental health treatment providers, and their attorney to conduct a comprehensive mental health diversion evaluation. 
+
+Our in-depth assessment is designed to answer the critical questions related to the mental health diversion criteria. This includes:
+
+- Confirming if the defendant suffers from a mental disorder. It's important to note that Antisocial Personality Disorder, Borderline Personality Disorder, and Pedophilic Disorder are excluded from this category.
+- Determining if the mental disorder played a significant role in the defendant's involvement in the alleged crime.
+- Evaluating whether the defendant's symptoms that may have motivated the criminal behavior would respond positively to mental health treatment.
+- Establishing whether the defendant agrees to comply with the treatment as a condition of diversion.
+- Assessing if the defendant, if treated in the community, will pose an unreasonable risk of danger to public safety, as defined in PC 1170.18.
+
+By providing these evaluations, we hope to contribute to a more understanding and compassionate approach to criminal justice, where mental health is given the consideration it deserves.
+
+TODO:

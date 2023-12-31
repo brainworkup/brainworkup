@@ -65,13 +65,13 @@ My work is published in numerous high-impact journals, and I am involved in mult
 
 We specialize in the following neuropsychological services:
 
-- [**ADHD in Girls**](../disorders/adhd-in-girls.qmd)
+- [**ADHD in Girls**](../conditions-treated/adhd-in-girls/index.qmd)
 
-- [**Academic/Testing Accommodations**](../disorders/mcat.qmd)
+- [**Academic/Testing Accommodations**](../conditions-treated/testing-accommodations/index.qmd)
 
-- [**Forensics/Independent Medical Exams**](../forensic-neuropsychology/ime.qmd)
+- [**Forensics/Independent Medical Exams**](../independent-medical-exam/index.qmd)
 
-- [**Adult-Onset ADHD**](../adult-neuropsychology/adult-onset-adhd.qmd)
+- [**Adult-Onset ADHD**](../adult-neuropsychology/adult-onset-adhd/index.qmd)
 
 ---
 

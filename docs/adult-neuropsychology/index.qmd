@@ -82,10 +82,10 @@ Importantly, neuropsychological assessments are tailored to address the specific
 
 ## Highlighted Services for Adults
 
-- [Emerging Adulthood](emerging-adulthood.qmd)
+- [Emerging Adulthood](emerging-adulthood/index.qmd)
 
-- [Adult-Onset ADHD](adult-onset-adhd.qmd)
+- [Adult-Onset ADHD](adult-onset-adhd/index.qmd)
 
-- [MCAT and Related Testing Accommodations](../disorders/mcat.qmd)
+- [MCAT and Related Testing Accommodations](../conditions-treated/testing-accommodations/index.qmd)
 
-- [Sports-Related Concussion](../disorders/concussion.qmd)
+- [Sports-Related Concussion](../conditions-treated/concussion/index.qmd)
