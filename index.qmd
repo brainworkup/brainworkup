@@ -15,7 +15,7 @@ image-height: 5em
 css: index.css
 about:
   template: trestles
-  image-shape: rounded
+  image-shape: round
 sidebar: false
 tags:
   - neuropsychology

@@ -1,28 +1,23 @@
 ---
-title: Executive Functioning
-subtitle: EF in Neurocognitive Assessments
+title: "Executive Functioning"
+subtitle: Executive Skills are Core to Neurocognitive Assessments
 description: "Understanding and Addressing Executive Dysfunction in Neurodevelopmental and Neuropsychiatric Disorders."
 hide-description: true
 tags:
   - executive functioning
   - neurocognitive assessment
   - neuropsychiatric disorders
-sidebar: true
 format:
   html:
-    linkcolor: "#02577B"
     page-layout: article
-about:
-  id: hero-heading
-  template: marquee
-  image: bad-brain.webp
-  image-shape: rounded
-  image-width: 95%
+sidebar: true
+image: bad-brain.webp
+image-width: 75%
+image-height: 75%
+lightbox: true
 ---
 
-:::{#hero-heading}
-
-:::
+![](bad-brain.webp "Executive Function"){width=75% height=75% fig-align="center" fig-alt="A brainworkup logo for ef."}
 
 ## Understanding Executive Functioning: Core to Neurocognitive Health
 

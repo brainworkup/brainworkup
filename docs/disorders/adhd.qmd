@@ -1,5 +1,5 @@
 ---
-title: ADHD
+title: ADHD in Youth
 subtitle: Evaluating ADHD across the lifespan
 description: "An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC."
 hide-description: true
@@ -16,7 +16,14 @@ tags:
   - feedback session
   - report
 sidebar: true
+image: /images/adhd-black.webp
+image-width: 20em
+image-height: 20em
+lightbox: true
 ---
+
+![](/images/adhd-black.webp "ADHD in Youth"){width=20em height=20em
+fig-align="center" fig-alt="A brainworkup logo for ADHD."}
 
 ## Overview
 
