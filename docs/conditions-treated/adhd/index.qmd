@@ -19,13 +19,11 @@ tags:
   - report
 sidebar: true
 image: adhd-black.webp
-image-width: 480px
-image-height: 480px
+image-width: 35em
 lightbox: true
 ---
 
-![](adhd-black.webp "ADHD"){width=480px height=480px
-fig-align="left" fig-alt="A brainworkup logo for ADHD."}
+![](adhd-black.webp "ADHD"){width=35em fig-alt="A brainworkup logo for ADHD."}
 
 ## Overview
 
