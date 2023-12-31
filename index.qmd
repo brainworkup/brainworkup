@@ -65,6 +65,20 @@ ongoing assistance to adapt to your or your child's evolving needs.
 
 ---
 
+## Featured Services
+
+We specialize in the following neuropsychological services:
+
+- [**ADHD in Girls**](../conditions-treated/adhd-in-girls/index.qmd)
+
+- [**Academic/Testing Accommodations**](../conditions-treated/testing-accommodations/index.qmd)
+
+- [**Forensics/Independent Medical Exams**](../independent-medical-exam/index.qmd)
+
+- [**Adult-Onset ADHD**](../adult-neuropsychology/adult-onset-adhd/index.qmd)
+
+---
+
 ## Data-Driven Assessment and Interpretation
 
 We use the latest data analytic and data visualization tools to help us

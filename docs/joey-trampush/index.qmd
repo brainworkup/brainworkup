@@ -61,20 +61,6 @@ My work is published in numerous high-impact journals, and I am involved in mult
 
 ---
 
-## Featured Services
-
-We specialize in the following neuropsychological services:
-
-- [**ADHD in Girls**](../conditions-treated/adhd-in-girls/index.qmd)
-
-- [**Academic/Testing Accommodations**](../conditions-treated/testing-accommodations/index.qmd)
-
-- [**Forensics/Independent Medical Exams**](../independent-medical-exam/index.qmd)
-
-- [**Adult-Onset ADHD**](../adult-neuropsychology/adult-onset-adhd/index.qmd)
-
----
-
 ## Education/Training
 
 - NIH/National Institute of Mental Health, Bethesda, MD (2012)

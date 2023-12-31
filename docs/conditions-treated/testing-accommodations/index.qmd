@@ -10,14 +10,14 @@ format:
     page-layout: article
 sidebar: true
 image: ocd.webp
-image-width: 480px
-image-height: 480px
+image-width: 20em
 lightbox: true
 ---
 
-![](ocd.webp "Accommodations"){width=480px height=480px fig-align="left" fig-alt="A brainworkup logo for mcat." style="background-color: white;"}
+![](ocd.webp "Accommodations"){width=20em fig-alt="A
+brainworkup logo for adult ADHD."}
 
-## Overview
+## Need for Services
 
 Many children, teenagers, and adults struggle with a range of mental and
 physical disabilities including ADHD, learning disabilities such as Dyslexia,
