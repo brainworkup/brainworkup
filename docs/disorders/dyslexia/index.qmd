@@ -1,5 +1,7 @@
 ---
 title: "Dyslexia"
+aliases: 
+  - docs/disorders/dyslexia.html
 format:
   html:
     page-layout: article

@@ -16,6 +16,7 @@ aliases:
   - about.html
   - /docs/about/joey-trampush/
   - joeytrampush.com/docs/trampush/
+  - joeytrampush.com/docs/joey-trampush/
 tags:
   - neuropsychology
   - Joey Trampush
@@ -76,20 +77,20 @@ We specialize in the following neuropsychological services:
 
 ## Education/Training
 
-- National Institute of Mental Health \@ NIH, Bethesda, MD (2012)
-  - **Postdoctoral Fellowship, Psychiatric Genetics**
+- NIH/National Institute of Mental Health, Bethesda, MD (2012)
+  - **Postdoctoral Fellowship, Psychiatric Genetics**  
 
 - CUNY Graduate Center, New York, NY (2010)
-  - **Ph.D., Clinical Neuropsychology**
+  - **Ph.D., Clinical Neuropsychology**  
 
 - Henry Ford Hospital, Detroit, MI (2009) 
-  - **Predoctoral Internship (APA accredited), Pediatric Neuropsychology**
+  - **Predoctoral Internship (APA accredited), Pediatric Neuropsychology**  
 
 - CUNY Graduate Center, New York, NY (2008)
-  - **M.Phil., Clinical Neuropsychology**
+  - **M.Phil., Clinical Neuropsychology**  
 
 - CUNY Queens College, Flushing, NY (2007)
-  - **M.A., Neuroscience/Neuropsychology**
+  - **M.A., Neuroscience/Neuropsychology**  
 
 - Bowling Green State University, Bowling Green, OH (2000)
   - **B.A., Psychology, Minor: Sociology**
@@ -116,12 +117,12 @@ My approach is grounded in the utilization of open-source data science tools, al
 My work offers a unique glimpse into the intersection of neuropsychology and
 neuroscience, providing valuable insights into the complex interactions of the
 human mind. If you would like to learn more about my work and our
-neuropsychology practice, please visit the [contact](../contact/index.qmd#general-information) page or send an e-mail to
+neuropsychology practice, please visit the [contact](../contact/index.qmd#online-inquiry) page or send an e-mail to
 [info@brainworkup.org](mailto:info@brainworkup.org).
 
 Sincerely,
 
-![](jwt_phd.png){width=20em fig-alt="signature"}
+![](jwt_phd.png){width=10em fig-alt="signature"}
 
 **Joey W. Trampush, PhD**\
 Chief Neuropsychologist\
