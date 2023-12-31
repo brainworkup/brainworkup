@@ -22,6 +22,12 @@ status = 301
 force = true
 
 [[redirects]]
+from = "http://www.joeytrampush.com/"
+to = "http://brainworkup.org/"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://joeytrampush.com/docs/trampush/"
 to = "https://brainworkup.org/docs/joey-trampush/"
 status = 301
