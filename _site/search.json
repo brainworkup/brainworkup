@@ -311,11 +311,37 @@
     ]
   },
   {
-    "objectID": "docs/disorders/dyslexia.html",
-    "href": "docs/disorders/dyslexia.html",
+    "objectID": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
+    "href": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
+    "title": "ADHD in Girls",
+    "section": "Spotlight on ADHD in Girls",
+    "text": "Spotlight on ADHD in Girls\nA niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients.\nIn our clinic, we adopt a comprehensive assessment approach that includes behavioral observations, standardized testing, and close collaboration with schools and families. The goal is to achieve a holistic understanding of each girl’s strengths and challenges, and to support them in unlocking their full potential.",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Specific Disorders**",
+      "ADHD in Girls"
+    ]
+  },
+  {
+    "objectID": "docs/disorders/adhd-in-girls.html#suggested-reading",
+    "href": "docs/disorders/adhd-in-girls.html#suggested-reading",
+    "title": "ADHD in Girls",
+    "section": "Suggested reading",
+    "text": "Suggested reading\n\nDr. Steve Hinshaw’s book on girls with ADHD",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Specific Disorders**",
+      "ADHD in Girls"
+    ]
+  },
+  {
+    "objectID": "docs/disorders/dyslexia/index.html#addressing-dyslexia-and-learning-disorders",
+    "href": "docs/disorders/dyslexia/index.html#addressing-dyslexia-and-learning-disorders",
     "title": "Dyslexia",
-    "section": "",
-    "text": "TODO: ## Addressing Dyslexia and Learning Disorders\nOur services also encompass the assessment and support of children with dyslexia and related learning disorders. We conduct detailed evaluations to identify specific learning profiles and provide recommendations for educational accommodations and interventions. Our ultimate aim is to help children overcome their learning challenges and excel academically.\nDyslexia evaluations are a common type of learning disorder assessment conducted to determine eligibility for academic and workplace accommodations. Approximately 15-20% of the general population (around 30 million people in the United States) exhibit signs of dyslexia.\nOur comprehensive evaluations identify cognitive and academic strengths and weaknesses, helping to pinpoint the underlying cause of reading difficulties.\nWorking closely with you, your family, and your teachers, we provide practical feedback and recommendations for accommodations to enhance your performance in educational and professional settings.",
+    "section": "Addressing Dyslexia and Learning Disorders",
+    "text": "Addressing Dyslexia and Learning Disorders\nOur services also encompass the assessment and support of children with dyslexia and related learning disorders. We conduct detailed evaluations to identify specific learning profiles and provide recommendations for educational accommodations and interventions. Our ultimate aim is to help children overcome their learning challenges and excel academically.\nDyslexia evaluations are a common type of learning disorder assessment conducted to determine eligibility for academic and workplace accommodations. Approximately 15-20% of the general population (around 30 million people in the United States) exhibit signs of dyslexia.\nOur comprehensive evaluations identify cognitive and academic strengths and weaknesses, helping to pinpoint the underlying cause of reading difficulties.\nWorking closely with you, your family, and your teachers, we provide practical feedback and recommendations for accommodations to enhance your performance in educational and professional settings.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -324,11 +350,11 @@
     ]
   },
   {
-    "objectID": "docs/disorders/dyslexia.html#dyslexia-definition",
-    "href": "docs/disorders/dyslexia.html#dyslexia-definition",
+    "objectID": "docs/disorders/dyslexia/index.html#dyslexia-definition",
+    "href": "docs/disorders/dyslexia/index.html#dyslexia-definition",
     "title": "Dyslexia",
     "section": "Dyslexia Definition",
-    "text": "Dyslexia Definition\n\nDyslexia means an individual has a neurobiologically based cognitive processing problem that affects how easily and efficiently they can learn to read. Dyslexia is a common condition: some experts believe 5-10% of people have it; others say as many as 17% of people show signs of reading challenges. Dyslexia is formally classified as a specific learning disability in reading. People with dyslexia have trouble reading at a good pace and without mistakes. They may also have a hard time with reading comprehension, spelling, and writing. Importantly, these challenges are not a problem with intelligence.\n\nApproximately 24% of individuals diagnosed with dyslexia are able to achieve reading skills commensurate with nondyslexic peers. A concept in the research literature is one of “compensated dyslexia”(Viersen et al. 2016), which is used to describe these individuals because they use strengths in other areas to compensate for deficits in reading. Dyslexia is underidentified in this population because the dyslexia can be masked by strengths in vocabulary and intelligence, making it especially difficult to identify in high-achieving individuals.\n\nCommon complaints\n\nYou read at a pace that is noticeably slower than average\nYou struggled to gain proficiency in reading while in school\n\nYou often have to reread passages multiple times before understanding them\nWhen reading or writing, you often leave out certain letters or mix them up\nSpelling words incorrectly is something that happens frequently for you\nWhen attempting to read aloud, you find it difficult to correctly pronounce multi-syllabic words\nInstead of tackling longer books, you prefer to read magazines and shorter articles\nTo dodge reading-intensive tasks, you tend to avoid working on projects that require",
+    "text": "Dyslexia Definition\n\nDyslexia means an individual has a neurobiologically based cognitive processing problem that affects how easily and efficiently they can learn to read. Dyslexia is a common condition: some experts believe 5-10% of people have it; others say as many as 17% of people show signs of reading challenges. Dyslexia is formally classified as a specific learning disability in reading. People with dyslexia have trouble reading at a good pace and without mistakes. They may also have a hard time with reading comprehension, spelling, and writing. Importantly, these challenges are not a problem with intelligence.\n\nApproximately 24% of individuals diagnosed with dyslexia are able to achieve reading skills commensurate with nondyslexic peers. A concept in the research literature is one of “compensated dyslexia”(Viersen et al. 2016), which is used to describe these individuals because they use strengths in other areas to compensate for deficits in reading. Dyslexia is underidentified in this population because the dyslexia can be masked by strengths in vocabulary and intelligence, making it especially difficult to identify in high-achieving individuals.",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -337,8 +363,21 @@
     ]
   },
   {
-    "objectID": "docs/disorders/dyslexia.html#dyslexia-identification-and-accommodations",
-    "href": "docs/disorders/dyslexia.html#dyslexia-identification-and-accommodations",
+    "objectID": "docs/disorders/dyslexia/index.html#common-complaints",
+    "href": "docs/disorders/dyslexia/index.html#common-complaints",
+    "title": "Dyslexia",
+    "section": "Common complaints",
+    "text": "Common complaints\n\nYou read at a pace that is noticeably slower than average\nYou struggled to gain proficiency in reading while in school\nYou often have to reread passages multiple times before understanding them\nWhen reading or writing, you often leave out certain letters or mix them up\nSpelling words incorrectly is something that happens frequently for you\nWhen attempting to read aloud, you find it difficult to correctly pronounce multi-syllabic words\nInstead of tackling longer books, you prefer to read magazines and shorter articles\nTo dodge reading-intensive tasks, you tend to avoid working on projects that require",
+    "crumbs": [
+      "Neuropsychological Services",
+      "Clinical Services",
+      "**Specific Disorders**",
+      "Dyslexia"
+    ]
+  },
+  {
+    "objectID": "docs/disorders/dyslexia/index.html#dyslexia-identification-and-accommodations",
+    "href": "docs/disorders/dyslexia/index.html#dyslexia-identification-and-accommodations",
     "title": "Dyslexia",
     "section": "Dyslexia: Identification and Accommodations",
     "text": "Dyslexia: Identification and Accommodations\nDyslexia often presents as difficulties in reading and writing, potentially affecting academic performance. If diagnosed with dyslexia, the Americans with Disabilities Act (ADA) may entitle you to reasonable accommodations at school or work.\nOur aim is to assist you in identifying dyslexia and recommend suitable accommodations. We employ psychological testing, behavioral observations, and consultations with your educational institution for accurate diagnosis and treatment recommendations.\nAcademic adjustments like additional time, extended breaks, or a private room can help mitigate the impact of dyslexia, enabling you to perform at your fullest potential.",
@@ -347,32 +386,6 @@
       "Clinical Services",
       "**Specific Disorders**",
       "Dyslexia"
-    ]
-  },
-  {
-    "objectID": "docs/disorders/autism.html",
-    "href": "docs/disorders/autism.html",
-    "title": "Autism",
-    "section": "",
-    "text": "TODO:",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "Autism"
-    ]
-  },
-  {
-    "objectID": "docs/disorders/autism.html#understanding-autism",
-    "href": "docs/disorders/autism.html#understanding-autism",
-    "title": "Autism",
-    "section": "Understanding Autism",
-    "text": "Understanding Autism\nWe provide diagnostic and intervention services for Autism Spectrum Disorders (ASD). Our team utilizes evidence-based methods to assess social communication, behavioral patterns, and sensory processing differences characteristic of ASD. We tailor each evaluation to the person, ensuring a comprehensive understanding of their individual profile and needs.\nI trained for a year at the Center for Autism and Developmental Disabilites at Henry Ford Hospital. MORE…",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "Autism"
     ]
   },
   {
@@ -418,24 +431,11 @@
     "text": "Neurological Disorders\n\nSports-Related Concussions\n\n\nTraumatic Brain Injury"
   },
   {
-    "objectID": "docs/disorders/mcat.html",
-    "href": "docs/disorders/mcat.html",
-    "title": "Academic Accommodations",
-    "section": "",
-    "text": "Many children, teenagers, and adults struggle with a range of mental and physical disabilities including ADHD, learning disabilities such as Dyslexia, Dysgraphia, or Dyscalculia, mental health conditions such as depression, anxiety, and PTSD, and neurocognitive conditions such as a head injury. These conditions can occur together and cause difficulties at school and work, which is why the Americans with Disabilities Act (ADA) provides individuals with reasonable academic accommodations such as extended time on exams, start and stop breaks, access to assistive devices, and private testing rooms.\nFor students with disabilities, the Americans with Disabilities Act (ADA) ensures the right to reasonable academic accommodations.\nAccommodations can be provided for the following standardized tests:\n\nACT\nSAT\nGMAT\nGRE\nLSAT\nMCAT\nPCAT\nState of California Bar Exam\nAny other standardized test or professional licensing exam",
-    "crumbs": [
-      "Neuropsychological Services",
-      "Clinical Services",
-      "**Specific Disorders**",
-      "Academic Accommodations"
-    ]
-  },
-  {
     "objectID": "docs/disorders/mcat.html#overview",
     "href": "docs/disorders/mcat.html#overview",
     "title": "Academic Accommodations",
-    "section": "",
-    "text": "Many children, teenagers, and adults struggle with a range of mental and physical disabilities including ADHD, learning disabilities such as Dyslexia, Dysgraphia, or Dyscalculia, mental health conditions such as depression, anxiety, and PTSD, and neurocognitive conditions such as a head injury. These conditions can occur together and cause difficulties at school and work, which is why the Americans with Disabilities Act (ADA) provides individuals with reasonable academic accommodations such as extended time on exams, start and stop breaks, access to assistive devices, and private testing rooms.\nFor students with disabilities, the Americans with Disabilities Act (ADA) ensures the right to reasonable academic accommodations.\nAccommodations can be provided for the following standardized tests:\n\nACT\nSAT\nGMAT\nGRE\nLSAT\nMCAT\nPCAT\nState of California Bar Exam\nAny other standardized test or professional licensing exam",
+    "section": "Overview",
+    "text": "Overview\nMany children, teenagers, and adults struggle with a range of mental and physical disabilities including ADHD, learning disabilities such as Dyslexia, Dysgraphia, or Dyscalculia, mental health conditions such as depression, anxiety, and PTSD, and neurocognitive conditions such as a head injury. These conditions can occur together and cause difficulties at school and work, which is why the Americans with Disabilities Act (ADA) provides individuals with reasonable academic accommodations such as extended time on exams, start and stop breaks, access to assistive devices, and private testing rooms.\nAccommodations can be provided for the following standardized tests:\n\n\nCollege\n\nACT\nSAT\n\n\n\nGraduate/Medical School\n\nMCAT\nGMAT\nGRE\nLSAT\n\n\n\nLicensure\n\nPCAT\nState of California Bar Exam\nAny other standardized test or professional licensing exam",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
@@ -1039,29 +1039,29 @@
     ]
   },
   {
-    "objectID": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
-    "href": "docs/disorders/adhd-in-girls.html#spotlight-on-adhd-in-girls",
-    "title": "ADHD in Girls",
-    "section": "Spotlight on ADHD in Girls",
-    "text": "Spotlight on ADHD in Girls\nA niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients.\nIn our clinic, we adopt a comprehensive assessment approach that includes behavioral observations, standardized testing, and close collaboration with schools and families. The goal is to achieve a holistic understanding of each girl’s strengths and challenges, and to support them in unlocking their full potential.",
+    "objectID": "docs/disorders/autism.html",
+    "href": "docs/disorders/autism.html",
+    "title": "Autism",
+    "section": "",
+    "text": "TODO:",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
       "**Specific Disorders**",
-      "ADHD in Girls"
+      "Autism"
     ]
   },
   {
-    "objectID": "docs/disorders/adhd-in-girls.html#suggested-reading",
-    "href": "docs/disorders/adhd-in-girls.html#suggested-reading",
-    "title": "ADHD in Girls",
-    "section": "Suggested reading",
-    "text": "Suggested reading\n\nDr. Steve Hinshaw’s book on girls with ADHD",
+    "objectID": "docs/disorders/autism.html#understanding-autism",
+    "href": "docs/disorders/autism.html#understanding-autism",
+    "title": "Autism",
+    "section": "Understanding Autism",
+    "text": "Understanding Autism\nWe provide diagnostic and intervention services for Autism Spectrum Disorders (ASD). Our team utilizes evidence-based methods to assess social communication, behavioral patterns, and sensory processing differences characteristic of ASD. We tailor each evaluation to the person, ensuring a comprehensive understanding of their individual profile and needs.\nI trained for a year at the Center for Autism and Developmental Disabilites at Henry Ford Hospital. MORE…",
     "crumbs": [
       "Neuropsychological Services",
       "Clinical Services",
       "**Specific Disorders**",
-      "ADHD in Girls"
+      "Autism"
     ]
   },
   {

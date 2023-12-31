@@ -1,8 +1,18 @@
 ---
 title: "Dyslexia"
-format: html
+format:
+  html:
+    page-layout: article
+sidebar: true
+image: dyslexia.webp
+image-width: 480px
+image-height: 480px
+lightbox: true
 ---
-TODO:
+
+![](dyslexia.webp "Dyslexia"){width=480px height=480px
+fig-align="center" fig-alt="A brainworkup logo for dyslexia."}
+
 ## Addressing Dyslexia and Learning Disorders 
 
 Our services also encompass the assessment and support of children with dyslexia and related learning disorders. We conduct detailed evaluations to identify specific learning profiles and provide recommendations for educational accommodations and interventions. Our ultimate aim is to help children overcome their learning challenges and excel academically.
@@ -19,15 +29,22 @@ Working closely with you, your family, and your teachers, we provide practical f
 
 Approximately 24% of individuals diagnosed with dyslexia are able to achieve reading skills commensurate with nondyslexic peers. A concept in the research literature is one of "compensated dyslexia"[@vanviersenHighReadingSkills2016], which is used to describe these individuals because they use strengths in other areas to compensate for deficits in reading. Dyslexia is underidentified in this population because the dyslexia can be masked by strengths in vocabulary and intelligence, making it especially difficult to identify in high-achieving individuals.
 
-### Common complaints
+## Common complaints
 
 - You read at a pace that is noticeably slower than average 
+
 - You struggled to gain proficiency in reading while in school  
+
 - You often have to reread passages multiple times before understanding them 
+
 - When reading or writing, you often leave out certain letters or mix them up 
+
 - Spelling words incorrectly is something that happens frequently for you 
+
 - When attempting to read aloud, you find it difficult to correctly pronounce multi-syllabic words 
+
 - Instead of tackling longer books, you prefer to read magazines and shorter articles 
+
 - To dodge reading-intensive tasks, you tend to avoid working on projects that require
 
 ## Dyslexia: Identification and Accommodations

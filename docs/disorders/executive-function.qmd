@@ -11,13 +11,13 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: bad-brain.webp
-image-width: 75%
-image-height: 75%
+image: brain3d.png
+image-width: 480px
+image-height: 480px
 lightbox: true
 ---
 
-![](bad-brain.webp "Executive Function"){width=75% height=75% fig-align="center" fig-alt="A brainworkup logo for ef."}
+![](brain3d.png "Executive Function"){width=480px height=480px fig-align="center" fig-alt="A brainworkup logo for ef."}
 
 ## Understanding Executive Functioning: Core to Neurocognitive Health
 

@@ -40,7 +40,7 @@
     - text: Test Accommodations
       href: ../disorders/mcat.qmd
     - text: Dyslexia
-      href: ../disorders/dyslexia.qmd
+      href: ../disorders/dyslexia/index.qmd
     - text: Executive Dysfunction
       href: ../disorders/executive-function.qmd
     # - text: OCD and Pathological Perfectionism

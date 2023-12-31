@@ -154,7 +154,7 @@ website:
                 - docs/disorders/adhd.qmd
                 - docs/disorders/adhd-in-girls.qmd
                 - docs/disorders/mcat.qmd
-                - docs/disorders/dyslexia.qmd
+                - docs/disorders/dyslexia/index.qmd
                 - docs/disorders/executive-function.qmd
                 - docs/disorders/autism.qmd
                 - docs/disorders/concussion.qmd

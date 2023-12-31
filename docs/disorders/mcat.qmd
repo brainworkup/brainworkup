@@ -1,10 +1,19 @@
 ---
 title: "Academic Accommodations"
-subtitle: Academic Accommodations for Students with Disabilities 
+subtitle: Testing and School Accommodations for Students with Disabilities 
 description: "Academic and standardized testing accommodations for students with disabilities."
 hide-description: true
-format: html
+format:
+  html:
+    page-layout: article
+sidebar: true
+image: ocd.webp
+image-width: 480px
+image-height: 480px
+lightbox: true
 ---
+
+![](ocd.webp "Accommodations"){width=480px height=480px fig-align="center" fig-alt="A brainworkup logo for mcat." style="background-color: white;"}
 
 ## Overview
 
@@ -17,28 +26,43 @@ is why the Americans with Disabilities Act (ADA) provides individuals with
 reasonable academic accommodations such as extended time on exams, start and
 stop breaks, access to assistive devices, and private testing rooms. 
 
-For students with disabilities, the Americans with Disabilities Act (ADA)
-ensures the right to reasonable academic accommodations.
+**Accommodations can be provided for the following standardized tests:**
 
-Accommodations can be provided for the following standardized tests:
+::: {.grid}
 
-- [ACT](https://www.act.org/content/act/en/products-and-services/the-act/registration/accommodations.html?hsa_acc=5799955628&hsa_cam=20819547777&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1)
+::: {.g-col-4}
+
+**College**
+
+- [**ACT**](https://www.act.org/content/act/en/products-and-services/the-act/registration/accommodations.html?hsa_acc=5799955628&hsa_cam=20819547777&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1)
 
 - SAT
+:::
+
+::: {.g-col-4}
+**Graduate/Medical School**
+
+- MCAT
 
 - GMAT
 
 - GRE
 
 - LSAT
+:::
 
-- MCAT
+::: {.g-col-4}
+**Licensure**
 
-- [PCAT](https://www.pearsonassessments.com/graduate-admissions/pcat/about.html)
+- [**PCAT**](https://www.pearsonassessments.com/graduate-admissions/pcat/about.html)
 
 - State of California Bar Exam
 
 - Any other standardized test or professional licensing exam
+:::
+
+:::
+
 
 ## ADA and Testing Accommodations
 
@@ -82,12 +106,6 @@ extensive documentation, including:
 
 - Supporting documents (diagnosis verification, prior evaluations, academic transcripts, standardized test scores, past accommodations, academic documents)
 
-<!-- ### Required Documents Table
-
-| Accommodation Type       | Required Documents            | Strongly Recommended | If Applicable        |
-|-------------------|--------------------|-----------------|-----------------|
-| \[Insert Accommodation\] | \[Insert Required Documents\] | \[Insert Documents\] | \[Insert Documents\] | -->
-
 ## Submission Timeline
 
 In general, requests should be submitted at least 60 days before the test date.
@@ -124,7 +142,6 @@ Following the evaluation, a feedback session with you and your family may be con
 ## Report
 
 A comprehensive report will be provided to you and your family. The report will include background information, test results, diagnosis, and recommendations. The report can then be used to apply for testing accommodations.
-
 
 ## Conclusion
 
