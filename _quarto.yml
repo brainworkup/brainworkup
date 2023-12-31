@@ -151,7 +151,7 @@ website:
                 - docs/mental-health-diversion/index.qmd
             - section: '**Conditions Treated**'
               contents:
-                - docs/conditions-treated/index.qmd
+                # - docs/conditions-treated/index.qmd
                 - docs/conditions-treated/adhd/index.qmd
                 - docs/conditions-treated/adhd-in-girls/index.qmd
                 - docs/conditions-treated/testing-accommodations/index.qmd

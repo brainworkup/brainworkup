@@ -13,13 +13,12 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: brain3d.png
-image-width: 480px
-image-height: 480px
+image: adhd-girls-younger.webp
+image-width: 20em
 lightbox: true
 ---
 
-![](brain3d.png "Executive Function"){width=480px height=480px fig-align="center" fig-alt="A brainworkup logo for ef."}
+![](adhd-girls-younger.webp "Executive Function"){width=20em height="100%" fig-alt="A brainworkup logo for ef."}
 
 ## Understanding Executive Functioning: Core to Neurocognitive Health
 
