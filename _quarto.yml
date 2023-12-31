@@ -9,11 +9,19 @@ website:
   title: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
   image: logo-transparent.png
   favicon: green.png #'favicon2.png' #'favicon.io.png'
-  open-graph: true
+  open-graph:
+    locale: en_US
+    site-name: brainworkup
+    image: 'preview.png'
+    image-width: 96
+    image-height: 96
   twitter-card:
     creator: '@brainworkup'
     site: '@brainworkup'
     card-style: 'summary_large_image'
+    image: 'preview.png'
+    image-width: 96
+    image-height: 96
   site-url: https://brainworkup.org
   site-path: '/'
   repo-url: https://github.com/brainworkup/brainworkup
