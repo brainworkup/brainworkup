@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-image: /logo.png
+image: bwu-logo-transparent.png
 image-width: 20em
 format:
   html:
@@ -12,7 +12,7 @@ tags:
   - faq
   - brainworkup
 ---
-![](/logo.png "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
+![](bwu-logo-transparent.png "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
 
 ## Overview of the practice 
 

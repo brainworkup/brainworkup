@@ -7,7 +7,7 @@ project:
 
 website:
   title: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
-  image: 'logo.png'
+  image: 'logo-transparent.png'
   favicon: 'green.png' #'favicon2.png' #'favicon.io.png'
   open-graph: true
   twitter-card:
