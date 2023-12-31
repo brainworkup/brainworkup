@@ -7,10 +7,6 @@ format:
     page-layout: full
 aliases:
   - ../docs/clinical-services/
-  # - docs/clinical-service/index.qmd
-  # - docs/clinical-services/index.html
-  # - ../docs/clinical-service/index.qmd
-  # - ../docs/clinical-service/index.html
   - clinical-services.html
   - neuropsychological-services.html
 toc: false

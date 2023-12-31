@@ -1,5 +1,6 @@
 /*-- scss:defaults --*/
-$link-color:#007fff;
+$link-color: #AA336A;
+$darker-red: darken($link-color, 20%);
 $text-muted: #6a737b;
 
 /*-- scss:rules --*/

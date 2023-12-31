@@ -4,37 +4,40 @@ project:
   preview:
     port: 3000
     browser: true
+  resources:
+    - "/_redirects"
 
 website:
-  title: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
+  title: "BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD"
   image: logo-transparent.png
-  favicon: green.png #'favicon2.png' #'favicon.io.png'
+  favicon: green.png
   open-graph:
     locale: en_US
     site-name: brainworkup
-    image: 'preview.png'
+    image: "preview.png"
     image-width: 96
     image-height: 96
   twitter-card:
-    creator: '@brainworkup'
-    site: '@brainworkup'
-    card-style: 'summary_large_image'
-    image: 'preview.png'
+    creator: "@brainworkup"
+    site: "@brainworkup"
+    card-style: "summary_large_image"
+    image: "preview.png"
     image-width: 96
     image-height: 96
   site-url: https://brainworkup.org
-  site-path: '/'
+  site-path: "/"
   repo-url: https://github.com/brainworkup/brainworkup
   repo-branch: origin
   issue-url: https://github.com/brainworkup/brainworkup/issues
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
-  google-analytics: 'G-HW85H7H8P6'
+  google-analytics: "G-HW85H7H8P6"
+  cookie-consent: true
   back-to-top-navigation: true
   reader-mode: false
   search:
-    location: navbar
+    location: sidebar
     type: overlay
     copy-button: true
     show-item-context: true
@@ -53,13 +56,13 @@ website:
     left: |
       MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
     center:
-      - text: 'About'
+      - text: "About"
         href: docs/joey-trampush/index.qmd
-      - text: 'Services'
+      - text: "Services"
         href: docs/services/index.qmd
-      - text: 'FAQ'
+      - text: "FAQ"
         href: docs/faq/index.qmd
-      - text: 'Contact'
+      - text: "Contact"
         href: docs/contact/index.qmd
     right:
       - icon: github
@@ -76,30 +79,30 @@ website:
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
 
   navbar:
-    title: '**brainworkup**'
-    background: '#33373f'
+    title: "**brainworkup**"
+    background: "#33373f"
     foreground: light
     collapse-below: lg
     left:
-      - text: 'Dr Trampush'
+      - text: "Dr Trampush"
         href: docs/joey-trampush/index.qmd
-      - text: 'Clinical Services'
+      - text: "Services"
         href: docs/services/index.qmd
-      - text: 'FAQ'
+      - text: "FAQ"
         href: docs/faq/index.qmd
-      - text: 'Contact'
+      - text: "Contact"
         href: docs/contact/index.qmd
-      - text: 'Blog'
+      - text: "Blog"
         href: docs/blog/index.qmd
       - icon: file-pdf
-        text: 'CV'
+        text: "CV"
         href: /resources/cv.pdf
     right:
       - icon: phone
-        text: '**(213) 495-1155**'
+        text: "**(213) 495-1155**"
         href: tel:2134951155
       - icon: envelope
-        text: '**info@brainworkup.org**'
+        text: "**info@brainworkup.org**"
         href: mailto:info@brainworkup.org
     tools:
       - icon: github
@@ -120,36 +123,36 @@ website:
 
   sidebar:
     - id: about
-      title: 'Dr Trampush'
-      style: 'floating'
+      title: "Dr Trampush"
+      style: "floating"
       collapse-level: 1
       align: left
       contents:
         - docs/joey-trampush/index.qmd
 
-    - id: clinical-services
+    - id: services
       collapse-level: 3
       contents:
-        - section: 'Clinical Services'
+        - section: "Clinical Services"
           href: docs/services/index.qmd
           contents:
-            - section: '**Pediatric Neuropsychology**'
+            - section: "**Pediatric Neuropsychology**"
               contents:
                 - docs/pediatric-neuropsychology/index.qmd
                 - docs/pediatric-neuropsychology/preschool/index.qmd
                 - docs/pediatric-neuropsychology/school-age/index.qmd
                 - docs/pediatric-neuropsychology/adolescent/index.qmd
-            - section: '**Adult Neuropsychology**'
+            - section: "**Adult Neuropsychology**"
               contents:
                 - docs/adult-neuropsychology/index.qmd
                 - docs/adult-neuropsychology/emerging-adulthood/index.qmd
                 - docs/adult-neuropsychology/adult-onset-adhd/index.qmd
-            - section: '**Forensic Neuropsychology**'
+            - section: "**Forensic Neuropsychology**"
               contents:
                 - docs/forensic-neuropsychology/index.qmd
                 - docs/independent-medical-exam/index.qmd
                 - docs/mental-health-diversion/index.qmd
-            - section: '**Conditions Treated**'
+            - section: "**Conditions Treated**"
               contents:
                 # - docs/conditions-treated/index.qmd
                 - docs/conditions-treated/adhd/index.qmd
@@ -161,17 +164,17 @@ website:
                 - docs/conditions-treated/concussion/index.qmd
 
     - id: faq
-      title: 'FAQ'
+      title: "FAQ"
       collapse-level: 1
       contents:
-        - section: 'FAQ'
+        - section: "FAQ"
           href: docs/faq/index.qmd
 
     - id: contact
-      title: 'Contact'
+      title: "Contact"
       collapse-level: 1
       contents:
-        - section: 'Contact Us'
+        - section: "Contact Us"
           href: docs/contact/index.qmd
 
 format:
@@ -179,7 +182,7 @@ format:
     toc: true
     toc-depth: 4
     toc-expand: 1
-    toc-title: '**On this page**'
+    toc-title: "**On this page**"
     theme:
       light: [cosmo, theme.scss]
     css: styles.css
@@ -195,12 +198,12 @@ format:
     fontsize: 1.2em
     linestretch: 1.14
     highlight-style: dracula
-    fontcolor: '#181818'
-    linkcolor: '#AA336A'
+    fontcolor: "#181818"
+    linkcolor: "#AA336A"
     link-external-icon: true
     link-external-newwindow: true
-    fig-align: center
-    author-meta: 'Joey Trampush'
+    fig-align: default
+    author-meta: "Joey Trampush"
     lightbox: true
 
 bibliography: refs.bib

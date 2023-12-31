@@ -4,7 +4,6 @@ description: "Contact us for more information or to schedule an evaluation. We'r
 hide-description: false
 image: /logo.png
 image-width: 20em
-image-height: 20em
 tags:
   - brainworkup contact
   - brain

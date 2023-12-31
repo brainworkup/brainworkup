@@ -14,12 +14,11 @@ format:
   html:
     page-layout: full
 image: hero.png
-image-width: 5em
-image-height: 5em
 css: index.css
 about:
   template: trestles
   image-shape: round
+  image-width: 20em
 sidebar: false
 tags:
   - neuropsychology
@@ -175,10 +174,10 @@ bwu::drilldown(
 Get in touch with us to see how we can help you and your family with our
 clinical services.
 
-[Schedule a Consultation](docs/contact/index.qmd#online-inquiry)
+- [[Schedule a Consultation](docs/contact/index.qmd#online-inquiry)]
 
 Stay connected with the latest insights and resources:
 
-- [Subscribe to Our Blog](docs/blog/index.qmd)
-- [Follow us on Mastodon](https://fosstodon.org/@brainworkup)
+- [[Subscribe to Our Blog](docs/blog/index.qmd)]
+- [[Follow us on Mastodon](https://fosstodon.org/@brainworkup)]
 

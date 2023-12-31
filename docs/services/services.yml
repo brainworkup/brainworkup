@@ -13,11 +13,11 @@
 - title: Adult Neuropsychology
   subtitle: Neuropsychology of emerging adulthood including adult-onset ADHD
   links:
-    - text: 'Overview'
+    - text: "Overview"
       href: ../adult-neuropsychology/index.qmd
-    - text: 'Emerging Adulthood'
+    - text: "Emerging Adulthood"
       href: ../adult-neuropsychology/emerging-adulthood/index.qmd
-    - text: 'Adult-Onset ADHD'
+    - text: "Adult-Onset ADHD"
       href: ../adult-neuropsychology/adult-onset-adhd/index.qmd
 
 - title: Forensic Neuropsychology
@@ -30,8 +30,8 @@
     - text: Mental Health Diversion
       href: ../mental-health-diversion/index.qmd
 
-- title: Conditions We Treat
-  subtitle: 'We have unique expertise in evaluating the neurocognitive and neurobehavioral conditions described below'
+- title: Conditions Treated
+  subtitle: "We have unique expertise in evaluating the neurocognitive and neurobehavioral conditions described below"
   links:
     # - text: Specialty Areas
     #   href: ../conditions-treated/index.qmd

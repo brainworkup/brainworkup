@@ -27,7 +27,7 @@ h1, h2, h3 {
 } */
 
 #title-block-header {
-  display: default;
+  display: default; /* used to be default; hide the title block header */
 }
 
 .navbar {
@@ -35,6 +35,10 @@ h1, h2, h3 {
   text-align: left;
   font-size: 16px;
 }
+
+/* .navbar {
+  background-color: #333333;
+  color: #AA0000; */
 
 .title, .navbar-title {
   font-weight: bold;

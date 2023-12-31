@@ -4,7 +4,7 @@ subtitle: Testing and School Accommodations for Students with Disabilities
 description: "Academic and standardized testing accommodations for students with disabilities."
 hide-description: true
 aliases:
-  - ../docs/disorders/mcat/
+  - /docs/disorders/mcat.html
 format:
   html:
     page-layout: article
