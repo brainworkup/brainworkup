@@ -39,7 +39,6 @@ to = "brainworkup.org/docs/joey-trampush/"
 status = 301
 force = true
 
-
 [[redirects]]
 from = "https://brainworkup.com/"
 to = "https://brainworkup.org/"
