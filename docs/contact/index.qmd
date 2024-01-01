@@ -3,7 +3,7 @@ title: Contact Us
 subtitle: "Contact us for more information or to schedule an evaluation. We're here to help."
 hide-description: false
 image: logo.webp
-image-width: 35em
+image-width: 20em
 filters:
   - forms
 tags:
@@ -50,7 +50,7 @@ form:
     height: 30 #in cols
 ---
 
-![](logo.webp "Contact"){width=35em fig-alt="A brainworkup logo."}
+![](logo.webp "Contact"){width=20em fig-alt="A brainworkup logo."}
 
 ## General Information
 

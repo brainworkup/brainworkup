@@ -9,11 +9,11 @@ aliases:
   - ../docs/adult-neuropsychology/adult-onset-adhd.html
 image: boomboxbrain.webp
 sidebar: true
-image-width: 35em
+image-width: 20em
 lightbox: true
 ---
 
-![](boomboxbrain.webp "Adult ADHD"){width=35em fig-alt="A brainworkup logo for adult ADHD."}
+![](boomboxbrain.webp "Adult ADHD"){width=20em fig-alt="A brainworkup logo for adult ADHD."}
 
 ## Introduction
 

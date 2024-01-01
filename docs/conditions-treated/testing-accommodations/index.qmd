@@ -10,11 +10,11 @@ format:
     page-layout: article
 sidebar: true
 image: ocd.webp
-image-width: 35em
+image-width: 20em
 lightbox: true
 ---
 
-![](ocd.webp "Accommodations"){width=35em fig-alt="A
+![](ocd.webp "Accommodations"){width=20em fig-alt="A
 brainworkup logo for adult ADHD."}
 
 ## Need for Services

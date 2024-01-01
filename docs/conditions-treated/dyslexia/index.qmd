@@ -7,11 +7,11 @@ format:
     page-layout: article
 sidebar: true
 image: dyslexia.webp
-image-width: 35em
+image-width: 20em
 lightbox: true
 ---
 
-![](dyslexia.webp "Dyslexia"){width=35em fig-alt="A brainworkup logo for dyslexia."}
+![](dyslexia.webp "Dyslexia"){width=20em fig-alt="A brainworkup logo for dyslexia."}
 
 ## Addressing Dyslexia and Learning Disorders 
 

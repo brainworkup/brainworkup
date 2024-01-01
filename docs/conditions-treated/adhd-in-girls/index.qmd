@@ -14,11 +14,11 @@ tags:
   - ADHD in girls
 sidebar: true
 image: adhd-girls.webp
-image-width: 35em
+image-width: 20em
 lightbox: true
 ---
 
-![](adhd-girls.webp "ADHD in Girls"){width=35em fig-alt="A brainworkup kids logo for adhd in girls."}
+![](adhd-girls.webp "ADHD in Girls"){width=20em fig-alt="A brainworkup kids logo for adhd in girls."}
 
 ## Spotlight on ADHD in Girls 
 
