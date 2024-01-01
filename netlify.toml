@@ -3,9 +3,6 @@ package = "@algolia/netlify-plugin-crawler"
 [plugins.inputs]
 branches = ['main']
 
-[[plugins]]
-package = "netlify-plugin-checklinks"
-
 [[redirects]]
 from = "https://joeytrampush.com/"
 to = "https://brainworkup.org/"

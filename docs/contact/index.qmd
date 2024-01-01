@@ -1,9 +1,9 @@
 ---
 title: Contact Us
-description: "Contact us for more information or to schedule an evaluation. We're here to help."
+subtitle: "Contact us for more information or to schedule an evaluation. We're here to help."
 hide-description: false
 image: logo.webp
-image-width: 20em
+image-width: 35em
 filters:
   - forms
 tags:
@@ -15,14 +15,15 @@ tags:
 sidebar: false
 format: 
   html:
-    include-in-header: 
-      # - file: submit_form.md
-    - file: contact_submissions.txt
+    # include-in-header: 
+    # - file: submit_form.md
+    include-in-body: 
+    - file: contact_form.php
     page-layout: article
     toc: true
 
 form:
-  action: "/docs/contact/contact_form.php"
+  action: "contact_form.php"
   submit: "Submit"
   # action: "javascript:submit()"
   method: "post"
@@ -49,7 +50,7 @@ form:
     height: 30 #in cols
 ---
 
-![](logo.webp "Contact"){width=20em fig-alt="A brainworkup logo."}
+![](logo.webp "Contact"){width=35em fig-alt="A brainworkup logo."}
 
 ## General Information
 
@@ -87,9 +88,9 @@ office for the initial consultation visit and for the feedback visit. Please con
 In some cases, we can provide testing services at your home (i.e., a "house
 call"). Please contact us for more information. Additional fees may apply.
 
-## Form
+<!-- ## Form
 
-{{< form >}}
+{{< form >}} -->
 
 <!-- #### Form submission
 
@@ -104,3 +105,18 @@ call"). Please contact us for more information. Additional fees may apply.
     <button type="submit">Send</button>
   </p>
 </form> -->
+
+
+<!-- ## PHP
+
+```{=html}
+<body>
+
+<form action="welcome_get.php" method="get">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
+
+</body>
+``` -->

@@ -34,7 +34,7 @@ website:
   page-navigation: true
   bread-crumbs: true
   google-analytics: "G-HW85H7H8P6"
-  cookie-consent: true
+  cookie-consent: false
   back-to-top-navigation: true
   reader-mode: false
   search:
