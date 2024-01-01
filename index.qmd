@@ -13,7 +13,7 @@ section-divs: true
 format:
   html:
     page-layout: full
-image: images/hero-384.png
+image: "images/hero-384.png"
 css: index.css
 about:
   template: trestles

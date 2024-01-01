@@ -93,5 +93,5 @@ images/adhd.png
 images/bwu-logo-transparent.png
 # images/jwt_fitted.jpg
 images/jwt_fitted2.jpg
-images/
-/.luarc.json
+_images/
+# /.luarc.json
