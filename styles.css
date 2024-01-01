@@ -11,6 +11,10 @@
   background: linear-gradient(240.01deg, #4b555b 15.29%, rgba(67, 78, 84, 0) 138.75%);
 }
 
+/* .link-color {
+  color: mix(#b72a6c, var(--background-3), 30%);
+} */
+
 .cell {
   margin-bottom: 1rem;
 }

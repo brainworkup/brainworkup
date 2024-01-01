@@ -1,6 +1,6 @@
 ---
 title: "Joey W. Trampush, Ph.D."
-image: jwt_fitted.jpg
+image: jwt_fitted_384.jpg
 subtitle: |
   Chief Neuropsychologist\
   Assistant Professor of Psychiatry\
@@ -28,7 +28,7 @@ about:
   id: about
   template: trestles
   image-shape: round
-  image-width: 20em
+  # image-width: "(min-width: 400px) 303px, calc(76.25vw + 13px)"
   links:
     - icon: github
       href: https://github.com/brainworkup/brainworkup

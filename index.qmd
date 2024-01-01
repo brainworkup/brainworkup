@@ -13,12 +13,12 @@ section-divs: true
 format:
   html:
     page-layout: full
-image: hero.png
+image: images/hero-384.png
 css: index.css
 about:
   template: trestles
   image-shape: round
-  image-width: 20em
+  image-width: "(min-width: 400px) 303px, calc(76.25vw + 13px)"
 sidebar: false
 tags:
   - neuropsychology
