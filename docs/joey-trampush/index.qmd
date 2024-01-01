@@ -1,6 +1,6 @@
 ---
 title: "Joey W. Trampush, Ph.D."
-image: images/jwt_fitted.jpg
+image: jwt_fitted.jpg
 subtitle: |
   Chief Neuropsychologist\
   Assistant Professor of Psychiatry\
@@ -107,7 +107,7 @@ neuropsychology practice, please visit the [[contact](../contact/index.qmd#onlin
 
 Sincerely,
 
-![](images/jwt_phd.png){width=10em fig-alt="signature"}
+![](jwt_phd.png){width=10em fig-alt="signature"}
 
 **Joey W. Trampush, PhD**\
 Chief Neuropsychologist\
