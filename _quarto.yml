@@ -214,3 +214,7 @@ execute:
   cache: true
 
 editor: source
+
+filters:
+  - forms
+  - fontawesome

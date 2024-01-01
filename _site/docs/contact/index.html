@@ -129,33 +129,21 @@ cookieconsent.run({
 </script> 
   
 <style>html{ scroll-behavior: smooth; }</style>
-<script>
 
-function submit() {
-
-        alert("Submitted!");
-    
-    }
-
-</script>
 
 
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD - Contact Us">
 <meta property="og:description" content="Contact us for more information or to schedule an evaluation. We’re here to help.">
-<meta property="og:image" content="https://brainworkup.org//logo.png">
+<meta property="og:image" content="https://brainworkup.org/docs/contact/logo.webp">
 <meta property="og:site_name" content="brainworkup">
-<meta property="og:image:height" content="1450">
-<meta property="og:image:width" content="4404">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:title" content="BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD - Contact Us">
 <meta name="twitter:description" content="Contact us for more information or to schedule an evaluation. We’re here to help.">
-<meta name="twitter:image" content="https://brainworkup.org//logo.png">
+<meta name="twitter:image" content="https://brainworkup.org/docs/contact/logo.webp">
 <meta name="twitter:creator" content="@brainworkup">
 <meta name="twitter:site" content="@brainworkup">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image-height" content="1450">
-<meta name="twitter:image-width" content="4404">
 </head>
 
 <body class="nav-fixed">
@@ -237,6 +225,7 @@ function submit() {
   <li><a href="#office-location" id="toc-office-location" class="nav-link" data-scroll-target="#office-location">Office Location</a></li>
   <li><a href="#telemedicine" id="toc-telemedicine" class="nav-link" data-scroll-target="#telemedicine">Telemedicine</a></li>
   <li><a href="#testing-at-home" id="toc-testing-at-home" class="nav-link" data-scroll-target="#testing-at-home">Testing at Home</a></li>
+  <li><a href="#form" id="toc-form" class="nav-link" data-scroll-target="#form">Form</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/edit/main/docs/contact/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -308,7 +297,34 @@ Marina Del Rey, CA 90292<br>
 <section id="testing-at-home" class="level2">
 <h2 class="anchored" data-anchor-id="testing-at-home">Testing at Home</h2>
 <p>In some cases, we can provide testing services at your home (i.e., a “house call”). Please contact us for more information. Additional fees may apply.</p>
-<!--  -->
+</section>
+<section id="form" class="level2">
+<h2 class="anchored" data-anchor-id="form">Form</h2>
+<p></p><div id="form-div" class="form-wrapper">
+ <form id="form" action="/docs/contact/contact_form.php">
+<div class="form-group">
+<label for="firstName" class="form-label mt-4">First Name</label>
+  <input type="text" id="firstName" name="Text1" class="form-control" required="">
+</div>
+<div class="form-group">
+<label for="lastName" class="form-label mt-4">Last Name</label>
+  <input type="text" id="lastName" name="Text2" class="form-control">
+</div>
+<div class="form-group">
+<label for="email" class="form-label mt-4">Enter your email address</label>
+<input type="email" id="email" name="" class="form-control">
+</div>
+<hr>
+<div class="form-group">
+<label for="message">In your own words, please describe your reason for contacting us.</label>
+<textarea name="BigText" id="message" rows="..&quot;30&quot;" cols="30" class="form-control"></textarea>
+</div>
+<br>
+<div class="form-group">
+  <input type="submit" value="Submit" class="btn btn-primary">
+</div>
+</form></div>
+<p></p>
 <!-- #### Form submission
 
 <form name="contact" netlify>

@@ -2,10 +2,13 @@
 title: Contact Us
 description: "Contact us for more information or to schedule an evaluation. We're here to help."
 hide-description: false
-image: /logo.png
+image: logo.webp
 image-width: 20em
+filters:
+  - forms
 tags:
-  - brainworkup contact
+  - brainworkup 
+  - contact
   - brain
   - workup
   - Joey Trampush
@@ -13,32 +16,33 @@ sidebar: false
 format: 
   html:
     include-in-header: 
-    - file: submit_form.md
+      # - file: submit_form.md
+      - file: contact_submissions.txt
     page-layout: article
 
 form:
   id: ContactFormID
   submit: "Submit"
   # action: "javascript:submit()"
-  action: contact_form.php
+  action: /docs/contact/contact_form.php
   method: "post"
   fields:
   - name: Text1
     type: text
-    id: textid1
+    id: firstName
     label: "First Name"
     required: true
   - name: Text2
     type: text
-    id: textid2
+    id: lastName
     label: "Last Name"
   - name: userEmail
-    id: email1
+    id: email
     type: email
     label: "Enter your email address"
   - text: ---
   - name: BigText
-    id: textarea1
+    id: message
     type: textarea
     label: "In your own words, please describe your reason for contacting us."
     width: 30 #in rows
@@ -81,7 +85,9 @@ office for the initial consultation visit and for the feedback visit. Please con
 In some cases, we can provide testing services at your home (i.e., a "house
 call"). Please contact us for more information. Additional fees may apply.
 
-<!-- {{< form >}} -->
+## Form
+
+{{< form >}}
 
 <!-- #### Form submission
 
