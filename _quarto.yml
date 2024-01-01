@@ -6,6 +6,7 @@ project:
     browser: true
   resources:
     - "/_redirects"
+    # - "figs/**/*"
 
 website:
   title: "BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD"
