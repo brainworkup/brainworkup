@@ -1,8 +1,7 @@
 ---
 title: Frequently Asked Questions
 image: logo-transparent.png
-image-width: 20em
-image-height: 20em
+image-width: 35em
 format:
   html:
     page-layout: article
@@ -13,7 +12,7 @@ tags:
   - faq
   - brainworkup
 ---
-![](logo-transparent.png "FAQ"){width=20em height=20em fig-align="center" fig-alt="The brainworkup logo on the FAQ page."}
+![](logo-transparent.png "FAQ"){width=35em fig-alt="The brainworkup logo on the FAQ page."}
 
 ## Overview of the practice 
 

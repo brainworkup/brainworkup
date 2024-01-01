@@ -49,6 +49,8 @@ form:
     height: 30 #in cols
 ---
 
+![](logo.webp "Contact"){width=20em fig-alt="A brainworkup logo."}
+
 ## General Information
 
 If you have questions or want to schedule a consultation, feel free to reach out. We're here to assist you.

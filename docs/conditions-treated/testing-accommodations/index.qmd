@@ -10,11 +10,11 @@ format:
     page-layout: article
 sidebar: true
 image: ocd.webp
-image-width: 20em
+image-width: 35em
 lightbox: true
 ---
 
-![](ocd.webp "Accommodations"){width=20em fig-alt="A
+![](ocd.webp "Accommodations"){width=35em fig-alt="A
 brainworkup logo for adult ADHD."}
 
 ## Need for Services
@@ -68,7 +68,7 @@ stop breaks, access to assistive devices, and private testing rooms.
 
 ## ADA and Testing Accommodations
 
-Under the ADA, individuals with a disability (physical or mental) that substantially limits major life activities are entitled to reasonable academic accommodations.
+Under the [ADA](https://www.ada.gov/resources/testing-accommodations/), individuals with a disability (physical or mental) that substantially limits major life activities are entitled to reasonable academic accommodations.
 These modifications ensure equal opportunities and true potential performance.
 
 ## Covered Disabilities

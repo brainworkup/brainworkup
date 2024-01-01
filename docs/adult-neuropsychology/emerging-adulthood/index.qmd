@@ -3,15 +3,14 @@ title: Emerging Adulthood
 subtitle: Often a time of emerging mental illness
 description: Emerging adulthood is the time when we start to clear past the struggles of adolescence, start to feel responsible for ourselves, find our personal identity, and do so while we are still closely tied to our parents and family.
 image: mentalhealth1.jpeg
-image-width: 5em
-image-height: 5em
+image-width: 35em
 sidebar: true
 format:
   html:
     page-layout: article
 ---
 
-![](mentalhealth1.jpeg){width=5em height=5em}
+![](mentalhealth1.jpeg){width=35em}
 
 ## Brain Maturational Changes
 

@@ -26,13 +26,11 @@ tags:
   - perfectionism
 sidebar: true
 image: logo-transparent-yellow.png
-image-width: 480px
-image-height: 480px
+image-width: 35em
 lightbox: true
 ---
 
-![](logo-transparent-yellow.png "Expertise"){width=480px height=480px
-fig-align="left" fig-alt="A brainworkup logo." style="background-color: black;"}
+![](logo-transparent-yellow.png "Expertise"){width=35em fig-alt="A brainworkup logo." style="background-color: black;"}
 
 
 # 🚧 This Page is Under Construction 🚧

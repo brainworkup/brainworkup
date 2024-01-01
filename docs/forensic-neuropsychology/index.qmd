@@ -12,14 +12,12 @@ tags:
   - IME
   - independent medical examination
 image: forensic.webp
-image-width: 20em
-image-height: 20em
+image-width: 35em
 sidebar: true
 lightbox: true
 ---
 
-![](forensic.webp "Forensic Neuropsychology"){width=20em height=20em
-fig-align="center" fig-alt="A brainworkup logo for forensic neuropsychological
+![](forensic.webp "Forensic Neuropsychology"){width=35em fig-alt="A brainworkup logo for forensic neuropsychological
 services."}
 
 ## Introduction

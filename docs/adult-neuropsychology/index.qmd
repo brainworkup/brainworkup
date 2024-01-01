@@ -13,13 +13,11 @@ tags:
   - adult neurocognitive testing
 sidebar: true
 image: adults.webp
-image-width: 20em
-image-height: 20em
+image-width: 35em
 lightbox: true
 ---
 
-![](adults.webp "Adult Clinical Services"){width=20em height=20em
-fig-align="center" fig-alt="A brainworkup kids logo for adult services."}
+![](adults.webp "Adult Clinical Services"){width=35em fig-alt="A brainworkup kids logo for adult services."}
 
 ## Purpose of Neuropsychological Testing
 
