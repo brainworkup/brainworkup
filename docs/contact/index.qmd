@@ -17,14 +17,14 @@ format:
   html:
     include-in-header: 
       # - file: submit_form.md
-      - file: contact_submissions.txt
+    - file: contact_submissions.txt
     page-layout: article
+    toc: true
 
 form:
-  id: ContactFormID
+  action: "/docs/contact/contact_form.php"
   submit: "Submit"
   # action: "javascript:submit()"
-  action: /docs/contact/contact_form.php
   method: "post"
   fields:
   - name: Text1
