@@ -12,7 +12,7 @@ sidebar: true
 lightbox: true
 ---
 
-![](kids.webp "Pediatric Neuropsychology"){width=35 fig-alt="A brainworkup logo for pediatric neuropsychological services."}
+![](kids.webp "Pediatric Neuropsychology"){width=35em fig-alt="A brainworkup logo for pediatric neuropsychological services."}
 
 ## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 
 

@@ -38,7 +38,7 @@ website:
   back-to-top-navigation: true
   reader-mode: false
   search:
-    location: sidebar
+    location: navbar
     type: overlay
     copy-button: true
     show-item-context: true
