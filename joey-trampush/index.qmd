@@ -12,7 +12,7 @@ include-in-header: canonical-joey-trampush.html
 aliases:
   - trampush.html
   - about.html
-  - /docs/about/joey-trampush/
+  - ../docs/about/joey-trampush/
   - joeytrampush.com/docs/trampush/
   - joeytrampush.com/docs/joey-trampush/
   - ../docs/joey-trampush/
@@ -25,12 +25,13 @@ tags:
 format:
   html:
     page-layout: full
-image: jwt_fitted_512.jpg
+image: jwt-fitted-512.jpg
 about:
   id: about
   template: trestles
+  image: jwt-fitted-512.jpg
   image-shape: round
-  image-width: 20em #"(min-width: 400px) 303px, calc(76.25vw + 13px)"
+  image-width: 20em
   links:
     - icon: github
       href: https://github.com/brainworkup/brainworkup
