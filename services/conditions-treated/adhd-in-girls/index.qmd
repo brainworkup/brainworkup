@@ -1,6 +1,6 @@
 ---
 title: ADHD in Girls
-subtitle: Evaluating ADHD in girls
+subtitle: Girls have ADHD too
 description: "An overview of increasing recognition that girls often have ADHD yet go undiagnosed most of the time."
 hide-description: true
 include-in-header: canonical-adhd-in-girls.html
