@@ -7,10 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Joey Trampush">
-<meta name="dcterms.date" content="2023-12-11">
-<meta name="description" content="Welcome post.">
 
-<title>BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD - Welcome</title>
+<title>Neuropsychological Services</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,24 +24,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
-<script src="../../../../site_libs/quarto-search/autocomplete-preset-algolia.umd.js"></script>
-<meta name="quarto:offset" content="../../../../">
-<link href="../../../../green.png" rel="icon" type="image/png">
-<script src="../../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<script src="../site_libs/quarto-search/autocomplete-preset-algolia.umd.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="//docs/pediatric-neuropsychology/index.html" rel="next">
+<link href="../favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": true,
@@ -99,6 +100,35 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-plugin-algolia-insights">
 
 </script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-services-links .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-links',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-subtitle","listing-links"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-services-links'] = new List('listing-services-links', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HW85H7H8P6"></script>
 
 <script type="text/javascript">
@@ -109,32 +139,60 @@ gtag('js', new Date());
 gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
 </script>
 <style>html{ scroll-behavior: smooth; }</style>
+<link rel="canonical" href="https://brainworkup.org/services/">
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../../../styles.css">
-<meta property="og:title" content="BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD - Welcome">
-<meta property="og:description" content="Welcome post.">
-<meta property="og:image" content="https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/biggie.jpg">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Neuropsychological Services">
+<meta property="og:description" content="Neurocognitive and psychodiagnostic services are provided for pediatric populations, forensic and medicolegal cases, as well as for adults.">
+<meta property="og:image" content="https://brainworkup.org/services/preview.png">
 <meta property="og:site_name" content="brainworkup">
 <meta property="og:locale" content="en_US">
-<meta property="og:image:alt" content="Welcome post image.">
-<meta name="twitter:title" content="BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD - Welcome">
-<meta name="twitter:description" content="Welcome post.">
-<meta name="twitter:image" content="https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/biggie.jpg">
+<meta name="twitter:title" content="Neuropsychological Services">
+<meta name="twitter:description" content="Neurocognitive and psychodiagnostic services are provided for pediatric populations, forensic and medicolegal cases, as well as for adults.">
+<meta name="twitter:image" content="https://brainworkup.org/services/preview.png">
 <meta name="twitter:creator" content="@brainworkup">
 <meta name="twitter:site" content="@brainworkup">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image:alt" content="Welcome post image.">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title"><strong>brainworkup</strong></span>
     </a>
   </div>
@@ -145,27 +203,27 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../joey-trampush/index.html"> 
+    <a class="nav-link" href="../joey-trampush/index.html"> 
 <span class="menu-text">Dr Trampush</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../docs/services/index.html"> 
+    <a class="nav-link active" href="../services/index.html" aria-current="page"> 
 <span class="menu-text">Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../faq/index.html"> 
+    <a class="nav-link" href="../faq/index.html"> 
 <span class="menu-text">FAQ</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contact/index.html"> 
+    <a class="nav-link" href="../contact/index.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../docs/blog/index.html"> 
+    <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../resources/cv.pdf"> <i class="bi bi-file-pdf" role="img">
+    <a class="nav-link" href="../resources/cv.pdf"> <i class="bi bi-file-pdf" role="img">
 </i> 
 <span class="menu-text">CV</span></a>
   </li>  
@@ -192,46 +250,200 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../services/index.html">Clinical Services</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../services/index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Clinical Services</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text"><strong>Pediatric Neuropsychology</strong></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="//docs/pediatric-neuropsychology/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Neurodevelopmental Evaluations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="//docs/pediatric-neuropsychology/preschool/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preschoolers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="//docs/pediatric-neuropsychology/school-age/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">School-Age Children</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="//docs/pediatric-neuropsychology/adolescent/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Adolescents</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+ <span class="menu-text"><strong>Adult Neuropsychology</strong></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="//docs/adult-neuropsychology/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="//docs/adult-neuropsychology/emerging-adulthood/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Emerging Adulthood</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="//docs/adult-neuropsychology/adult-onset-adhd/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Adult-Onset ADHD</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+ <span class="menu-text"><strong>Forensic Neuropsychology</strong></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/forensic-neuropsychology/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">General Forensic Services</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/forensic-neuropsychology/independent-medical-exam/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Independent Medical Exam</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/forensic-neuropsychology/mental-health-diversion/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mental Health Diversion</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
+ <span class="menu-text"><strong>Conditions Treated</strong></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/conditions-treated/adhd/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">ADHD</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/conditions-treated/adhd-in-girls/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">ADHD in Girls</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/conditions-treated/testing-accommodations/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Testing Accommodations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/conditions-treated/dyslexia/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Dyslexia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/conditions-treated/executive-function/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Executive Functioning</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/conditions-treated/autism/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Autism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/conditions-treated/concussion/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sports-Related Concussion</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full column-body" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome</h1>
-<p class="subtitle lead">Public Autopsy</p>
-  <div class="quarto-categories">
-    <div class="quarto-category">brain2</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    <p>Welcome post.</p>
-  </div>
+<h1 class="title">Clinical Neuropsychological Services</h1>
+<p class="subtitle lead">Neurocognitive and psychodiagnostic services are provided for pediatric populations, forensic and medicolegal cases, as well as for adults.</p>
 </div>
 
 
-<div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Joey Trampush, PhD </p>
-          </div>
-  </div>
+<div class="quarto-title-meta column-body">
+
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">December 11, 2023</p>
-    </div>
-  </div>
   
     
   </div>
@@ -241,31 +453,83 @@ gtag('config', 'G-HW85H7H8P6', { 'anonymize_ip': true});
 </header>
 
 
-<section id="hello" class="level2">
-<h2 class="anchored" data-anchor-id="hello">Hello!</h2>
-<p>Welcome to my neuropsychology blog, a dedicated space where we explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.</p>
-<p>In this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.</p>
+<div id="listing-services-links" class="column-screen-inset-right quarto-listing quarto-listing-container-custom" style="max-width: 850px;">
+<div class="link-cards">
+<div class="card">
+<div class="card-body">
+<section id="pediatric-neuropsychology" class="level4 card-title">
+<h4 class="anchored" data-anchor-id="pediatric-neuropsychology">Pediatric Neuropsychology</h4>
+<section id="child-and-adolescent-neurocognitive-assessment" class="level6 card-subtitle text-muted">
+<h6 class="anchored" data-anchor-id="child-and-adolescent-neurocognitive-assessment">Child and adolescent neurocognitive assessment</h6>
 </section>
-<section id="content" class="level2">
-<h2 class="anchored" data-anchor-id="content">Content</h2>
-<p>As we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it’s also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.</p>
-<p>Expect to find a blend of the latest research findings, practical advice, and real-life stories that illuminate the diverse experiences of those living with neuropsychological conditions. Whether you are a parent seeking guidance, a student navigating your own neuropsychological journey, or a fellow professional in the field, this blog aims to be a resourceful and enlightening hub.</p>
-<p>Together, we will unravel the complexities of the brain and behavior, foster a deeper understanding of neuropsychological disorders, and advocate for effective strategies to support those affected. I invite you to join me in this exploration, to learn, share, and contribute to our growing knowledge in this vital field.</p>
-<p>Remember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you’re here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you’re in the right place. Welcome aboard!</p>
-
-
 </section>
+<ul>
+<li><a href="../docs/pediatric-neuropsychology/index.html">Neurodevelopment</a></li>
+<li><a href="../docs/pediatric-neuropsychology/preschool/index.html">Preschoolers</a></li>
+<li><a href="../docs/pediatric-neuropsychology/school-age/index.html">School-Age Children</a></li>
+<li><a href="../docs/pediatric-neuropsychology/adolescent/index.html">Adolescents</a></li>
+</ul>
+</div>
+</div>
+<div class="card">
+<div class="card-body">
+<section id="adult-neuropsychology" class="level4 card-title">
+<h4 class="anchored" data-anchor-id="adult-neuropsychology">Adult Neuropsychology</h4>
+<section id="neuropsychology-of-emerging-adulthood-including-adult-onset-adhd" class="level6 card-subtitle text-muted">
+<h6 class="anchored" data-anchor-id="neuropsychology-of-emerging-adulthood-including-adult-onset-adhd">Neuropsychology of emerging adulthood including adult-onset ADHD</h6>
+</section>
+</section>
+<ul>
+<li><a href="../docs/adult-neuropsychology/index.html">Overview</a></li>
+<li><a href="../docs/adult-neuropsychology/emerging-adulthood/index.html">Emerging Adulthood</a></li>
+<li><a href="../docs/adult-neuropsychology/adult-onset-adhd/index.html">Adult-Onset ADHD</a></li>
+</ul>
+</div>
+</div>
+<div class="card">
+<div class="card-body">
+<section id="forensic-neuropsychology" class="level4 card-title">
+<h4 class="anchored" data-anchor-id="forensic-neuropsychology">Forensic Neuropsychology</h4>
+<section id="neurocognitive-examination-for-forensic-and-medicolegal-cases" class="level6 card-subtitle text-muted">
+<h6 class="anchored" data-anchor-id="neurocognitive-examination-for-forensic-and-medicolegal-cases">Neurocognitive examination for forensic and medicolegal cases</h6>
+</section>
+</section>
+<ul>
+<li><a href="../docs/forensic-neuropsychology/index.html">General Forensic Services</a></li>
+<li><a href="../docs/forensic-neuropsychology/independent-medical-exam/index.html">Independent Medical Exams</a></li>
+<li><a href="../docs/forensic-neuropsychology/mental-health-diversion/index.html">Mental Health Diversion</a></li>
+</ul>
+</div>
+</div>
+<div class="card">
+<div class="card-body">
+<section id="conditions-treated" class="level4 card-title">
+<h4 class="anchored" data-anchor-id="conditions-treated">Conditions Treated</h4>
+<section id="we-have-unique-expertise-in-evaluating-the-neurocognitive-and-neurobehavioral-conditions-described-below" class="level6 card-subtitle text-muted">
+<h6 class="anchored" data-anchor-id="we-have-unique-expertise-in-evaluating-the-neurocognitive-and-neurobehavioral-conditions-described-below">We have unique expertise in evaluating the neurocognitive and neurobehavioral conditions described below</h6>
+</section>
+</section>
+<ul>
+<li><a href="../docs/conditions-treated/adhd/index.html">ADHD</a></li>
+<li><a href="../docs/conditions-treated/adhd-in-girls/index.html">ADHD in Girls</a></li>
+<li><a href="../docs/conditions-treated/testing-accommodations/index.html">Test Accommodations</a></li>
+<li><a href="../docs/conditions-treated/dyslexia/index.html">Dyslexia</a></li>
+<li><a href="../docs/conditions-treated/executive-function/index.html">Executive Dysfunction</a></li>
+<li><a href="../docs/conditions-treated/autism/index.html">Autism</a></li>
+<li><a href="../docs/conditions-treated/concussion/index.html">Sports-Related Concussions</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{trampush, phd2023,
-  author = {Trampush, PhD, Joey},
-  title = {Welcome},
-  date = {2023-12-11},
-  url = {https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/},
-  langid = {en}
-}
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-trampush, phd2023" class="csl-entry quarto-appendix-citeas" role="listitem">
-Trampush, PhD, Joey. 2023. <span>“Welcome.”</span> December 11, 2023. <a href="https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/">https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/</a>.
-</div></div></section></div></main> <!-- /main -->
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script type="text/javascript">
 
 // replace cmd keyboard shortcut w/ control on non-Mac platforms
@@ -278,50 +542,6 @@ if (!kPlatformMac) {
 }
 
 </script>
-<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_shell">
-    <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-        #mc_embed_signup {
-            background: #fff;
-            false;
-            clear: left;
-            font: 14px Helvetica, Arial, sans-serif;
-            width: 230px;
-        }
-
-        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-
-    </style>
-    <div id="mc_embed_signup">
-        <form action="https://brainworkup.us21.list-manage.com/subscribe/post?u=cadbbd1609417b73d34e51c1d&amp;id=b0d90a2573&amp;f_id=001dede6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-            <div id="mc_embed_signup_scroll">
-                <h2>Subscribe</h2>
-                <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-                <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-                </div>
-                <div id="mce-responses" class="clear foot">
-                    <div class="response" id="mce-error-response" style="display: none;"></div>
-                    <div class="response" id="mce-success-response" style="display: none;"></div>
-                </div>
-                <div aria-hidden="true" style="position: absolute; left: -5000px;">
-                    /* real people should not fill this in and expect good things - do not remove this or risk form bot
-                    signups */
-                    <input type="text" name="b_cadbbd1609417b73d34e51c1d_b0d90a2573" tabindex="-1" value="">
-                </div>
-                <div class="optionalParent">
-                    <div class="clear foot">
-                        <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-    <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-    <script type="text/javascript">( function ( $ ) { window.fnames = new Array(); window.ftypes = new Array(); fnames[ 0 ] = 'EMAIL'; ftypes[ 0 ] = 'email'; fnames[ 1 ] = 'FNAME'; ftypes[ 1 ] = 'text'; fnames[ 2 ] = 'LNAME'; ftypes[ 2 ] = 'text'; fnames[ 3 ] = 'ADDRESS'; ftypes[ 3 ] = 'address'; fnames[ 4 ] = 'PHONE'; ftypes[ 4 ] = 'phone'; fnames[ 5 ] = 'BIRTHDAY'; ftypes[ 5 ] = 'birthday'; }( jQuery ) ); var $mcj = jQuery.noConflict( true );</script>
-</div>
-<!--End mc_embed_signup-->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -724,6 +944,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation column-body">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="//docs/pediatric-neuropsychology/index.html" class="pagination-link" aria-label="Neurodevelopmental Evaluations">
+        <span class="nav-page-text">Neurodevelopmental Evaluations</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -733,27 +962,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="../../../../joey-trampush/index.html">
+    <a class="nav-link" href="../joey-trampush/index.html">
 <p>About</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../../../docs/services/index.html">
+    <a class="nav-link" href="../services/index.html">
 <p>Services</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../../../faq/index.html">
+    <a class="nav-link" href="../faq/index.html">
 <p>FAQ</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../../../contact/index.html">
+    <a class="nav-link" href="../contact/index.html">
 <p>Contact</p>
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/edit/main/docs/blog/posts/2023-12-11-welcome/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/edit/main/services/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
@@ -788,5 +1017,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../../../../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

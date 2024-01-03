@@ -77,6 +77,6 @@ force = true
 
 [[redirects]]
 from = "https://joeytrampush.com/docs/blog/"
-to = "https://brainworkup.org/docs/blog/"
+to = "https://brainworkup.org/blog/"
 status = 301
 force = true

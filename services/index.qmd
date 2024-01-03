@@ -14,7 +14,7 @@ toc: false
 anchor-sections: true
 listing:
   id: services-links
-  template: ../../ejs/links.ejs
+  template: ../ejs/links.ejs
   contents: services.yml
 sidebar: true
 fontsize: 1.1em

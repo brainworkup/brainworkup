@@ -6,20 +6,20 @@
       version="2.0">
 <channel>
 <title>BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD</title>
-<link>https://brainworkup.org/docs/blog/</link>
-<atom:link href="https://brainworkup.org/docs/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://brainworkup.org/blog/</link>
+<atom:link href="https://brainworkup.org/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults.</description>
 <image>
 <url>https://brainworkup.org/logo-transparent.png</url>
 <title>BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD</title>
-<link>https://brainworkup.org/docs/blog/</link>
+<link>https://brainworkup.org/blog/</link>
 </image>
 <generator>quarto-1.4.533</generator>
 <lastBuildDate>Wed, 20 Dec 2023 08:00:00 GMT</lastBuildDate>
 <item>
   <title>Brain Development Tutorial</title>
   <dc:creator>Joey Trampush, PhD</dc:creator>
-  <link>https://brainworkup.org/docs/blog/posts/2023-12-20-brain-development-tutorial/</link>
+  <link>https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/</link>
   <description><![CDATA[ 
 
 
@@ -89,14 +89,14 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>neurodevelopment</category>
-  <guid>https://brainworkup.org/docs/blog/posts/2023-12-20-brain-development-tutorial/</guid>
+  <guid>https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/</guid>
   <pubDate>Wed, 20 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-20-brain-development-tutorial/cyberpunk.webp" medium="image" type="image/webp"/>
+  <media:content url="https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/cyberpunk.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>ADHD Across the Lifespan</title>
   <dc:creator>Joey Trampush, PhD</dc:creator>
-  <link>https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/</link>
+  <link>https://brainworkup.org/blog/posts/2023-12-13-adhd-post/</link>
   <description><![CDATA[ 
 
 
@@ -140,14 +140,14 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>adhd</category>
   <category>neurodevelopment</category>
-  <guid>https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/</guid>
+  <guid>https://brainworkup.org/blog/posts/2023-12-13-adhd-post/</guid>
   <pubDate>Wed, 13 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-13-adhd-post/brain.webp" medium="image" type="image/webp"/>
+  <media:content url="https://brainworkup.org/blog/posts/2023-12-13-adhd-post/brain.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Welcome</title>
   <dc:creator>Joey Trampush, PhD</dc:creator>
-  <link>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</link>
+  <link>https://brainworkup.org/blog/posts/2023-12-11-welcome/</link>
   <description><![CDATA[ 
 
 
@@ -179,9 +179,9 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 Trampush, PhD, Joey. 2023. <span>“Welcome.”</span> December 11, 2023. <a href="https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/">https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/</a>.
 </div></div></section></div> ]]></description>
   <category>brain2</category>
-  <guid>https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/</guid>
+  <guid>https://brainworkup.org/blog/posts/2023-12-11-welcome/</guid>
   <pubDate>Mon, 11 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/docs/blog/posts/2023-12-11-welcome/biggie.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://brainworkup.org/blog/posts/2023-12-11-welcome/biggie.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

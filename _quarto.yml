@@ -10,7 +10,7 @@ project:
 website:
   title: "BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD"
   image: logo-transparent.png
-  favicon: green.png
+  favicon: favicon.png
   open-graph:
     locale: en_US
     site-name: brainworkup
@@ -59,7 +59,7 @@ website:
       - text: "About"
         href: joey-trampush/index.qmd
       - text: "Services"
-        href: docs/services/index.qmd
+        href: services/index.qmd
       - text: "FAQ"
         href: faq/index.qmd
       - text: "Contact"
@@ -87,16 +87,16 @@ website:
       - text: "Dr Trampush"
         href: joey-trampush/index.qmd
       - text: "Services"
-        href: docs/services/index.qmd
+        href: services/index.qmd
       - text: "FAQ"
         href: faq/index.qmd
       - text: "Contact"
         href: contact/index.qmd
       - text: "Blog"
-        href: docs/blog/index.qmd
+        href: blog/index.qmd
       - icon: file-pdf
         text: "CV"
-        href: /resources/cv.pdf
+        href: resources/cv.pdf
     right:
       - icon: phone
         text: "**(213) 495-1155**"
@@ -134,19 +134,19 @@ website:
       collapse-level: 3
       contents:
         - section: "Clinical Services"
-          href: docs/services/index.qmd
+          href: services/index.qmd
           contents:
             - section: "**Pediatric Neuropsychology**"
               contents:
-                - docs/pediatric-neuropsychology/index.qmd
-                - docs/pediatric-neuropsychology/preschool/index.qmd
-                - docs/pediatric-neuropsychology/school-age/index.qmd
-                - docs/pediatric-neuropsychology/adolescent/index.qmd
+                - /docs/pediatric-neuropsychology/index.qmd
+                - /docs/pediatric-neuropsychology/preschool/index.qmd
+                - /docs/pediatric-neuropsychology/school-age/index.qmd
+                - /docs/pediatric-neuropsychology/adolescent/index.qmd
             - section: "**Adult Neuropsychology**"
               contents:
-                - docs/adult-neuropsychology/index.qmd
-                - docs/adult-neuropsychology/emerging-adulthood/index.qmd
-                - docs/adult-neuropsychology/adult-onset-adhd/index.qmd
+                - /docs/adult-neuropsychology/index.qmd
+                - /docs/adult-neuropsychology/emerging-adulthood/index.qmd
+                - /docs/adult-neuropsychology/adult-onset-adhd/index.qmd
             - section: "**Forensic Neuropsychology**"
               contents:
                 - docs/forensic-neuropsychology/index.qmd
