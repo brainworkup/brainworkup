@@ -9,12 +9,12 @@ subtitle: "Public Autopsy"
 #     affiliation-url: https://usc.edu/ 
 date: "2023-12-11"
 categories: [brain2]
-image: "biggie.jpg"
+image: "biggie-600.jpg"
 description: |
   Welcome post.
 image-alt: "Welcome post image."
 citation: 
-  url: https://brainworkup.github.io/docs/blog/posts/2023-12-11-welcome/ 
+  url: https://brainworkup.github.io/blog/posts/2023-12-11-welcome/ 
 ---
 
 ## Hello!

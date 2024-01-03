@@ -19,5 +19,7 @@ title-block-style: default
 search: true
 sidebar: false
 include-in-header: canonical-blog.html
+aliases: 
+  - /docs/blog/
 ---
 

@@ -2,20 +2,22 @@
 title: General Forensic Services
 title-meta: Forensic Neuropsychological Services
 description: "An overview of the forensic neuropsychological and medicolegal services provided by Dr. Trampush @ BrainWorkup Neuropsychology, LLC"
-hide-description: true
+aliases:
+  - "../docs/forensic-neuropsychology/"
 format:
   html:
     page-layout: article
-include-in-header: canonical-forensic-neuropsychology.html
-tags:
-  - forensic neuropsychology
-  - medicolegal
-  - IME
-  - independent medical examination
+hide-description: true
 image: forensic.webp
 image-width: 20em
-sidebar: true
+include-in-header: canonical-forensic-neuropsychology.html
 lightbox: true
+sidebar: true
+tags:
+  - IME
+  - forensic neuropsychology
+  - independent medical examination
+  - medicolegal
 ---
 
 ![](forensic.webp "Forensic Neuropsychology"){width=20em fig-alt="A brainworkup logo for forensic neuropsychological

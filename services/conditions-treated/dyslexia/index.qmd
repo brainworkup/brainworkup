@@ -3,14 +3,10 @@ title: "Dyslexia"
 include-in-header: canonical-dyslexia.html
 aliases: 
   - ../docs/disorders/dyslexia.html
+  - ../docs/conditions-treated/dyslexia/
 format:
   html:
     page-layout: article
-    format: 
-    fig-height: 5
-    fig-dpi: 300
-    fig-width: 8.88
-    fig-align: center
 sidebar: true
 image: dyslexia.webp
 image-width: 20em

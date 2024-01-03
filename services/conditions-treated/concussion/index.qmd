@@ -4,6 +4,7 @@ format: html
 include-in-header: canonical-concussion.html
 aliases:
   - ../docs/disorders/concussion.html
+  - ..docs/conditions-treated/concussion
 ---
 
 ## Young Athletes

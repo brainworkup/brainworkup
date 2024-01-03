@@ -1,18 +1,21 @@
 ---
 title: Frequently Asked Questions
-image: logo-transparent.png
+aliases:
+  - "../docs/faq/"
 format:
   html:
     page-layout: article
+image: logo-transparent-384.png
 include-in-header: canonical-faq.html
+lightbox: true
 repo-actions: false
 sidebar: false
-lightbox: true
 tags:
-  - faq
   - brainworkup
+  - faq
 ---
-![](logo-transparent.png "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
+
+![](logo-transparent-384.png "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
 
 ## Overview of the practice 
 

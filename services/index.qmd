@@ -2,22 +2,23 @@
 title: 'Clinical Neuropsychological Services'
 pagetitle: 'Neuropsychological Services'
 subtitle: "Neurocognitive and psychodiagnostic services are provided for pediatric populations, forensic and medicolegal cases, as well as for adults."
+aliases:
+  - ../docs/clinical-services/
+  - ../docs/conditions-treated/
+  - clinical-services.html
+  - neuropsychological-services.html
+anchor-sections: true
+fontsize: 1.1em
 format:
   html:
     page-layout: full
 include-in-header: canonical-services.html
-aliases:
-  - ../docs/clinical-services/
-  - clinical-services.html
-  - neuropsychological-services.html
-toc: false
-anchor-sections: true
 listing:
+  contents: services.yml
   id: services-links
   template: ../ejs/links.ejs
-  contents: services.yml
 sidebar: true
-fontsize: 1.1em
+toc: false
 ---
 
 ::: {#services-links .column-screen-inset-right style="max-width: 850px;"}

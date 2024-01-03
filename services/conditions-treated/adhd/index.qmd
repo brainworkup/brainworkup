@@ -1,27 +1,29 @@
 ---
-title: ADHD
-subtitle: Evaluating ADHD across the lifespan
-description: "An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC."
-hide-description: true
-include-in-header: canonical-adhd.html
+title: "ADHD"
+subtitle: "Evaluating ADHD across the lifespan"
 aliases:
-  - ../docs/disorders/adhd.html
+  - "../docs/conditions-treated/adhd/"
+  - "../docs/disorders/adhd.html"
+description: >
+  An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC.
 format:
   html:
     page-layout: article
+hide-description: true
+image: adhd-black-384.webp
+image-width: 20em
+include-in-header: canonical-adhd.html
+lightbox: true
+sidebar: true
 tags:
   - ADHD
   - adult-onset ADHD
   - college students
-  - psychoeducational testing
   - consultation
-  - testing & evaluation
   - feedback session
+  - psychoeducational testing
   - report
-sidebar: true
-image: adhd-black-384.webp
-image-width: 20em
-lightbox: true
+  - testing & evaluation
 ---
 
 ![](adhd-black-384.webp "ADHD"){width=20em fig-alt="A brainworkup logo for ADHD."}

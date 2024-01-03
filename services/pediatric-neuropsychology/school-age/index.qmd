@@ -2,6 +2,8 @@
 title: "School-Age Children"
 format: html
 include-in-header: canonical-school-age.html
+aliases:
+  - "../docs/pediatric-neuropsychology/school-age/"
 ---
 
 ## Elementary School (Ages 6-12)

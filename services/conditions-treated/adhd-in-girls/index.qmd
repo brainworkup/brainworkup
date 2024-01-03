@@ -5,7 +5,8 @@ description: "An overview of increasing recognition that girls often have ADHD y
 hide-description: true
 include-in-header: canonical-adhd-in-girls.html
 aliases:
-  - ../docs/disorders/adhd-in-girls.html
+  - "../docs/disorders/adhd-in-girls.html"
+  - "../docs/conditions-treated/adhd-in-girls"
 format:
   html:
     page-layout: article

@@ -1,16 +1,18 @@
 ---
 title: Neurodevelopmental Evaluations
 title-meta: Pediatric Neuropsychological Services
-description-meta: "Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental evaluations. Our child-centered, evidence-based approach focuses on detailed assessments and personalized care, collaborating with families and educators to support each child's unique developmental journey. Find expert guidance for your child's cognitive, academic, and social-emotional growth."
-hide-description: true
+aliases:
+  - ../docs/pediatric-neuropsychology/
+description-meta: Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental evaluations. Our child-centered, evidence-based approach focuses on detailed assessments and personalized care, collaborating with families and educators to support each child's unique developmental journey. Find expert guidance for your child's cognitive, academic, and social-emotional growth.
 format:
   html:
     page-layout: article
+hide-description: true
 image: kids.webp
 image-width: 20em
-sidebar: true
-lightbox: true
 include-in-header: canonical-pediatric-neuropsychology.html
+lightbox: true
+sidebar: true
 ---
 
 ![](kids.webp "Pediatric Neuropsychology"){width=20em fig-alt="A brainworkup logo for pediatric neuropsychological services."}
