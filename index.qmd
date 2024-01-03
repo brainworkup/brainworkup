@@ -181,3 +181,4 @@ Stay connected with the latest insights and resources:
 - [[Subscribe to Our Blog](docs/blog/index.qmd)]
 - [[Follow us on Mastodon](https://fosstodon.org/@brainworkup)]
 
+<!-- <iframe src="https://embeds.beehiiv.com/5bc0e45c-ef3e-4378-ada5-4861aa470ccf?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe> -->
