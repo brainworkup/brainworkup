@@ -8,7 +8,7 @@ format:
   html:
     page-layout: article
 hide-description: true
-image: forensic.webp
+image: forensic-384.webp
 image-width: 20em
 include-in-header: canonical-forensic-neuropsychology.html
 lightbox: true
@@ -20,7 +20,7 @@ tags:
   - medicolegal
 ---
 
-![](forensic.webp "Forensic Neuropsychology"){width=20em fig-alt="A brainworkup logo for forensic neuropsychological
+![](forensic-384.webp "Forensic Neuropsychology"){width=20em fig-alt="A brainworkup logo for forensic neuropsychological
 services."}
 
 ## Introduction
