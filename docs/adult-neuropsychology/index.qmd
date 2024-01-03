@@ -7,6 +7,7 @@ hide-description: true
 format:
   html:
     page-layout: article
+include-in-header: canonical.html
 tags:
   - neuropsychological assessment
   - cognitive health

@@ -5,6 +5,7 @@ format:
     page-layout: article
 aliases:
   - ../docs/forensic-neuropsychology/mental-health-diversion/
+include-in-header: canonical.html
 ---
 
 ## An Introduction to Mental Health Diversion Evaluations

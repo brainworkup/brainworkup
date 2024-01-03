@@ -2,6 +2,7 @@
 title: "Preschoolers"
 subtitle: Early childhood evaluation of neurocognitive development
 format: html
+include-in-header: canonical.html
 ---
 
 ## Toddlers (Ages 2-3)

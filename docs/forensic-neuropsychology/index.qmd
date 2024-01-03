@@ -6,6 +6,7 @@ hide-description: true
 format:
   html:
     page-layout: article
+include-in-header: canonical.html
 tags:
   - forensic neuropsychology
   - medicolegal

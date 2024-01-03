@@ -1,6 +1,7 @@
 ---
 title: "Adolescents"
 format: html
+include-in-header: canonical.html
 ---
 
 Adolescence is a period of intensive physical, emotional and social change, and the academic and social demands of high school are stronger than ever. At the same time, the teen brain is “still under construction,” and striking changes in brain maturation take place during the teen years [link]. We can assess some of these changes in the clinic.  

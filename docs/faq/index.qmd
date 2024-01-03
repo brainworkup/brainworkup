@@ -5,6 +5,7 @@ image-width: 20em
 format:
   html:
     page-layout: article
+include-in-header: canonical.html
 repo-actions: false
 sidebar: false
 lightbox: true

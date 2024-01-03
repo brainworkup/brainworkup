@@ -2,6 +2,7 @@
 title: Conditions We Treat
 description: "Specific conditions we consider to be our areas of expertise."
 hide-description: false
+include-in-header: canonical.html
 aliases:
   - ../docs/disorders/
 format:

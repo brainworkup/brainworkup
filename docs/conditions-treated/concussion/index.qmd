@@ -1,8 +1,9 @@
 ---
 title: "Sports-Related Concussion"
 format: html
+include-in-header: canonical.html
 aliases:
-  - ../docs/disorders/concussion/
+  - ../docs/disorders/concussion.html
 ---
 
 ## Young Athletes

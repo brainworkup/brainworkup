@@ -5,6 +5,7 @@ format:
     page-layout: article
 aliases:
   - ../docs/forensic-neuropsychology/ime/
+include-in-header: canonical.html
 ---
 
 ## Background

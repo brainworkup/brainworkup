@@ -4,7 +4,7 @@ subtitle: Executive Skills are Core to Neurocognitive Assessments
 description: "Understanding and Addressing Executive Dysfunction in Neurodevelopmental and Neuropsychiatric Disorders."
 hide-description: true
 aliases:
-  - ../docs/disorders/executive-function/
+  - ../docs/disorders/executive-function.html
 tags:
   - executive functioning
   - neurocognitive assessment
@@ -16,6 +16,7 @@ sidebar: true
 image: adhd-girls-younger.webp
 image-width: 20em
 lightbox: true
+include-in-header: canonical.html
 ---
 
 ![](adhd-girls-younger.webp "Executive Function"){width=20em fig-alt="A brainworkup logo for ef."}

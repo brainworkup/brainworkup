@@ -12,6 +12,7 @@ sidebar: true
 image: ocd.webp
 image-width: 20em
 lightbox: true
+include-in-header: canonical.html
 ---
 
 ![](ocd.webp "Accommodations"){width=20em fig-alt="A
