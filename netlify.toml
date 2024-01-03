@@ -29,13 +29,13 @@ force = true
 
 [[redirects]]
 from = "https://joeytrampush.com/docs/trampush/"
-to = "https://brainworkup.org/docs/joey-trampush/"
+to = "https://brainworkup.org/joey-trampush/"
 status = 301
 force = true
 
 [[redirects]]
 from = "joeytrampush.com/docs/trampush/"
-to = "brainworkup.org/docs/joey-trampush/"
+to = "brainworkup.org/joey-trampush/"
 status = 301
 force = true
 

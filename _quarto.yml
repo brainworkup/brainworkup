@@ -57,7 +57,7 @@ website:
       MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
     center:
       - text: "About"
-        href: docs/joey-trampush/index.qmd
+        href: joey-trampush/index.qmd
       - text: "Services"
         href: docs/services/index.qmd
       - text: "FAQ"
@@ -85,7 +85,7 @@ website:
     collapse-below: lg
     left:
       - text: "Dr Trampush"
-        href: docs/joey-trampush/index.qmd
+        href: joey-trampush/index.qmd
       - text: "Services"
         href: docs/services/index.qmd
       - text: "FAQ"
@@ -128,7 +128,7 @@ website:
       collapse-level: 1
       align: left
       contents:
-        - docs/joey-trampush/index.qmd
+        - joey-trampush/index.qmd
 
     - id: services
       collapse-level: 3
