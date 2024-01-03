@@ -1,11 +1,10 @@
 ---
 title: Frequently Asked Questions
 image: logo-transparent.png
-image-width: 20em
 format:
   html:
     page-layout: article
-include-in-header: canonical.html
+include-in-header: canonical-faq.html
 repo-actions: false
 sidebar: false
 lightbox: true

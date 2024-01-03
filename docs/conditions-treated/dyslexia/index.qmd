@@ -1,6 +1,6 @@
 ---
 title: "Dyslexia"
-include-in-header: canonical.html
+include-in-header: canonical-dyslexia.html
 aliases: 
   - ../docs/disorders/dyslexia.html
 format:

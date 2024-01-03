@@ -5,7 +5,7 @@ subtitle: "Neurocognitive and psychodiagnostic services are provided for pediatr
 format:
   html:
     page-layout: full
-include-in-header: canonical.html
+include-in-header: canonical-services.html
 aliases:
   - ../docs/clinical-services/
   - clinical-services.html

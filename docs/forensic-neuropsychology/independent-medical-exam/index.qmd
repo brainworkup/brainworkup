@@ -4,8 +4,9 @@ format:
   html:
     page-layout: article
 aliases:
-  - ../docs/forensic-neuropsychology/ime/
-include-in-header: canonical.html
+  - "../docs/forensic-neuropsychology/ime/"
+  - "../docs/independent-medical-exam/"
+include-in-header: canonical-independent-medical-exam.html
 ---
 
 ## Background
@@ -39,33 +40,6 @@ Opinions are based on established methods and relevant evidence (e.g., psycholog
 
 The assessment aims to identify how the event affected the individual.
 Treatment recommendations are provided to improve the individual's quality of life.
-
-<!-- ### Examples of Situations Where Evaluations May Be Relevant:
-
-- Emotional distress or trauma-related symptoms.
-- Workplace issues like discrimination, harassment, or wrongful termination.
-- Accidents involving vehicles, industrial settings, or medical/psychological negligence.
-- Head injuries with persistent symptoms (post-concussion syndrome).
-- Experiences of sexual abuse or harassment. -->
-
-<!-- ## What to Expect
-Our personal injury and independent medical evaluations typically involve:
-
-A detailed clinical interview with your client and collateral sources to determine their pre and post-injury functioning. These interviews will help us understand important psychological, medical, and social background information, and their current cognitive and psychological functioning.
-Consultation with the attorney or insurance company to determine the medical-legal questions that need to be answered.
-A review of medical, psychological, and other collateral documents that help us have a better understanding of your client’s psychological and emotional functioning pre and post-injury.
-We will administer neuropsychological and psychological tests to objectively assess for mental health diagnoses or cognitive impairment.
-
-We will administer and interpret paper and computer-based tests to assess for:
-- General intellectual abilities
-- Higher level executive skills such as reasoning and problem solving
-- Attention and concentration
-- Language comprehension and communication
-- Visual-spatial skills and perception
-- Memory impairment
-- Motor and sensory skills
-- Mood and personality
-- Psychological diagnoses -->
 
 After we complete the evaluation, we will write a comprehensive report that
 integrates our findings, reviews the course of the injury, discusses your or

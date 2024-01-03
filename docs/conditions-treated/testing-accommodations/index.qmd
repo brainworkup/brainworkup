@@ -13,7 +13,7 @@ sidebar: true
 image: testing-384.webp
 image-width: 20em
 lightbox: true
-include-in-header: canonical.html
+include-in-header: canonical-testing-accommodations.html
 tags: [testing, accommodations, disabilities, ADHD, dyslexia, dysgraphia, dyscalculia, depression, anxiety, PTSD, head injury, ADA, ACT, SAT, MCAT, GMAT, GRE, LSAT, PCAT, bar exam, standardized test, professional licensing exam]
 ---
 

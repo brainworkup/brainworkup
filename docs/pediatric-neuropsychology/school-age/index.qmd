@@ -1,7 +1,7 @@
 ---
 title: "School-Age Children"
 format: html
-include-in-header: canonical.html
+include-in-header: canonical-school-age.html
 ---
 
 ## Elementary School (Ages 6-12)

@@ -6,7 +6,6 @@ project:
     browser: true
   resources:
     - "/_redirects"
-    # - "figs/**/*"
 
 website:
   title: "BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD"
@@ -67,13 +66,13 @@ website:
         href: docs/contact/index.qmd
     right:
       - icon: github
-        href: https://github.com/brainworkup/brainworkup
+        href: https://github.com/brainworkup/brainworkup/
         aria-label: Github
       - icon: twitter
-        href: https://twitter.com/brainworkup
+        href: https://twitter.com/brainworkup/
         aria-label: Twitter
       - icon: instagram
-        href: https://instagram.com/brainworkup
+        href: https://instagram.com/brainworkup/
         aria-label: Instagram
       - icon: linkedin
         aria-label: LinkedIn
@@ -107,13 +106,13 @@ website:
         href: mailto:info@brainworkup.org
     tools:
       - icon: github
-        href: https://github.com/brainworkup/brainworkup
+        href: https://github.com/brainworkup/brainworkup/
         aria-label: Github
       - icon: twitter
-        href: https://twitter.com/brainworkup
+        href: https://twitter.com/brainworkup/
         aria-label: Twitter
       - icon: instagram
-        href: https://instagram.com/brainworkup
+        href: https://instagram.com/brainworkup/
         aria-label: Instagram
       - icon: linkedin
         aria-label: LinkedIn
@@ -151,8 +150,8 @@ website:
             - section: "**Forensic Neuropsychology**"
               contents:
                 - docs/forensic-neuropsychology/index.qmd
-                - docs/independent-medical-exam/index.qmd
-                - docs/mental-health-diversion/index.qmd
+                - docs/forensic-neuropsychology/independent-medical-exam/index.qmd
+                - docs/forensic-neuropsychology/mental-health-diversion/index.qmd
             - section: "**Conditions Treated**"
               contents:
                 # - docs/conditions-treated/index.qmd
@@ -203,7 +202,6 @@ format:
     linkcolor: "#AA336A"
     link-external-icon: true
     link-external-newwindow: true
-    fig-align: default
     author-meta: "Joey Trampush"
     lightbox: true
 

@@ -5,7 +5,7 @@ description: "A balanced exploration of the concept of ADHD that emerges in adul
 format:
   html:
     page-layout: article
-include-in-header: canonical.html
+include-in-header: canonical-adult-onset-adhd.html
 aliases:
   - ../docs/adult-neuropsychology/adult-onset-adhd.html
 image: boomboxbrain.webp

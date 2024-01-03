@@ -6,7 +6,7 @@ hide-description: true
 format:
   html:
     page-layout: article
-include-in-header: canonical.html
+include-in-header: canonical-forensic-neuropsychology.html
 tags:
   - forensic neuropsychology
   - medicolegal
@@ -66,7 +66,3 @@ We adhere to the highest standards of confidentiality and legal compliance in ou
 ## Contact Information
 
 For scheduling and more information, please [Contact](/docs/contact/index.qmd#online-inquiry) us here.
-
-
-
-

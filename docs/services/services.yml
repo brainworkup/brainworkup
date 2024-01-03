@@ -26,9 +26,9 @@
     - text: General Forensic Services
       href: ../forensic-neuropsychology/index.qmd
     - text: Independent Medical Exams
-      href: ../independent-medical-exam/index.qmd
+      href: ../forensic-neuropsychology/independent-medical-exam/index.qmd
     - text: Mental Health Diversion
-      href: ../mental-health-diversion/index.qmd
+      href: ../forensic-neuropsychology/mental-health-diversion/index.qmd
 
 - title: Conditions Treated
   subtitle: "We have unique expertise in evaluating the neurocognitive and neurobehavioral conditions described below"

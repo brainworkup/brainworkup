@@ -10,7 +10,7 @@ image: kids.webp
 image-width: 20em
 sidebar: true
 lightbox: true
-include-in-header: canonical.html
+include-in-header: canonical-pediatric-neuropsychology.html
 ---
 
 ![](kids.webp "Pediatric Neuropsychology"){width=20em fig-alt="A brainworkup logo for pediatric neuropsychological services."}

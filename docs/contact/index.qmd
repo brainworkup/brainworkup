@@ -21,7 +21,7 @@ format:
     - file: contact_form.php
     page-layout: article
     toc: true
-include-in-header: canonical.html
+include-in-header: canonical-contact.html
 form:
   action: "contact_form.php"
   submit: "Submit"
