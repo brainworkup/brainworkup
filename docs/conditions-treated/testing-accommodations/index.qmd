@@ -9,13 +9,14 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: ocd.webp
+image: testing-384.webp
 image-width: 20em
 lightbox: true
 include-in-header: canonical.html
+tags: [testing, accommodations, disabilities, ADHD, dyslexia, dysgraphia, dyscalculia, depression, anxiety, PTSD, head injury, ADA, ACT, SAT, MCAT, GMAT, GRE, LSAT, PCAT, bar exam, standardized test, professional licensing exam]
 ---
 
-![](ocd.webp "Accommodations"){width=20em fig-alt="A
+![](testing-384.webp "Accommodations"){width=20em fig-alt="A
 brainworkup logo for adult ADHD."}
 
 ## Need for Services
@@ -47,11 +48,11 @@ stop breaks, access to assistive devices, and private testing rooms.
 
 - MCAT
 
-- GMAT
+- LSAT
 
 - GRE
 
-- LSAT
+- GMAT
 :::
 
 ::: {.g-col-4}
@@ -76,19 +77,19 @@ These modifications ensure equal opportunities and true potential performance.
 
 The ADA recognizes a range of disabilities for accommodations:
 
- - Attention-Deficit/Hyperactivity Disorder (ADHD) 
+- Attention-Deficit/Hyperactivity Disorder (ADHD) 
  
- - Dyslexia 
+- Dyslexia 
  
- - Psychological Conditions (e.g., Depression, Anxiety) 
+- Psychological Conditions (e.g., Depression, Anxiety) 
  
- - Physical Disabilities 
+- Physical Disabilities 
  
- - Sensory impairments (vision/hearing) 
+- Sensory impairments (vision/hearing) 
  
- - Physical impairments (e.g., Crohn’s disease) 
+- Physical impairments (e.g., Crohn’s disease) 
  
- - Acquired head injuries/TBI
+- Acquired head injuries/TBI
 
 ## Documentation Requirements
 

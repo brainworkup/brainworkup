@@ -13,7 +13,7 @@ include-in-header: canonical.html
 aliases:
   - trampush.html
   - about.html
-  - /docs/about/joey-trampush/
+  - ../docs/about/joey-trampush/
   - joeytrampush.com/docs/trampush/
   - joeytrampush.com/docs/joey-trampush/
 tags:

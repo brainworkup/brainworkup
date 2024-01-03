@@ -56,3 +56,27 @@ from = "https://brainworkup.io/"
 to = "https://brainworkup.org/"
 status = 301
 force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/docs/contact/"
+to = "https://brainworkup.org/docs/contact/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/docs/faq/"
+to = "https://brainworkup.org/docs/faq/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/docs/services/"
+to = "https://brainworkup.org/docs/services/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/docs/blog/"
+to = "https://brainworkup.org/docs/blog/"
+status = 301
+force = true
