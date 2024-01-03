@@ -1,7 +1,8 @@
 ---
 title: "Testing Accommodations"
-subtitle: Testing and School Accommodations for Students with Disabilities 
-description: "Academic and standardized testing accommodations for students with disabilities."
+subtitle: "Testing and school accommodations for students with disabilities" 
+description: >
+  Academic and standardized testing accommodations for students with disabilities.
 hide-description: true
 aliases:
   - /docs/disorders/mcat.html
@@ -32,41 +33,29 @@ stop breaks, access to assistive devices, and private testing rooms.
 
 **Accommodations can be provided for the following standardized tests:**
 
-::: {.grid}
+### High school to college
 
-::: {.g-col-4}
+- [ACT](https://www.act.org/content/act/en/products-and-services/the-act/registration/accommodations.html?hsa_acc=5799955628&hsa_cam=20819547777&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1)
 
-**College**
+- [SAT](https://accommodations.collegeboard.org/how-accommodations-work/for-each-test/sat)
 
-- [**ACT**](https://www.act.org/content/act/en/products-and-services/the-act/registration/accommodations.html?hsa_acc=5799955628&hsa_cam=20819547777&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1)
+### College to medical/graduate/law/business school
 
-- SAT
-:::
+- [MCAT](https://students-residents.aamc.org/mcat-exam-accommodations/mcat-exam-accommodations)
 
-::: {.g-col-4}
-**Graduate/Medical School**
+- [GRE](https://www.ets.org/gre/test-takers/general-test/register/disability-accommodations.html)
 
-- MCAT
+- [LSAT](https://www.lsac.org/lsat/register-lsat/accommodations)
 
-- LSAT
+- [GMAT](https://www.mba.com/exams/gmat-exam/register/testing-accommodations)
 
-- GRE
+### Professional licensing exams
 
-- GMAT
-:::
+- [PCAT](https://www.pearsonassessments.com/graduate-admissions/pcat/about.html)
 
-::: {.g-col-4}
-**Licensure**
+- [State of California Bar Exam](https://www.calbar.ca.gov/Admissions/Examinations/Testing-Accommodations/Requesting-Testing-Accommodations)
 
-- [**PCAT**](https://www.pearsonassessments.com/graduate-admissions/pcat/about.html)
-
-- State of California Bar Exam
-
-- Any other standardized test or professional licensing exam
-:::
-
-:::
-
+- Other standardized test or professional licensing exam
 
 ## ADA and Testing Accommodations
 
@@ -79,7 +68,7 @@ The ADA recognizes a range of disabilities for accommodations:
 
 - Attention-Deficit/Hyperactivity Disorder (ADHD) 
  
-- Dyslexia 
+- Dyslexia and other learning disorders
  
 - Psychological Conditions (e.g., Depression, Anxiety) 
  
@@ -151,3 +140,4 @@ A comprehensive report will be provided to you and your family. The report will 
 
 Testing accommodations aim to level the playing field for applicants with disabilities, ensuring fair assessment of abilities.
 Comprehensive evaluations by licensed professionals are vital for substantiating accommodation requests.
+
