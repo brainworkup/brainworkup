@@ -1,10 +1,10 @@
 ---
-title: Conditions We Treat
+title: Specialty Areas
 description: "Specific conditions we consider to be our areas of expertise."
 hide-description: false
 include-in-header: canonical-conditions-treated.html
 aliases:
-  - ../docs/disorders/
+  - "../docs/disorders/"
 format:
   html:
     page-layout: article
@@ -15,8 +15,8 @@ tags:
   - dysgraphia
   - dyspraxia
   - autism
-  - aspergers
-  - tourettes
+  - Aspergers
+  - Tourettes
   - tics
   - OCD
   - oppositional defiant disorder
