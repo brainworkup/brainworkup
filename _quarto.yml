@@ -61,9 +61,9 @@ website:
       - text: "Services"
         href: docs/services/index.qmd
       - text: "FAQ"
-        href: docs/faq/index.qmd
+        href: faq/index.qmd
       - text: "Contact"
-        href: docs/contact/index.qmd
+        href: contact/index.qmd
     right:
       - icon: github
         href: https://github.com/brainworkup/brainworkup/
@@ -89,9 +89,9 @@ website:
       - text: "Services"
         href: docs/services/index.qmd
       - text: "FAQ"
-        href: docs/faq/index.qmd
+        href: faq/index.qmd
       - text: "Contact"
-        href: docs/contact/index.qmd
+        href: contact/index.qmd
       - text: "Blog"
         href: docs/blog/index.qmd
       - icon: file-pdf
@@ -168,14 +168,14 @@ website:
       collapse-level: 1
       contents:
         - section: "FAQ"
-          href: docs/faq/index.qmd
+          href: faq/index.qmd
 
     - id: contact
       title: "Contact"
       collapse-level: 1
       contents:
         - section: "Contact Us"
-          href: docs/contact/index.qmd
+          href: contact/index.qmd
 
 format:
   html:

@@ -59,13 +59,13 @@ force = true
 
 [[redirects]]
 from = "https://joeytrampush.com/docs/contact/"
-to = "https://brainworkup.org/docs/contact/"
+to = "https://brainworkup.org/contact/"
 status = 301
 force = true
 
 [[redirects]]
 from = "https://joeytrampush.com/docs/faq/"
-to = "https://brainworkup.org/docs/faq/"
+to = "https://brainworkup.org/faq/"
 status = 301
 force = true
 

@@ -65,4 +65,4 @@ We adhere to the highest standards of confidentiality and legal compliance in ou
 
 ## Contact Information
 
-For scheduling and more information, please [Contact](/docs/contact/index.qmd#online-inquiry) us here.
+For scheduling and more information, please [Contact](/contact/index.qmd#online-inquiry) us here.
