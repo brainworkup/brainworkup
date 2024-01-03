@@ -18,12 +18,12 @@ tags:
   - feedback session
   - report
 sidebar: true
-image: adhd-black.webp
+image: adhd-black-384.webp
 image-width: 20em
 lightbox: true
 ---
 
-![](adhd-black.webp "ADHD"){width=20em fig-alt="A brainworkup logo for ADHD."}
+![](adhd-black-384.webp "ADHD"){width=20em fig-alt="A brainworkup logo for ADHD."}
 
 ## Overview
 
