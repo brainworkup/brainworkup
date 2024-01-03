@@ -5,7 +5,7 @@ project:
     port: 3000
     browser: true
   resources:
-    - "/_redirects"
+    - "_redirects"
 
 website:
   title: "BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD"

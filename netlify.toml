@@ -80,9 +80,3 @@ from = "https://joeytrampush.com/docs/blog/"
 to = "https://brainworkup.org/docs/blog/"
 status = 301
 force = true
-
-[[redirects]]
-from = "https://brainworkup.org/docs/joeytrampush/"
-to = "https://brainworkup.org/joeytrampush/"
-status = 301
-force = true
