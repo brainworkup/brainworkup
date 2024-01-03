@@ -9,7 +9,6 @@ include-in-header: canonical-index.html
 aliases:
   - joeytrampush.com/index.html
   - brainworkup.com/index.html
-section-divs: true
 format:
   html:
     page-layout: full

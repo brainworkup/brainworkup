@@ -1,12 +1,12 @@
 /docs/disorders/mcat.html /docs/conditions-treated/testing-accommodations/ 301!
-/docs/joey-trampush/ /joey-trampush/ 200
-/docs/services/ /services/ 200
-/docs/faq/ /faq/ 200
-/docs/contact/ /contact/ 200
-/docs/adult-neuropsychology/ /adult-neuropsychology/ 200
-/docs/adult-neuropsychology/adult-onset-adhd/ /adult-onset-adhd/ 200
-/docs/adult-neuropsychology/emerging-adulthood/ /emerging-adulthood/ 200
-/docs/pediatric-neuropsychology/* /:splat 200
-/docs/forensic-neuropsychology/* /:splat 200
-/docs/conditions-treated/* /:splat 200
-/docs/blog/posts/* /:splat 200
+# /docs/joey-trampush/ /joey-trampush/ 200
+# /docs/services/ /services/ 200
+# /docs/faq/ /faq/ 200
+# /docs/contact/ /contact/ 200
+# /docs/adult-neuropsychology/ /adult-neuropsychology/ 200
+# /docs/adult-neuropsychology/adult-onset-adhd/ /adult-onset-adhd/ 200
+# /docs/adult-neuropsychology/emerging-adulthood/ /emerging-adulthood/ 200
+# /docs/pediatric-neuropsychology/* /:splat 200
+# /docs/forensic-neuropsychology/* /:splat 200
+# /docs/conditions-treated/* /:splat 200
+# /docs/blog/posts/* /:splat 200
