@@ -118,7 +118,7 @@ website:
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
       - icon: rss
-        href: https://brainworkup.org/docs/blog/index.xml
+        href: https://brainworkup.org/blog/index.xml
         aria-label: RSS
 
   sidebar:
@@ -138,30 +138,30 @@ website:
           contents:
             - section: "**Pediatric Neuropsychology**"
               contents:
-                - /docs/pediatric-neuropsychology/index.qmd
-                - /docs/pediatric-neuropsychology/preschool/index.qmd
-                - /docs/pediatric-neuropsychology/school-age/index.qmd
-                - /docs/pediatric-neuropsychology/adolescent/index.qmd
+                - services/pediatric-neuropsychology/index.qmd
+                - services/pediatric-neuropsychology/preschool/index.qmd
+                - services/pediatric-neuropsychology/school-age/index.qmd
+                - services/pediatric-neuropsychology/adolescent/index.qmd
             - section: "**Adult Neuropsychology**"
               contents:
-                - /docs/adult-neuropsychology/index.qmd
-                - /docs/adult-neuropsychology/emerging-adulthood/index.qmd
-                - /docs/adult-neuropsychology/adult-onset-adhd/index.qmd
+                - services/adult-neuropsychology/index.qmd
+                - services/adult-neuropsychology/emerging-adulthood/index.qmd
+                - services/adult-neuropsychology/adult-onset-adhd/index.qmd
             - section: "**Forensic Neuropsychology**"
               contents:
-                - docs/forensic-neuropsychology/index.qmd
-                - docs/forensic-neuropsychology/independent-medical-exam/index.qmd
-                - docs/forensic-neuropsychology/mental-health-diversion/index.qmd
+                - services/forensic-neuropsychology/index.qmd
+                - services/forensic-neuropsychology/independent-medical-exam/index.qmd
+                - services/forensic-neuropsychology/mental-health-diversion/index.qmd
             - section: "**Conditions Treated**"
               contents:
-                # - docs/conditions-treated/index.qmd
-                - docs/conditions-treated/adhd/index.qmd
-                - docs/conditions-treated/adhd-in-girls/index.qmd
-                - docs/conditions-treated/testing-accommodations/index.qmd
-                - docs/conditions-treated/dyslexia/index.qmd
-                - docs/conditions-treated/executive-function/index.qmd
-                - docs/conditions-treated/autism/index.qmd
-                - docs/conditions-treated/concussion/index.qmd
+                # - conditions-treated/index.qmd
+                - services/conditions-treated/adhd/index.qmd
+                - services/conditions-treated/adhd-in-girls/index.qmd
+                - services/conditions-treated/testing-accommodations/index.qmd
+                - services/conditions-treated/dyslexia/index.qmd
+                - services/conditions-treated/executive-function/index.qmd
+                - services/conditions-treated/autism/index.qmd
+                - services/conditions-treated/concussion/index.qmd
 
     - id: faq
       title: "FAQ"

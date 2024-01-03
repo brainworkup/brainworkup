@@ -67,13 +67,13 @@ ongoing assistance to adapt to your or your child's evolving needs.
 
 We specialize in the following neuropsychological services:
 
-- [**ADHD in Girls**](docs/conditions-treated/adhd-in-girls/index.qmd)
+- [**ADHD in Girls**](services/conditions-treated/adhd-in-girls/index.qmd)
 
-- [**Academic/Testing Accommodations**](docs/conditions-treated/testing-accommodations/index.qmd)
+- [**Academic/Testing Accommodations**](services/conditions-treated/testing-accommodations/index.qmd)
 
-- [**Forensics/Independent Medical Exams**](docs/forensic-neuropsychology/independent-medical-exam/index.qmd)
+- [**Forensics/Independent Medical Exams**](services/forensic-neuropsychology/independent-medical-exam/index.qmd)
 
-- [**Adult-Onset ADHD**](docs/adult-neuropsychology/adult-onset-adhd/index.qmd)
+- [**Adult-Onset ADHD**](services/adult-neuropsychology/adult-onset-adhd/index.qmd)
 
 ---
 
