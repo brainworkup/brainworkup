@@ -104,3 +104,45 @@ from = "https://brainworkup.org/docs/services/"
 to = "https://brainworkup.org/services/"
 status = 301
 force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/conditions-treated/testing-accommodations/"
+to = "https://brainworkup.org/services/conditions-treated/testing-accommodations/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/disorders/mcat.html"
+to = "https://brainworkup.org/services/conditions-treated/testing-accommodations/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/adult-neuropsychology/adult-onset-adhd/"
+to = "https://brainworkup.org/services/adult-neuropsychology/adult-onset-adhd/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/conditions-treated/adhd-in-girls/"
+to = "https://brainworkup.org/services/conditions-treated/adhd-in-girls/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/clinical-services/adhd-in-girls/"
+to = "https://brainworkup.org/services/conditions-treated/adhd-in-girls/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/clinical-services/"
+to = "https://brainworkup.org/services/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/about/joey-trampush/"
+to = "https://brainworkup.org/joey-trampush/"
+status = 301
+force = true
