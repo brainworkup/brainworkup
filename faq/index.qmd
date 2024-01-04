@@ -18,7 +18,7 @@ tags:
   - frequently asked questions
 ---
 
-![](logo-transparent.webp "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
+![](logo-transparent.webp "FAQ"){width=384px height=384px fig-alt="The brainworkup logo on the FAQ page."}
 
 ## Overview of the practice 
 
