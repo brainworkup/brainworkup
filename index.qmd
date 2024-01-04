@@ -69,9 +69,9 @@ ongoing assistance to adapt to your or your child's evolving needs.
 
 We specialize in the following neuropsychological services:
 
-- [**ADHD in Girls**](services/conditions-treated/adhd-in-girls/index.qmd)
+- [**ADHD in Girls**](adhd-in-girls/index.qmd)
 
-- [**Academic/Testing Accommodations**](services/conditions-treated/testing-accommodations/index.qmd)
+- [**Academic/Testing Accommodations**](testing-accommodations/index.qmd)
 
 - [**Forensics/Independent Medical Exams**](services/forensic-neuropsychology/independent-medical-exam/index.qmd)
 

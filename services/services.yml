@@ -38,9 +38,9 @@
     - text: ADHD
       href: conditions-treated/adhd/index.qmd
     - text: ADHD in Girls
-      href: conditions-treated/adhd-in-girls/index.qmd
+      href: adhd-in-girls/index.qmd
     - text: Test Accommodations
-      href: conditions-treated/testing-accommodations/index.qmd
+      href: testing-accommodations/index.qmd
     - text: Dyslexia
       href: conditions-treated/dyslexia/index.qmd
     - text: Executive Dysfunction

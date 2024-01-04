@@ -1,12 +1,14 @@
 ---
-title: ADHD in Girls
+title: "ADHD in Girls"
 subtitle: Girls have ADHD too
-description: "An overview of increasing recognition that girls often have ADHD yet go undiagnosed most of the time."
+description: >
+  An overview of increasing recognition that girls often have ADHD yet go undiagnosed most of the time.
 hide-description: true
 include-in-header: canonical-adhd-in-girls.html
 aliases:
-  - "../docs/disorders/adhd-in-girls.html"
-  - "../docs/conditions-treated/adhd-in-girls"
+  - "../docs/disorders/adhd-in-girls.html/"
+  - "../docs/conditions-treated/adhd-in-girls/"
+  - "../services/conditions-treated-adhd-in-girls/"
 format:
   html:
     page-layout: article
@@ -15,12 +17,12 @@ tags:
   - girls
   - ADHD in girls
 sidebar: true
-image: adhd-girls-384.webp
+image: adhd-girls-384.png
 image-width: 20em
 lightbox: true
 ---
 
-![](adhd-girls-384.webp "ADHD in Girls"){width=20em fig-alt="A brainworkup kids logo for adhd in girls."}
+![](adhd-girls-384.png "ADHD in Girls"){width=20em fig-alt="A brainworkup kids logo for adhd in girls."}
 
 ## Spotlight on ADHD in Girls 
 

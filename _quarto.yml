@@ -156,8 +156,8 @@ website:
               contents:
                 - services/conditions-treated/index.qmd
                 - services/conditions-treated/adhd/index.qmd
-                - services/conditions-treated/adhd-in-girls/index.qmd
-                - services/conditions-treated/testing-accommodations/index.qmd
+                - adhd-in-girls/index.qmd
+                - testing-accommodations/index.qmd
                 - services/conditions-treated/dyslexia/index.qmd
                 - services/conditions-treated/executive-function/index.qmd
                 - services/conditions-treated/autism/index.qmd
@@ -216,4 +216,3 @@ editor: source
 
 filters:
   - forms
-  - fontawesome
