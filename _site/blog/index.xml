@@ -5,13 +5,14 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD</title>
+<title>BrainWorkup Neuropsychology</title>
 <link>https://brainworkup.org/blog/</link>
 <atom:link href="https://brainworkup.org/blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults.</description>
+<description>Established by Dr. Joey Trampush, BrainWorkup Neuropsychology offers specialized neuropsychological evaluations for children to young adults, focusing on ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
+</description>
 <image>
 <url>https://brainworkup.org/logo-transparent.png</url>
-<title>BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD</title>
+<title>BrainWorkup Neuropsychology</title>
 <link>https://brainworkup.org/blog/</link>
 </image>
 <generator>quarto-1.4.533</generator>

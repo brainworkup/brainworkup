@@ -11,6 +11,7 @@ format:
 image: kids-384.webp
 image-width: 20em
 include-in-header: canonical-pediatric-neuropsychology.html
+include-after-body: footer.html
 lightbox: true
 sidebar: true
 ---
