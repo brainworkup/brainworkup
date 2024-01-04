@@ -6,7 +6,7 @@ aliases:
 format:
   html:
     page-layout: article
-image: logo-transparent-384.png
+image: logo-transparent.webp
 include-in-header: canonical-faq.html
 lightbox: true
 repo-actions: false
@@ -18,7 +18,7 @@ tags:
   - frequently asked questions
 ---
 
-![](logo-transparent-384.png "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
+![](logo-transparent.webp "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
 
 ## Overview of the practice 
 
