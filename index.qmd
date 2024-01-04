@@ -5,7 +5,7 @@ subtitle: |
   **Joey Trampush, PhD**
 description: "Founded by Joey Trampush, PhD, BrainWorkup Neuropsychology, LLC is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults."
 hide-description: true
-include-in-header: canonical-index.html
+include-in-header: [canonical-index.html, header.html]
 include-in-body: body.html
 aliases:
   - joeytrampush.com/index.html
