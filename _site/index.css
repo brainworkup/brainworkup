@@ -27,7 +27,7 @@ h1, h2, h3 {
 } */
 
 #title-block-header {
-  display: default;
+  display: default; /* used to be default; hide the title block header */
 }
 
 .navbar {

@@ -1,21 +1,25 @@
 ---
 title: "BrainWorkup Neuropsychology, LLC"
 subtitle: | 
-  Clinical Neuropsychology Practice \
-  **Joey Trampush, PhD**
-description: "Founded by Joey Trampush, PhD, BrainWorkup is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults."
+  "Clinical Neuropsychology Practice" \
+  "**Joey Trampush, Ph.D.**"
+description: >
+  Established by Dr. Joey Trampush, BrainWorkup Neuropsychology offers specialized neuropsychological evaluations for children to young adults, focusing on ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
 hide-description: true
-section-divs: true
+include-in-header: [canonical-index.html, header.html]
+include-in-body: body.html
+aliases:
+  - joeytrampush.com/index.html
+  - brainworkup.com/index.html
 format:
   html:
     page-layout: full
-image: hero.png
-image-width: 5em
-image-height: 5em
+image: hero-384.png
 css: index.css
 about:
   template: trestles
   image-shape: round
+  image-width: "(min-width: 400px) 303px, calc(76.25vw + 13px)"
 sidebar: false
 tags:
   - neuropsychology
@@ -39,7 +43,7 @@ lightbox: true
 
 ## About
 
-Founded by [Joey Trampush, PhD](docs/joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based
+Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based
 in Southern California. We specialize in state-of-the-art neurocognitive and
 neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and
 weaknesses, working collaboratively with you and your family. 
@@ -58,6 +62,20 @@ difficulties.
 ongoing assistance to adapt to your or your child's evolving needs.
 
 - **What is Neuropsychological Testing?** [Read More](https://internalmedicine.usc.edu/blog/what-is-neuropsychological-testing/)
+
+---
+
+## Featured Services
+
+We specialize in the following neuropsychological services:
+
+- [**ADHD in Girls**](services/conditions-treated/adhd-in-girls/index.qmd)
+
+- [**Academic/Testing Accommodations**](services/conditions-treated/testing-accommodations/index.qmd)
+
+- [**Forensics/Independent Medical Exams**](services/forensic-neuropsychology/independent-medical-exam/index.qmd)
+
+- [**Adult-Onset ADHD**](services/adult-neuropsychology/adult-onset-adhd/index.qmd)
 
 ---
 
@@ -157,10 +175,9 @@ bwu::drilldown(
 Get in touch with us to see how we can help you and your family with our
 clinical services.
 
-[Schedule a Consultation](docs/contact/index.qmd#online-inquiry)
+- [[Schedule a Consultation](contact/index.qmd#online-inquiry)]
 
 Stay connected with the latest insights and resources:
 
-- [Subscribe to Our Blog](docs/blog/index.qmd)
-- [Follow us on Mastodon](https://fosstodon.org/@brainworkup)
-
+- [[Subscribe to Our Blog](blog/index.qmd)]
+- [[Follow us on Mastodon](https://fosstodon.org/@brainworkup)]

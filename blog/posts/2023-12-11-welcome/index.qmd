@@ -1,0 +1,38 @@
+---
+title: "Welcome"
+subtitle: "Public Autopsy"
+# author:
+#   - name: Joey Trampush
+#     url: https://github.com/brainworkup/
+#     orcid: 0000-0003-0830-508X
+#     affiliation: USC
+#     affiliation-url: https://usc.edu/ 
+date: "2023-12-11"
+categories: [brain2]
+image: "biggie-600.jpg"
+description: |
+  Welcome post.
+image-alt: "Welcome post image."
+citation: 
+  url: https://brainworkup.github.io/blog/posts/2023-12-11-welcome/ 
+---
+
+## Hello!
+
+Welcome to my neuropsychology blog, a dedicated space where we explore the
+intricacies of pediatric and developmental neuropsychology, and delve into the
+complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental
+and neuropsychiatric disorders. 
+
+In this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.
+
+## Content
+
+As we navigate through various topics, special attention will be given to Attention-Deficit/Hyperactivity Disorder (ADHD), a condition often misunderstood and sometimes overlooked in its later onset during college years. The transition to college brings unique challenges, and for some, it's also the time when symptoms of ADHD might first become prominent or disruptive. We will explore how to identify, manage, and support ADHD in this critical stage of life.
+
+Expect to find a blend of the latest research findings, practical advice, and real-life stories that illuminate the diverse experiences of those living with neuropsychological conditions. Whether you are a parent seeking guidance, a student navigating your own neuropsychological journey, or a fellow professional in the field, this blog aims to be a resourceful and enlightening hub.
+
+Together, we will unravel the complexities of the brain and behavior, foster a deeper understanding of neuropsychological disorders, and advocate for effective strategies to support those affected. I invite you to join me in this exploration, to learn, share, and contribute to our growing knowledge in this vital field.
+
+Remember, this blog is not just a collection of posts, but a growing community eager to learn and support each other. So, whether you're here to find answers, share experiences, or simply to satisfy your curiosity about neuropsychology, you're in the right place. Welcome aboard!
+
