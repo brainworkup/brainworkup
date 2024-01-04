@@ -4,9 +4,9 @@
 /docs/contact/ /contact/ 301!
 /docs/services/ /services/ 301!
 /docs/blog/ /blog/ 301!
-/docs/adult-neuropsychology/ /services/adult-neuropsychology/ 200
-/docs/adult-neuropsychology/adult-onset-adhd/ /services/adult-onset-adhd/ 200
-/docs/adult-neuropsychology/emerging-adulthood/ /services/emerging-adulthood/ 200
+# /docs/adult-neuropsychology/ /services/adult-neuropsychology/ 200
+# /docs/adult-neuropsychology/adult-onset-adhd/ /services/adult-onset-adhd/ 200
+# /docs/adult-neuropsychology/emerging-adulthood/ /services/emerging-adulthood/ 200
 # /docs/pediatric-neuropsychology/* /:splat 200
 # /docs/forensic-neuropsychology/* /:splat 200
 # /docs/conditions-treated/* /:splat 200
