@@ -8,6 +8,7 @@ aliases:
   - "../docs/disorders/mcat.html"
   - "../docs/conditions-treated/testing-accommodations/"
   - "mcat.html"
+  - "../services/conditions-treated/testing-accommodations/"
 format:
   html:
     page-layout: article
@@ -19,8 +20,8 @@ include-in-header: canonical-testing-accommodations.html
 tags: [testing, accommodations, disabilities, ADHD, dyslexia, dysgraphia, dyscalculia, depression, anxiety, PTSD, head injury, ADA, ACT, SAT, MCAT, GMAT, GRE, LSAT, PCAT, bar exam, standardized test, professional licensing exam]
 ---
 
-![](testing-384.webp "Accommodations"){width=20em fig-alt="A
-brainworkup logo for adult ADHD."}
+![](testing-384.png "Accommodations"){width=20em fig-alt="A
+brainworkup logo of a brain for testing and academic accommodations."}
 
 ## Need for Services
 

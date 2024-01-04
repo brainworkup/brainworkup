@@ -86,6 +86,6 @@ Importantly, neuropsychological assessments are tailored to address the specific
 
 - [Adult-Onset ADHD](adult-onset-adhd/index.qmd)
 
-- [MCAT and Related Testing Accommodations](../conditions-treated/testing-accommodations/index.qmd)
+- [MCAT and Related Testing Accommodations](/testing-accommodations/index.qmd)
 
 - [Sports-Related Concussion](../conditions-treated/concussion/index.qmd)

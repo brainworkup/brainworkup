@@ -1,8 +1,8 @@
 ---
 title: "BrainWorkup Neuropsychology, LLC"
-subtitle: | 
-  "Clinical Neuropsychology Practice" \
-  "**Joey Trampush, Ph.D.**"
+subtitle: |
+  Clinical Neuropsychology Practice \
+  **Joey Trampush, Ph.D.**
 description: >
   Established by Dr. Joey Trampush, BrainWorkup Neuropsychology offers specialized neuropsychological evaluations for children to young adults, focusing on ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
 hide-description: true
