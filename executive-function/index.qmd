@@ -7,6 +7,7 @@ hide-description: true
 aliases:
   - ../docs/disorders/executive-function.html
   - ../docs/conditions-treated/executive-function/
+  - ../services/conditions-treated/executive-function/
 tags:
   - executive functioning
   - neurocognitive assessment

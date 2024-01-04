@@ -36,18 +36,18 @@
     - text: Specialty Areas
       href: conditions-treated/index.qmd
     - text: ADHD
-      href: conditions-treated/adhd/index.qmd
+      href: /adhd/index.qmd
     - text: ADHD in Girls
       href: /adhd-in-girls/index.qmd
     - text: Test Accommodations
       href: /testing-accommodations/index.qmd
     - text: Dyslexia
-      href: conditions-treated/dyslexia/index.qmd
+      href: /dyslexia/index.qmd
     - text: Executive Dysfunction
-      href: conditions-treated/executive-function/index.qmd
+      href: /executive-function/index.qmd
     # - text: OCD and Pathological Perfectionism
     #   href: /conditions-treated/ocd/index.qmd
     - text: Autism
-      href: conditions-treated/autism/index.qmd
+      href: /autism/index.qmd
     - text: Sports-Related Concussions
-      href: conditions-treated/concussion/index.qmd
+      href: /concussion/index.qmd

@@ -88,4 +88,4 @@ Importantly, neuropsychological assessments are tailored to address the specific
 
 - [MCAT and Related Testing Accommodations](/testing-accommodations/index.qmd)
 
-- [Sports-Related Concussion](../conditions-treated/concussion/index.qmd)
+- [Sports-Related Concussion](/concussion/index.qmd)

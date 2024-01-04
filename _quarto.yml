@@ -155,13 +155,13 @@ website:
             - section: "**Conditions Treated**"
               contents:
                 - services/conditions-treated/index.qmd
-                - services/conditions-treated/adhd/index.qmd
+                - adhd/index.qmd
                 - adhd-in-girls/index.qmd
                 - testing-accommodations/index.qmd
-                - services/conditions-treated/dyslexia/index.qmd
-                - services/conditions-treated/executive-function/index.qmd
-                - services/conditions-treated/autism/index.qmd
-                - services/conditions-treated/concussion/index.qmd
+                - dyslexia/index.qmd
+                - executive-function/index.qmd
+                - autism/index.qmd
+                - concussion/index.qmd
 
     - id: faq
       title: "FAQ"
