@@ -7,6 +7,9 @@ aliases:
   - ../docs/conditions-treated/
   - clinical-services.html
   - neuropsychological-services.html
+description: >
+  Neurocognitive examination and psychodiagnostic clarification services are
+  provided for pediatric populations, forensic and medicolegal cases, and adults..
 anchor-sections: true
 fontsize: 1.1em
 format:
