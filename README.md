@@ -26,5 +26,5 @@ Static repository for brainworkup.org, brainworkup.io, brainworkup.com, joeytram
 ## Logo
 
 <div style="text-align:center">
-    <img src="logo.png" alt="bwu favicon" fig-align="center" width="70%" height="70%"/>
+    <img src="images/logo-253.png" alt="bwu favicon" fig-align="center" width="70%" height="70%"/>
 </div>
