@@ -154,7 +154,7 @@ website:
                 - services/forensic-neuropsychology/mental-health-diversion/index.qmd
             - section: "**Conditions Treated**"
               contents:
-                # - conditions-treated/index.qmd
+                - services/conditions-treated/index.qmd
                 - services/conditions-treated/adhd/index.qmd
                 - services/conditions-treated/adhd-in-girls/index.qmd
                 - services/conditions-treated/testing-accommodations/index.qmd

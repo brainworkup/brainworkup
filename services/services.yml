@@ -33,8 +33,8 @@
 - title: Conditions Treated
   subtitle: "We have unique expertise in evaluating the neurocognitive and neurobehavioral conditions described below"
   links:
-    # - text: Specialty Areas
-    #   href: /conditions-treated/index.qmd
+    - text: Specialty Areas
+      href: conditions-treated/index.qmd
     - text: ADHD
       href: conditions-treated/adhd/index.qmd
     - text: ADHD in Girls
