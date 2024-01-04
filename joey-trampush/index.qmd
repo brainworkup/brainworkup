@@ -10,12 +10,12 @@ hide-description: true
 toc: false
 include-in-header: canonical-joey-trampush.html
 aliases:
-  - trampush.html
-  - about.html
-  - ../docs/about/joey-trampush/
-  - joeytrampush.com/docs/trampush/
-  - joeytrampush.com/docs/joey-trampush/
-  - ../docs/joey-trampush/
+  - "trampush.html"
+  - "about.html"
+  - "../docs/about/joey-trampush/"
+  - "joeytrampush.com/docs/trampush/"
+  - "joeytrampush.com/docs/joey-trampush/"
+  - "../docs/joey-trampush/"
 tags:
   - neuropsychology
   - Joey Trampush
@@ -27,9 +27,7 @@ format:
     page-layout: full
 image: jwt-fitted-512.jpg
 about:
-  id: about
   template: trestles
-  image: jwt-fitted-512.jpg
   image-shape: round
   image-width: 20em
   links:
@@ -90,13 +88,13 @@ My work is published in numerous high-impact journals, and I am involved in mult
 As a researcher, I operate at the confluence of neuropsychology and genetics, striving to comprehend how molecular genetics influence behavior and the risk for psychiatric illness.
 My approach is grounded in the utilization of open-source data science tools, allowing my colleagues and I to delve into the complex interactions between genetics and neuropsychology.
 
--   **Molecular Genetics:** Exploring the genetic underpinnings of behavior and mental health.
+- **Molecular Genetics:** Exploring the genetic underpinnings of behavior and mental health.
 
--   **Neuropsychology:** Delving into the cognitive aspects of mental health conditions.
+- **Neuropsychology:** Delving into the cognitive aspects of mental health conditions.
 
--   **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
+- **Neurodevelopment:** Understanding how the brain develops and changes from childhood into adulthood.
 
--   **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
+- **Data Science:** Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.
 
 ---
 
