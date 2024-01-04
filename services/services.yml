@@ -1,13 +1,13 @@
 - title: Pediatric Neuropsychology
   subtitle: Child and adolescent neurocognitive assessment
   links:
-    - text: Neurodevelopment
+    - text: "Neurodevelopment"
       href: pediatric-neuropsychology/index.qmd
-    - text: Preschoolers
+    - text: "Preschoolers"
       href: pediatric-neuropsychology/preschool/index.qmd
-    - text: School-Age Children
+    - text: "School-Age Children"
       href: pediatric-neuropsychology/school-age/index.qmd
-    - text: Adolescents
+    - text: "Adolescents"
       href: pediatric-neuropsychology/adolescent/index.qmd
 
 - title: Adult Neuropsychology
@@ -23,11 +23,11 @@
 - title: Forensic Neuropsychology
   subtitle: Neurocognitive examination for forensic and medicolegal cases
   links:
-    - text: General Forensic Services
+    - text: "General Forensic Services"
       href: forensic-neuropsychology/index.qmd
-    - text: Independent Medical Exams
+    - text: "Independent Medical Exams"
       href: /independent-medical-exam/index.qmd
-    - text: Mental Health Diversion
+    - text: "Mental Health Diversion"
       href: /mental-health-diversion/index.qmd
 
 - title: Conditions Treated

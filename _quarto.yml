@@ -9,7 +9,7 @@ project:
 
 website:
   title: "BrainWorkup Neuropsychology"
-  image: logo-transparent.png
+  image: preview.png
   favicon: favicon.png
   open-graph:
     locale: en_US
@@ -33,7 +33,7 @@ website:
   page-navigation: true
   bread-crumbs: true
   google-analytics: "G-HW85H7H8P6"
-  cookie-consent: true
+  cookie-consent: false
   back-to-top-navigation: true
   reader-mode: false
   search:

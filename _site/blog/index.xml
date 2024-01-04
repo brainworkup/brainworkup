@@ -11,9 +11,11 @@
 <description>Established by Dr. Joey Trampush, BrainWorkup Neuropsychology offers specialized neuropsychological evaluations for children to young adults, focusing on ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
 </description>
 <image>
-<url>https://brainworkup.org/logo-transparent.png</url>
+<url>https://brainworkup.org/preview.png</url>
 <title>BrainWorkup Neuropsychology</title>
 <link>https://brainworkup.org/blog/</link>
+<height>144</height>
+<width>144</width>
 </image>
 <generator>quarto-1.4.534</generator>
 <lastBuildDate>Wed, 20 Dec 2023 08:00:00 GMT</lastBuildDate>
