@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-description: "Frequently asked questions about neuropsychological evaluations."
+description-meta: "Frequently asked questions about neuropsychological evaluations."
 aliases:
   - "../docs/faq/"
 format:
