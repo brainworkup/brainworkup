@@ -82,9 +82,9 @@ Importantly, neuropsychological assessments are tailored to address the specific
 
 ## Highlighted Services for Adults
 
-- [Emerging Adulthood](emerging-adulthood/index.qmd)
+- [Emerging Adulthood](/emerging-adulthood/index.qmd)
 
-- [Adult-Onset ADHD](adult-onset-adhd/index.qmd)
+- [Adult-Onset ADHD](/adult-onset-adhd/index.qmd)
 
 - [MCAT and Related Testing Accommodations](/testing-accommodations/index.qmd)
 

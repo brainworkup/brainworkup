@@ -145,13 +145,13 @@ website:
             - section: "**Adult Neuropsychology**"
               contents:
                 - services/adult-neuropsychology/index.qmd
-                - services/adult-neuropsychology/emerging-adulthood/index.qmd
-                - services/adult-neuropsychology/adult-onset-adhd/index.qmd
+                - emerging-adulthood/index.qmd
+                - adult-onset-adhd/index.qmd
             - section: "**Forensic Neuropsychology**"
               contents:
                 - services/forensic-neuropsychology/index.qmd
-                - services/forensic-neuropsychology/independent-medical-exam/index.qmd
-                - services/forensic-neuropsychology/mental-health-diversion/index.qmd
+                - independent-medical-exam/index.qmd
+                - mental-health-diversion/index.qmd
             - section: "**Conditions Treated**"
               contents:
                 - services/conditions-treated/index.qmd

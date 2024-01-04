@@ -1,13 +1,15 @@
 ---
 title: "Adult-Onset ADHD"
 subtitle: "Understanding the controversy"
-description: "A balanced exploration of the concept of ADHD that emerges in adulthood, contrasting it with the more common childhood-diagnosed ADHD."
+description: >
+   A balanced exploration of the concept of ADHD that emerges in adulthood, contrasting it with the more common childhood-diagnosed ADHD.
 format:
   html:
     page-layout: article
 include-in-header: canonical-adult-onset-adhd.html
 aliases:
   - ../docs/adult-neuropsychology/adult-onset-adhd.html
+  - "../services/adult-neuropsychology/adult-onset-adhd/"
 image: boomboxbrain.webp
 sidebar: true
 image-width: 20em

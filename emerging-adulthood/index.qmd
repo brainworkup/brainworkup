@@ -13,6 +13,7 @@ format:
 include-in-header: "canonical-emerging-adulthood.html"
 aliases: 
   - "../docs/adult-neuropsychology/emerging-adulthood/"
+  - "../services/adult-neuropsychology/emerging-adulthood/"
 ---
 
 ![](mentalhealth1.jpeg){width=20em}

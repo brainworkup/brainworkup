@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brainworkup.org/services/adult-neuropsychology/emerging-adulthood/index.html</loc>
-    <lastmod>2024-01-04T05:07:52.211Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/adult-neuropsychology/adult-onset-adhd/index.html</loc>
-    <lastmod>2024-01-03T05:44:24.544Z</lastmod>
+    <loc>https://brainworkup.org/services/adult-neuropsychology/index.html</loc>
+    <lastmod>2024-01-04T15:01:03.991Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/services/pediatric-neuropsychology/adolescent/index.html</loc>
@@ -29,12 +25,8 @@
     <lastmod>2024-01-04T04:34:06.537Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/forensic-neuropsychology/mental-health-diversion/index.html</loc>
-    <lastmod>2024-01-04T05:10:09.508Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/forensic-neuropsychology/independent-medical-exam/index.html</loc>
-    <lastmod>2024-01-03T14:48:52.478Z</lastmod>
+    <loc>https://brainworkup.org/services/forensic-neuropsychology/index.html</loc>
+    <lastmod>2024-01-03T16:51:30.797Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/blog/index.html</loc>
@@ -53,8 +45,12 @@
     <lastmod>2024-01-04T12:33:32.400Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/testing-accommodations/index.html</loc>
-    <lastmod>2024-01-04T14:40:08.569Z</lastmod>
+    <loc>https://brainworkup.org/adult-onset-adhd/index.html</loc>
+    <lastmod>2024-01-04T14:56:39.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/independent-medical-exam/index.html</loc>
+    <lastmod>2024-01-04T14:58:19.483Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/contact/submit_form.html</loc>
@@ -65,12 +61,16 @@
     <lastmod>2024-01-04T12:34:08.521Z</lastmod>
   </url>
   <url>
+    <loc>https://brainworkup.org/testing-accommodations/index.html</loc>
+    <lastmod>2024-01-04T14:40:08.569Z</lastmod>
+  </url>
+  <url>
     <loc>https://brainworkup.org/faq/index.html</loc>
     <lastmod>2024-01-04T12:33:46.085Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/index.html</loc>
-    <lastmod>2024-01-04T14:37:18.224Z</lastmod>
+    <lastmod>2024-01-04T15:04:15.236Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/blog/posts/2023-12-11-welcome/index.html</loc>
@@ -81,8 +81,12 @@
     <lastmod>2024-01-03T15:33:33.455Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/forensic-neuropsychology/index.html</loc>
-    <lastmod>2024-01-03T16:51:30.797Z</lastmod>
+    <loc>https://brainworkup.org/mental-health-diversion/index.html</loc>
+    <lastmod>2024-01-04T14:59:11.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/emerging-adulthood/index.html</loc>
+    <lastmod>2024-01-04T14:57:29.508Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/services/conditions-treated/autism/index.html</loc>
@@ -107,9 +111,5 @@
   <url>
     <loc>https://brainworkup.org/services/pediatric-neuropsychology/index.html</loc>
     <lastmod>2024-01-04T12:51:45.578Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/adult-neuropsychology/index.html</loc>
-    <lastmod>2024-01-04T14:43:51.090Z</lastmod>
   </url>
 </urlset>

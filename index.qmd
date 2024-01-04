@@ -73,9 +73,9 @@ We specialize in the following neuropsychological services:
 
 - [**Academic/Testing Accommodations**](testing-accommodations/index.qmd)
 
-- [**Forensics/Independent Medical Exams**](services/forensic-neuropsychology/independent-medical-exam/index.qmd)
+- [**Forensics/Independent Medical Exams**](independent-medical-exam/index.qmd)
 
-- [**Adult-Onset ADHD**](services/adult-neuropsychology/adult-onset-adhd/index.qmd)
+- [**Adult-Onset ADHD**](adult-onset-adhd/index.qmd)
 
 ---
 
