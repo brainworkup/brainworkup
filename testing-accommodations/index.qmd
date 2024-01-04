@@ -13,7 +13,7 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: testing-384.webp
+image: testing-384.png
 image-width: 20em
 lightbox: true
 include-in-header: canonical-testing-accommodations.html

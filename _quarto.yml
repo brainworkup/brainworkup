@@ -216,3 +216,4 @@ editor: source
 
 filters:
   - forms
+  - fontawesome

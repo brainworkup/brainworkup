@@ -8,7 +8,7 @@ format:
     page-layout: article
 include-in-header: canonical-adult-onset-adhd.html
 aliases:
-  - ../docs/adult-neuropsychology/adult-onset-adhd.html
+  - "../docs/adult-neuropsychology/adult-onset-adhd.html"
   - "../services/adult-neuropsychology/adult-onset-adhd/"
 image: boomboxbrain.webp
 sidebar: true
