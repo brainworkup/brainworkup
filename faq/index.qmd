@@ -13,6 +13,8 @@ sidebar: false
 tags:
   - brainworkup
   - faq
+  - neuropsychology
+  - frequently asked questions
 ---
 
 ![](logo-transparent-384.png "FAQ"){width=20em fig-alt="The brainworkup logo on the FAQ page."}
@@ -89,11 +91,13 @@ insurance plan. We advise you to reach out to our office with any queries.
 | Service                                                     | Fee  |
 |-------------------------------------------------------------|------|
 | Initial consultation                                       | $350 |
-| Testing with psychometrist (typically 4-8 hours)             | $200 |
+| Neuropsychological Testing (typically 4-8 hours)             | $200 |
 | Examination by neuropsychologist, test interpretation and report (typically 2-4 hours) | $350 |
 | Follow-up w/ neuropsychologist to review results and recommendations | $350 |
 | Report/letter writing in addition to the standard report     | $200 |
 | Other paperwork requested (Disability, Guardianship, CME, etc.) | $25-100 |
+
+Please note that school advocacy (e.g,. attending IEP meetings) is not a benefit covered by insurance plans. The fee is $300 for the initial hour and $75 for each succeeding 15 minutes.
 
 ::: {.callout-important}
 Note that we do not accept insurance at this time. We will provide you with a
@@ -110,13 +114,15 @@ Most insurance companies have what are called “Out of Network” benefits that
 
 ### Referrals
 
-It is imperative that you (1) ascertain whether your insurance necessitates a referral and (2) ensure you have procured a referral prior to your scheduled appointment with one of our doctors. Referrals typically come with an expiration date and a limited number of visits, hence, it is crucial to track the dates and visits. Our office will not accommodate a patient who does not possess a valid referral.
+It is important that you (1) know whether your insurance needs a referral for
+neuropsychological testing, and (2) ensure you have procured a referral prior to your
+scheduled appointment. Referrals typically come with an
+expiration date and a limited number of visits, hence, it is crucial to track
+the dates and visits.
 
 ### Authorizations
 
-In case your insurance company mandates authorization for a neuropsychological evaluation, we will complete the necessary paperwork subsequent to the consultation visit. If your doctor is not an “in network provider,” you will need to provide us with the required documents. Authorizations for initial consult visits, if necessary, must be procured through your regular doctor or specialist.
-
-Please note that school advocacy is not a benefit covered by insurance plans. The fee is $300 for the initial hour and $75 for each succeeding 15 minutes.
+In case your insurance company requires authorization for a neuropsychological evaluation, we will complete the necessary paperwork subsequent to the consultation visit. If your doctor is not an “in network provider,” you will need to provide us with the required documents. Authorizations for initial consult visits, if necessary, must be procured through your regular doctor or specialist.
 
 ### Payments
 
