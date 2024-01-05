@@ -2,7 +2,7 @@
 title: "Executive Functioning"
 subtitle: "Diving Deep into Executive Function: The Core of Neurocognitive Health"
 description: >
-  Understanding and Addressing Executive Dysfunction in Neurodevelopmental and Neuropsychiatric Disorders.
+  Understanding and addressing executive dysfunction in neurodevelopmental and neuropsychiatric disorders.
 hide-description: true
 aliases:
   - ../docs/disorders/executive-function.html

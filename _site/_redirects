@@ -4,13 +4,19 @@
 /docs/contact/ /contact/ 301!
 /docs/services/ /services/ 301!
 /docs/blog/ /blog/ 301!
+/services/adult-neuropsychology/ /adult-neuropsychology/ 301!
+/services/adult-neuropsychology/adult-onset-adhd/ /adult-onset-adhd/ 301!
+/services/adult-neuropsychology/emerging-adulthood/ /emerging-adulthood/ 301!
 /services/conditions-treated/adhd-in-girls/ /adhd-in-girls/ 301!
 /services/conditions-treated/testing-accommodations/ /testing-accommodations/ 301!
-/services/adult-neuropsychology/emerging-adulthood/ /emerging-adulthood/ 301!
-/services/adult-neuropsychology/adult-onset-adhd/ /adult-onset-adhd/ 301!
+/services/forensic-neuropsychology/ /forensic-neuropsychology/ 301!
 /services/forensic-neuropsychology/independent-medical-exam/ /independent-medical-exam/ 301!
 /services/forensic-neuropsychology/mental-health-diversion/ /mental-health-diversion/ 301!
-/services/adult-neuropsychology/ /adult-neuropsychology/ 301!
-/services/pediatric-neuropsychology/* /:splat 301!
-/services/forensic-neuropsychology/* /:splat 301!
-/services/conditions-treated/* /:splat 301!
+/services/pediatric-neuropsychology/ /pediatric-neuropsychology/ 301!
+/services/pediatric-neuropsychology/adolescent/ /adolescent/ 301!
+/services/pediatric-neuropsychology/preschool/ /preschool/ 301!
+/services/pediatric-neuropsychology/school-age/ /school-age/ 301!
+# /services/forensic-neuropsychology/* /:splat 301!
+# /services/conditions-treated/* /:splat 301!
+# /services/pediatric-neuropsychology/* /:splat 301!
+

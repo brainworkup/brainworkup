@@ -146,3 +146,9 @@ from = "https://brainworkup.org/docs/about/joey-trampush/"
 to = "https://brainworkup.org/joey-trampush/"
 status = 301
 force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/authors/*"
+to = "https://brainworkup.org/joey-trampush/"
+status = 301
+force = true
