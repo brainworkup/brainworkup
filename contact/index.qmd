@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 subtitle: "Contact us for more information or to schedule an evaluation. We're here to help."
-description-meta: >
+description: >
   Contact information for Brainworkup Neuropsychology, LLC.
 aliases:
   - "../docs/contact/"

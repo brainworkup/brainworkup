@@ -1,5 +1,6 @@
 ---
 title: "School-Age Children"
+description: "Neuropsychological evaluations for school-age children."
 format: html
 include-in-header: canonical-school-age.html
 aliases:
@@ -13,7 +14,7 @@ Adult-like neurocognitive abilities begin to materialize between the ages of 7-1
 
 TODO:
 
-# 🚧 This Page is Under Construction 🚧
+## 🚧 This Page is Under Construction 🚧
 
 We're working hard to finish the development of this site. Our target launch
 date is **Coming Soon**!

@@ -1,6 +1,7 @@
 ---
 title: "Preschoolers"
 subtitle: Early childhood evaluation of neurocognitive development
+description-meta: Early childhood evaluation of neurocognitive development
 format: html
 include-in-header: canonical-preschool.html
 aliases:
@@ -27,7 +28,7 @@ recently, the Queens College Preschool Project (QCPP) [link].
 
 Amongst several important findings, we discovered that changes in neurocognitive development predicted improvements (or lack thereof) in ADHD symptoms over a period of three years [link]. Thus, if you are interested in having your preschooler evaluated to establish his/her baseline level of neurocognitive development, we are well trained to work with this unique population.
 
-# 🚧 This Page is Under Construction 🚧
+## 🚧 This Page is Under Construction 🚧
 
 We're working hard to finish the development of this site. Our target launch
 date is **Coming Soon**!
