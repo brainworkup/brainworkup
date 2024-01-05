@@ -33,8 +33,8 @@ website:
   page-navigation: true
   bread-crumbs: true
   google-analytics: "G-HW85H7H8P6"
-  cookie-consent: false
-  back-to-top-navigation: true
+  cookie-consent: true
+  back-to-top-navigation: false
   reader-mode: false
   search:
     location: navbar
@@ -138,23 +138,23 @@ website:
           contents:
             - section: "**Pediatric Neuropsychology**"
               contents:
-                - services/pediatric-neuropsychology/index.qmd
-                - services/pediatric-neuropsychology/preschool/index.qmd
-                - services/pediatric-neuropsychology/school-age/index.qmd
-                - services/pediatric-neuropsychology/adolescent/index.qmd
+                - pediatric-neuropsychology/index.qmd
+                - preschool/index.qmd
+                - school-age/index.qmd
+                - adolescent/index.qmd
             - section: "**Adult Neuropsychology**"
               contents:
-                - services/adult-neuropsychology/index.qmd
+                - adult-neuropsychology/index.qmd
                 - emerging-adulthood/index.qmd
                 - adult-onset-adhd/index.qmd
             - section: "**Forensic Neuropsychology**"
               contents:
-                - services/forensic-neuropsychology/index.qmd
+                - forensic-neuropsychology/index.qmd
                 - independent-medical-exam/index.qmd
                 - mental-health-diversion/index.qmd
             - section: "**Conditions Treated**"
               contents:
-                - services/conditions-treated/index.qmd
+                # - conditions-treated/index.qmd
                 - adhd/index.qmd
                 - adhd-in-girls/index.qmd
                 - testing-accommodations/index.qmd

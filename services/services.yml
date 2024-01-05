@@ -2,19 +2,19 @@
   subtitle: Child and adolescent neurocognitive assessment
   links:
     - text: "Neurodevelopment"
-      href: pediatric-neuropsychology/index.qmd
+      href: /pediatric-neuropsychology/index.qmd
     - text: "Preschoolers"
-      href: pediatric-neuropsychology/preschool/index.qmd
+      href: /preschool/index.qmd
     - text: "School-Age Children"
-      href: pediatric-neuropsychology/school-age/index.qmd
+      href: /school-age/index.qmd
     - text: "Adolescents"
-      href: pediatric-neuropsychology/adolescent/index.qmd
+      href: /adolescent/index.qmd
 
 - title: Adult Neuropsychology
   subtitle: Neuropsychology of emerging adulthood including adult-onset ADHD
   links:
     - text: "Overview"
-      href: adult-neuropsychology/index.qmd
+      href: /adult-neuropsychology/index.qmd
     - text: "Emerging Adulthood"
       href: /emerging-adulthood/index.qmd
     - text: "Adult-Onset ADHD"
@@ -24,7 +24,7 @@
   subtitle: Neurocognitive examination for forensic and medicolegal cases
   links:
     - text: "General Forensic Services"
-      href: forensic-neuropsychology/index.qmd
+      href: /forensic-neuropsychology/index.qmd
     - text: "Independent Medical Exams"
       href: /independent-medical-exam/index.qmd
     - text: "Mental Health Diversion"
@@ -33,8 +33,8 @@
 - title: Conditions Treated
   subtitle: "We have unique expertise in evaluating the neurocognitive and neurobehavioral conditions described below"
   links:
-    - text: Specialty Areas
-      href: conditions-treated/index.qmd
+    # - text: Specialty Areas
+    #   href: /conditions-treated/index.qmd
     - text: ADHD
       href: /adhd/index.qmd
     - text: ADHD in Girls

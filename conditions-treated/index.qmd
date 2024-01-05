@@ -1,0 +1,68 @@
+---
+title: "Specialty Areas"
+subtitle: "Child and adult conditions we consider to be within our area of expertise"
+description-meta: >
+  We specialize in the evaluation of a wide range of
+  neurodevelopmental, neuropsychiatric, and neurological disorders in children
+  and adults.
+hide-description: false
+include-in-header: canonical-conditions-treated.html
+aliases:
+  - "../docs/disorders/"
+  - "../docs/conditions-treated/"
+  - "../services/conditions-treated/"
+format:
+  html:
+    page-layout: article
+tags:
+  - ADHD
+  - dyslexia
+  - dyscalculia
+  - dysgraphia
+  - dyspraxia
+  - autism
+  - Aspergers
+  - Tourettes
+  - tics
+  - OCD
+  - oppositional defiant disorder
+  - ODD
+  - conduct disorder
+  - depression
+  - anxiety
+  - perfectionism
+sidebar: true
+---
+
+### Links
+
+- [ADHD Across the Lifespan](/adhd/index.qmd)
+
+- [ADHD in Girls](/adhd-in-girls/index.qmd)
+
+- [Testing Accommodations](/testing-accommodations/index.qmd)
+
+- [Dyslexia](/dyslexia/index.qmd)
+
+- [Executive Functioning](/executive-function/index.qmd)
+
+- [Autism Spectrum Disorders](/autism/index.qmd)
+
+- [Sports-Related Concussions](/concussion/index.qmd)
+
+<!-- ## Neuropsychiatric Disorders
+
+### Mood Disorders
+
+### Anxiety Disorders
+
+### Obsessive-Compulsive Disorders
+
+## Neurological Disorders
+
+<!-- ### Traumatic Brain Injury -->
+
+<!-- # 🚧 This Page is Under Construction 🚧
+
+We're working hard to finish the development of this site. Our target launch
+date is **Coming Soon**! -->

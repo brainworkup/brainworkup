@@ -34,7 +34,7 @@ tags:
   - workup
 repo-actions: false
 toc: false
-execute: 
+execute:
   echo: false
   warning: false
   message: false
@@ -43,10 +43,7 @@ lightbox: true
 
 ## About
 
-Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based
-in Southern California. We specialize in state-of-the-art neurocognitive and
-neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and
-weaknesses, working collaboratively with you and your family. 
+Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family.
 
 ---
 
@@ -91,6 +88,7 @@ your concerns.
 ```{r}
 #| label: setup
 #| include: false
+#| eval: false
 library(crosstalk)
 library(dplyr)
 library(gifski)
@@ -124,6 +122,7 @@ knitr::opts_chunk$set(
 ```{r}
 #| label: data
 #| include: false
+#| eval: false
 neurocog <-
   readr::read_csv(here::here("resources/neurocog.csv"), show_col_types = TRUE) |>
   dplyr::filter(scale != "Orientation") |>
@@ -134,6 +133,7 @@ neurocog <-
 ```{r}
 #| label: merge-themes
 #| include: false
+#| eval: false
 # if using single theme
 theme <- highcharter::hc_theme_sandsignika()
 # if merging themes

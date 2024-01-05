@@ -3,6 +3,7 @@ title: "Neurodevelopmental Evaluations"
 title-meta: "Pediatric Neuropsychological Services"
 aliases:
   - "../docs/pediatric-neuropsychology/"
+  - "../services/pediatric-neuropsychology/"
 description-meta: >
   Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental evaluations.
 format:
@@ -18,7 +19,7 @@ sidebar: true
 
 ![](kids-384.webp "Pediatric Neuropsychology"){width=20em fig-alt="A brainworkup logo for pediatric neuropsychological services."}
 
-## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation 
+## Deep-Dive Into Child and Adolescent Neurocognitive Evaluation
 
 ::: aside
 A note about adolescent evaluations:
@@ -31,7 +32,6 @@ Across these age groups, our evaluation can be used to determine the existence
 and/or severity of major neurodevelopmental disorders.
 :::
 
-
 ## Pediatric Neuropsychological Services
 - Learning problems (e.g., dyslexia)
 - ADHD
@@ -43,39 +43,26 @@ and/or severity of major neurodevelopmental disorders.
 - Social-emotional problems
 - Neurological changes
 
-## Comprehensive Neurodevelopmental Evaluations 
+## Comprehensive Neurodevelopmental Evaluations
 
 We offer exhaustive neuropsychological evaluations for a range of neurodevelopmental and behavioral disorders. These evaluations are instrumental in understanding a child's cognitive, academic, and social-emotional functioning. We provide detailed reports and personalized recommendations to support children in their developmental journey.
 
-## Our Unique Approach 
+## Our Unique Approach
 
 :::{.callout-tip collapse=false appearance='default' icon=true}
-## Optional caption (tip)
-- Hide callout body with 'collapse=true'
-- Remove 'collapse' to prevent expandability
-- Set appearance to 'default', 'simple' or 'minimal'
-- Remove icon with 'icon=false'
+add a tip
 :::
-
 
 Our unique approach to evaluation is child-centered and family-focused. We realize that each child is different, and therefore we customize our assessments to meet their specific needs. Our team works collaboratively with families, educators, and other professionals to ensure a supportive and integrated approach to care.
 
-## Our Unwavering Commitment to Excellence 
+## Our Unwavering Commitment to Excellence
 
 We are committed to staying up-to-date with the latest research and advancements in pediatric neuropsychology. Our dedication to providing the highest quality of care ensures that each child we serve receives the support and guidance they need to succeed.
 
 :::{.callout-note collapse=false appearance='default' icon=true}
-## Optional caption (note)
-- Hide callout body with 'collapse=true'
-- Remove 'collapse' to prevent expandability
-- Set appearance to 'default', 'simple' or 'minimal'
-- Remove icon with 'icon=false'
+add a note
 :::
 
-
-## Get in Touch 
+## Get in Touch
 
 To know more about our pediatric neuropsychological services or to schedule an appointment, please feel free to contact us. We look forward to partnering with you and your child on their developmental journey. Stay tuned to our blog for more insights into pediatric neuropsychology and expert guidance for your child's cognitive, academic, and social-emotional growth.
-
-
-
