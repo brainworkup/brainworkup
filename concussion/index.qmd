@@ -1,6 +1,11 @@
 ---
 title: "Sports-Related Concussion"
-format: html
+description: >
+  Learn about sports-related brain injury and concussion in young athletes and former athletes.
+format:
+  html:
+    page-layout: article
+sidebar: true
 include-in-header: canonical-concussion.html
 aliases:
   - ../docs/disorders/concussion.html
