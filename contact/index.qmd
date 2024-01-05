@@ -37,13 +37,12 @@ format:
   html:
     page-layout: article
     toc: true
-    include-in-header: 
-      - file: submit_form.md
+    # include-in-header:
+    #   - file: submit_form.md
     include-in-body:
       - file: "contact_form.php"
 hide-description: false
-image: logo-253.png
-image-width: 20em
+image: logo-transparent.webp
 include-in-header: canonical-contact.html
 sidebar: false
 tags:
@@ -54,7 +53,8 @@ tags:
   - workup
 ---
 
-![](logo-253.png "Contact"){width=20em fig-alt="A brainworkup logo."}
+![](logo-transparent.webp "Contact"){width=384px height=384px fig-alt="A
+brainworkup logo for the contact page."}
 
 ## General Information
 
