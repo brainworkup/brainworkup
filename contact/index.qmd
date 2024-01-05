@@ -42,7 +42,6 @@ format:
     include-in-body:
       - file: "contact_form.php"
 hide-description: false
-image: logo-transparent.webp
 include-in-header: canonical-contact.html
 sidebar: false
 tags:
@@ -52,9 +51,6 @@ tags:
   - contact
   - workup
 ---
-
-![](logo-transparent.webp "Contact"){width=384px height=384px fig-alt="A
-brainworkup logo for the contact page."}
 
 ## General Information
 
