@@ -5,7 +5,7 @@ aliases:
   - "../services/forensic-neuropsychology/mental-health-diversion/"
   - "../services/mental-health-diversion/"
 description-meta: >
-  Learn about mental health diversion evaluations and the impact of Senate Bill 215. This page provides an introduction to mental health diversion, key aspects of the program, and our approach to conducting mental health diversion evaluations. Discover how this program aims to provide necessary mental health treatment and counseling to individuals accused of certain crimes.
+  This page provides an introduction to mental health diversion, key aspects of the program, and our approach to conducting mental health diversion evaluations.
 format:
   html:
     page-layout: article
