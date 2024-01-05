@@ -50,18 +50,12 @@ We offer exhaustive neuropsychological evaluations for a range of neurodevelopme
 ## Our Unique Approach
 
 :::{.callout-tip collapse=false appearance='default' icon=true}
-add a tip
-:::
-
 Our unique approach to evaluation is child-centered and family-focused. We realize that each child is different, and therefore we customize our assessments to meet their specific needs. Our team works collaboratively with families, educators, and other professionals to ensure a supportive and integrated approach to care.
+:::
 
 ## Our Unwavering Commitment to Excellence
 
 We are committed to staying up-to-date with the latest research and advancements in pediatric neuropsychology. Our dedication to providing the highest quality of care ensures that each child we serve receives the support and guidance they need to succeed.
-
-:::{.callout-note collapse=false appearance='default' icon=true}
-add a note
-:::
 
 ## Get in Touch
 

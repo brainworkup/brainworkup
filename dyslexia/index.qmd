@@ -1,7 +1,10 @@
 ---
 title: "Dyslexia"
+description: >
+  We specialize in evaluating dyslexia and related learning disorders in both
+  children and adults.
 include-in-header: canonical-dyslexia.html
-aliases: 
+aliases:
   - ../docs/disorders/dyslexia.html
   - ../docs/conditions-treated/dyslexia/
 format:
@@ -13,9 +16,9 @@ image-width: 20em
 lightbox: true
 ---
 
-![](dyslexia-384.png "Dyslexia"){width=20em fig-alt="A brainworkup logo for dyslexia."}
+![](dyslexia-384.png "Dyslexia"){width=20em height=20em fig-alt="A brainworkup logo for dyslexia."}
 
-## Addressing Dyslexia and Learning Disorders 
+## Addressing Dyslexia and Learning Disorders
 
 Our services also encompass the assessment and support of children with dyslexia and related learning disorders. We conduct detailed evaluations to identify specific learning profiles and provide recommendations for educational accommodations and interventions. Our ultimate aim is to help children overcome their learning challenges and excel academically.
 
@@ -33,19 +36,19 @@ Approximately 24% of individuals diagnosed with dyslexia are able to achieve rea
 
 ## Common complaints
 
-- You read at a pace that is noticeably slower than average 
+- You read at a pace that is noticeably slower than average
 
-- You struggled to gain proficiency in reading while in school  
+- You struggled to gain proficiency in reading while in school
 
-- You often have to reread passages multiple times before understanding them 
+- You often have to reread passages multiple times before understanding them
 
-- When reading or writing, you often leave out certain letters or mix them up 
+- When reading or writing, you often leave out certain letters or mix them up
 
-- Spelling words incorrectly is something that happens frequently for you 
+- Spelling words incorrectly is something that happens frequently for you
 
-- When attempting to read aloud, you find it difficult to correctly pronounce multi-syllabic words 
+- When attempting to read aloud, you find it difficult to correctly pronounce multi-syllabic words
 
-- Instead of tackling longer books, you prefer to read magazines and shorter articles 
+- Instead of tackling longer books, you prefer to read magazines and shorter articles
 
 - To dodge reading-intensive tasks, you tend to avoid working on projects that require
 
