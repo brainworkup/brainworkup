@@ -8,9 +8,31 @@ aliases:
 
 Adolescence is a period of intensive physical, emotional and social change, and the academic and social demands of high school are stronger than ever. At the same time, the teen brain is “still under construction,” and striking changes in brain maturation take place during the teen years [link]. We can assess some of these changes in the clinic.  
 
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## Optional caption (tip)
+- Hide callout body with 'collapse=true'
+- Remove 'collapse' to prevent expandability
+- Set appearance to 'default', 'simple' or 'minimal'
+- Remove icon with 'icon=false'
+:::
+
+
 As an example, in a series of research studies we carried out with colleagues in New York, we discovered that certain neurocognitive abilities were associated with a reduction in attention problems during adolescence [link], and that this relationship was influenced by genetics but only during later stages of development [link]. The more we learn about your teen, the better we may be able to understand and monitor his or her cognitive abilities (and vulnerabilities), which could influence your teen’s longer-term psychological health and well-being.
 
 # 🚧 This Page is Under Construction 🚧
 
 We're working hard to finish the development of this site. Our target launch
 date is **Coming Soon**!
+
+:::{.callout-note collapse=false appearance='default' icon=true}
+## Optional caption (note)
+- Hide callout body with 'collapse=true'
+- Remove 'collapse' to prevent expandability
+- Set appearance to 'default', 'simple' or 'minimal'
+- Remove icon with 'icon=false'
+:::
+
+
+::: footer
+Custom footer text
+:::

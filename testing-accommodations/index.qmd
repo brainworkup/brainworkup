@@ -34,7 +34,11 @@ is why the Americans with Disabilities Act (ADA) provides individuals with
 reasonable academic accommodations such as extended time on exams, start and
 stop breaks, access to assistive devices, and private testing rooms. 
 
-**Accommodations can be provided for the following standardized tests:**
+:::{.callout-note collapse=false appearance='default' icon=true}
+
+Accommodations can be provided for the following standardized tests:
+
+:::
 
 ### High school to college
 
