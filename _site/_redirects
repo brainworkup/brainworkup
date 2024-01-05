@@ -10,9 +10,7 @@
 /services/adult-neuropsychology/adult-onset-adhd/ /adult-onset-adhd/ 301!
 /services/forensic-neuropsychology/independent-medical-exam/ /independent-medical-exam/ 301!
 /services/forensic-neuropsychology/mental-health-diversion/ /mental-health-diversion/ 301!
-# /docs/adult-neuropsychology/ /services/adult-neuropsychology/ 200
-# /docs/adult-neuropsychology/adult-onset-adhd/ /services/adult-onset-adhd/ 200
-# /docs/adult-neuropsychology/emerging-adulthood/ /services/emerging-adulthood/ 200
-# /docs/pediatric-neuropsychology/* /:splat 200
-# /docs/forensic-neuropsychology/* /:splat 200
-# /docs/conditions-treated/* /:splat 200
+/services/adult-neuropsychology/ /adult-neuropsychology/ 301!
+/services/pediatric-neuropsychology/* /:splat 301!
+/services/forensic-neuropsychology/* /:splat 301!
+/services/conditions-treated/* /:splat 301!
