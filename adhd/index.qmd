@@ -5,7 +5,7 @@ aliases:
   - "../docs/conditions-treated/adhd/"
   - "../docs/disorders/adhd.html"
 description: >
-  An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood, specific to services provided by Dr. Trampush @ BrainWorkup, LLC.
+  An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood.
 format:
   html:
     page-layout: article
