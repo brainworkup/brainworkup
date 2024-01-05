@@ -4,6 +4,7 @@ subtitle: "Evaluating ADHD across the lifespan"
 aliases:
   - "../docs/conditions-treated/adhd/"
   - "../docs/disorders/adhd.html"
+  - "../services/adhd/"
 description: >
   An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood.
 format:

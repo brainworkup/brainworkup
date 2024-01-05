@@ -152,3 +152,27 @@ from = "https://joeytrampush.com/authors/*"
 to = "https://brainworkup.org/joey-trampush/"
 status = 301
 force = true
+
+[[redirects]]
+from = "https://brainworkup.org/docs/adult-neuropsychology/"
+to = "https://brainworkup.org/adult-neuropsychology/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/services/mental-health-diversion/"
+to = "https://brainworkup.org/mental-health-diversion/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/services/adult-neuropsychology/"
+to = "https://brainworkup.org/adult-neuropsychology/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.org/services/conditions-treated/adhd/"
+to = "https://brainworkup.org/adhd/"
+status = 301
+force = true

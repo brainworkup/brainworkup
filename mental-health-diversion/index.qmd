@@ -3,6 +3,7 @@ title: "Mental Health Diversion"
 aliases:
   - "../docs/forensic-neuropsychology/mental-health-diversion/"
   - "../services/forensic-neuropsychology/mental-health-diversion/"
+  - "../services/mental-health-diversion/"
 description-meta: >
   Learn about mental health diversion evaluations and the impact of Senate Bill 215. This page provides an introduction to mental health diversion, key aspects of the program, and our approach to conducting mental health diversion evaluations. Discover how this program aims to provide necessary mental health treatment and counseling to individuals accused of certain crimes.
 format:
@@ -13,11 +14,11 @@ include-in-header: canonical-mental-health-diversion.html
 
 ## An Introduction to Mental Health Diversion Evaluations
 
-In recent years, the intersection of mental health and the criminal justice system has become a focal point of discussion and legislation. In 2018, a significant stride was made when Governor Jerry Brown signed into law Senate Bill 215. This bill paved the way for a pre-trial diversion program specifically designed for defendants who are suffering from a mental disorder and stand accused of committing certain crimes. 
+In recent years, the intersection of mental health and the criminal justice system has become a focal point of discussion and legislation. In 2018, a significant stride was made when Governor Jerry Brown signed into law Senate Bill 215. This bill paved the way for a pre-trial diversion program specifically designed for defendants who are suffering from a mental disorder and stand accused of committing certain crimes.
 
 ## Understanding the Impact of Senate Bill 215
 
-The implications of Senate Bill 215 are far-reaching. It offers a potential lifeline for individuals whose mental disorders may have played a significant role in their alleged criminal activities. Instead of facing the traditional punitive measures, these individuals are given the opportunity to complete a treatment program. 
+The implications of Senate Bill 215 are far-reaching. It offers a potential lifeline for individuals whose mental disorders may have played a significant role in their alleged criminal activities. Instead of facing the traditional punitive measures, these individuals are given the opportunity to complete a treatment program.
 
 The benefits of this approach are two-fold. If the accused completes the treatment, not only will the criminal charges be dismissed, but their arrest record will also be sealed. This allows for a fresh start, free from the stigma of a criminal record.
 
@@ -39,7 +40,7 @@ The benefits of this approach are two-fold. If the accused completes the treatme
 
 ## Our Approach to Mental Health Diversion Evaluations
 
-As experts in mental health evaluations, we believe in a collaborative approach. We work closely with the client, their family, their mental health treatment providers, and their attorney to conduct a comprehensive mental health diversion evaluation. 
+As experts in mental health evaluations, we believe in a collaborative approach. We work closely with the client, their family, their mental health treatment providers, and their attorney to conduct a comprehensive mental health diversion evaluation.
 
 Our in-depth assessment is designed to answer the critical questions related to the mental health diversion criteria. This includes:
 
