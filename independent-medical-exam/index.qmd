@@ -1,5 +1,6 @@
 ---
 title: "Independent Medical Exam"
+description: "Dr. Trampush conducts independent neurocognitive and personality medical examinations (IMEs) in the medicolegal context for both private law firms and federal agencies as an expert witness."
 format:
   html:
     page-layout: article
