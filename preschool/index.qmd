@@ -1,12 +1,19 @@
 ---
 title: "Preschoolers"
 subtitle: Early childhood evaluation of neurocognitive development
-description-meta: Early childhood evaluation of neurocognitive development
-format: html
-include-in-header: canonical-preschool.html
+description-title: Early childhood evaluation of neurocognitive development
+format:
+  html:
+    page-layout: article
+    include-in-header: canonical-preschool.html
+      # - text: |
+      #   <link rel="canonical" href="https://brainworkup.org/preschool/">
 aliases:
   - "../docs/pediatric-neuropsychology/preschool/"
   - "../services/pediatric-neuropsychology/preschool/"
+title-block-banner: false #blue.png #logo-253.png
+title-block-style: none
+# title-block-banner-color: "#FFDDFF"
 ---
 
 ## Toddlers (Ages 2-3)

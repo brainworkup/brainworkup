@@ -9,7 +9,8 @@ sidebar: true
 include-in-header: canonical-concussion.html
 aliases:
   - ../docs/disorders/concussion.html
-  - ..docs/conditions-treated/concussion
+  - ..docs/conditions-treated/concussion/
+  - ../services/conditions-treated/concussion/
 ---
 
 ## Young Athletes
