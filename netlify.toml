@@ -28,6 +28,12 @@ status = 301
 force = true
 
 [[redirects]]
+from = "https://brainworkup.net/docs/joey-trampush/"
+to = "https://brainworkup.org/joey-trampush/"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://joeytrampush.com/docs/trampush/"
 to = "https://brainworkup.org/joey-trampush/"
 status = 301
