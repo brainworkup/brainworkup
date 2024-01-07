@@ -21,6 +21,9 @@ listing:
   template: ../ejs/links.ejs
 sidebar: true
 toc: false
+tags:
+  - Neuropsychological Services
+  - Clinical Services
 ---
 
 ::: {#services-links .column-screen-inset-right style="max-width: 850px;"}

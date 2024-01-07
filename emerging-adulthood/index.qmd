@@ -15,7 +15,7 @@ aliases:
   - "../services/adult-neuropsychology/emerging-adulthood/"
 ---
 
-![Standup to the stigma of mental illness.](mentalhealth1.jpeg){width=20em}
+![Standup to the stigma of mental illness.](mentalhealth1.jpeg "Emerging Adulthood"){width=20em}
 
 ## Brain Maturational Changes
 

@@ -4,17 +4,22 @@ title-meta: "Pediatric Neuropsychological Services"
 aliases:
   - "../docs/pediatric-neuropsychology/"
   - "../services/pediatric-neuropsychology/"
-description-meta: >
-  Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental evaluations.
+repo-actions: false
+description: >
+  Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental conditions.
 format:
   html:
     page-layout: article
 image: kids-384.webp
 image-width: 20em
 include-in-header: canonical-pediatric-neuropsychology.html
-include-after-body: footer.html
+# include-after-body: footer.html
 lightbox: true
 sidebar: true
+tags:
+  - pediatric neuropsychology
+  - Joey Trampush
+  - adhd
 ---
 
 ![](kids-384.webp "Pediatric Neuropsychology"){width=20em fig-alt="A brainworkup logo for pediatric neuropsychological services."}
@@ -28,15 +33,29 @@ Across these age groups, our evaluation can be used to determine the existence
 and/or severity of major neurodevelopmental disorders.
 :::
 
+## Services adapted for each age group
+
+- [Preschoolers and young children](../preschool/index.qmd)
+- [School-age children and tweens](../school-age/index.qmd)
+- [Adolescents, teens, and high schoolers](../adolescent/index.qmd)
+
 ## Pediatric Neuropsychological Services
-- Learning problems (e.g., dyslexia)
-- ADHD
-- Autism Spectrum Disorders
+
+- [Learning problems (e.g., dyslexia)](../dyslexia/index.qmd)
+- [ADHD](../adhd/index.qmd)
+- [Girls and teens with ADHD](../adhd-in-girls/index.qmd)
+- [Testing and academic accommodations](../testing-accommodations/index.qmd)
+- [Autism spectrum disorders](../autism/index.qmd)
+- [Social-emotional problems and executive functioning difficulties](../executive-function/index.qmd)
+
+### Other common concerns requiring pediatric neuropsychological services
+
+- IQ testing and giftedness
+- Testing for cognitive delays and intellectual disability
+- Traumatic brain injury (TBI) and concussion
 - Mood disorders such as depression
 - Anxiety
 - OCD and perfectionism
-- Traumatic brain injury (TBI) and concussion
-- Social-emotional problems
 - Neurological changes
 
 ## Comprehensive Neurodevelopmental Evaluations

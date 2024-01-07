@@ -20,18 +20,22 @@ about:
   template: trestles
   image-shape: round
   image-width: "(min-width: 400px) 303px, calc(76.25vw + 13px)"
+  image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
 sidebar: false
 tags:
   - neuropsychology
   - forensic neuropsychology
   - neuropsychological assessment
+  - neuropsychological testing
   - ADHD
   - learning disorders
   - Joey Trampush
   - brainworkup
   - brain
-  - work-up
+  - brain work up
   - workup
+  - Neuropsychological Services
+  - Clinical Services
 repo-actions: false
 toc: false
 execute:

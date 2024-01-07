@@ -1,9 +1,7 @@
 ---
 title: "Independent Medical Exam"
 description: |
-  "Expert IMEs by Dr. Trampush for neurodevelopmental, psychiatric, and
-  traumatic brain injury. Comprehensive, unbiased, evidence-based evaluations
-  for legal cases."
+  Expert forensic, medicolegal, and IME evaluations for neurodevelopmental, psychiatric, and traumatic brain injury.
 hide-description: true
 format:
   html:
@@ -14,6 +12,12 @@ aliases:
   - "../docs/forensic-neuropsychology/independent-medical-exam/"
   - "../services/forensic-neuropsychology/independent-medical-exam/"
 include-in-header: canonical-independent-medical-exam.html
+tags:
+  - forensic neuropsychology
+  - independent medical exam
+  - IME
+  - expert witness
+  - neuropsychological evaluation
 ---
 
 ## Background
