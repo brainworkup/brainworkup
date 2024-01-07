@@ -4,6 +4,30 @@ package = "@algolia/netlify-plugin-crawler"
 branches = ['main']
 
 [[redirects]]
+from = "https://brainworkup.net/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.com/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.io/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://joeytrampush.com/"
 to = "https://brainworkup.org/"
 status = 301

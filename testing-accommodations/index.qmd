@@ -1,8 +1,9 @@
 ---
 title: "Testing Accommodations"
-subtitle: "Testing and school accommodations for students with disabilities" 
+subtitle: "Testing and school accommodations for students with disabilities"
 description: >
-  Academic and standardized testing accommodations for students with disabilities.
+  Academic and standardized testing accommodations (e.g., MCAT, LSAT, SAT) for
+  students with ADHD, learning disorders, emotional disorders, and disabilities.
 hide-description: true
 aliases:
   - ../docs/disorders/mcat.html
@@ -17,7 +18,7 @@ image: testing-384.png
 image-width: 20em
 lightbox: true
 include-in-header: canonical-testing-accommodations.html
-tags: [testing, accommodations, disabilities, ADHD, dyslexia, dysgraphia, dyscalculia, depression, anxiety, PTSD, head injury, ADA, ACT, SAT, MCAT, GMAT, GRE, LSAT, PCAT, bar exam, standardized test, professional licensing exam]
+tags: [mcat accommodations, testing, accommodations, disabilities, ADHD, dyslexia, dysgraphia, dyscalculia, depression, anxiety, PTSD, head injury, ADA, ACT, SAT, MCAT, GMAT, GRE, LSAT, PCAT, bar exam, standardized test, professional licensing exam]
 ---
 
 ![](testing-384.png "Accommodations"){width=20em fig-alt="A
@@ -32,7 +33,7 @@ anxiety, and PTSD, and neurocognitive conditions such as a head injury. These
 conditions can occur together and cause difficulties at school and work, which
 is why the Americans with Disabilities Act (ADA) provides individuals with
 reasonable academic accommodations such as extended time on exams, start and
-stop breaks, access to assistive devices, and private testing rooms. 
+stop breaks, access to assistive devices, and private testing rooms.
 
 :::{.callout-note collapse=false appearance='default' icon=true}
 
@@ -73,36 +74,36 @@ These modifications ensure equal opportunities and true potential performance.
 
 The ADA recognizes a range of disabilities for accommodations:
 
-- Attention-Deficit/Hyperactivity Disorder (ADHD) 
- 
+- Attention-Deficit/Hyperactivity Disorder (ADHD)
+
 - Dyslexia and other learning disorders
- 
-- Psychological Conditions (e.g., Depression, Anxiety) 
- 
-- Physical Disabilities 
- 
-- Sensory impairments (vision/hearing) 
- 
-- Physical impairments (e.g., Crohn’s disease) 
- 
+
+- Psychological Conditions (e.g., Depression, Anxiety)
+
+- Physical Disabilities
+
+- Sensory impairments (vision/hearing)
+
+- Physical impairments (e.g., Crohn’s disease)
+
 - Acquired head injuries/TBI
 
 ## Documentation Requirements
 
 Applicants must create a profile on the tests website portal and provide
-extensive documentation, including: 
+extensive documentation, including:
 
-- History of receiving accommodations 
+- History of receiving accommodations
 
-- Strategies, devices, or medications used 
+- Strategies, devices, or medications used
 
-- Insufficiency of strategies for MCAT 
+- Insufficiency of strategies for MCAT
 
-- Documentation of the condition 
+- Documentation of the condition
 
-- Types of accommodations requested 
+- Types of accommodations requested
 
-- Personal statement 
+- Personal statement
 
 - Supporting documents (diagnosis verification, prior evaluations, academic transcripts, standardized test scores, past accommodations, academic documents)
 
@@ -117,13 +118,13 @@ Accommodations vary by disability, but common ones include extended time, privat
 ## Comprehensive Evaluation Requirement
 
 A comprehensive evaluation by a qualified professional is essential to support the request.
-It should include: 
+It should include:
 
-- Clinical interview 
+- Clinical interview
 
-- Behavioral observations 
+- Behavioral observations
 
-- Neuropsychological/psychoeducational testing 
+- Neuropsychological/psychoeducational testing
 
 - Detailed report with individualized analysis and recommendations
 
