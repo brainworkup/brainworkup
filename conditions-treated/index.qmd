@@ -1,6 +1,6 @@
 ---
 title: "Specialty Areas"
-subtitle: "Child and adult conditions we consider to be within our area of expertise"
+subtitle: "Our areas of expertise are highlighted here"
 description-meta: >
   We specialize in the evaluation of a wide range of
   neurodevelopmental, neuropsychiatric, and neurological disorders in children
@@ -37,19 +37,19 @@ sidebar: true
 
 ## Links to child and adolescent services
 
-- [ADHD across Development](/adhd/index.qmd)
+- [ADHD across development](/adhd/index.qmd)
 
-- [ADHD in Girls](/adhd-in-girls/index.qmd)
+- [ADHD in girls and teens](/adhd-in-girls/index.qmd)
 
-- [Testing Accommodations](/testing-accommodations/index.qmd)
+- [Testing and academic accommodations](/testing-accommodations/index.qmd)
 
-- [Dyslexia](/dyslexia/index.qmd)
+- [Dyslexia and learning disorders](/dyslexia/index.qmd)
 
-- [Executive Functioning](/executive-function/index.qmd)
+- [Executive functioning in children and adults](/executive-function/index.qmd)
 
-- [Autism Spectrum Disorders](/autism/index.qmd)
+- [Autism spectrum disorders and Asperger's syndrome](/autism/index.qmd)
 
-- [Sports-Related Concussions](/concussion/index.qmd)
+- [Sports-related concussions and post-concussive syndrome](/concussion/index.qmd)
 
 ## Links to college student and adult services
 

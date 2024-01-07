@@ -16,8 +16,8 @@ format:
     page-layout: full
 include-in-header: canonical-services.html
 listing:
-  contents: services.yml
   id: services-links
+  contents: services.yml
   template: ../ejs/links.ejs
 sidebar: true
 toc: false

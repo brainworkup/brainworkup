@@ -16,10 +16,9 @@ margin-header: signup.html
 title-block-banner: true
 title-block-banner-color: "rgba(173, 255, 47, 1)" #"#d4eb50"
 title-block-style: default
-search: false
 sidebar: false
 include-in-header: canonical-blog.html
-aliases: 
+aliases:
   - "../docs/blog/"
 ---
 
