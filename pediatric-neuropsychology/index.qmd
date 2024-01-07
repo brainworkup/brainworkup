@@ -1,5 +1,5 @@
 ---
-title: "Neurodevelopmental Evaluations"
+title: "Neurodevelopmental Services"
 title-meta: "Pediatric Neuropsychological Services"
 aliases:
   - "../docs/pediatric-neuropsychology/"

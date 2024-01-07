@@ -10,7 +10,7 @@ aliases:
 format:
   html:
     page-layout: article
-image: logo-transparent.webp
+image: logo-transparent-384.webp
 include-in-header: canonical-faq.html
 lightbox: true
 repo-actions: false
@@ -31,7 +31,7 @@ tags:
   - usc psychiatry
 ---
 
-![](logo-transparent.webp "FAQ"){width=384px height=384px fig-alt="The brainworkup logo on the FAQ page."}
+![](logo-transparent-384.webp "FAQ"){width=384px height=384px fig-alt="The brainworkup logo on the FAQ page."}
 
 ## Overview of the practice
 

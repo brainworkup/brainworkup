@@ -14,6 +14,7 @@ aliases:
 format:
   html:
     page-layout: article
+repo-actions: false
 tags:
   - ADHD
   - dyslexia
@@ -34,9 +35,9 @@ tags:
 sidebar: true
 ---
 
-### Links
+## Links to child and adolescent services
 
-- [ADHD Across the Lifespan](/adhd/index.qmd)
+- [ADHD across Development](/adhd/index.qmd)
 
 - [ADHD in Girls](/adhd-in-girls/index.qmd)
 
@@ -49,6 +50,17 @@ sidebar: true
 - [Autism Spectrum Disorders](/autism/index.qmd)
 
 - [Sports-Related Concussions](/concussion/index.qmd)
+
+## Links to college student and adult services
+
+- [Later onset and adult onset ADHD](../adult-onset-adhd/index.qmd)
+
+- [College student and young adult mental health](../emerging-adulthood/index.qmd)
+
+- [Independent medical evaluations](../independent-medical-exam/index.qmd)
+
+- [Mental health diversion evaluations](../mental-health-diversion/index.qmd)
+
 
 <!-- ## Neuropsychiatric Disorders
 

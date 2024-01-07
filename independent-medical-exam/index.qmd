@@ -1,5 +1,5 @@
 ---
-title: "Independent Medical Exam"
+title: "Independent Medical Exams"
 description: |
   Expert forensic, medicolegal, and IME evaluations for neurodevelopmental, psychiatric, and traumatic brain injury.
 hide-description: true
