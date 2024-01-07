@@ -1,6 +1,10 @@
 ---
 title: "Frequently Asked Questions"
-description-meta: "Frequently asked questions about neuropsychological evaluations."
+subtitle: "Frequently asked questions about our neuropsychological
+evaluations."
+description: >
+  Frequently asked questions about our neuropsychological evaluations.
+hide-description: true
 aliases:
   - "../docs/faq/"
 format:
@@ -16,11 +20,20 @@ tags:
   - faq
   - neuropsychology
   - frequently asked questions
+  - joey trampush
+  - adhd testing
+  - neuropsychological testing
+  - neuropsychological evaluation
+  - neuropsychological assessment
+  - learning disability testing
+  - los angeles
+  - southern california
+  - usc psychiatry
 ---
 
 ![](logo-transparent.webp "FAQ"){width=384px height=384px fig-alt="The brainworkup logo on the FAQ page."}
 
-## Overview of the practice 
+## Overview of the practice
 
 BrainWorkup Neuropsychology, LLC is a pediatric and adult clinical neuropsychology practice. Our mission is to better educate our community about neurocognitive functioning and the importance of monitoring our own brain health. We are trained in developmental neuropsychology, and as such, have the capacity to evaluate anyone in any stage of life, from children to teens to older adults.
 
