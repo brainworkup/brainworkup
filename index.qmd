@@ -19,7 +19,6 @@ css: index.css
 about:
   template: trestles
   image-shape: round
-  image-width: "(min-width: 400px) 303px, calc(76.25vw + 13px)"
   image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
 sidebar: false
 tags:
