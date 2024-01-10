@@ -2,6 +2,7 @@
 title: "bwu blog"
 subtitle: |
   Articles about neuropsychology, neuroscience, data science, and mental health
+image: images/biggie-600.jpg
 listing:
   sort: "date desc"
   contents: "posts/**/index.qmd"
@@ -21,4 +22,6 @@ include-in-header: canonical-blog.html
 aliases:
   - "../docs/blog/"
 ---
+
+
 

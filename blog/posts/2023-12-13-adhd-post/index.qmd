@@ -1,0 +1,43 @@
+---
+title: "ADHD Across the Lifespan"
+subtitle: "Evaluating ADHD from childhood to adulthood"
+description:  |
+  First quarto post about ADHD.
+date: "2023-12-13"
+image: brain.webp
+image-alt: "Evaluating ADHD across development post."
+categories: [adhd, neurodevelopment]
+---
+
+## Introduction
+
+Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental condition that manifests differently across various stages of life. In this post, we delve into how ADHD impacts individuals from preschool age to older adulthood, emphasizing the importance of tailored approaches in diagnosis and management.
+
+## Preschoolers
+
+Identifying ADHD in preschoolers can be challenging, as young children naturally exhibit high energy levels and short attention spans. Our evaluations focus on distinguishing between typical behavior and symptoms that may indicate ADHD, using age-appropriate assessment tools and collaborating closely with parents and educators.
+
+### Parents of Preschoolers
+
+For parents navigating the complexities of ADHD in their preschool-aged children, we provide comprehensive guidance and support. Our approach includes educating parents about ADHD, discussing behavioral strategies, and exploring early intervention options.
+
+## School-Age Children
+
+As children enter school, ADHD symptoms may become more apparent. Our assessments for school-age children include a thorough review of academic performance, social interactions, and behavior at home. We work closely with teachers and parents to develop effective strategies that support the child's learning and development.
+
+## Adolescents
+
+Adolescence brings unique challenges for individuals with ADHD. Our evaluations for adolescents focus on understanding how ADHD affects academic achievement, social relationships, and self-esteem. We also address co-occurring issues such as anxiety or depression and discuss strategies for successful transition to adulthood.
+
+## College-Onset ADHD
+
+Some individuals first experience significant ADHD symptoms in college. We offer specialized assessments for college students, exploring how ADHD impacts academic performance, time management, and social life. Our goal is to provide strategies that help students navigate the demands of college life successfully.
+
+## Adult-Onset ADHD
+
+Adult-onset ADHD can often go unrecognized. Our evaluations for adults focus on identifying how ADHD symptoms manifest in daily life, work, and relationships. We offer personalized strategies to manage symptoms and improve overall functioning.
+
+## ADHD in Older Adults
+
+ADHD in older adults is an emerging area of interest. Our assessments consider the unique aspects of ADHD in later life, including how it interacts with aging processes and other health conditions. We provide tailored strategies to manage symptoms and maintain a high quality of life.
+

@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic");
+@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=New+Rocker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,600;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cabin:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt&display=swap");
+
+/* USC National Fonts */
+@each $style in light, light-italic, regular, italic, semibold, semibold-italic,
+  bold, extrabold, extrabold-italic
+{
+  @font-face {
+    font-family: "National";
+    src: url("https://www.usc.edu/assets/fonts/NationalWeb-#{$style}.eot");
+    src: local(":)"),
+      url("https://www.usc.edu/assets/fonts/NationalWeb-#{$style}.woff")
+        format("woff"),
+      url("https://www.usc.edu/assets/fonts/NationalWeb-#{$style}.ttf")
+        format("truetype"),
+      url("https://www.usc.edu/assets/fonts/NationalWeb-#{$style}.svg")
+        format("svg");
+    font-weight: if(
+      index(light light-italic regular italic, $style),
+      200,
+      if(
+        index(semibold semibold-italic, $style),
+        700,
+        if(index(bold, $style), 800, 900)
+      )
+    );
+    font-style: if(
+      index(light-italic italic semibold-italic extrabold-italic, $style),
+      italic,
+      normal
+    );
+  }
+}
+
+body {
+  font-family: "Bitter", Prompt, sans-serif;
+  font-weight: 400;
+  background-color: var(--near-black);
+}
+
+h1,
+h2 {
+  font-family: "Monoton", cursive;
+  font-weight: if(& == h1, 600, 300);
+  color: var(--header-color);
+}
+
+h3 {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: var(--near-white);
+}
+
+h4,
+h5,
+h6 {
+  font-family: if(& == h6, "New Rocker", "Yanone Kaffeesatz"), cursive;
+  font-weight: 400;
+  color: var(--washed-red);
+  font-size: if(& == h6, 2em !important, inherit);
+}
+
+.remark-code,
+.remark-inline-code {
+  font-family: "Fira Code", monospace, var(--code-font-family), Menlo, Consolas,
+    Monaco, Liberation Mono, Lucida Console;
+}
+
+@for $i from 1 through 6 {
+  .f#{$i} {
+    font-size: if(
+      $i == 1,
+      3rem,
+      if(
+        $i == 2,
+        2.25rem,
+        if($i == 3, 1.5rem, if($i == 4, 1.25rem, if($i == 5, 1rem, 0.875rem)))
+      )
+    );
+  }
+}

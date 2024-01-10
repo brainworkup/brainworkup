@@ -182,6 +182,6 @@ clinical services.
 
 Stay connected with the latest insights and resources:
 
-- [[Subscribe to Our Blog](https://brainworkup.io/)]
+- [[Subscribe to Our Blog](blog/index.qmd)]
 
 - [[Follow us on Mastodon](https://fosstodon.org/@brainworkup)]
