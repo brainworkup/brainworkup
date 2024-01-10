@@ -19,7 +19,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */
   vertical-align: middle;
 }
 </style>
@@ -107,12 +107,12 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
     const listingTargetEl = window.document.querySelector('#listing-posts .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
-      return; 
+      return;
     }
 
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+
       searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
@@ -155,8 +155,8 @@ cookieconsent.run({
 "language":"en"
   });
 });
-</script> 
-  
+</script>
+
 <style>html{ scroll-behavior: smooth; }</style>
 <style>
 
@@ -237,42 +237,42 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../joey-trampush/index.html"> 
+    <a class="nav-link" href="../joey-trampush/index.html">
 <span class="menu-text">Dr Trampush</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../services/index.html"> 
+    <a class="nav-link" href="../services/index.html">
 <span class="menu-text">Services</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../faq/index.html"> 
+    <a class="nav-link" href="../faq/index.html">
 <span class="menu-text">FAQ</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../contact/index.html"> 
+    <a class="nav-link" href="../contact/index.html">
 <span class="menu-text">Contact</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
+    <a class="nav-link active" href="../blog/index.html" aria-current="page">
 <span class="menu-text">Blog</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../resources/cv.pdf"> <i class="bi bi-file-pdf" role="img">
-</i> 
+</i>
 <span class="menu-text">CV</span></a>
-  </li>  
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="tel:2134951155"> <i class="bi bi-phone" role="img">
-</i> 
+</i>
 <span class="menu-text"><strong>(213) 495-1155</strong></span></a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="mailto:info@brainworkup.org"> <i class="bi bi-envelope" role="img">
-</i> 
+</i>
 <span class="menu-text"><strong>info@brainworkup.org</strong></span></a>
-  </li>  
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools tools-wide">
@@ -486,10 +486,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       toggleBodyColorMode(bsSheetEl);
     }
   }
-  toggleBodyColorPrimary();  
+  toggleBodyColorPrimary();
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
+      if (clz.startsWith('code-annotation-')) {
         return true;
       }
     }
@@ -520,11 +520,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
       button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
+      tooltip = new bootstrap.Tooltip(button,
+        { trigger: "manual",
           customClass: "code-copy-button-tooltip",
           offset: [0, -8]});
-      tooltip.show();    
+      tooltip.show();
     }
     setTimeout(function() {
       if (tooltip) {
@@ -582,7 +582,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     if (onUntriggerFn) {
       config.onUntrigger = onUntriggerFn;
     }
-    window.tippy(el, config); 
+    window.tippy(el, config);
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
   for (var i=0; i<noterefs.length; i++) {
@@ -649,7 +649,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     tippyHover(xref, undefined, function(instance) {
       instance.disable();
       let url = xref.getAttribute('href');
-      let hash = undefined; 
+      let hash = undefined;
       if (url.startsWith('#')) {
         hash = url;
       } else {
@@ -677,7 +677,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             if (note !== null) {
               const html = processXRef(id, note);
               instance.setContent(html);
-            } 
+            }
           }).finally(() => {
             instance.enable();
             instance.show();
@@ -701,7 +701,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             const html = processXRef(null, note);
             instance.setContent(html);
-          } 
+          }
         }).finally(() => {
           instance.enable();
           instance.show();
@@ -741,7 +741,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             height = bottom - top;
           }
           if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
+            // cook up a div (if necessary) and position it
             let div = window.document.getElementById("code-annotation-line-highlight");
             if (div === null) {
               div = window.document.createElement("div");
@@ -868,29 +868,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
 <p>MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC</p>
 <p><a href="https://brainworkup.org"><img src="../logo.png" class="img-fluid" alt="BrainWorkUp" width="75"></a></p>
-</div>   
+</div>
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
     <a class="nav-link" href="../joey-trampush/index.html">
 <p>About</p>
 </a>
-  </li>  
+  </li>
     <li class="nav-item">
     <a class="nav-link" href="../services/index.html">
 <p>Services</p>
 </a>
-  </li>  
+  </li>
     <li class="nav-item">
     <a class="nav-link" href="../faq/index.html">
 <p>FAQ</p>
 </a>
-  </li>  
+  </li>
     <li class="nav-item">
     <a class="nav-link" href="../contact/index.html">
 <p>Contact</p>
 </a>
-  </li>  
+  </li>
 </ul>
     <div class="toc-actions"><ul><li><a href="https://github.com/brainworkup/brainworkup/edit/main/blog/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brainworkup/brainworkup/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
@@ -898,27 +898,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/brainworkup/brainworkup/">
       <i class="bi bi-github" role="img" aria-label="Github">
-</i> 
+</i>
     </a>
-  </li>  
+  </li>
     <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/brainworkup/">
       <i class="bi bi-twitter" role="img" aria-label="Twitter">
-</i> 
+</i>
     </a>
-  </li>  
+  </li>
     <li class="nav-item compact">
     <a class="nav-link" href="https://instagram.com/brainworkup/">
       <i class="bi bi-instagram" role="img" aria-label="Instagram">
-</i> 
+</i>
     </a>
-  </li>  
+  </li>
     <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/joey-trampush-brainworkup/">
       <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
-</i> 
+</i>
     </a>
-  </li>  
+  </li>
 </ul>
     </div>
   </div>
