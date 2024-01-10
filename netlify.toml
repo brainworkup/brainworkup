@@ -16,8 +16,14 @@ status = 301
 force = true
 
 [[redirects]]
-from = "https://brainworkup.io/*"
-to = "https://brainworkup.org/:splat"
+from = "https://brainworkup.io/"
+to = "https://brainworkup.org/blog/"
+status = 301
+force = true
+
+[[redirects]]
+from = "brainworkup.io/"
+to = "brainworkup.org/blog/"
 status = 301
 force = true
 
@@ -69,11 +75,6 @@ to = "https://brainworkup.org/"
 status = 301
 force = true
 
-[[redirects]]
-from = "https://brainworkup.io/"
-to = "https://brainworkup.org/"
-status = 301
-force = true
 
 [[redirects]]
 from = "https://joeytrampush.com/docs/blog/"
@@ -137,6 +138,12 @@ force = true
 
 [[redirects]]
 from = "https://brainworkup.org/services/conditions-treated/adhd/"
+to = "https://brainworkup.org/adhd/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/docs/adhd-evaluation/adhd/"
 to = "https://brainworkup.org/adhd/"
 status = 301
 force = true

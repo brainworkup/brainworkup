@@ -9,7 +9,7 @@ project:
 
 website:
   title: "BrainWorkup Neuropsychology"
-  image: preview.png
+  image: logo.png
   favicon: favicon.png
   open-graph:
     locale: en_US
@@ -93,7 +93,7 @@ website:
       - text: "Contact"
         href: contact/index.qmd
       - text: "Blog"
-        href: blog/index.qmd
+        href: blog/index.qmd #https://brainworkup.github.io/blog/
       - icon: file-pdf
         text: "CV"
         href: resources/cv.pdf
