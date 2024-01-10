@@ -1,7 +1,0 @@
----
-title: "Untitled"
-format: html
----
-
-::: {#cv .fas .fa-file-pdf}
-:::

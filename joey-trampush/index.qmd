@@ -108,9 +108,9 @@ My approach is grounded in the utilization of open-source data science tools, al
 
 ---
 
-## Curriculum Vitae
+#### Curriculum Vitae
 
-- **[{{< fa file-pdf >}}](/joey-trampush/cv.pdf)**
+- [{{< fa file-pdf title="Download CV" >}}](/joey-trampush/cv.pdf)
 
 ---
 
