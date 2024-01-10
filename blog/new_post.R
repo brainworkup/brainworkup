@@ -1,6 +1,7 @@
 new_post <- function(
     title,
     file = "index.qmd",
+    subtitle = "",
     description = "",
     author = "Joey Trampush, PhD",
     date = Sys.Date(),
@@ -20,10 +21,10 @@ new_post <- function(
   # generate the slug as draft, prefix with _ which prevents
   # quarto from rendering/recognizing the folder
   if (draft) {
-    slug <- glue::glue("blog/posts/_{date}-{title_kebab}")
+    slug <- glue::glue("posts/_{date}-{title_kebab}")
     cli::cli_alert_info("Appending a '_' to folder name to avoid render while a draft, remove '_' when finished.")
   } else {
-    slug <- glue::glue("blog/posts/{date}-{title_kebab}")
+    slug <- glue::glue("posts/{date}-{title_kebab}")
   }
 
   # create and alert about directory
@@ -43,7 +44,8 @@ new_post <- function(
   new_post_core <- c(
     "---",
     glue::glue('title: "{title}"'),
-    "description: |",
+    glue::glue('subtitle: "{subtitle}"'),
+    "description: >",
     glue::glue("  {description}"),
     glue::glue("author: {author}"),
     glue::glue("date: {date}")
@@ -87,7 +89,14 @@ new_post <- function(
 }
 
 new_post(
-  "ADHD in girls and women",
+  "ADHD in Girls",
   description = "I grew up with the most ADHD mom ever!",
+  draft = TRUE
+)
+
+new_post(
+  "Late Onset ADHD",
+  subtitle = "Is it a thing? Yes. Sort of.",
+  description = "Comparing childhood onset vs. late onset (adolescence, young adulthood, older adults).",
   draft = TRUE
 )
