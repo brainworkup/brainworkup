@@ -15,17 +15,17 @@ to = "https://brainworkup.org/:splat"
 status = 301
 force = true
 
-[[redirects]]
-from = "https://brainworkup.io/"
-to = "https://brainworkup.org/blog/"
-status = 301
-force = true
+# [[redirects]]
+# from = "https://brainworkup.io/"
+# to = "https://brainworkup.org/blog/"
+# status = 301
+# force = true
 
-[[redirects]]
-from = "brainworkup.io/"
-to = "brainworkup.org/blog/"
-status = 301
-force = true
+# [[redirects]]
+# from = "brainworkup.io/"
+# to = "brainworkup.org/blog/"
+# status = 301
+# force = true
 
 [[redirects]]
 from = "https://joeytrampush.com/*"
@@ -75,12 +75,11 @@ to = "https://brainworkup.org/"
 status = 301
 force = true
 
-
-[[redirects]]
-from = "https://joeytrampush.com/docs/blog/"
-to = "https://brainworkup.org/blog/"
-status = 301
-force = true
+# [[redirects]]
+# from = "https://joeytrampush.com/docs/blog/"
+# to = "https://brainworkup.org/blog/"
+# status = 301
+# force = true
 
 [[redirects]]
 from = "https://brainworkup.org/docs/contact/"
