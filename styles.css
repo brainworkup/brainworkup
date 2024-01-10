@@ -399,3 +399,17 @@ iframe.reveal-demo {
 .illustration {
   border: 1px solid #dee2e6;
 }
+
+/* Joey added */
+
+.about-image.round {
+  height: calc(76.25vw + 13px);
+  width: calc(76.25vw + 13px);
+}
+
+@media (min-width: 400px) {
+  .about-image.round {
+    height: 303px;
+    width: 303px;
+  }
+}

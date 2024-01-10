@@ -1,0 +1,80 @@
+---
+title: "Specialty Areas"
+subtitle: "Our areas of expertise are highlighted here"
+description-meta: >
+  We specialize in the evaluation of a wide range of
+  neurodevelopmental, neuropsychiatric, and neurological disorders in children
+  and adults.
+hide-description: false
+include-in-header: canonical-conditions-treated.html
+aliases:
+  - "../docs/disorders/"
+  - "../docs/conditions-treated/"
+  - "../services/conditions-treated/"
+format:
+  html:
+    page-layout: article
+repo-actions: false
+tags:
+  - ADHD
+  - dyslexia
+  - dyscalculia
+  - dysgraphia
+  - dyspraxia
+  - autism
+  - Aspergers
+  - Tourettes
+  - tics
+  - OCD
+  - oppositional defiant disorder
+  - ODD
+  - conduct disorder
+  - depression
+  - anxiety
+  - perfectionism
+sidebar: true
+---
+
+## Links to child and adolescent services
+
+- [ADHD across development](/adhd/index.qmd)
+
+- [ADHD in girls and teens](/adhd-in-girls/index.qmd)
+
+- [Testing and academic accommodations](/testing-accommodations/index.qmd)
+
+- [Dyslexia and learning disorders](/dyslexia/index.qmd)
+
+- [Executive functioning in children and adults](/executive-function/index.qmd)
+
+- [Autism spectrum disorders and Asperger's syndrome](/autism/index.qmd)
+
+- [Sports-related concussions and post-concussive syndrome](/concussion/index.qmd)
+
+## Links to college student and adult services
+
+- [Later onset and adult onset ADHD](../adult-onset-adhd/index.qmd)
+
+- [College student and young adult mental health](../emerging-adulthood/index.qmd)
+
+- [Independent medical evaluations](../independent-medical-exam/index.qmd)
+
+- [Mental health diversion evaluations](../mental-health-diversion/index.qmd)
+
+
+<!-- ## Neuropsychiatric Disorders
+
+### Mood Disorders
+
+### Anxiety Disorders
+
+### Obsessive-Compulsive Disorders
+
+## Neurological Disorders
+
+<!-- ### Traumatic Brain Injury -->
+
+<!-- # 🚧 This Page is Under Construction 🚧
+
+We're working hard to finish the development of this site. Our target launch
+date is **Coming Soon**! -->

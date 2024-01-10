@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST['BigText'];
 
     // Save to file (append mode)
-    $file = fopen("/docs/contact/contact_submissions.txt", "a");
+    $file = fopen("/contact/contact_submissions.txt", "a");
     fwrite($file, "First Name: $firstName, Last Name: $lastName, Email: $email, Message: $message\n");
     fclose($file);
 

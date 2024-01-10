@@ -1,0 +1,54 @@
+---
+title: "Mental Health Diversion"
+aliases:
+  - "../docs/forensic-neuropsychology/mental-health-diversion/"
+  - "../services/forensic-neuropsychology/mental-health-diversion/"
+  - "../services/mental-health-diversion/"
+description-meta: >
+  This page provides an introduction to mental health diversion, key aspects of the program, and our approach to conducting mental health diversion evaluations.
+format:
+  html:
+    page-layout: article
+include-in-header: canonical-mental-health-diversion.html
+---
+
+## An Introduction to Mental Health Diversion Evaluations
+
+In recent years, the intersection of mental health and the criminal justice system has become a focal point of discussion and legislation. In 2018, a significant stride was made when Governor Jerry Brown signed into law Senate Bill 215. This bill paved the way for a pre-trial diversion program specifically designed for defendants who are suffering from a mental disorder and stand accused of committing certain crimes.
+
+## Understanding the Impact of Senate Bill 215
+
+The implications of Senate Bill 215 are far-reaching. It offers a potential lifeline for individuals whose mental disorders may have played a significant role in their alleged criminal activities. Instead of facing the traditional punitive measures, these individuals are given the opportunity to complete a treatment program.
+
+The benefits of this approach are two-fold. If the accused completes the treatment, not only will the criminal charges be dismissed, but their arrest record will also be sealed. This allows for a fresh start, free from the stigma of a criminal record.
+
+## Key Aspects of Senate Bill 215:
+
+1. Eligibility and Exclusions: Defendants charged with either a felony or misdemeanor can qualify for mental health diversion, except for certain serious crimes. These ineligible crimes include murder, voluntary manslaughter, rape, lewd acts on a child under 14, assault with intent to commit rape, sodomy, or oral copulation, continuous sexual abuse of a child, and certain violations related to weapons of mass destruction​​.
+
+1. Mental Disorders Criteria: To qualify, defendants must suffer from a mental disorder as specified in the Diagnostic and Statistical Manual of Mental Disorders (DSM), excluding Antisocial Personality Disorder, Borderline Personality Disorder, and Pedophilia. Common qualifying conditions include schizophrenia, bipolar disorder, and post-traumatic stress disorder​.
+
+1. Program Duration and Requirements: The diversion program can last up to two years, during which the defendant must agree to participate, waive their right to a speedy trial, and comply with all treatment program requirements. A qualified mental health professional must evaluate and conclude that the defendant will benefit from treatment. Additionally, the court must determine that the individual will not pose an unreasonable risk to public safety​​.
+
+1. Treatment Programs: The program can include inpatient or outpatient treatment, and may also encompass alcohol or drug treatment. The treatment can be funded by private or public sources, and regular progress reports must be provided to the court, the defense, and the prosecutor​​.
+
+1. Outcome upon Completion: If the defendant successfully completes the treatment program, the charges are dismissed, and the arrest record is sealed and destroyed, effectively erasing the incident from the defendant's record. However, there are exceptions where the sealed records can be accessed, such as for peace officer applications or by criminal justice agencies​​.
+
+1. Distinction from PEN 1001.36: Senate Bill 215 also established PEN 1001.82, which differs from the original mental health diversion program under PEN 1001.36. The diversion under PC 1001.82 is only available for misdemeanors or felonies punishable in county jails, not state prisons. Certain felonies, such as DUI offenses causing injuries, joyriding, manslaughter, drug crimes, gun crimes, and child pornography, may not qualify for the diversion program under PEN 1001.82​​​​.
+
+1. Overall Impact: This program aims to provide defendants with the necessary mental health treatment and counseling, potentially avoiding jail time for crimes committed as a result of their mental illness​​.
+
+## Our Approach to Mental Health Diversion Evaluations
+
+As experts in mental health evaluations, we believe in a collaborative approach. We work closely with the client, their family, their mental health treatment providers, and their attorney to conduct a comprehensive mental health diversion evaluation.
+
+Our in-depth assessment is designed to answer the critical questions related to the mental health diversion criteria. This includes:
+
+- Confirming if the defendant suffers from a mental disorder. It's important to note that Antisocial Personality Disorder, Borderline Personality Disorder, and Pedophilic Disorder are excluded from this category.
+- Determining if the mental disorder played a significant role in the defendant's involvement in the alleged crime.
+- Evaluating whether the defendant's symptoms that may have motivated the criminal behavior would respond positively to mental health treatment.
+- Establishing whether the defendant agrees to comply with the treatment as a condition of diversion.
+- Assessing if the defendant, if treated in the community, will pose an unreasonable risk of danger to public safety, as defined in PC 1170.18.
+
+By providing these evaluations, we hope to contribute to a more understanding and compassionate approach to criminal justice, where mental health is given the consideration it deserves.
+

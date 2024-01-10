@@ -1,15 +1,17 @@
 ---
 title: "Contact Us"
-subtitle: "Contact us for more information or to schedule an evaluation. We're here to help."
-description-meta: >
+# subtitle: "Contact us for more information or to schedule an evaluation. We're here to help."
+description: >
   Contact information for Brainworkup Neuropsychology, LLC.
+hide-description: true
 aliases:
   - "../docs/contact/"
 filters:
   - forms
 form:
-  action: "contact_form.php"
   # action: "javascript:submit()"
+  action: "/contact/contact_form.php"
+  method: "post"
   fields:
     - id: firstName
       label: First Name
@@ -31,20 +33,16 @@ form:
       name: BigText
       type: textarea
       width: 30
-  method: "post"
   submit: Submit
 format:
   html:
     page-layout: article
     toc: true
-    include-in-header: 
-      - file: submit_form.md
-    include-in-body:
-      - file: "contact_form.php"
-hide-description: false
-image: logo-253.png
-image-width: 20em
-include-in-header: canonical-contact.html
+    # include-in-header:
+    #   - file: submit_form.md
+include-in-header:
+  - canonical-contact.html
+  - contact_submissions.txt
 sidebar: false
 tags:
   - Joey Trampush
@@ -53,8 +51,6 @@ tags:
   - contact
   - workup
 ---
-
-![](logo-253.png "Contact"){width=20em fig-alt="A brainworkup logo."}
 
 ## General Information
 
@@ -93,9 +89,9 @@ office for the initial consultation visit and for the feedback visit. Please con
 In some cases, we can provide testing services at your home (i.e., a "house
 call"). Please contact us for more information. An additional small fee applies.
 
-<!-- ## Form
+## Form
 
-{{< form >}} -->
+{{< form >}}
 
 <!-- #### Form submission
 

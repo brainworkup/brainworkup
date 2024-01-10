@@ -1,13 +1,13 @@
 ---
 title: "BrainWorkup Neuropsychology, LLC"
-subtitle: | 
-  "Clinical Neuropsychology Practice" \
-  "**Joey Trampush, Ph.D.**"
+subtitle: |
+  Clinical Neuropsychology Practice \
+  **Joey Trampush, Ph.D.**
 description: >
   Established by Dr. Joey Trampush, BrainWorkup Neuropsychology offers specialized neuropsychological evaluations for children to young adults, focusing on ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
 hide-description: true
-include-in-header: [canonical-index.html, header.html]
-include-in-body: body.html
+include-in-header: canonical-index.html
+# include-in-body: body.html
 aliases:
   - joeytrampush.com/index.html
   - brainworkup.com/index.html
@@ -19,22 +19,42 @@ css: index.css
 about:
   template: trestles
   image-shape: round
-  image-width: "(min-width: 400px) 303px, calc(76.25vw + 13px)"
+  image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
 sidebar: false
 tags:
   - neuropsychology
   - forensic neuropsychology
   - neuropsychological assessment
+  - neuropsychological testing
   - ADHD
   - learning disorders
   - Joey Trampush
   - brainworkup
   - brain
-  - work-up
-  - workup
+  - adhd test
+  - adhd medication
+  - adhd medications
+  - adhd diagnosis
+  - adhd symptoms
+  - adhd online
+  - adhd meaning
+  - adhd screening
+  - what is adhd
+  - attention deficit hyperactivity disorder
+  - attention deficit disorder
+  - inattention
+  - hyperactivity
+  - impulsivity
+  - neurological work-up
+  - Neuropsychological Services
+  - Clinical Services
+  - adhd doctor
+  - adhd specialist
+  - adhd medicines
+  - adhd kendrick
 repo-actions: false
 toc: false
-execute: 
+execute:
   echo: false
   warning: false
   message: false
@@ -43,10 +63,7 @@ lightbox: true
 
 ## About
 
-Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based
-in Southern California. We specialize in state-of-the-art neurocognitive and
-neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and
-weaknesses, working collaboratively with you and your family. 
+Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family.
 
 ---
 
@@ -69,13 +86,13 @@ ongoing assistance to adapt to your or your child's evolving needs.
 
 We specialize in the following neuropsychological services:
 
-- [**ADHD in Girls**](services/conditions-treated/adhd-in-girls/index.qmd)
+- [**ADHD in Girls**](adhd-in-girls/index.qmd)
 
-- [**Academic/Testing Accommodations**](services/conditions-treated/testing-accommodations/index.qmd)
+- [**Academic/Testing Accommodations**](testing-accommodations/index.qmd)
 
-- [**Forensics/Independent Medical Exams**](services/forensic-neuropsychology/independent-medical-exam/index.qmd)
+- [**Forensics/Independent Medical Exams**](independent-medical-exam/index.qmd)
 
-- [**Adult-Onset ADHD**](services/adult-neuropsychology/adult-onset-adhd/index.qmd)
+- [**Adult-Onset ADHD**](adult-onset-adhd/index.qmd)
 
 ---
 
@@ -91,6 +108,7 @@ your concerns.
 ```{r}
 #| label: setup
 #| include: false
+#| eval: false
 library(crosstalk)
 library(dplyr)
 library(gifski)
@@ -124,6 +142,7 @@ knitr::opts_chunk$set(
 ```{r}
 #| label: data
 #| include: false
+#| eval: false
 neurocog <-
   readr::read_csv(here::here("resources/neurocog.csv"), show_col_types = TRUE) |>
   dplyr::filter(scale != "Orientation") |>
@@ -134,6 +153,7 @@ neurocog <-
 ```{r}
 #| label: merge-themes
 #| include: false
+#| eval: false
 # if using single theme
 theme <- highcharter::hc_theme_sandsignika()
 # if merging themes
@@ -180,4 +200,5 @@ clinical services.
 Stay connected with the latest insights and resources:
 
 - [[Subscribe to Our Blog](blog/index.qmd)]
+
 - [[Follow us on Mastodon](https://fosstodon.org/@brainworkup)]

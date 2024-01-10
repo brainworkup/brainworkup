@@ -1,0 +1,34 @@
+---
+title: "Sports-Related Concussion"
+description: >
+  Learn about sports-related brain injury and concussion in young athletes and former athletes.
+format:
+  html:
+    page-layout: article
+sidebar: true
+include-in-header: canonical-concussion.html
+aliases:
+  - ../docs/disorders/concussion.html
+  - ..docs/conditions-treated/concussion/
+  - ../services/conditions-treated/concussion/
+tags:
+  - concussion
+  - concussions
+  - mild concussion
+  - signs of concussion
+  - post concussion syndrome
+  - effects of concussion on the brain
+  - concussion symptoms
+  - concussion treatment
+  - concussion meaning
+  - clears concussion protocol
+  - short term memory loss after brain injury
+---
+
+## Young Athletes
+
+A growing concern for parents is sports-related brain injury and concussion in young athletes of all ages. The tests that we use are sensitive to the effects of concussion and are used by most experts in the field, especially our measures of attention, processing speed and reaction time. We encourage kids to participate in sports, and we recommended obtaining a baseline neurocognitive evaluation before the season starts. The preseason/baseline data can then help parents, coaches and other medical professionals make better-informed decisions regarding a youth’s readiness to play again in the event of a head injury or concussion.
+
+## Former Athletes
+
+We evaluate former athletes who are experiencing cognitive and/or emotional difficulties that might be linked to playing contact sports in high school, college or professionally.

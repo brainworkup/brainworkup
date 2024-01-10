@@ -1,60 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brainworkup.org/services/adult-neuropsychology/emerging-adulthood/index.html</loc>
-    <lastmod>2024-01-04T05:07:52.211Z</lastmod>
+    <loc>https://brainworkup.org/adhd/index.html</loc>
+    <lastmod>2024-01-10T10:00:01.192Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/adult-neuropsychology/adult-onset-adhd/index.html</loc>
-    <lastmod>2024-01-03T05:44:24.544Z</lastmod>
+    <loc>https://brainworkup.org/concussion/index.html</loc>
+    <lastmod>2024-01-10T10:05:36.343Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/pediatric-neuropsychology/adolescent/index.html</loc>
-    <lastmod>2024-01-03T14:53:47.936Z</lastmod>
+    <loc>https://brainworkup.org/adult-neuropsychology/index.html</loc>
+    <lastmod>2024-01-10T09:55:51.219Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/pediatric-neuropsychology/school-age/index.html</loc>
-    <lastmod>2024-01-03T14:54:10.888Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/conditions-treated/adhd/index.html</loc>
-    <lastmod>2024-01-03T14:59:39.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/conditions-treated/executive-function/index.html</loc>
-    <lastmod>2024-01-03T16:28:37.313Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/conditions-treated/adhd-in-girls/index.html</loc>
-    <lastmod>2024-01-03T14:49:26.460Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/conditions-treated/autism/index.html</loc>
-    <lastmod>2024-01-03T14:43:49.596Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/forensic-neuropsychology/mental-health-diversion/index.html</loc>
-    <lastmod>2024-01-04T05:10:09.508Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/forensic-neuropsychology/independent-medical-exam/index.html</loc>
-    <lastmod>2024-01-03T14:48:52.478Z</lastmod>
+    <loc>https://brainworkup.org/pediatric-neuropsychology/index.html</loc>
+    <lastmod>2024-01-10T10:06:49.690Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/blog/index.html</loc>
-    <lastmod>2024-01-04T05:45:04.212Z</lastmod>
+    <lastmod>2024-01-10T09:25:05.281Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/blog/posts/2023-12-13-adhd-post/index.html</loc>
     <lastmod>2023-12-22T08:20:14.257Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/index.html</loc>
-    <lastmod>2024-01-04T13:30:23.278Z</lastmod>
+    <loc>https://brainworkup.org/adhd-in-girls/index.html</loc>
+    <lastmod>2024-01-10T10:02:16.075Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/faq/index.html</loc>
-    <lastmod>2024-01-04T12:33:46.085Z</lastmod>
+    <loc>https://brainworkup.org/joey-trampush/index.html</loc>
+    <lastmod>2024-01-10T09:59:23.607Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/autism/index.html</loc>
+    <lastmod>2024-01-05T07:24:15.728Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/preschool/index.html</loc>
+    <lastmod>2024-01-05T08:25:37.990Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/forensic-neuropsychology/index.html</loc>
+    <lastmod>2024-01-03T16:51:30.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/testing-accommodations/index.html</loc>
+    <lastmod>2024-01-07T01:49:32.413Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/school-age/index.html</loc>
+    <lastmod>2024-01-05T06:23:49.877Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/contact/submit_form.html</loc>
@@ -62,54 +58,58 @@
   </url>
   <url>
     <loc>https://brainworkup.org/contact/index.html</loc>
-    <lastmod>2024-01-04T12:34:08.521Z</lastmod>
+    <lastmod>2024-01-07T08:09:34.211Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/joey-trampush/index.html</loc>
-    <lastmod>2024-01-04T12:33:32.400Z</lastmod>
+    <loc>https://brainworkup.org/independent-medical-exam/index.html</loc>
+    <lastmod>2024-01-07T06:22:08.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/adult-onset-adhd/index.html</loc>
+    <lastmod>2024-01-10T10:01:04.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/faq/index.html</loc>
+    <lastmod>2024-01-07T06:28:56.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/adolescent/index.html</loc>
+    <lastmod>2024-01-05T06:29:30.418Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/conditions-treated/index.html</loc>
+    <lastmod>2024-01-07T07:46:56.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brainworkup.org/index.html</loc>
+    <lastmod>2024-01-10T09:53:55.972Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/blog/posts/2023-12-11-welcome/index.html</loc>
-    <lastmod>2024-01-03T15:31:29.359Z</lastmod>
+    <lastmod>2024-01-10T09:32:19.626Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/index.html</loc>
     <lastmod>2024-01-03T15:33:33.455Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/forensic-neuropsychology/index.html</loc>
-    <lastmod>2024-01-03T16:51:30.797Z</lastmod>
+    <loc>https://brainworkup.org/dyslexia/index.html</loc>
+    <lastmod>2024-01-10T09:53:53.459Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/conditions-treated/testing-accommodations/index.html</loc>
-    <lastmod>2024-01-04T10:40:49.382Z</lastmod>
+    <loc>https://brainworkup.org/mental-health-diversion/index.html</loc>
+    <lastmod>2024-01-05T17:25:37.374Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/conditions-treated/index.html</loc>
-    <lastmod>2024-01-04T04:34:06.537Z</lastmod>
+    <loc>https://brainworkup.org/emerging-adulthood/index.html</loc>
+    <lastmod>2024-01-07T04:59:43.452Z</lastmod>
   </url>
   <url>
-    <loc>https://brainworkup.org/services/conditions-treated/dyslexia/index.html</loc>
-    <lastmod>2024-01-04T03:11:04.111Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/conditions-treated/concussion/index.html</loc>
-    <lastmod>2024-01-03T14:44:21.805Z</lastmod>
+    <loc>https://brainworkup.org/executive-function/index.html</loc>
+    <lastmod>2024-01-05T05:22:38.373Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/services/index.html</loc>
-    <lastmod>2024-01-04T12:19:55.543Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/pediatric-neuropsychology/preschool/index.html</loc>
-    <lastmod>2024-01-03T14:53:59.542Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/pediatric-neuropsychology/index.html</loc>
-    <lastmod>2024-01-04T12:51:45.578Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/services/adult-neuropsychology/index.html</loc>
-    <lastmod>2024-01-04T02:55:35.490Z</lastmod>
+    <lastmod>2024-01-07T07:35:54.420Z</lastmod>
   </url>
 </urlset>

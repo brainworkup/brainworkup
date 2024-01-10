@@ -1,0 +1,41 @@
+---
+title: "Preschoolers"
+subtitle: Early childhood evaluation of neurocognitive development
+description-title: Early childhood evaluation of neurocognitive development
+format:
+  html:
+    page-layout: article
+    include-in-header: canonical-preschool.html
+      # - text: |
+      #   <link rel="canonical" href="https://brainworkup.org/preschool/">
+aliases:
+  - "../docs/pediatric-neuropsychology/preschool/"
+  - "../services/pediatric-neuropsychology/preschool/"
+title-block-banner: false #blue.png #logo-253.png
+title-block-style: none
+# title-block-banner-color: "#FFDDFF"
+---
+
+## Toddlers (Ages 2-3)
+
+TODO: Add content
+
+## Preschoolers (Ages 3-5)
+
+Emerging neurocognitive skills can be assessed in children as young as 3
+years-old. However, preschoolers don’t have the same skill-set as older
+children, adolescents and adults, so the evaluation of preschool-aged children
+requires special training.
+
+For several years, we were involved in two major research studies of
+preschool-aged children with attention-deficit/hyperactivity disorder (ADHD)
+that were funded by the National Institute of Mental Health (NIMH). The first
+study was the NIMH Preschool ADHD Treatment Study (PATS) [link], and more
+recently, the Queens College Preschool Project (QCPP) [link].
+
+Amongst several important findings, we discovered that changes in neurocognitive development predicted improvements (or lack thereof) in ADHD symptoms over a period of three years [link]. Thus, if you are interested in having your preschooler evaluated to establish his/her baseline level of neurocognitive development, we are well trained to work with this unique population.
+
+## 🚧 This Page is Under Construction 🚧
+
+We're working hard to finish the development of this site. Our target launch
+date is **Coming Soon**!

@@ -3,7 +3,8 @@ project:
   output-dir: _site
 
 website:
-  title: brainworkup
+  title: "BrainWorkup Neuropsychology"
   site-url: https://brainworkup.org/
-  description: 'BrainWorkup Neuropsychology, LLC | Joey Trampush, PhD'
+  description: >
+    Established by Dr. Joey Trampush, BrainWorkup Neuropsychology, LLC offers specialized neuropsychological evaluations for children to young adults, focusing on ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
   repo-url: https://github.com/brainworkup/brainworkup/

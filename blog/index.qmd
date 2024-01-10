@@ -1,7 +1,35 @@
 ---
-title: "bwu blog"
-subtitle: |
-  Articles about neuropsychology, neuroscience, data science, and mental health
+title: "Brain Blog"
+subtitle: "Brain-Behavior Articles and Insights"
+description: >
+  Writings about neuropsychology, neuroscience, and mental health
+image: "biggie-600.jpg"
+sidebar: true
+about:
+  id: blog
+  template: broadside
+  links:
+    - icon: github
+      href: https://github.com/brainworkup/brainworkup/
+      aria-label: Github
+    - icon: twitter
+      href: https://twitter.com/brainworkup/
+      aria-label: Twitter
+    - icon: instagram
+      href: https://instagram.com/brainworkup/
+      aria-label: Instagram
+    - icon: linkedin
+      aria-label: LinkedIn
+      href: https://www.linkedin.com/in/joey-trampush-brainworkup/
+    - icon: rss
+      href: https://brainworkup.org/blog/index.xml
+      aria-label: RSS
+page-layout: full
+# margin-header: signup.html
+title-block-banner: true
+title-block-banner-color: "rgba(173, 255, 47, 1)" #"#d4eb50"
+title-block-style: default
+toc: false
 listing:
   sort: "date desc"
   contents: "posts/**/index.qmd"
@@ -11,15 +39,17 @@ listing:
   feed: true
   date-format: medium
   type: default
-page-layout: full
-margin-header: signup.html
-title-block-banner: true
-title-block-banner-color: "rgba(173, 255, 47, 1)" #"#d4eb50"
-title-block-style: default
-search: false
-sidebar: false
-include-in-header: canonical-blog.html
-aliases: 
-  - "../docs/blog/"
 ---
 
+> "_Our intuitions are only accurate in domains where we have a lot of experience_"
+
+:::{#blog}
+Welcome to my neuropsychology blog, a dedicated space where I will explore the
+intricacies of pediatric and developmental neuropsychology, and delve into the
+complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental
+and neuropsychiatric disorders.
+
+In this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.
+:::
+
+## Links to Blog Articles Below

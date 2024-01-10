@@ -1,0 +1,20 @@
+---
+title: "School-Age Children"
+description: "Neuropsychological evaluations for school-age children."
+format: html
+include-in-header: canonical-school-age.html
+aliases:
+  - "../docs/pediatric-neuropsychology/school-age/"
+  - "../services/pediatric-neuropsychology/school-age/"
+---
+
+## Elementary School (Ages 6-12)
+
+Adult-like neurocognitive abilities begin to materialize between the ages of 7-12 years during elementary school.  A baseline neurocognitive evaluation obtained during childhood can thus reassure parents and teachers that a child is developing as expected, as well as help identify and monitor neurodevelopmental concerns.  If we suspect any problems, we can then make recommendations for intervention in a timely manner.  Further, assessing children requires developmental issues be taken into consideration when interpreting a child’s performance: many factors can influence a child’s developmental maturation including genetics, medical history, home and family environment, behavioral problems, and sociocultural factors.  We can help parents understand these issues in the context of their child’s abilities and limitations, and assist in monitoring your child’s development during this critical period.
+
+TODO:
+
+## 🚧 This Page is Under Construction 🚧
+
+We're working hard to finish the development of this site. Our target launch
+date is **Coming Soon**!
