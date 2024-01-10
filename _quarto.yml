@@ -96,9 +96,9 @@ website:
         href: contact/index.qmd
       - text: "Blog"
         href: blog/index.qmd
-      - icon: file-pdf
-        text: "CV"
-        href: resources/cv.pdf
+      # - icon: file-pdf
+      #   text: "CV"
+      #   href: resources/cv.pdf
     right:
       - icon: phone
         text: "**(213) 495-1155**"

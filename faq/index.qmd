@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
-subtitle: "Frequently asked questions about our neuropsychological
-evaluations."
+subtitle: "Common questions about our neuropsychological
+evaluation services"
 description: >
   Frequently asked questions about our neuropsychological evaluations.
 hide-description: true
@@ -31,19 +31,19 @@ tags:
   - usc psychiatry
 ---
 
-![](logo-transparent-384.webp "FAQ"){width=384px height=384px fig-alt="The brainworkup logo on the FAQ page."}
+![](logo-transparent-384.webp "FAQ"){width=284px height=284px fig-alt="The brainworkup logo on the FAQ page."}
 
-## Overview of the practice
+## Overview of the Practice
 
 BrainWorkup Neuropsychology, LLC is a pediatric and adult clinical neuropsychology practice. Our mission is to better educate our community about neurocognitive functioning and the importance of monitoring our own brain health. We are trained in developmental neuropsychology, and as such, have the capacity to evaluate anyone in any stage of life, from children to teens to older adults.
 
 Your initial evaluation will serve as a baseline benchmark of neurocognitive functioning. Any follow-up evaluations you undergo here or elsewhere can then be compared to your baseline results in order to track changes in neurocognitive functions over time. Serial evaluations are often of clinical value. Using these quantitative test instruments, we can evaluate the effects of a particular treatment, surgical procedure or passage of time; and monitor recovery, deterioration or stabilization of function. Importantly, we only use evidence-based tests grounded in contemporary neuroscientific research.
 
-## Real-world applications
+## Real-World Applications
 
 Performance on the neurocognitive tests that we use has remarkable predictive value across a diverse range of social, health and behavioral outcomes (Deary et al., 2011). As examples, neurocognitive performance has been shown to be a better predictor of mortality from heart disease than smoking, blood glucose and cholesterol (Batty et al., 2008), can predict how long people live (Deary, 2008), and is associated with educational attainment and earned income (Johnson et al., 2009). Furthermore, deficits in neurocognitive performance are pervasive in most psychiatric (e.g., ADHD and depression) and neurologic (e.g., dementia and Parkinson’s disease) disorders (Millan et al., 2012). As such, the results of your workup will allow us to provide you with objective information for improving and/or maintaining your cognitive and emotional well being.
 
-## What is a neuropsychological evaluation?
+## What is a Neuropsychological Evaluation?
 
 Dr. Trampush contributed to this article explaining hat a neuropsychological
 evaluation is and why it is important:
@@ -94,7 +94,11 @@ Understanding and monitoring neurocognitive functioning in everyone is critical 
 
 ## Fee Structure
 
-The cost for evaluations varies based on the services required. A standard neuropsychological evaluation may range from $2,500-4,000, contingent upon referral questions and various other factors. We encourage you to contact our office for further information tailored to your specific situation.
+The cost for evaluations varies based on the services required. A standard
+pediatric neuropsychological evaluation may range from $2,500-4,000, contingent
+upon referral questions and various other factors. Adult evaluations are
+usually, but not always, less time and costs. We encourage you to contact
+our office for further information tailored to your specific situation.
 
 The fee for intervention services and whether the intervention is a covered
 insurance benefit differ by the type of intervention and a patient’s specific
@@ -104,11 +108,11 @@ insurance plan. We advise you to reach out to our office with any queries.
 
 | Service                                                     | Fee  |
 |-------------------------------------------------------------|------|
-| Initial consultation                                       | $350 |
-| Neuropsychological Testing (typically 4-8 hours)             | $200 |
-| Examination by neuropsychologist, test interpretation and report (typically 2-4 hours) | $350 |
-| Follow-up w/ neuropsychologist to review results and recommendations | $350 |
-| Report/letter writing in addition to the standard report     | $200 |
+| Initial consultation                                       | $225 |
+| Neuropsychological testing (typically 4-8 hours)             | $175 |
+| Integration by neuropsychologist, test interpretation, and report (typically 2-4 hours) | $225 |
+| Follow-up w/ neuropsychologist to review results and recommendations | $225 |
+| Report/letter writing in addition to the standard report     | $175 |
 | Other paperwork requested (Disability, Guardianship, CME, etc.) | $25-100 |
 
 Please note that school advocacy (e.g,. attending IEP meetings) is not a benefit covered by insurance plans. The fee is $300 for the initial hour and $75 for each succeeding 15 minutes.

@@ -44,6 +44,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -192,11 +194,6 @@ Keck School of Medicine of USC">
     <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../resources/cv.pdf"> <i class="bi bi-file-pdf" role="img">
-</i> 
-<span class="menu-text">CV</span></a>
-  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -307,6 +304,13 @@ Keck School of Medicine of USC</p><p></p>
 <li><p><strong>Neuropsychology:</strong> Delving into the cognitive aspects of mental health conditions.</p></li>
 <li><p><strong>Neurodevelopment:</strong> Understanding how the brain develops and changes from childhood into adulthood.</p></li>
 <li><p><strong>Data Science:</strong> Utilizing data-driven approaches to enrich our understanding of psychiatric conditions.</p></li>
+</ul>
+<hr>
+</section>
+<section id="curriculum-vitae" class="level2">
+<h2 data-anchor-id="curriculum-vitae">Curriculum Vitae</h2>
+<ul>
+<li><strong><a href="../joey-trampush/cv.pdf"><i class="fa-solid fa-file-pdf" aria-label="file-pdf"></i></a></strong></li>
 </ul>
 <hr>
 </section>
@@ -793,7 +797,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","closeEffect":"zoom","descPosition":"bottom","loop":false});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
