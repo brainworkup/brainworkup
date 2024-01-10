@@ -104,20 +104,20 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-posts .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-posts'] = new List('listing-posts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -280,7 +280,7 @@ window.Quarto = {
     <a href="https://twitter.com/brainworkup/" title="" class="quarto-navigation-tool px-1" aria-label="Twitter"><i class="bi bi-twitter"></i></a>
     <a href="https://instagram.com/brainworkup/" title="" class="quarto-navigation-tool px-1" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
     <a href="https://www.linkedin.com/in/joey-trampush-brainworkup/" title="" class="quarto-navigation-tool px-1" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
-    <a href="https://brainworkup.org/blog/index.xml" title="" class="quarto-navigation-tool px-1" aria-label="RSS"><i class="bi bi-rss"></i></a>
+    <a href="https://brainworkup.org/blog/index.xml" title="" class="quarto-navigation-tool px-1" aria-label="BWU Blog RSS"><i class="bi bi-rss"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -304,7 +304,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="adhd">adhd <span class="quarto-category-count">(1)</span></div><div class="category" data-category="brain2">brain2 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="neurodevelopment">neurodevelopment <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ADHD">ADHD <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Brain Development">Brain Development <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Neuropsychology">Neuropsychology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block page-columns page-full column-body" id="quarto-document-content">
 
@@ -313,14 +313,15 @@ window.Quarto = {
 
 
 <blockquote class="blockquote">
-<p>“<em>Our intuitions are only accurate in domains where we have a lot of experience</em>”</p>
+<p>“<em>Our intuitions are only accurate in domains where we have a lot of experience.</em>” <br> <cite> - AG </cite></p>
 </blockquote>
 <div class="quarto-about-broadside content column-body">
   <div class="about-main">
     <div class="about-entity" style="background-image: url('biggie-600.jpg')"></div>
     <div class="about-contents"><div id="blog">
-<p>Welcome to my neuropsychology blog, a dedicated space where I will explore the intricacies of pediatric and developmental neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders.</p>
-<p>In this blog, we will embark on a journey through the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. My focus lies in untangling the nuances of pediatric neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.</p>
+<p>Welcome to my neuropsychology blog, a dedicated space where I will explore the intricacies of pediatric and developmental neuropsychology, adult neuropsychology, and delve into the complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental and neuropsychiatric disorders across the lifespan.</p>
+<p>I’ll talk about the fascinating world of the developing brain, understanding how it shapes behavior, learning, and emotion. And about the things I know best. My focus lies in untangling the nuances of clinical developmental neuropsychology – a field that not only offers insights into the growing mind but also provides critical information for early intervention and support.</p>
+<p><em>Note: still in draft mode</em></p>
 </div></div>
   </div>
   <div class="about-links">
@@ -347,20 +348,37 @@ window.Quarto = {
 </div>
 </div>
 
-<section id="links-to-blog-articles-below" class="level2">
-<h2 data-anchor-id="links-to-blog-articles-below">Links to Blog Articles Below</h2>
+<div id="hero-banner" class="column-screen page-columns page-full">
+<div class="grid column-page">
+<div class="headline g-col-lg-6 g-col-12 g-col-md-12">
+<div class="h1">
+<p>Articles/Posts:</p>
+</div>
+<!-- Featured topics:
+
+- [ADHD](../adhd/index.qmd)
+- [Anecdotal](../joey-trampush/index.qmd)
+- [Brain Development](../pediatric-neuropsychology/index.qmd)
+- [Genetics](../joey-trampush/index.qmd) -->
+<p><br>
+</p>
+</div>
+</div>
+</div>
+<div id="gallery" class="column-page">
+
+</div>
 
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-posts">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="neurodevelopment" data-listing-date-sort="1703059200000" data-listing-file-modified-sort="1704296013455" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="989">
+<div class="quarto-post image-right" data-index="0" data-categories="Brain Development" data-listing-date-sort="1703059200000" data-listing-file-modified-sort="1704918687764" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1015">
 <div class="thumbnail">
 <p><a href="../blog/posts/2023-12-20-brain-development-tutorial/index.html" class="no-external"></a></p><a href="../blog/posts/2023-12-20-brain-development-tutorial/index.html" class="no-external">
-<p><img src="../blog/posts/2023-12-20-brain-development-tutorial/cyberpunk-600.png" class="thumbnail-image" alt="Here is a futuristic digital wallpaper that captures the theme you&amp;#039;re interested in. It features a highly detailed human brain with glowing neural networks and cybernetic enhancements, set against a backdrop of technological elements without any text."></p>
+<p><img src="../blog/posts/2023-12-20-brain-development-tutorial/cyberpunk-600.webp" class="thumbnail-image" alt="Here is a futuristic digital wallpaper that captures the theme you&amp;#039;re interested in. It features a highly detailed human brain with glowing neural networks and cybernetic enhancements, set against a backdrop of technological elements without any text."></p>
 </a><p><a href="../blog/posts/2023-12-20-brain-development-tutorial/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -370,27 +388,19 @@ window.Quarto = {
 <div class="listing-subtitle">
 <a href="../blog/posts/2023-12-20-brain-development-tutorial/index.html" class="no-external">Understanding Brain Development: A Brief Guide for Parents</a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('neurodevelopment'); return false;">
-neurodevelopment
-</div>
-</div>
-<div class="listing-description">
-<a href="../blog/posts/2023-12-20-brain-development-tutorial/index.html" class="no-external">Understanding brain development is a journey, not a destination. By embracing the wonder of this process, we can become partners in our children’s growth, nurturing their potential and supporting them to blossom into happy, healthy individuals. </a>
-</div>
 </div>
 <div class="metadata">
 <a href="../blog/posts/2023-12-20-brain-development-tutorial/index.html" class="no-external">
 <div class="listing-date">
 Dec 20, 2023
 </div>
-<div class="listing-author">
-Joey Trampush PhD
+<div class="listing-reading-time">
+6 min
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="adhd,neurodevelopment" data-listing-date-sort="1702454400000" data-listing-file-modified-sort="1703233214257" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
+<div class="quarto-post image-right" data-index="1" data-categories="ADHD,Brain Development" data-listing-date-sort="1702454400000" data-listing-file-modified-sort="1704918620371" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
 <div class="thumbnail">
 <p><a href="../blog/posts/2023-12-13-adhd-post/index.html" class="no-external"></a></p><a href="../blog/posts/2023-12-13-adhd-post/index.html" class="no-external">
 <p><img src="../blog/posts/2023-12-13-adhd-post/brain.webp" class="thumbnail-image" alt="Evaluating ADHD across development post."></p>
@@ -403,30 +413,19 @@ Joey Trampush PhD
 <div class="listing-subtitle">
 <a href="../blog/posts/2023-12-13-adhd-post/index.html" class="no-external">Evaluating ADHD from childhood to adulthood</a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('adhd'); return false;">
-adhd
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('neurodevelopment'); return false;">
-neurodevelopment
-</div>
-</div>
-<div class="listing-description">
-<a href="../blog/posts/2023-12-13-adhd-post/index.html" class="no-external">First quarto post about ADHD. </a>
-</div>
 </div>
 <div class="metadata">
 <a href="../blog/posts/2023-12-13-adhd-post/index.html" class="no-external">
 <div class="listing-date">
 Dec 13, 2023
 </div>
-<div class="listing-author">
-Joey Trampush PhD
+<div class="listing-reading-time">
+2 min
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="brain2" data-listing-date-sort="1702281600000" data-listing-file-modified-sort="1704879139626" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
+<div class="quarto-post image-right" data-index="2" data-categories="Neuropsychology,Brain Development" data-listing-date-sort="1702281600000" data-listing-file-modified-sort="1704919322114" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
 <div class="thumbnail">
 <p><a href="../blog/posts/2023-12-11-welcome/index.html" class="no-external"></a></p><a href="../blog/posts/2023-12-11-welcome/index.html" class="no-external">
 <p><img src="../blog/posts/2023-12-11-welcome/executive800.webp" class="thumbnail-image" alt="Welcome post image."></p>
@@ -439,22 +438,14 @@ Joey Trampush PhD
 <div class="listing-subtitle">
 <a href="../blog/posts/2023-12-11-welcome/index.html" class="no-external">Brain#2</a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('brain2'); return false;">
-brain2
-</div>
-</div>
-<div class="listing-description">
-<a href="../blog/posts/2023-12-11-welcome/index.html" class="no-external">Introduction to writing this content.. </a>
-</div>
 </div>
 <div class="metadata">
 <a href="../blog/posts/2023-12-11-welcome/index.html" class="no-external">
 <div class="listing-date">
 Dec 11, 2023
 </div>
-<div class="listing-author">
-Joey Trampush PhD
+<div class="listing-reading-time">
+2 min
 </div>
 </a>
 </div>
@@ -876,6 +867,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   <div class="nav-footer">
     <div class="nav-footer-left">
 <p>MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC</p>
+<p><a href="https://brainworkup.org"><img src="../logo.png" class="img-fluid" alt="BrainWorkUp" width="75"></a></p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">

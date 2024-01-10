@@ -19,7 +19,7 @@
 <lastBuildDate>Wed, 20 Dec 2023 08:00:00 GMT</lastBuildDate>
 <item>
   <title>Brain Development Tutorial</title>
-  <dc:creator>Joey Trampush PhD</dc:creator>
+  <dc:creator>Joey Trampush</dc:creator>
   <link>https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/</link>
   <description><![CDATA[ 
 
@@ -27,7 +27,7 @@
 
 
 
-<!-- 
+<!--
 # Understanding Brain Development: A Guide for Curious Parents
 
 Raising a child feels like watching a magnificent, complex machine unfold before your eyes. And that machine, of course, is the brain. From the first coo to the first complex sentence, from wobbly first steps to daring leaps of imagination, every milestone reflects the incredible journey of brain development. So, how do we, as parents, navigate this journey with understanding and support? Buckle up, because we're about to dive into the fascinating world of growing minds!
@@ -57,7 +57,7 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 #### v.2 -->
 <section id="understanding-brain-development-a-guide-for-parents" class="level1">
 <h1>Understanding Brain Development: A Guide for Parents</h1>
-<p>Raising a child is a journey filled with wonder, milestones, and sometimes, a healthy dose of confusion. One of the most fascinating aspects of this journey is the incredible transformation happening inside your child’s head – their brain is rapidly developing, shaping who they are and laying the foundation for their future.</p>
+<p>Raising a child is a journey filled with wonder, milestones, and sometimes, a healthy dose of confusion. One of the most fascinating aspects of this journey is the incredible transformation happening inside your child’s head – their brain is rapidly developing, shaping who they are and laying the foundation for their future. By embracing the wonder of this process, we can become partners in our children’s growth, nurturing their potential and supporting them to blossom into happy, healthy individuals.</p>
 <p>As a parent, understanding this development can be both empowering and reassuring. It allows you to see beyond tantrums and meltdowns, recognizing them as natural steps in the brain’s complex dance. So, let’s grab a metaphorical flashlight and explore the key stages of brain development:</p>
 <section id="early-years-0-3-the-building-blocks" class="level2">
 <h2 class="anchored" data-anchor-id="early-years-0-3-the-building-blocks">Early Years (0-3): The Building Blocks</h2>
@@ -90,14 +90,14 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 </section>
 
  ]]></description>
-  <category>neurodevelopment</category>
+  <category>Brain Development</category>
   <guid>https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/</guid>
   <pubDate>Wed, 20 Dec 2023 08:00:00 GMT</pubDate>
-  <media:content url="https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/cyberpunk-600.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/cyberpunk-600.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>ADHD Across the Lifespan</title>
-  <dc:creator>Joey Trampush PhD</dc:creator>
+  <dc:creator>Joey Trampush</dc:creator>
   <link>https://brainworkup.org/blog/posts/2023-12-13-adhd-post/</link>
   <description><![CDATA[ 
 
@@ -141,15 +141,15 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 </section>
 
  ]]></description>
-  <category>adhd</category>
-  <category>neurodevelopment</category>
+  <category>ADHD</category>
+  <category>Brain Development</category>
   <guid>https://brainworkup.org/blog/posts/2023-12-13-adhd-post/</guid>
   <pubDate>Wed, 13 Dec 2023 08:00:00 GMT</pubDate>
   <media:content url="https://brainworkup.org/blog/posts/2023-12-13-adhd-post/brain.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Welcome</title>
-  <dc:creator>Joey Trampush PhD</dc:creator>
+  <dc:creator>Joey Trampush</dc:creator>
   <link>https://brainworkup.org/blog/posts/2023-12-11-welcome/</link>
   <description><![CDATA[ 
 
@@ -167,17 +167,9 @@ This is just the tip of the iceberg! Understanding brain development is a lifelo
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{trampush phd2023,
-  author = {Trampush PhD, Joey},
-  title = {Welcome},
-  date = {2023-12-11},
-  url = {https://brainworkup.github.io/blog/posts/2023-12-11-welcome/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-trampush phd2023" class="csl-entry quarto-appendix-citeas">
-Trampush PhD, Joey. 2023. <span>“Welcome.”</span> December 11, 2023. <a href="https://brainworkup.github.io/blog/posts/2023-12-11-welcome/">https://brainworkup.github.io/blog/posts/2023-12-11-welcome/</a>.
-</div></div></section></div> ]]></description>
-  <category>brain2</category>
+ ]]></description>
+  <category>Neuropsychology</category>
+  <category>Brain Development</category>
   <guid>https://brainworkup.org/blog/posts/2023-12-11-welcome/</guid>
   <pubDate>Mon, 11 Dec 2023 08:00:00 GMT</pubDate>
   <media:content url="https://brainworkup.org/blog/posts/2023-12-11-welcome/executive800.webp" medium="image" type="image/webp"/>

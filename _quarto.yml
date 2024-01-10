@@ -5,12 +5,12 @@ project:
     port: 3000
     browser: true
   resources:
-    - "_redirects"
+    - "/_redirects"
 
 website:
   title: "BrainWorkup Neuropsychology"
-  image: logo.png
-  favicon: favicon.png
+  image: "logo.png"
+  favicon: "favicon.png"
   open-graph:
     locale: en_US
     site-name: brainworkup
@@ -55,6 +55,8 @@ website:
   page-footer:
     left: |
       MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
+
+      [![](/logo.png){fig-alt="BrainWorkUp" width=75px}](https://brainworkup.org)
     center:
       - text: "About"
         href: joey-trampush/index.qmd
@@ -119,7 +121,7 @@ website:
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
       - icon: rss
         href: https://brainworkup.org/blog/index.xml
-        aria-label: RSS
+        aria-label: BWU Blog RSS
 
   sidebar:
     - id: about

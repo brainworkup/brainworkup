@@ -1,14 +1,12 @@
 ---
 title: "Welcome"
 subtitle: "Brain#2"
-description: |
+description: >
   Introduction to writing this content..
 date: "2023-12-11"
-categories: [brain2]
+categories: [Neuropsychology, Brain Development]
 image: "executive800.webp"
 image-alt: "Welcome post image."
-citation:
-  url: https://brainworkup.github.io/blog/posts/2023-12-11-welcome/
 ---
 
 ## Content

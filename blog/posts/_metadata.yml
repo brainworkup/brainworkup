@@ -4,10 +4,14 @@ format:
     # include-after-body:
     #   - ../signup.html
 author:
-  - name: Joey Trampush PhD
+  - name: "Joey Trampush"
     url: https://github.com/brainworkup/
     orcid: 0000-0003-0830-508X
     affiliation: Keck School of Medicine of USC
-    # affiliation-url: https://usc.edu/
+    affiliation-url: https://usc.edu/
 freeze: auto
 title-block-banner: true
+website:
+  site-url: "https://www.brainworkup.org"
+# citation:
+#   url: &post_url_base "https://github.com/brainworkup/blog/posts/:year/:month/:day/:slug/"
