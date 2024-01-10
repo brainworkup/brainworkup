@@ -1,3 +1,0 @@
-# blog
-
-brainworkup blog repo
