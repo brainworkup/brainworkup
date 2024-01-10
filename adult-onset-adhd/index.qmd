@@ -14,6 +14,13 @@ image: boomboxbrain.webp
 sidebar: true
 image-width: 20em
 lightbox: true
+tags:
+  - adhd in adults
+  - symptoms of adhd
+  - what is add
+  - signs of adhd
+  - inattentive adhd
+
 ---
 
 ![](boomboxbrain.webp "Adult ADHD"){width=20em fig-alt="A brainworkup logo for adult ADHD."}

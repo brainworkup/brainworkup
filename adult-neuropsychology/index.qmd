@@ -13,6 +13,9 @@ tags:
   - neuropsychological assessment
   - cognitive health
   - adult neurocognitive testing
+  - neuropsicología
+  - evaluación neuropsicológica
+  - neuropsychologist
 sidebar: true
 image: adults-384.png
 image-width: 20em

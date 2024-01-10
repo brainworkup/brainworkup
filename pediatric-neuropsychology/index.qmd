@@ -20,6 +20,10 @@ tags:
   - pediatric neuropsychology
   - Joey Trampush
   - adhd
+  - autism
+  - dyslexia
+  - learning disabilities
+  - neurodevelopmental disorders
 ---
 
 ![](kids-384.webp "Pediatric Neuropsychology"){width=20em fig-alt="A brainworkup logo for pediatric neuropsychological services."}

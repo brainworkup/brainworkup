@@ -13,9 +13,12 @@ format:
   html:
     page-layout: article
 tags:
-  - ADHD
+  - adhd
   - girls
-  - ADHD in girls
+  - adhd in girls
+  - adhd symptoms in girls
+  - female adhd
+  - adhd symptoms in women
 sidebar: true
 image: adhd-girls-384.png
 image-width: 20em
@@ -24,9 +27,9 @@ lightbox: true
 
 ![](adhd-girls-384.png "ADHD in Girls"){width=20em fig-alt="A brainworkup kids logo for adhd in girls."}
 
-## Spotlight on ADHD in Girls 
+## Spotlight on ADHD in Girls
 
-A niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients. 
+A niche area of our expertise is in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls. This is an area that has, unfortunately, been underrepresented in research and clinical practice. Girls often display ADHD symptoms differently than boys, and hence, we provide specialized evaluations to identify ADHD, factoring in the unique ways it may manifest in female patients.
 
 In our clinic, we adopt a comprehensive assessment approach that includes
 behavioral observations, standardized testing, and close collaboration with

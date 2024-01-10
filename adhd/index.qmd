@@ -17,14 +17,16 @@ include-in-header: canonical-adhd.html
 lightbox: true
 sidebar: true
 tags:
-  - ADHD
-  - adult-onset ADHD
+  - adhd
+  - adult onset ADHD
   - college students
   - consultation
   - feedback session
   - psychoeducational testing
   - report
   - testing & evaluation
+  - signs of adhd
+
 ---
 
 ![](adhd-black-384.webp "ADHD"){width=20em fig-alt="A brainworkup logo for ADHD."}

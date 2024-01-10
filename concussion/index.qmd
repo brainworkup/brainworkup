@@ -11,6 +11,18 @@ aliases:
   - ../docs/disorders/concussion.html
   - ..docs/conditions-treated/concussion/
   - ../services/conditions-treated/concussion/
+tags:
+  - concussion
+  - concussions
+  - mild concussion
+  - signs of concussion
+  - post concussion syndrome
+  - effects of concussion on the brain
+  - concussion symptoms
+  - concussion treatment
+  - concussion meaning
+  - clears concussion protocol
+  - short term memory loss after brain injury
 ---
 
 ## Young Athletes

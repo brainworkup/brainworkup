@@ -14,6 +14,26 @@ sidebar: true
 image: dyslexia-384.png
 image-width: 20em
 lightbox: true
+tags:
+  - dyslexia
+  - dislexia
+  - learning disorder
+  - dyscalculia
+  - dysgraphia
+  - dyslexic
+  - dyslexie
+  - what is dyslexia
+  - dyslexia definition
+  - dyslexia symptoms
+  - dyslexia test
+  - dyslexia treatment
+  - dyslexia diagnosis
+  - dyslexia in adults
+  - dyslexia in children
+  - dyslexia in kids
+  - dyslexia in teens
+  - dyslexia in college
+  - dyslexia symptoms
 ---
 
 ![](dyslexia-384.png "Dyslexia"){width=20em height=20em fig-alt="A brainworkup logo for dyslexia."}

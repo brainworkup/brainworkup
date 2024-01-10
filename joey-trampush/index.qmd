@@ -21,6 +21,16 @@ tags:
   - brainworkup
   - brain
   - work-up
+  - neuropsychologist
+  - neuropsych
+  - neuropsychology testing
+  - neuro
+  - neuropsychologists near me
+  - neuropsychological testing
+  - perfectionism
+  - perfectionist
+  - add
+  - adhd
 format:
   html:
     page-layout: full
