@@ -8,7 +8,7 @@ project:
     - "/_redirects"
 
 website:
-  title: "BrainWorkup Neuropsychology"
+  title: "brainworkup"
   image: "logo.png"
   favicon: "favicon.png"
   open-graph:
