@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 104efd43-d6ca-45be-b3cc-806c026e306c
-      url: 'https://brainworkup.org'
+      url: "https://brainworkup.org"

@@ -22,6 +22,7 @@ about:
   image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
 sidebar: false
 tags:
+  - BrainWorkup Neuropsychology
   - neuropsychology
   - forensic neuropsychology
   - neuropsychological assessment
@@ -29,6 +30,7 @@ tags:
   - ADHD
   - learning disorders
   - Joey Trampush
+  - Dr. Joey Trampush
   - brainworkup
   - brain
   - adhd test
