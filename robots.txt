@@ -1,2 +1,5 @@
 # Algolia-Crawler-Verif: 08F47F4E25FEEC1A
+
+USER-agent: *
+Allow: /
 Sitemap: https://brainworkup.org/sitemap.xml
