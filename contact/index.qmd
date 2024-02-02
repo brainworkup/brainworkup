@@ -89,9 +89,9 @@ office for the initial consultation visit and for the feedback visit. Please con
 In some cases, we can provide testing services at your home (i.e., a "house
 call"). Please contact us for more information. An additional small fee applies.
 
-## Form
+<!-- ## Form
 
-{{< form >}}
+{{< form >}} -->
 
 <!-- #### Form submission
 
