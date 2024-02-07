@@ -108,10 +108,10 @@ insurance plan. We advise you to reach out to our office with any queries.
 
 | Service                                                     | Fee  |
 |-------------------------------------------------------------|------|
-| Initial consultation                                       | $225 |
-| Neuropsychological testing (typically 4-8 hours)             | $175 |
-| Integration by neuropsychologist, test interpretation, and report (typically 2-4 hours) | $225 |
-| Follow-up w/ neuropsychologist to review results and recommendations | $225 |
+| Initial consultation                                       | $500 |
+| Neuropsychological testing (typically 4-8 hours)             | $175/hr |
+| Integration by neuropsychologist, test interpretation, and report (typically 2-4 hours) | $225/hr |
+| Follow-up w/ neuropsychologist to review results and recommendations | $225/hr |
 | Report/letter writing in addition to the standard report     | $175 |
 | Other paperwork requested (Disability, Guardianship, CME, etc.) | $25-100 |
 
