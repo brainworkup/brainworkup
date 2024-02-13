@@ -89,6 +89,13 @@ office for the initial consultation visit and for the feedback visit. Please con
 In some cases, we can provide testing services at your home (i.e., a "house
 call"). Please contact us for more information. An additional small fee applies.
 
+## Calendar
+
+<!-- Motion embed begin -->
+<iframe src="https://app.usemotion.com/meet/joey.trampush/nhmf075" title="Motion Booking Page" width="100%" height="840px" frameborder="0"></iframe>
+<!-- Motion embed end -->
+
+
 <!-- ## Form
 
 {{< form >}} -->
@@ -107,17 +114,3 @@ call"). Please contact us for more information. An additional small fee applies.
   </p>
 </form> -->
 
-
-<!-- ## PHP
-
-```{=html}
-<body>
-
-<form action="welcome_get.php" method="get">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
-<input type="submit">
-</form>
-
-</body>
-``` -->
