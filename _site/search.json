@@ -794,11 +794,22 @@
     ]
   },
   {
+    "objectID": "contact/index.html#schedule-a-consultation-today",
+    "href": "contact/index.html#schedule-a-consultation-today",
+    "title": "Contact Us",
+    "section": "Schedule a Consultation Today",
+    "text": "Schedule a Consultation Today\nTo schedule a consultation, please use the calendar below to select a day/date and time that is convenient for you to meet with Dr. Trampush on Zoom for 30 minutes for a free consultation:",
+    "crumbs": [
+      "Contact",
+      "Contact Us"
+    ]
+  },
+  {
     "objectID": "contact/index.html#office-location",
     "href": "contact/index.html#office-location",
     "title": "Contact Us",
     "section": "Office Location",
-    "text": "Office Location\nBrainworkup Neuropsychology, LLC\n4136 Del Rey Avenue\nSuite 661\nMarina Del Rey, CA 90292",
+    "text": "Office Location\nBrainWorkUp Neuropsychology, LLC\n4136 Del Rey Avenue\nSuite 661\nMarina Del Rey, CA 90292",
     "crumbs": [
       "Contact",
       "Contact Us"
@@ -820,18 +831,7 @@
     "href": "contact/index.html#testing-at-home",
     "title": "Contact Us",
     "section": "Testing at Home",
-    "text": "Testing at Home\nIn some cases, we can provide testing services at your home (i.e., a “house call”). Please contact us for more information. An additional small fee applies.",
-    "crumbs": [
-      "Contact",
-      "Contact Us"
-    ]
-  },
-  {
-    "objectID": "contact/index.html#calendar",
-    "href": "contact/index.html#calendar",
-    "title": "Contact Us",
-    "section": "Calendar",
-    "text": "Calendar",
+    "text": "Testing at Home\nIn some cases, we can provide testing services at your home or place of residence. Please contact us for more information. An additional small fee applies.",
     "crumbs": [
       "Contact",
       "Contact Us"
