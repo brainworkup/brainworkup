@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.9">
+<meta name="generator" content="quarto-1.5.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -199,7 +199,7 @@ cookieconsent.run({
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools tools-wide">
+            <div class="quarto-navbar-tools tools-wide">
     <a href="https://github.com/brainworkup/brainworkup/" title="" class="quarto-navigation-tool px-1" aria-label="Github"><i class="bi bi-github"></i></a>
     <a href="https://twitter.com/brainworkup/" title="" class="quarto-navigation-tool px-1" aria-label="Twitter"><i class="bi bi-twitter"></i></a>
     <a href="https://instagram.com/brainworkup/" title="" class="quarto-navigation-tool px-1" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
@@ -237,7 +237,6 @@ cookieconsent.run({
   <li><a href="#referrals" id="toc-referrals" class="nav-link" data-scroll-target="#referrals">Referrals</a></li>
   <li><a href="#authorizations" id="toc-authorizations" class="nav-link" data-scroll-target="#authorizations">Authorizations</a></li>
   <li><a href="#payments" id="toc-payments" class="nav-link" data-scroll-target="#payments">Payments</a></li>
-  <li><a href="#returned-checks" id="toc-returned-checks" class="nav-link" data-scroll-target="#returned-checks">Returned Checks</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -324,8 +323,13 @@ cookieconsent.run({
 </section>
 <section id="fee-structure" class="level2">
 <h2 class="anchored" data-anchor-id="fee-structure">Fee Structure</h2>
-<p>The cost for evaluations varies based on the services required. A standard pediatric neuropsychological evaluation may range from $2,500-4,000, contingent upon referral questions and various other factors. Adult evaluations are usually, but not always, less time and costs. We encourage you to contact our office for further information tailored to your specific situation.</p>
-<p>The fee for intervention services and whether the intervention is a covered insurance benefit differ by the type of intervention and a patient’s specific insurance plan. We advise you to reach out to our office with any queries.</p>
+<p>The cost for evaluations varies based on the services required. A standard pediatric neuropsychological evaluation may range from $2,500-4,000, contingent upon referral questions and various other factors. Adult evaluations are usually, but not always, less time and costs. We encourage you to contact us for for further information tailored to your specific situation.</p>
+<ul>
+<li><strong>Phone:</strong> (213) 495-1155<br>
+</li>
+<li><strong>Email:</strong> <a href="mailto:info@brainworkup.org">info@brainworkup.org</a></li>
+</ul>
+<p>The fee for intervention services and whether the intervention is a covered insurance benefit differ by the type of intervention and a patient’s specific insurance plan.</p>
 <section id="estimated-fees-by-the-hour" class="level4">
 <h4 class="anchored" data-anchor-id="estimated-fees-by-the-hour"><strong>Estimated Fees by the Hour:</strong></h4>
 <table class="table">
@@ -353,7 +357,7 @@ cookieconsent.run({
 <td>$225/hr</td>
 </tr>
 <tr class="even">
-<td>Follow-up w/ neuropsychologist to review results and recommendations</td>
+<td>Follow-up w/ neuropsychologist to review results and recommendations (typically 1 hour)</td>
 <td>$225/hr</td>
 </tr>
 <tr class="odd">
@@ -398,11 +402,7 @@ Important
 </section>
 <section id="payments" class="level3">
 <h3 class="anchored" data-anchor-id="payments">Payments</h3>
-<p>We accept cash, checks, Venmo, Zelle, MasterCard, and Visa.</p>
-</section>
-<section id="returned-checks" class="level3">
-<h3 class="anchored" data-anchor-id="returned-checks">Returned Checks</h3>
-<p>Should a check be returned, your account will be charged a $25 fee for each occurrence. Furthermore, you will be requested to bring cash to our office to cover the returned check fee.</p>
+<p>We accept cash, checks, Venmo, Zelle, MasterCard, Visa and AMEX. Payment is due at the time of service. We will provide you with a detailed “super bill” that you can submit to your insurance company for reimbursement. We recommend that you contact your insurance company to determine your out-of-network benefits.</p>
 
 
 </section>
@@ -507,10 +507,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -554,7 +559,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -889,7 +898,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","loop":false,"closeEffect":"zoom","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
