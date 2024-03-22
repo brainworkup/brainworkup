@@ -69,10 +69,10 @@ We adhere to the highest standards of confidentiality and legal compliance in ou
 
 ## Fee Schedule
 
-Dr. Trampush's fee schedule for forensic neuropsychological services is available [here](trampush-joey_forensic-neuropsych_fee-schedule_2023-2024.pdf).
+Dr. Trampush's fee schedule for forensic neuropsychological services is available [here](jwt_forensic_neuropsychology_fee_schedule_2023-2024.pdf).
 
 ## Contact Information
 
 For scheduling and more information, please
-[Contact](/contact/index.qmd#online-inquiry) us here or send an email to
-[[joey {dot} trampush {at} brainworkup {dot} org](mailto:joey.trampush@brainworkup.org)].
+[Contact](/contact/index.qmd#online-inquiry) us.
+
