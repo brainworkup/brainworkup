@@ -4,10 +4,10 @@ subtitle: "Diving Deep into Executive Function: The Core of Neurocognitive Healt
 description: >
   Understanding and addressing executive dysfunction in neurodevelopmental and neuropsychiatric disorders.
 hide-description: true
-aliases:
-  - ../docs/disorders/executive-function.html
-  - ../docs/conditions-treated/executive-function/
-  - ../services/conditions-treated/executive-function/
+# aliases:
+#   - ../docs/disorders/executive-function.html
+#   - ../docs/conditions-treated/executive-function/
+#   - ../services/conditions-treated/executive-function/
 tags:
   - executive functioning
   - neurocognitive assessment
