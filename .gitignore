@@ -118,3 +118,5 @@ brainworkup.git.bfg-report/
 
 /.luarc.json
 _redirects
+SECURITY.md
+SECURITY.html
