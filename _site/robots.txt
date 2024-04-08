@@ -5,3 +5,6 @@ Allow: /
 Sitemap: https://brainworkup.org/sitemap.xml
 
 Disallow: /cdn-cgi/
+
+User-agent: bingbot
+Allow: /

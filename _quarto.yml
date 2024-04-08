@@ -4,8 +4,8 @@ project:
   preview:
     port: 3000
     browser: true
-  resources:
-    - "/_redirects"
+  # resources:
+    # - "/_redirects"
 
 website:
   title: "brainworkup"
@@ -29,7 +29,7 @@ website:
   repo-url: https://github.com/brainworkup/brainworkup
   repo-branch: origin
   issue-url: https://github.com/brainworkup/brainworkup/issues
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
   page-navigation: true
   bread-crumbs: true
   google-analytics: "G-HW85H7H8P6"
