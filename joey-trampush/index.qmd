@@ -61,7 +61,7 @@ lightbox: true
 
 ## Welcome :wave:
 
-I am the founder and chief neuropsychologist at BrainWorkup Neuropsychology,
+I am the founder and chief neuropsychologist at BrainWorkUp Neuropsychology,
 LLC, and an Assistant Professor at the [Keck School of Medicine of USC's
 Department of Psychiatry and the Behavioral Sciences](https://keck.usc.edu/psychiatry/). My primary goal is to provide diagnostic clarity for children and adults, helping them gain a deeper understanding of themselves and their potential.
 
