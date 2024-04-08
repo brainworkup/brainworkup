@@ -4,8 +4,9 @@ project:
   preview:
     port: 3000
     browser: true
-  # resources:
+  resources:
     # - "/_redirects"
+    - "sitemap.xml"
 
 website:
   title: "brainworkup"
