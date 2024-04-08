@@ -1,10 +1,6 @@
 # Algolia-Crawler-Verif: 08F47F4E25FEEC1A
 
-USER-agent: *
+User-agent: *
 Allow: /
-Sitemap: https://brainworkup.org/sitemap.xml
-
 Disallow: /cdn-cgi/
-
-User-agent: bingbot
-Allow: /
+Sitemap: https://brainworkup.org/sitemap.xml
