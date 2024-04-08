@@ -10,7 +10,7 @@ project:
 website:
   title: "brainworkup"
   image: "logo.png"
-  favicon: "favicon.png"
+  favicon: "favicon.ico"
   open-graph:
     locale: en_US
     site-name: brainworkup
