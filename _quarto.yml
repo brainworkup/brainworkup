@@ -4,9 +4,9 @@ project:
   preview:
     port: 3000
     browser: true
-  resources:
-    # - "/_redirects"
-    - "/sitemap.xml"
+  # resources:
+  #   # - "/_redirects"
+  #   - "/sitemap.xml"
 
 website:
   title: "brainworkup"
@@ -25,7 +25,7 @@ website:
     image: "preview.png"
     image-width: 96
     image-height: 96
-  site-url: https://brainworkup.org
+  site-url: "https://brainworkup.org"
   site-path: "/"
   repo-url: https://github.com/brainworkup/brainworkup
   repo-branch: origin
