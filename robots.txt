@@ -3,3 +3,5 @@
 USER-agent: *
 Allow: /
 Sitemap: https://brainworkup.org/sitemap.xml
+
+Disallow: /cdn-cgi/
