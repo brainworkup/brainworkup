@@ -115,3 +115,5 @@ redirects.csv
 brainworkup.org.key
 brainworkup.git/
 brainworkup.git.bfg-report/
+
+/.luarc.json
