@@ -19,7 +19,7 @@ css: index.css
 about:
   template: trestles
   image-shape: round
-  image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
+  image-alt: "A logo of a brain for BrainWorkUp Neuropsychology, LLC."
 sidebar: false
 tags:
   - BrainWorkup Neuropsychology

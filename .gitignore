@@ -110,4 +110,5 @@ brainworkup_superbill_template.md
 table1.png
 
 # Local Netlify folder
-.netlify
+.netlify/
+redirects.csv
