@@ -6,7 +6,7 @@ project:
     browser: true
   resources:
     # - "/_redirects"
-    - "sitemap.xml"
+    - "/sitemap.xml"
 
 website:
   title: "brainworkup"
