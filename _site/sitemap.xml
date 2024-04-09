@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://brainworkup.org/</loc>
+    <lastmod>2024-04-09T07:28:54.714Z</lastmod>
+  </url>
+  <url>
     <loc>https://brainworkup.org/adhd/</loc>
     <lastmod>2024-03-24T05:06:50.676Z</lastmod>
   </url>
@@ -79,10 +83,6 @@
   <url>
     <loc>https://brainworkup.org/conditions-treated/</loc>
     <lastmod>2024-03-24T05:06:50.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brainworkup.org/</loc>
-    <lastmod>2024-04-09T07:28:54.714Z</lastmod>
   </url>
   <url>
     <loc>https://brainworkup.org/blog/posts/2023-12-11-welcome/</loc>
