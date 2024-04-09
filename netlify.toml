@@ -4,7 +4,7 @@ package = "@algolia/netlify-plugin-crawler"
 branches = ['main']
 
 [[plugins]]
-package = "./plugins/netlify-purge-cloudflare-on-deploy"
+package = "netlify-purge-cloudflare-on-deploy"
 
 [[redirects]]
 from = "http://brainworkup.org/*"
