@@ -3,6 +3,9 @@ package = "@algolia/netlify-plugin-crawler"
 [plugins.inputs]
 branches = ['main']
 
+[[plugins]]
+package = "./plugins/netlify-purge-cloudflare-on-deploy"
+
 [[redirects]]
 from = "http://brainworkup.org/*"
 to = "https://brainworkup.org/:splat"
@@ -50,93 +53,3 @@ from = "brainworkup.net"
 to = "brainworkup.org"
 status = 301
 force = true
-
-# [[redirects]]
-# from = "http://www.joeytrampush.com/"
-# to = "http://brainworkup.org/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.com/"
-# to = "https://brainworkup.org/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.net/"
-# to = "https://brainworkup.org/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://joeytrampush.com/docs/blog/"
-# to = "https://brainworkup.org/blog/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/docs/contact/"
-# to = "https://brainworkup.org/contact/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/docs/faq/"
-# to = "https://brainworkup.org/faq/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/docs/blog/"
-# to = "https://brainworkup.org/blog/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/docs/clinical-services/"
-# to = "https://brainworkup.org/services/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/docs/about/joey-trampush/"
-# to = "https://brainworkup.org/joey-trampush/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://joeytrampush.com/authors/*"
-# to = "https://brainworkup.org/joey-trampush/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/docs/adult-neuropsychology/"
-# to = "https://brainworkup.org/adult-neuropsychology/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/services/mental-health-diversion/"
-# to = "https://brainworkup.org/mental-health-diversion/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/services/adult-neuropsychology/"
-# to = "https://brainworkup.org/adult-neuropsychology/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://brainworkup.org/services/conditions-treated/adhd/"
-# to = "https://brainworkup.org/adhd/"
-# status = 301
-# force = true
-
-# [[redirects]]
-# from = "https://joeytrampush.com/docs/adhd-evaluation/adhd/"
-# to = "https://brainworkup.org/adhd/"
-# status = 301
-# force = true
