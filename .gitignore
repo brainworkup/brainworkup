@@ -112,6 +112,7 @@ table1.png
 # Local Netlify folder
 .netlify/
 redirects.csv
+brainworkup.org.pem
 brainworkup.org.key
 brainworkup.git/
 brainworkup.git.bfg-report/
