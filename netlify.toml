@@ -53,3 +53,9 @@ from = "brainworkup.net"
 to = "brainworkup.org"
 status = 301
 force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/docs/projects/"
+to = "brainworkup.org"
+status = 301
+force = true
