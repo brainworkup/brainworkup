@@ -33,7 +33,7 @@ website:
   repo-actions: [issue]
   page-navigation: true
   bread-crumbs: true
-  google-analytics: "G-HW85H7H8P6"
+  # google-analytics: "G-HW85H7H8P6"
   cookie-consent: true
   back-to-top-navigation: false
   reader-mode: false
@@ -97,9 +97,6 @@ website:
         href: contact/index.qmd
       - text: "Blog"
         href: blog/index.qmd
-      # - icon: file-pdf
-      #   text: "CV"
-      #   href: resources/cv.pdf
     right:
       - icon: phone
         text: "**(213) 495-1155**"
