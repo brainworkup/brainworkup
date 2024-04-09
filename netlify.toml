@@ -1,10 +1,22 @@
+# Plugins
+
 [[plugins]]
 package = "@algolia/netlify-plugin-crawler"
-[plugins.inputs]
-branches = ['main']
+  [plugins.inputs]
+  branches = ['main']
 
 [[plugins]]
 package = "netlify-purge-cloudflare-on-deploy"
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+  [plugins.inputs]
+  buildDir = "_site"
+  prettyURLs = true
+  # Append missing trailing slash to pretty URL
+  trailingSlash = true
+
+# Redirects
 
 [[redirects]]
 from = "http://brainworkup.org/*"
