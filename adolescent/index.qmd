@@ -4,9 +4,9 @@ description: >
   Explore the complexities of adolescence and its impact on cognitive abilities.
 format: html
 include-in-header: canonical-adolescent.html
-aliases:
-  - "../docs/pediatric-neuropsychology/adolescents/"
-  - "../services/pediatric-neuropsychology/adolescents/"
+# aliases:
+#   - "../docs/pediatric-neuropsychology/adolescents/"
+#   - "../services/pediatric-neuropsychology/adolescents/"
 ---
 
 ## Teenagers ...

@@ -8,13 +8,13 @@ subtitle: |
 description-meta: "Joey W. Trampush, Ph.D., is a pediatric neuropsychologist and the founder and chief neuropsychologist at BrainWorkup Neuropsychology, LLC."
 toc: false
 include-in-header: canonical-joey-trampush.html
-aliases:
-  - "trampush.html"
-  - "about.html"
-  - "../docs/about/joey-trampush/"
-  - "joeytrampush.com/docs/trampush/"
-  - "joeytrampush.com/docs/joey-trampush/"
-  - "../docs/joey-trampush/"
+# aliases:
+#   - "trampush.html"
+#   - "about.html"
+#   - "../docs/about/joey-trampush/"
+#   - "joeytrampush.com/docs/trampush/"
+#   - "joeytrampush.com/docs/joey-trampush/"
+#   - "../docs/joey-trampush/"
 tags:
   - neuropsychology
   - Joey Trampush

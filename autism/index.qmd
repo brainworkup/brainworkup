@@ -8,10 +8,10 @@ description: |
   characteristic of ASD.
 hide-description: true
 include-in-header: canonical-autism.html
-aliases:
-  - ../docs/disorders/autism.html
-  - ../docs/conditions-treated/autism/
-  - ../services/conditions-treated/autism/
+# aliases:
+#   - ../docs/disorders/autism.html
+#   - ../docs/conditions-treated/autism/
+#   - ../services/conditions-treated/autism/
 format:
   html:
     page-layout: article

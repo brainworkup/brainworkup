@@ -5,8 +5,8 @@ evaluation services"
 description: >
   Frequently asked questions about our neuropsychological evaluations.
 hide-description: true
-aliases:
-  - "../docs/faq/"
+# aliases:
+#   - "../docs/faq/"
 format:
   html:
     page-layout: article

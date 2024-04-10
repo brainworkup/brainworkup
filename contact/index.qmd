@@ -4,8 +4,8 @@ title: "Contact Us"
 description: >
   Contact information for Brainworkup Neuropsychology, LLC.
 hide-description: true
-aliases:
-  - "../docs/contact/"
+# aliases:
+#   - "../docs/contact/"
 filters:
   - forms
 form:

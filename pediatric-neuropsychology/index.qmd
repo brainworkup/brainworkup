@@ -1,9 +1,9 @@
 ---
 title: "Neurodevelopmental Services"
 title-meta: "Pediatric Neuropsychological Services"
-aliases:
-  - "../docs/pediatric-neuropsychology/"
-  - "../services/pediatric-neuropsychology/"
+# aliases:
+#   - "../docs/pediatric-neuropsychology/"
+#   - "../services/pediatric-neuropsychology/"
 repo-actions: false
 description: >
   Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental conditions.

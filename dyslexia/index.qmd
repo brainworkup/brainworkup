@@ -4,9 +4,9 @@ description: >
   We specialize in evaluating dyslexia and related learning disorders in both
   children and adults.
 include-in-header: canonical-dyslexia.html
-aliases:
-  - ../docs/disorders/dyslexia.html
-  - ../docs/conditions-treated/dyslexia/
+# aliases:
+#   - ../docs/disorders/dyslexia.html
+#   - ../docs/conditions-treated/dyslexia/
 format:
   html:
     page-layout: article

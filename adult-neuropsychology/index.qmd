@@ -20,8 +20,8 @@ sidebar: true
 image: adults-384.png
 image-width: 20em
 lightbox: true
-aliases:
-  - "../docs/adult-neuropsychology/"
+# aliases:
+#   - "../docs/adult-neuropsychology/"
 ---
 
 ![](adults-384.png "Adult Clinical Services"){width=20em fig-alt="A brainworkup kids logo for adult services."}
