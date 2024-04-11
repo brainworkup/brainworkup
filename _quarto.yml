@@ -4,12 +4,11 @@ project:
   preview:
     port: 3000
     browser: true
+  resources:
+    - "sitemap.xml"
   # render:
     # - "*.qmd"
     # - "!_site/sitemap.xml"
-  resources:
-  #   # - "/_redirects"
-    - "sitemap.xml"
 
 website:
   title: "brainworkup"
