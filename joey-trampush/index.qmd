@@ -5,7 +5,7 @@ subtitle: |
   Assistant Professor of Psychiatry\
   Department of Psychiatry and the Behavioral Sciences\
   Keck School of Medicine of USC
-description-meta: "Joey W. Trampush, Ph.D., is a pediatric neuropsychologist and the founder and chief neuropsychologist at BrainWorkup Neuropsychology, LLC."
+description-meta: "Joey W. Trampush, Ph.D., is a pediatric neuropsychologist and the founder and chief neuropsychologist at BrainWorkUp Neuropsychology, LLC."
 toc: false
 include-in-header: canonical-joey-trampush.html
 # aliases:
@@ -112,6 +112,8 @@ My approach is grounded in the utilization of open-source data science tools, al
 
 - [{{< fa file-pdf title="Download CV" >}}](/joey-trampush/cv.pdf)
 
+- [Google Scholar](https://scholar.google.com/citations?user=uG4qu4IAAAAJ&hl=en)
+
 ---
 
 ## Contact Me
@@ -128,5 +130,5 @@ Sincerely,
 
 **Joey W. Trampush, PhD**\
 Chief Neuropsychologist\
-BrainWorkup Neuropsychology, LLC\
+BrainWorkp Neuropsychology, LLC\
 CA License PSY29212

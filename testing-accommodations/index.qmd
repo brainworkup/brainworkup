@@ -7,9 +7,9 @@ description: >
 hide-description: true
 aliases:
   - ../docs/disorders/mcat.html
-  - "../docs/conditions-treated/testing-accommodations/"
-  - mcat.html
-  - "../services/conditions-treated/testing-accommodations/"
+  # - "../docs/conditions-treated/testing-accommodations/"
+  # - mcat.html
+  # - "../services/conditions-treated/testing-accommodations/"
 format:
   html:
     page-layout: article
