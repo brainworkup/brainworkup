@@ -6,11 +6,11 @@ hide-description: true
 format:
   html:
     page-layout: article
-aliases:
-  - "../docs/forensic-neuropsychology/ime/"
-  - "../docs/independent-medical-exam/"
-  - "../docs/forensic-neuropsychology/independent-medical-exam/"
-  - "../services/forensic-neuropsychology/independent-medical-exam/"
+# aliases:
+#   - "../docs/forensic-neuropsychology/ime/"
+#   - "../docs/independent-medical-exam/"
+#   - "../docs/forensic-neuropsychology/independent-medical-exam/"
+#   - "../services/forensic-neuropsychology/independent-medical-exam/"
 include-in-header: canonical-independent-medical-exam.html
 tags:
   - forensic neuropsychology

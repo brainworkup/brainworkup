@@ -20,7 +20,7 @@ node_modules/
 /Users/joey/brainworkup/images/jwt_fighton.jpg
 local/
 _local/
-img/
+# img/
 data/
 /_local/**
 docs/faq/insurance.md

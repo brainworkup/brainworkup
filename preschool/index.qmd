@@ -8,9 +8,9 @@ format:
     include-in-header: canonical-preschool.html
       # - text: |
       #   <link rel="canonical" href="https://brainworkup.org/preschool/">
-aliases:
-  - "../docs/pediatric-neuropsychology/preschool/"
-  - "../services/pediatric-neuropsychology/preschool/"
+# aliases:
+#   - "../docs/pediatric-neuropsychology/preschool/"
+#   - "../services/pediatric-neuropsychology/preschool/"
 title-block-banner: false #blue.png #logo-253.png
 title-block-style: none
 # title-block-banner-color: "#FFDDFF"

@@ -5,8 +5,8 @@ description: >
   Academic and standardized testing accommodations (e.g., MCAT, LSAT, SAT) for
   students with ADHD, learning disorders, emotional disorders, and disabilities.
 hide-description: true
-aliases:
-  - ../docs/disorders/mcat.html
+# aliases:
+#   - ../docs/disorders/mcat.html
   # - "../docs/conditions-treated/testing-accommodations/"
   # - mcat.html
   # - "../services/conditions-treated/testing-accommodations/"
