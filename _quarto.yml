@@ -6,7 +6,6 @@ project:
     browser: true
   render:
     - "*.qmd"
-    - "sitemap.xml"
     # - "!_site/sitemap.xml"
   # resources:
   #   # - "/_redirects"
