@@ -1,7 +1,7 @@
 ---
 title: "Preschoolers"
 subtitle: Early childhood evaluation of neurocognitive development
-description-title: Early childhood evaluation of neurocognitive development
+description: Early childhood evaluation of neurocognitive development
 format:
   html:
     page-layout: article
@@ -13,6 +13,8 @@ format:
 #   - "../services/pediatric-neuropsychology/preschool/"
 title-block-banner: false #blue.png #logo-253.png
 title-block-style: none
+hide-description: true
+anchor-sections: true
 # title-block-banner-color: "#FFDDFF"
 ---
 

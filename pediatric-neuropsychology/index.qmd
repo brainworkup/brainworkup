@@ -6,7 +6,7 @@ title-meta: "Pediatric Neuropsychological Services"
 #   - "../services/pediatric-neuropsychology/"
 repo-actions: false
 description: >
-  Explore comprehensive pediatric neuropsychological services at our clinic, specializing in ADHD in girls, Autism Spectrum Disorders, dyslexia, and a broad range of neurodevelopmental conditions.
+  We speciale on the evaluation of ADHD in girls, autism spectrum disorders, dyslexia/dyscalculia/dysgraphia, and a broad range of other common learning disorders and neurodevelopmental conditions.
 format:
   html:
     page-layout: article
@@ -18,12 +18,18 @@ lightbox: true
 sidebar: true
 tags:
   - pediatric neuropsychology
+  - child neuropsychology
+  - adolescent neuropsychology
   - Joey Trampush
   - adhd
   - autism
   - dyslexia
   - learning disabilities
   - neurodevelopmental disorders
+  - adhd in girls
+  - girls adhd
+  - dysgraphia
+  - dyscalculia
 ---
 
 ![](kids-384.webp "Pediatric Neuropsychology"){width=20em fig-alt="A brainworkup logo for pediatric neuropsychological services."}
