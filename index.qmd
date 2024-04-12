@@ -7,9 +7,9 @@ description: >
   BrainWorkUp Neuropsychology provides comprehensive evaluations for ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
 hide-description: true
 include-in-header: canonical-index.html
-aliases:
-  - joeytrampush.com/index.html
-  - brainworkup.com/index.html
+# aliases:
+#   - joeytrampush.com/index.html
+#   - brainworkup.com/index.html
 format:
   html:
     page-layout: full
