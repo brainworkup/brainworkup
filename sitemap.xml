@@ -18,8 +18,8 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://brainworkup.org/adhd/adhd-black-384.webp</image:loc>
-      <image:title>ADHD Black</image:title>
-      <image:caption>The ADHD Black image on the adhd page.</image:caption>
+      <image:title>ADHD</image:title>
+      <image:caption>ADHD brain image.</image:caption>
       <image:geo_location>Los Angeles, California, USA</image:geo_location>
     </image:image>
   </url>

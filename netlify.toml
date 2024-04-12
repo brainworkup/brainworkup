@@ -68,6 +68,24 @@ force = true
 
 [[redirects]]
 from = "https://joeytrampush.com/docs/projects/"
-to = "brainworkup.org"
+to = "https://brainworkup.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.net/docs/faq/"
+to = "https://brainworkup.org/faq"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.net/docs/pediatric-neuropsychology/"
+to = "https://brainworkup.org/pediatric-neuropsychology"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.com/resources/cv.pdf"
+to = "https://brainworkup.org/joey-trampush/cv.pdf"
 status = 301
 force = true
