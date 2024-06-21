@@ -6,8 +6,8 @@ description: >
 hide-description: true
 # aliases:
 #   - "../docs/contact/"
-filters:
-  - forms
+# filters:
+#   - forms
 form:
   # action: "javascript:submit()"
   action: "/contact/contact_form.php"

@@ -35,7 +35,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://brainworkup.org/adolescent/</loc>
     <lastmod>2024-06-21T17:19:30Z</lastmod>
@@ -102,7 +101,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://brainworkup.org/faq/logo-transparent-384.webp.webp</image:loc>
+      <image:loc>https://brainworkup.org/faq/logo-transparent-384.webp</image:loc>
       <image:title>FAQ</image:title>
       <image:caption>The brainworkup logo on the FAQ page.</image:caption>
       <image:geo_location>Los Angeles, California, USA</image:geo_location>
@@ -119,13 +118,12 @@
     <lastmod>2024-06-21T17:19:30Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <image:image>
-    <image:loc>https://brainworkup.org/joey-trampush/jwt-fitted-512.jpg</image:loc>
-    <image:title>Joey W. Trampush, Ph.D.</image:title>
-    <image:caption>Image of Dr. Joey Trampush.</image:caption>
-    <image:geo_location>Los Angeles, California, USA</image:geo_location>
-  </image:image>
+    <image:image>
+      <image:loc>https://brainworkup.org/joey-trampush/jwt-fitted-512.jpg</image:loc>
+      <image:title>Joey W. Trampush, Ph.D.</image:title>
+      <image:caption>Image of Dr. Joey Trampush.</image:caption>
+      <image:geo_location>Los Angeles, California, USA</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://brainworkup.org/mental-health-diversion/</loc>
