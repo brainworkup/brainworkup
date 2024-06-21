@@ -5,6 +5,7 @@ project:
     port: 3000
     browser: true
   resources:
+    - "sitemap_netlify.xml"
     - "sitemap.xml"
   # render:
     # - "*.qmd"
@@ -215,10 +216,6 @@ execute:
   cache: true
 
 editor: source
-
-filters:
-  - forms
-  - fontawesome
 
 permalinks:
   post: /:year/:month/:day/:slug/

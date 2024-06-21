@@ -119,7 +119,7 @@ brainworkup.git/
 brainworkup.git.bfg-report/
 
 /.luarc.json
-_redirects
+# _redirects
 SECURITY.md
 SECURITY.html
 sitemap (1).xml
@@ -128,3 +128,4 @@ sitemap_netlify.xml
 sitemap_netlify2.xml
 sitemap (3).xml
 disavow.txt
+brainworkup.org/pem

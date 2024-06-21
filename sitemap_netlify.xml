@@ -119,6 +119,12 @@
     <lastmod>2024-04-09T17:19:30Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://brainworkup.org/joey-trampush/jwt-fitted-512.jpg</image:loc>
+      <image:title>Joey W. Trampush, Ph.D.</image:title>
+      <image:caption>Image of Dr. Joey Trampush.</image:caption>
+      <image:geo_location>Los Angeles, California, USA</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://brainworkup.org/mental-health-diversion/</loc>
