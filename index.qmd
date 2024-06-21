@@ -1,10 +1,10 @@
 ---
-title: "BrainWorkUp Neuropsychology, LLC"
+title: "BrainWorkup Neuropsychology, LLC"
 subtitle: |
   Clinical Neuropsychology Practice \
   **Joey Trampush, Ph.D.**
 description: >
-  BrainWorkUp Neuropsychology provides comprehensive evaluations for ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
+  BrainWorkup Neuropsychology provides comprehensive evaluations for ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
 hide-description: true
 include-in-header: header.html
 # aliases:
@@ -18,10 +18,10 @@ css: index.css
 about:
   template: trestles
   image-shape: round
-  image-alt: "A logo of a brain for BrainWorkUp Neuropsychology, LLC."
+  image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
 sidebar: false
 tags:
-  - BrainWorkUp Neuropsychology
+  - Brainworkup neuropsychology
   - neuropsychology
   - forensic neuropsychology
   - neuropsychological assessment
@@ -59,6 +59,7 @@ tags:
   - adhd specialist
   - adhd medicines
   - adhd kendrick
+  - Joey W. Trampush, Ph.D.
 repo-actions: false
 toc: false
 execute:
@@ -70,7 +71,7 @@ lightbox: true
 
 # About
 
-Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkUp Neuropsychology, LLC, is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family.
+Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family.
 
 ---
 

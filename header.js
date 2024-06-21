@@ -2,18 +2,23 @@
 const medicalOrganizationData = {
   "@context": "http://schema.org",
   "@type": "MedicalOrganization",
-  "name": "BrainWorkUp Neuropsychology, LLC",
+  "name": "BrainWorkup Neuropsychology, LLC",
   "url": "https://brainworkup.org/",
   "logo": "https://brainworkup.org/hero.png",
-  "description": "BrainWorkUp Neuropsychology provides comprehensive evaluations for ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.",
+  "description": "BrainWorkup Neuropsychology provides comprehensive evaluations for ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.",
   "founder": {
     "@type": "Person",
-    "name": "Joey Trampush, PhD"
+    "name": "Joey W. Trampush, PhD"
   },
   "specialty": [
-    "Neuropsychological assessment",
+    "Neuropsychological assessment", 
     "ADHD evaluation",
-    "Learning disorder evaluation"
+    "Learning disorder evaluation",
+    "Adult ADHD",
+    "ADHD in girls",
+    "mental health diversion",
+    "forensic examinations",
+    "forensic neuropsychology"
   ]
 };
 

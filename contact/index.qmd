@@ -82,7 +82,7 @@ minutes for a free consultation:
 
 ## Office Location
 
-**BrainWorkUp Neuropsychology, LLC**\
+**BrainWorkup Neuropsychology, LLC**\
 4136 Del Rey Avenue\
 Suite 661\
 Marina Del Rey, CA 90292\
@@ -115,4 +115,3 @@ In some cases, we can provide testing services at your home or place of residenc
     <button type="submit">Send</button>
   </p>
 </form> -->
-
