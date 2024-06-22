@@ -5,10 +5,10 @@ description: >
   An overview of increasing recognition that girls often have ADHD yet go undiagnosed most of the time.
 hide-description: false
 include-in-header: canonical-adhd-in-girls.html
-aliases:
-  - "../docs/disorders/adhd-in-girls.html/"
-  - "../docs/conditions-treated/adhd-in-girls/"
-  - "../services/conditions-treated-adhd-in-girls/"
+# aliases:
+#   - "../docs/disorders/adhd-in-girls.html/"
+#   - "../docs/conditions-treated/adhd-in-girls/"
+#   - "../services/conditions-treated-adhd-in-girls/"
 format:
   html:
     page-layout: article
@@ -19,6 +19,10 @@ tags:
   - adhd symptoms in girls
   - female adhd
   - adhd symptoms in women
+  - add in girls
+  - attention deficit disorder
+  - attention deficit hyperactivity disorder
+  - (ADHD)
 sidebar: true
 image: adhd-girls-384.webp
 image-width: 20em

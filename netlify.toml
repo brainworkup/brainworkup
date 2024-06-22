@@ -2,32 +2,33 @@
 
 [build]
 publish = "_site"
+command = "quarto render && node update-sitemap.js"
 
 [[plugins]]
-	package = "@algolia/netlify-plugin-crawler"
-	
-	[plugins.inputs]
-	branches = ['main']
+package = "@algolia/netlify-plugin-crawler"
+
+[plugins.inputs]
+branches = ['main']
 
 [[plugins]]
-	package = "@netlify/plugin-sitemap"
+package = "@netlify/plugin-sitemap"
 
-	[plugins.inputs]
-	buildDir = "_site"
-	prettyURLs = true
-	trailingSlash = true
-	changeFreq = "weekly"
-	priority = 0.7
-	baseUrl = "https://brainworkup.org"
+[plugins.inputs]
+buildDir = "_site"
+prettyURLs = true
+trailingSlash = true
+changeFreq = "weekly"
+priority = 0.7
+baseUrl = "https://brainworkup.org"
 
 [[plugins]]
-	package = "netlify-plugin-inline-critical-css"
+package = "netlify-plugin-inline-critical-css"
 
-	[plugins.inputs]
-	fileFilter = ["*.html"]
-	directoryFilter = ["!node_modules"]
-	extract = false
-	dimensions = [{ width = 414, height = 896 }, { width = 1920, height = 1080 }]
+[plugins.inputs]
+fileFilter = ["*.html"]
+directoryFilter = ["!node_modules"]
+extract = false
+dimensions = [{ width = 414, height = 896 }, { width = 1920, height = 1080 }]
 
 # Redirects
 
