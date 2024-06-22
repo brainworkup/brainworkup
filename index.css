@@ -162,9 +162,8 @@ h1, h2, h3 {
   max-width: 100%;
   max-height: 280px;
   display: block;
-  margin:
-    margin-top: 3rem;
-    margin-right: auto;
-    margin-bottom: 1.5rem;
-    margin-left: auto;
+  margin-top: 3rem;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+  margin-left: auto;
 } 
