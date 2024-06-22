@@ -1,13 +1,12 @@
 # Plugins
 
-[build]
-publish = "_site"
-command = "/usr/local/bin/quarto render && node update-sitemap.js"
-
 [[plugins]]
 package = "@algolia/netlify-plugin-crawler"
   [plugins.inputs]
   branches = ['main']
+
+[[plugins]]
+package = "netlify-purge-cloudflare-on-deploy"
 
 [[plugins]]
 package = "@netlify/plugin-sitemap"
@@ -15,17 +14,9 @@ package = "@netlify/plugin-sitemap"
   buildDir = "_site"
   prettyURLs = true
   trailingSlash = true
-  changeFreq = "weekly"
-  priority = 0.7
-  baseUrl = "https://brainworkup.org"
 
 [[plugins]]
 package = "netlify-plugin-inline-critical-css"
-  [plugins.inputs]
-  fileFilter = ["*.html"]
-  directoryFilter = ["!node_modules"]
-  extract = false
-  dimensions = [{ width = 414, height = 896 }, { width = 1920, height = 1080 }]
 
 # Redirects
 
