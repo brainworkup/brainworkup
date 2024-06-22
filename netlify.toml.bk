@@ -1,0 +1,91 @@
+# Plugins
+
+[[plugins]]
+package = "@algolia/netlify-plugin-crawler"
+  [plugins.inputs]
+  branches = ['main']
+
+[[plugins]]
+package = "netlify-purge-cloudflare-on-deploy"
+
+# [[plugins]]
+# package = "@netlify/plugin-sitemap"
+#   [plugins.inputs]
+#   buildDir = "_site"
+#   prettyURLs = true
+#   # Append missing trailing slash to pretty URL
+#   trailingSlash = true
+
+# Redirects
+
+[[redirects]]
+from = "http://brainworkup.org/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.net/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.com/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.io/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "www.joeytrampush.com"
+to = "www.brainworkup.org"
+status = 301
+force = true
+
+[[redirects]]
+from = "joeytrampush.com"
+to = "brainworkup.org"
+status = 301
+force = true
+
+[[redirects]]
+from = "brainworkup.net"
+to = "brainworkup.org"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.com/docs/projects/"
+to = "https://brainworkup.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.net/docs/faq/"
+to = "https://brainworkup.org/faq"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://joeytrampush.net/docs/pediatric-neuropsychology/"
+to = "https://brainworkup.org/pediatric-neuropsychology"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://brainworkup.com/resources/cv.pdf"
+to = "https://brainworkup.org/joey-trampush/cv.pdf"
+status = 301
+force = true

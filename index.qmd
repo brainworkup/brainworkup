@@ -13,7 +13,7 @@ include-in-header: header.html
 format:
   html:
     page-layout: full
-image: hero.png
+image: hero.webp
 css: index.css
 about:
   template: trestles
@@ -21,7 +21,9 @@ about:
   image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
 sidebar: false
 tags:
-  - Brainworkup neuropsychology
+  - brainworkup neuropsychology
+  - joey brainworkup
+  - joey trampush brainworkup
   - neuropsychology
   - forensic neuropsychology
   - neuropsychological assessment
@@ -60,6 +62,8 @@ tags:
   - adhd medicines
   - adhd kendrick
   - Joey W. Trampush, Ph.D.
+  - adult-onset adhd
+  - adult aspergers
 repo-actions: false
 toc: false
 execute:

@@ -7,3 +7,6 @@ User-agent: Googlebot
 Allow: /
 
 Sitemap: https://brainworkup.org/sitemap.xml
+
+User-agent: Bingbot
+Allow: /
