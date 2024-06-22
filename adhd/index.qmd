@@ -10,7 +10,7 @@ description: >
 format:
   html:
     page-layout: article
-hide-description: true
+hide-description: false
 image: adhd-black-384.webp
 image-width: 20em
 include-in-header: canonical-adhd.html
@@ -26,7 +26,14 @@ tags:
   - report
   - testing & evaluation
   - signs of adhd
-
+  - attention deficit disorder
+  - attention deficit hyperactivity disorder
+  - ADD
+  - adhd in preschoolers
+  - adhd in children
+  - adhd in adolescents
+  - adhd in college students
+  - adhd in older adults
 ---
 
 ![](adhd-black-384.webp "ADHD"){width=20em fig-alt="A brainworkup logo for ADHD."}
@@ -76,4 +83,3 @@ Evaluating ADHD in older adults presents unique challenges, as symptoms may ofte
 5. **Collaboration with Healthcare Providers**: When necessary, we collaborate with other healthcare providers to ensure a comprehensive approach to diagnosis and management.
 
 6. **Tailored Management Strategies**: We provide personalized recommendations, which may include medication, cognitive-behavioral therapy, lifestyle modifications, and strategies to improve organizational skills and time management.
-
