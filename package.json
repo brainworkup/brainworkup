@@ -1,4 +1,7 @@
 {
   "name": "brainworkup",
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.3.1",
+  "devDependencies": {
+    "typescript": "^5.6.0-dev.20240622"
+  }
 }
