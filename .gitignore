@@ -96,9 +96,9 @@ images/bwu-logo-transparent.png
 images/jwt_fitted2.jpg
 _images/
 _prompts.md
-images/DALL·E 2023-12-22 03.05.55 - Create a favicon with a yellow stylized brain design inside a black circle. The design should be clean and without any text, suitable for a favicon fo.png
-images/DALL·E 2023-12-22 03.13.47 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
-images/DALL·E 2023-12-22 03.13.45 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
+img/DALL·E 2023-12-22 03.05.55 - Create a favicon with a yellow stylized brain design inside a black circle. The design should be clean and without any text, suitable for a favicon fo.png
+img/DALL·E 2023-12-22 03.13.47 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
+img/DALL·E 2023-12-22 03.13.45 - Design a favicon featuring an abstract image of a brain. The brain should convey a sense of pondering outer space. Use a color palette that includes b.png
 services/adult-neuropsychology/adults.png
 services/forensic-neuropsychology/forensic.png
 
@@ -122,11 +122,7 @@ brainworkup.git.bfg-report/
 # _redirects
 SECURITY.md
 SECURITY.html
-sitemap (1).xml
-sitemap (2).xml
 sitemap_netlify.xml
-sitemap_netlify2.xml
-sitemap (3).xml
 disavow.txt
 brainworkup.org/pem
-l
+img/

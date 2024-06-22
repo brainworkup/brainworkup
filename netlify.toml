@@ -1,3 +1,7 @@
+[build]
+publish = "_site"
+command = "quarto render && node update-sitemap.js"
+
 # Plugins
 
 [[plugins]]
