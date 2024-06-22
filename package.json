@@ -1,11 +1,9 @@
 {
   "dependencies": {
     "@algolia/netlify-plugin-crawler": "^1.0.15",
-    "@netlify/plugin-lighthouse": "^3.0.0",
+    "netlify-plugin-formspree": "^1.0.1",
+    "@netlify/plugin-lighthouse": "^6.0.0",
     "@netlify/plugin-sitemap": "^0.8.1",
-    "netlify-plugin-formspree": "^0.0.3",
-    "netlify-plugin-inline-critical-css": "^2.0.0",
-    "tr46": "^5.0.0",
-    "whatwg-url": "^14.0.0"
+    "netlify-plugin-inline-critical-css": "^2.0.0"
   }
 }
