@@ -1,15 +1,15 @@
 # netlify.toml
 
-[build]
-  publish = "_site"
-  command = "node update-sitemap.js"
+# [build]
+#   publish = "_site"
+#   command = "node update-sitemap.js"
 
 # Plugins
 
-[[plugins]]
-package = "@algolia/netlify-plugin-crawler"
-  [plugins.inputs]
-  branches = ['main']
+# [[plugins]]
+# package = "@algolia/netlify-plugin-crawler"
+#   [plugins.inputs]
+#   branches = ['main']
 
 [[plugins]]
 package = "netlify-purge-cloudflare-on-deploy"
