@@ -27,5 +27,5 @@ joeytrampush.com
 ## Welcome
 
 <div style="text-align:center">
-    <img src="images/logo-253.png" alt="bwu favicon" fig-align="center" width="70%" height="70%"/>
+    <img src="logo-253.png" alt="bwu favicon" fig-align="center" width="70%" height="70%"/>
 </div>

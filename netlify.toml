@@ -1,9 +1,7 @@
 # netlify.toml
 
 [build]
-  command = "node update-sitemap.js"
   publish = "_site"
-
 
 # Plugins
 

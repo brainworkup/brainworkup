@@ -6,7 +6,8 @@ project:
     browser: true
   resources:
     - "sitemap.xml"
-  # render:
+  render:
+    - "update-sitemap.js"
     # - "*.qmd"
     # - "!_site/sitemap.xml"
 
