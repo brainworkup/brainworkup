@@ -8,13 +8,12 @@ package = "@algolia/netlify-plugin-crawler"
 [[plugins]]
 package = "netlify-purge-cloudflare-on-deploy"
 
-# [[plugins]]
-# package = "@netlify/plugin-sitemap"
-#   [plugins.inputs]
-#   buildDir = "_site"
-#   prettyURLs = true
-#   # Append missing trailing slash to pretty URL
-#   trailingSlash = true
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+  [plugins.inputs]
+  buildDir = "_site"
+  prettyURLs = true
+  trailingSlash = true
 
 # Redirects
 
