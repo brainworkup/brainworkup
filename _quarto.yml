@@ -35,7 +35,7 @@ website:
   repo-actions: [issue]
   page-navigation: true
   bread-crumbs: true
-  # google-analytics: "G-HW85H7H8P6"
+  google-analytics: "G-HW85H7H8P6"
   cookie-consent: true
   back-to-top-navigation: false
   reader-mode: false
