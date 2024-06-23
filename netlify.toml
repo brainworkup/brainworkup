@@ -54,8 +54,8 @@ to = "/joey-trampush/cv.pdf"
 status = 301
 force = true
 
-[[redirects]]
-from = "/forensic-neuropsychology/trampush-joey_forensic-neuropsych_fee-schedule_2023-2024.pdf"
-to = "/forensic-neuropsychology/jwt_forensic_neuropsychology_fee_schedule_2023-2024.pdf"
-status = 301
-force = true
+# [[redirects]]
+# from = "/forensic-neuropsychology/trampush-joey_forensic-neuropsych_fee-schedule_2023-2024.pdf"
+# to = "/forensic-neuropsychology/jwt_forensic_neuropsychology_fee_schedule_2023-2024.pdf"
+# status = 301
+# force = true
