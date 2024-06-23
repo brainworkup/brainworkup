@@ -1,6 +1,9 @@
+# netlify.toml
+
 [build]
-publish = "_site"
-command = "quarto render && node update-sitemap.js"
+  command = "./install_quarto.sh && quarto render && node update-sitemap.js"
+  publish = "_site"
+
 
 # Plugins
 
