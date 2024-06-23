@@ -6,14 +6,14 @@ project:
     browser: true
   resources:
     - "sitemap.xml"
-  render:
-    - "update-sitemap.js"
+  # render:
+  #   - "update-sitemap.js"
     # - "*.qmd"
     # - "!_site/sitemap.xml"
 
 website:
   title: "brainworkup"
-  image: "logo.webp"
+  image: "logo.png"
   favicon: "favicon.png"
   open-graph:
     locale: en_US
@@ -60,7 +60,7 @@ website:
     left: |
       MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
 
-      [![](/logo.webp){fig-alt="BrainWorkUp" width=75px}](https://brainworkup.org)
+      [![](/logo.png){fig-alt="BrainWorkwup" width=75px}](https://brainworkup.org)
     center:
       - text: "About"
         href: joey-trampush/index.qmd
@@ -216,6 +216,10 @@ execute:
   cache: true
 
 editor: source
+
+filters:
+  # - forms
+  - fontawesome
 
 permalinks:
   post: /:year/:month/:day/:slug/

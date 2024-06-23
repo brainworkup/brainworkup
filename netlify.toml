@@ -2,6 +2,7 @@
 
 [build]
   publish = "_site"
+  command = "node update-sitemap.js"
 
 # Plugins
 

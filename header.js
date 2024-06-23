@@ -4,7 +4,7 @@ const medicalOrganizationData = {
   "@type": "MedicalOrganization",
   "name": "BrainWorkup Neuropsychology, LLC",
   "url": "https://brainworkup.org/",
-  "logo": "https://brainworkup.org/hero.webp",
+  "logo": "https://brainworkup.org/hero.png",
   "description": "BrainWorkup Neuropsychology provides comprehensive evaluations for ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.",
   "founder": {
     "@type": "Person",
