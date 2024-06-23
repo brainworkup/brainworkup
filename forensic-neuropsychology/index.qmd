@@ -2,8 +2,8 @@
 title: General Forensic Services
 title-meta: Forensic Neuropsychological Services
 description: "An overview of the forensic neuropsychological and medicolegal services provided by Dr. Trampush @ BrainWorkup Neuropsychology, LLC"
-aliases:
-  - "../docs/forensic-neuropsychology/"
+# aliases:
+#   - "../docs/forensic-neuropsychology/"
 format:
   html:
     page-layout: article
@@ -45,7 +45,9 @@ These evaluations are essential in various legal contexts, aiding in decision-ma
 
 ## Services Offered
 
-We provide several types of evaluations, including competency evaluations and criminal responsibility assessments, following evidence-based practices and ethical guidelines.
+We provide several types of evaluations, including competency evaluations and
+criminal responsibility assessments, following evidence-based practices and
+ethical guidelines.
 
 ## Who Can Benefit?
 
@@ -65,6 +67,12 @@ Our assessment process is thorough, tailored to each case.
 
 We adhere to the highest standards of confidentiality and legal compliance in our practice.
 
+## Fee Schedule
+
+Dr. Trampush's fee schedule for forensic neuropsychological services is available [here](jwt_forensic_neuropsychology_fee_schedule_2023-2024.pdf).
+
 ## Contact Information
 
-For scheduling and more information, please [Contact](/contact/index.qmd#online-inquiry) us here.
+For scheduling and more information, please
+[Contact](/contact/index.qmd#online-inquiry) us.
+

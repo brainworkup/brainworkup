@@ -1,7 +1,27 @@
+# Plugins
+
 [[plugins]]
 package = "@algolia/netlify-plugin-crawler"
-[plugins.inputs]
-branches = ['main']
+  [plugins.inputs]
+  branches = ['main']
+
+[[plugins]]
+package = "netlify-purge-cloudflare-on-deploy"
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+  [plugins.inputs]
+  buildDir = "_site"
+  prettyURLs = true
+  trailingSlash = true
+
+# Redirects
+
+[[redirects]]
+from = "http://brainworkup.org/*"
+to = "https://brainworkup.org/:splat"
+status = 301
+force = true
 
 [[redirects]]
 from = "https://brainworkup.net/*"
@@ -28,12 +48,6 @@ status = 301
 force = true
 
 [[redirects]]
-from = "https://joeytrampush.com/"
-to = "https://brainworkup.org/"
-status = 301
-force = true
-
-[[redirects]]
 from = "www.joeytrampush.com"
 to = "www.brainworkup.org"
 status = 301
@@ -52,91 +66,25 @@ status = 301
 force = true
 
 [[redirects]]
-from = "http://www.joeytrampush.com/"
-to = "http://brainworkup.org/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.com/"
+from = "https://joeytrampush.com/docs/projects/"
 to = "https://brainworkup.org/"
 status = 301
 force = true
 
 [[redirects]]
-from = "https://brainworkup.net/"
-to = "https://brainworkup.org/"
+from = "https://brainworkup.net/docs/faq/"
+to = "https://brainworkup.org/faq"
 status = 301
 force = true
 
 [[redirects]]
-from = "https://joeytrampush.com/docs/blog/"
-to = "https://brainworkup.org/blog/"
+from = "https://joeytrampush.net/docs/pediatric-neuropsychology/"
+to = "https://brainworkup.org/pediatric-neuropsychology"
 status = 301
 force = true
 
 [[redirects]]
-from = "https://brainworkup.org/docs/contact/"
-to = "https://brainworkup.org/contact/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/docs/faq/"
-to = "https://brainworkup.org/faq/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/docs/blog/"
-to = "https://brainworkup.org/blog/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/docs/clinical-services/"
-to = "https://brainworkup.org/services/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/docs/about/joey-trampush/"
-to = "https://brainworkup.org/joey-trampush/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://joeytrampush.com/authors/*"
-to = "https://brainworkup.org/joey-trampush/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/docs/adult-neuropsychology/"
-to = "https://brainworkup.org/adult-neuropsychology/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/services/mental-health-diversion/"
-to = "https://brainworkup.org/mental-health-diversion/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/services/adult-neuropsychology/"
-to = "https://brainworkup.org/adult-neuropsychology/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://brainworkup.org/services/conditions-treated/adhd/"
-to = "https://brainworkup.org/adhd/"
-status = 301
-force = true
-
-[[redirects]]
-from = "https://joeytrampush.com/docs/adhd-evaluation/adhd/"
-to = "https://brainworkup.org/adhd/"
+from = "https://brainworkup.com/resources/cv.pdf"
+to = "https://brainworkup.org/joey-trampush/cv.pdf"
 status = 301
 force = true

@@ -2,24 +2,24 @@
 title: "Autism"
 subtitle: Evaluating social difficulties, behavioral patterns, and sensory processing differences characteristic of autism spectrum disorders
 description: |
-  We provide diagnostic screening services for Autism Spectrum Disorders (ASD)
-  using evidence-based methods to assess social
-  communication, behavioral patterns, and sensory processing differences
-  characteristic of ASD.
+  We provide diagnostic screening services for autism spectrum disorders (ASD) to assess social communication, behavioral patterns, and sensory processing difficulties. 
 hide-description: true
 include-in-header: canonical-autism.html
-aliases:
-  - ../docs/disorders/autism.html
-  - ../docs/conditions-treated/autism/
-  - ../services/conditions-treated/autism/
+# aliases:
+#   - ../docs/disorders/autism.html
+#   - ../docs/conditions-treated/autism/
+#   - ../services/conditions-treated/autism/
 format:
   html:
     page-layout: article
 tags:
   - autism
   - ASD
-  - autism spectrum disorder
+  - autism spectrum disorders
   - Asperger's
+  - aspergers
+  - pdd
+  - pervasive developmental disorder
 sidebar: true
 ---
 

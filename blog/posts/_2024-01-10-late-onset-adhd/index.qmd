@@ -1,0 +1,14 @@
+---
+title: "Late Onset ADHD"
+subtitle: "Is it a thing? Yes. Sort of."
+description: >
+  Comparing childhood onset vs. late onset (adolescence, young adulthood, older
+  adults) ADHD
+author: Joey Trampush, PhD
+date: 2024-01-10
+draft: true
+categories:
+  - ADHD
+---
+
+![](boomboxbrain.webp "Adult Onset ADHD"){width=15em fig-alt="A picture of a boombox with a brain inside of it. The brain is wearing headphones and listening to music."}

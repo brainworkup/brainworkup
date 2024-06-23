@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "deno.logFile": false,
+    "githubPullRequests.ignoredPullRequestBranches": ["main"],
+    "quarto.render.renderOnSave": true,
+    "quarto.zotero.dataDir": "/Users/joey/Zotero",
+    "editor.acceptSuggestionOnEnter": "on"
+  }
+}

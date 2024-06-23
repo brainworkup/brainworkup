@@ -10,9 +10,9 @@ format:
   html:
     page-layout: article
 include-in-header: "canonical-emerging-adulthood.html"
-aliases:
-  - "../docs/adult-neuropsychology/emerging-adulthood/"
-  - "../services/adult-neuropsychology/emerging-adulthood/"
+# aliases:
+#   - "../docs/adult-neuropsychology/emerging-adulthood/"
+#   - "../services/adult-neuropsychology/emerging-adulthood/"
 ---
 
 ![Standup to the stigma of mental illness.](mentalhealth1.jpeg "Emerging Adulthood"){width=20em}

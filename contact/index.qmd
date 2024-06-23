@@ -4,8 +4,8 @@ title: "Contact Us"
 description: >
   Contact information for Brainworkup Neuropsychology, LLC.
 hide-description: true
-aliases:
-  - "../docs/contact/"
+# aliases:
+#   - "../docs/contact/"
 filters:
   - forms
 form:
@@ -70,9 +70,19 @@ link below to our inquiry form:
 
 [Online Inquiry Form](https://forms.gle/UNx9qUcihytE63qt5)
 
+## Schedule a Consultation Today
+
+To schedule a consultation, please use the calendar below to select a day/date
+and time that is convenient for you to meet with Dr. Trampush on Zoom for 30
+minutes for a free consultation:
+
+<!-- Motion embed begin -->
+<iframe src="https://app.usemotion.com/meet/joey.trampush/consult" title="Motion Booking Page" width="100%" height="840px" frameborder="0"></iframe>
+<!-- Motion embed end -->
+
 ## Office Location
 
-**Brainworkup Neuropsychology, LLC**\
+**BrainWorkUp Neuropsychology, LLC**\
 4136 Del Rey Avenue\
 Suite 661\
 Marina Del Rey, CA 90292\
@@ -86,8 +96,7 @@ office for the initial consultation visit and for the feedback visit. Please con
 
 ## Testing at Home
 
-In some cases, we can provide testing services at your home (i.e., a "house
-call"). Please contact us for more information. An additional small fee applies.
+In some cases, we can provide testing services at your home or place of residence. Please contact us for more information. An additional small fee applies.
 
 <!-- ## Form
 
@@ -107,17 +116,3 @@ call"). Please contact us for more information. An additional small fee applies.
   </p>
 </form> -->
 
-
-<!-- ## PHP
-
-```{=html}
-<body>
-
-<form action="welcome_get.php" method="get">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
-<input type="submit">
-</form>
-
-</body>
-``` -->

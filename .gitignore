@@ -5,6 +5,7 @@
 .history/
 # images/
 _notes_on_website_design.md
+.DS_Store
 
 # /_site/
 .Rproj.user
@@ -20,7 +21,7 @@ node_modules/
 /Users/joey/brainworkup/images/jwt_fighton.jpg
 local/
 _local/
-img/
+# img/
 data/
 /_local/**
 docs/faq/insurance.md
@@ -101,3 +102,30 @@ images/DALL·E 2023-12-22 03.13.45 - Design a favicon featuring an abstract imag
 services/adult-neuropsychology/adults.png
 services/forensic-neuropsychology/forensic.png
 
+insurance_neuropsych.md
+insurance_neuropsych.pdf
+brainworkup_superbill_template.md
+
+# gist
+
+table1.png
+
+# Local Netlify folder
+.netlify/
+redirects.csv
+brainworkup.org.pem
+brainworkup.org.key
+brainworkup.git/
+brainworkup.git.bfg-report/
+
+/.luarc.json
+_redirects
+SECURITY.md
+SECURITY.html
+sitemap (1).xml
+sitemap (2).xml
+sitemap_netlify.xml
+sitemap_netlify2.xml
+sitemap (3).xml
+disavow.txt
+img/

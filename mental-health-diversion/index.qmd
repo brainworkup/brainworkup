@@ -1,9 +1,9 @@
 ---
 title: "Mental Health Diversion"
-aliases:
-  - "../docs/forensic-neuropsychology/mental-health-diversion/"
-  - "../services/forensic-neuropsychology/mental-health-diversion/"
-  - "../services/mental-health-diversion/"
+# aliases:
+#   - "../docs/forensic-neuropsychology/mental-health-diversion/"
+#   - "../services/forensic-neuropsychology/mental-health-diversion/"
+#   - "../services/mental-health-diversion/"
 description-meta: >
   This page provides an introduction to mental health diversion, key aspects of the program, and our approach to conducting mental health diversion evaluations.
 format:
