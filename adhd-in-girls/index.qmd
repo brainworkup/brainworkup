@@ -3,12 +3,12 @@ title: "ADHD in Girls"
 subtitle: Girls have ADHD too
 description: >
   An overview of increasing recognition that girls often have ADHD yet go undiagnosed most of the time.
-hide-description: true
+hide-description: false
 include-in-header: canonical-adhd-in-girls.html
-# aliases:
-#   - "../docs/disorders/adhd-in-girls.html/"
-#   - "../docs/conditions-treated/adhd-in-girls/"
-#   - "../services/conditions-treated-adhd-in-girls/"
+aliases:
+  - "../docs/disorders/adhd-in-girls.html/"
+  - "../docs/conditions-treated/adhd-in-girls/"
+  - "../services/conditions-treated/adhd-in-girls/"
 format:
   html:
     page-layout: article
@@ -40,5 +40,3 @@ potential.
 ## Suggested reading
 
 - [Dr. Steve Hinshaw's book on girls with ADHD](https://www.guilford.com/books/Straight-Talk-about-ADHD-in-Girls/Stephen-Hinshaw/9781462547517)
-
-
