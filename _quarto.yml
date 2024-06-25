@@ -218,8 +218,8 @@ execute:
 editor: source
 
 filters:
-  # - forms
   - fontawesome
+  # - forms
 
 permalinks:
   post: /:year/:month/:day/:slug/
