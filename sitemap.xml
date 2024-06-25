@@ -9,25 +9,41 @@
   <loc>https://brainworkup.org/404/</loc>
   <lastmod>2024-06-22T21:05:40Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
+  <priority>0.3</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/</loc>
   <lastmod>2024-06-22T21:05:37Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+  <priority>1.0</priority>
+</url>
+<url>
+<loc>https://brainworkup.org/adhd/</loc>
+<lastmod>2024-06-22T21:05:42Z</lastmod>
+<changefreq>weekly</changefreq>
+<url>
+  <loc>https://brainworkup.org/404/</loc>
+  <lastmod>2024-06-22T21:05:40Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.3</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/</loc>
+  <lastmod>2024-06-22T21:05:37Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/adhd/</loc>
   <lastmod>2024-06-22T21:05:42Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+  <priority>0.8</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/adhd-in-girls/</loc>
   <lastmod>2024-06-22T21:05:37Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+  <priority>0.9</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/adolescent/</loc>
@@ -45,7 +61,7 @@
   <loc>https://brainworkup.org/adult-onset-adhd/</loc>
   <lastmod>2024-06-22T21:05:34Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+  <priority>0.9</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/autism/</loc>
@@ -69,7 +85,54 @@
   <loc>https://brainworkup.org/conditions-treated/</loc>
   <lastmod>2024-06-22T21:05:36Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/adhd-in-girls/</loc>
+  <lastmod>2024-06-22T21:05:37Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/adolescent/</loc>
+  <lastmod>2024-06-22T21:05:36Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/adult-neuropsychology/</loc>
+  <lastmod>2024-06-22T21:05:40Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/adult-onset-adhd/</loc>
+  <lastmod>2024-06-22T21:05:34Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/autism/</loc>
+  <lastmod>2024-06-22T21:05:36Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/blog/</loc>
+  <lastmod>2024-06-22T21:05:42Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/concussion/</loc>
+  <lastmod>2024-06-22T21:05:41Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://brainworkup.org/conditions-treated/</loc>
+  <lastmod>2024-06-22T21:05:36Z</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/contact/</loc>
@@ -81,7 +144,7 @@
   <loc>https://brainworkup.org/contact/submit_form/</loc>
   <lastmod>2024-06-22T21:05:33Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/dyslexia/</loc>
@@ -105,37 +168,37 @@
   <loc>https://brainworkup.org/faq/</loc>
   <lastmod>2024-06-22T21:05:35Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/forensic-neuropsychology/</loc>
   <lastmod>2024-06-22T21:05:34Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.94</priority>
+  <priority>0.94</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/independent-medical-exam/</loc>
   <lastmod>2024-06-22T21:05:34Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.93</priority>
+  <priority>0.93</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/joey-trampush/</loc>
   <lastmod>2024-06-22T21:05:37Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.97</priority>
+  <priority>0.97</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/mental-health-diversion/</loc>
   <lastmod>2024-06-22T21:05:39Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.92</priority>
+  <priority>0.92</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/pediatric-neuropsychology/</loc>
   <lastmod>2024-06-22T21:05:39Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
+  <priority>0.85</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/preschool/</loc>
@@ -153,30 +216,30 @@
   <loc>https://brainworkup.org/services/</loc>
   <lastmod>2024-06-22T21:05:42Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
+  <priority>0.85</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/testing-accommodations/</loc>
   <lastmod>2024-06-22T21:05:34Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.93</priority>
+  <priority>0.93</priority>
 </url>
 
 <url>
   <loc>https://brainworkup.org/blog/posts/2023-12-11-welcome/</loc>
   <lastmod>2024-06-22T21:05:38Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.64</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/blog/posts/2023-12-13-adhd-post/</loc>
   <lastmod>2024-06-22T21:05:38Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.63</priority>
+  <priority>0.63</priority>
 </url>
 <url>
   <loc>https://brainworkup.org/blog/posts/2023-12-20-brain-development-tutorial/</loc>
   <lastmod>2024-06-22T21:05:38Z</lastmod>
   <changefreq>weekly</changefreq>
-    <priority>0.62</priority>
+  <priority>0.62</priority>
 </url>
