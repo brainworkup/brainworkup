@@ -1,0 +1,14 @@
+.favicon-gradient-background {
+  background: #e3f988;
+  background: linear-gradient(to bottom, #e3f988 0%, #d4ea79 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e3f988), color-stop(100%, #d4ea79));
+  background: -webkit-linear-gradient(top, #e3f988 0%, #d4ea79 100%);
+  background: -moz-linear-gradient(top, #e3f988 0%, #d4ea79 100%);
+  background: -o-linear-gradient(top, #e3f988 0%, #d4ea79 100%);
+  background: -ms-linear-gradient(top, #e3f988 0%, #d4ea79 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E3F988', endColorstr='#D4EA79', GradientType=0);
+  border: 1px solid #c5db6a;
+  box-shadow: inset 0 1px 0 #f2ff97;
+  -webkit-box-shadow: inset 0 1px 0 #f2ff97;
+  -moz-box-shadow: inset 0 1px 0 #f2ff97;
+}
