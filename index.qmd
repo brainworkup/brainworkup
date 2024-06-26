@@ -13,7 +13,7 @@ include-in-header: header.html
 format:
   html:
     page-layout: full
-image: hero.png
+image: hero.webp
 css: index.css
 about:
   template: trestles
@@ -73,7 +73,7 @@ execute:
 lightbox: true
 ---
 
-# About
+## About
 
 Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup Neuropsychology, LLC, is a neuropsychology practice based in Southern California. We specialize in state-of-the-art neurocognitive and neurobehavioral examinations for children, adolescents, and adults. We are dedicated to understanding individual cognitive strengths and weaknesses, working collaboratively with you and your family.
 

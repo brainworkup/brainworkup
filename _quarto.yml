@@ -13,7 +13,7 @@ project:
 
 website:
   title: "brainworkup"
-  image: "logo.png"
+  image: "logo.webp"
   favicon: "favicon.png"
   open-graph:
     locale: en_US
@@ -60,7 +60,7 @@ website:
     left: |
       MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
 
-      [![](/logo.png){fig-alt="BrainWorkwup" width=75px}](https://brainworkup.org)
+      [![](/logo.webp){fig-alt="BrainWorkwup" width=75px}](https://brainworkup.org)
     center:
       - text: "About"
         href: joey-trampush/index.qmd
