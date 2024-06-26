@@ -6,10 +6,9 @@ project:
     browser: true
   resources:
     - "sitemap.xml"
+    - "_headers"
   # render:
-  #   - "update-sitemap.js"
     # - "*.qmd"
-    # - "!_site/sitemap.xml"
 
 website:
   title: "brainworkup"
