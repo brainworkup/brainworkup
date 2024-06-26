@@ -1,7 +1,7 @@
 # Algolia-Crawler-Verif: 08F47F4E25FEEC1A
 
 User-agent: *
-Disallow: /cdn-cgi/
+Disallow:
 
 User-agent: Googlebot
 Allow: /
