@@ -1,5 +1,6 @@
 ---
 title: "Dyslexia"
+subtitle: "Dyslexia is a common learning disorder that affects how easily and efficiently you can learn to read."
 description: >
   We specialize in evaluating dyslexia and related learning disorders in both
   children and adults.
@@ -11,8 +12,9 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: dyslexia-384.png
-image-width: 20em
+image: dyslexia.webp
+image-width: 5em
+image-height: 5em
 lightbox: true
 tags:
   - dyslexia
@@ -36,7 +38,7 @@ tags:
   - dyslexia symptoms
 ---
 
-![](dyslexia-384.png "Dyslexia"){width=20em height=20em fig-alt="A brainworkup logo for dyslexia."}
+![](dyslexia.webp "Dyslexia"){fig-alt="A brainworkup logo for dyslexia."}
 
 ## Addressing Dyslexia and Learning Disorders
 
@@ -79,4 +81,3 @@ Dyslexia often presents as difficulties in reading and writing, potentially affe
 Our aim is to assist you in identifying dyslexia and recommend suitable accommodations. We employ psychological testing, behavioral observations, and consultations with your educational institution for accurate diagnosis and treatment recommendations.
 
 Academic adjustments like additional time, extended breaks, or a private room can help mitigate the impact of dyslexia, enabling you to perform at your fullest potential.
-

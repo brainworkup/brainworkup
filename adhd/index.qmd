@@ -11,8 +11,9 @@ format:
   html:
     page-layout: article
 hide-description: false
-image: adhd-black-384.webp
-image-width: 20em
+image: adhd-black.webp
+image-width: 5em
+image-height: 5em
 include-in-header: canonical-adhd.html
 lightbox: true
 sidebar: true
@@ -36,7 +37,7 @@ tags:
   - adhd in older adults
 ---
 
-![](adhd-black-384.webp "ADHD"){width=20em fig-alt="A brainworkup logo for ADHD."}
+![](adhd-black.webp "ADHD"){fig-alt="A brainworkup logo for ADHD."}
 
 ## Overview
 

@@ -3,7 +3,7 @@ title: "Executive Functioning"
 subtitle: "Diving Deep into Executive Function: The Core of Neurocognitive Health"
 description: >
   Understanding and addressing executive dysfunction in neurodevelopmental and neuropsychiatric disorders.
-hide-description: true
+hide-description: false
 # aliases:
 #   - ../docs/disorders/executive-function.html
 #   - ../docs/conditions-treated/executive-function/
@@ -16,13 +16,14 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: executive-384.png
-image-width: 20em
+image: executive.webp
+image-width: 5em
+image-height: 5em
 lightbox: true
 include-in-header: canonical-executive-function.html
 ---
 
-![](executive-384.png "Executive Function"){width=20em fig-alt="A brainworkup
+![](executive.webp "Executive Function"){fig-alt="A brainworkup
 logo for executive function."}
 
 ## Our Brain's Inner Connection to the Outside World

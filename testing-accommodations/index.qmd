@@ -4,7 +4,7 @@ subtitle: "Testing and school accommodations for students with disabilities"
 description: >
   Academic and standardized testing accommodations (e.g., MCAT, LSAT, SAT) for
   students with ADHD, learning disorders, emotional disorders, and disabilities.
-hide-description: true
+hide-description: false
 # aliases:
 #   - ../docs/disorders/mcat.html
   # - "../docs/conditions-treated/testing-accommodations/"
@@ -14,14 +14,15 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: testing-384.png
-image-width: 20em
+image: test-taker.webp
+image-width: 15em
+image-height: 15em
 lightbox: true
 include-in-header: canonical-testing-accommodations.html
 tags: [mcat accommodations, testing, accommodations, disabilities, ADHD, dyslexia, dysgraphia, dyscalculia, depression, anxiety, PTSD, head injury, ADA, ACT, SAT, MCAT, GMAT, GRE, LSAT, PCAT, bar exam, standardized test, professional licensing exam]
 ---
 
-![](testing-384.png "Accommodations"){width=20em fig-alt="A
+![](test-taker.webp "Accommodations"){fig-alt="A
 brainworkup logo of a brain for testing and academic accommodations."}
 
 ## Need for Services
@@ -148,4 +149,3 @@ A comprehensive report will be provided to you and your family. The report will 
 
 Testing accommodations aim to level the playing field for applicants with disabilities, ensuring fair assessment of abilities.
 Comprehensive evaluations by licensed professionals are vital for substantiating accommodation requests.
-
