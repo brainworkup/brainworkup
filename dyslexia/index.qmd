@@ -13,8 +13,8 @@ format:
     page-layout: article
 sidebar: true
 image: dyslexia.webp
-image-width: 5em
-image-height: 5em
+image-width: 1em
+image-height: 1em
 lightbox: true
 tags:
   - dyslexia

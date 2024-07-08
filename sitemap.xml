@@ -21,25 +21,7 @@
 <loc>https://brainworkup.org/adhd/</loc>
 <lastmod>2024-06-22T21:05:42Z</lastmod>
 <changefreq>weekly</changefreq>
-<url>
-  <loc>https://brainworkup.org/404/</loc>
-  <lastmod>2024-06-22T21:05:40Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.3</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/</loc>
-  <lastmod>2024-06-22T21:05:37Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/adhd/</loc>
-  <lastmod>2024-06-22T21:05:42Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
-</url>
-<url>
+    <url>
   <loc>https://brainworkup.org/adhd-in-girls/</loc>
   <lastmod>2024-06-22T21:05:37Z</lastmod>
   <changefreq>weekly</changefreq>
@@ -81,60 +63,7 @@
   <changefreq>weekly</changefreq>
   <priority>0.7</priority>
 </url>
-<url>
-  <loc>https://brainworkup.org/conditions-treated/</loc>
-  <lastmod>2024-06-22T21:05:36Z</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://brainworkup.org/adhd-in-girls/</loc>
-  <lastmod>2024-06-22T21:05:37Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.9</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/adolescent/</loc>
-  <lastmod>2024-06-22T21:05:36Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/adult-neuropsychology/</loc>
-  <lastmod>2024-06-22T21:05:40Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/adult-onset-adhd/</loc>
-  <lastmod>2024-06-22T21:05:34Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.9</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/autism/</loc>
-  <lastmod>2024-06-22T21:05:36Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/blog/</loc>
-  <lastmod>2024-06-22T21:05:42Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/concussion/</loc>
-  <lastmod>2024-06-22T21:05:41Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://brainworkup.org/conditions-treated/</loc>
-  <lastmod>2024-06-22T21:05:36Z</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
-</url>
-<url>
+    <url>
   <loc>https://brainworkup.org/contact/</loc>
   <lastmod>2024-06-22T21:05:33Z</lastmod>
   <changefreq>weekly</changefreq>
