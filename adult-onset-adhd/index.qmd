@@ -12,7 +12,8 @@ include-in-header: canonical-adult-onset-adhd.html
 #   - "../services/adult-neuropsychology/adult-onset-adhd/"
 image: boomboxbrain.webp
 sidebar: true
-image-width: 20em
+image-width: 5em
+image-height: 5em
 lightbox: true
 tags:
   - adhd in adults
@@ -20,14 +21,19 @@ tags:
   - what is add
   - signs of adhd
   - inattentive adhd
-
+  - adult onset adhd
+  - late onset adhd
+  - adult-onset adhd
+  - late-onset adhd
+  - adult add
+  - add in adults
 ---
 
-![](boomboxbrain.webp "Adult ADHD"){width=20em fig-alt="A brainworkup logo for adult ADHD."}
+![](boomboxbrain.webp "Adult ADHD"){fig-alt="A brainworkup logo for adult ADHD."}
 
 ## Introduction
 
-Attention-Deficit/Hyperactivity Disorder (ADHD), traditionally considered a childhood disorder, has been increasingly recognized in adults. Recent studies, including those by the Multimodal Treatment of ADHD (MTA) group, have sparked a debate on the validity of "Late Onset ADHD" or "Adult Onset ADHD." This page aims to explore the evidence for and against this concept and to understand how it differs from ADHD diagnosed in childhood.
+Attention-deficit/hyperactivity disorder (ADHD), traditionally considered a childhood disorder, has been increasingly recognized in adults. Recent studies, including those by the Multimodal Treatment of ADHD (MTA) group, have sparked a debate on the validity of "Late Onset ADHD" or "Adult Onset ADHD." This page aims to explore the evidence for and against this concept and to understand how it differs from ADHD diagnosed in childhood.
 
 ## What is Late Onset ADHD?
 
@@ -77,7 +83,3 @@ The debate on Late Onset ADHD highlights the complexity of ADHD as a whole and u
 - MTA Group Studies on ADHD
 - Recent Research on Neurodevelopmental Changes in ADHD
 - Comparative Studies on Childhood vs. Adult Onset ADHD
-
-
-
-

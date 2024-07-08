@@ -3,14 +3,14 @@ title: "Frequently Asked Questions"
 subtitle: "Common questions about our neuropsychological evaluation services"
 description: >
   Frequently asked questions about our neuropsychological evaluations.
-hide-description: true
+hide-description: false
 # aliases:
 #   - "../docs/faq/"
 format:
   html:
     page-layout: article
-image: logo-transparent-384.webp
 include-in-header: canonical-faq.html
+image: logo-transparent-384.webp
 lightbox: true
 repo-actions: false
 sidebar: false
@@ -147,4 +147,3 @@ In case your insurance company requires authorization for a neuropsychological e
 ### Payments
 
 We accept cash, checks, Venmo, Zelle, MasterCard, Visa and AMEX. Payment is due at the time of service. We will provide you with a detailed “super bill” that you can submit to your insurance company for reimbursement. We recommend that you contact your insurance company to determine your out-of-network benefits.
-

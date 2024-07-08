@@ -58,7 +58,7 @@ neuropsychology, and delve into the
 complexities of ADHD, OCD, autism, learning disorders, and other neurodevelopmental
 and neuropsychiatric disorders across the lifespan.
 
-I'll talk about the fascinating world of the developing brain, understanding how
+I'll talk about the world of the developing brain, understanding how
 it shapes behavior, learning, and emotion. And about the things I know best. My focus lies in untangling the
 nuances of clinical developmental neuropsychology – a field that not only offers
 insights into the growing mind but also provides critical information for early
@@ -92,4 +92,3 @@ Articles/Posts:
 
 ::: {#gallery .column-page}
 :::
-

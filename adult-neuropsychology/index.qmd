@@ -4,7 +4,7 @@ title-meta: Neuropsychological Assessment for Adults
 subtitle: "Neurocognitive Testing in Adults"
 description: >
   Understanding neuropsychological evaluations for diverse adult age groups.
-hide-description: true
+hide-description: false
 format:
   html:
     page-layout: article
@@ -18,10 +18,9 @@ tags:
   - neuropsychologist
 sidebar: true
 image: adults-384.png
-image-width: 20em
+image-width: 5em
+image-height: 5em
 lightbox: true
-# aliases:
-#   - "../docs/adult-neuropsychology/"
 ---
 
 ![](adults-384.png "Adult Clinical Services"){width=20em fig-alt="A brainworkup kids logo for adult services."}
