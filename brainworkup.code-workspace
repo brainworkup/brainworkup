@@ -9,6 +9,12 @@
     "githubPullRequests.ignoredPullRequestBranches": ["main"],
     "quarto.render.renderOnSave": true,
     "quarto.zotero.dataDir": "/Users/joey/Zotero",
-    "editor.acceptSuggestionOnEnter": "on"
+    "editor.acceptSuggestionOnEnter": "on",
+    "workbench.colorCustomizations": {
+      "panel.border": "#dee2fc66",
+      "sash.hoverBorder": "#dee2fc66",
+      "sideBar.border": "#dee2fc66",
+      "tab.activeBorder": "#dee2fc66"
+    }
   }
 }
