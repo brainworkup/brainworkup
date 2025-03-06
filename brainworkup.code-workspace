@@ -6,7 +6,9 @@
   ],
   "settings": {
     "deno.logFile": false,
-    "githubPullRequests.ignoredPullRequestBranches": ["main"],
+    "githubPullRequests.ignoredPullRequestBranches": [
+      "main"
+    ],
     "quarto.render.renderOnSave": true,
     "quarto.zotero.dataDir": "/Users/joey/Zotero",
     "editor.acceptSuggestionOnEnter": "on",
@@ -15,6 +17,7 @@
       "sash.hoverBorder": "#dee2fc66",
       "sideBar.border": "#dee2fc66",
       "tab.activeBorder": "#dee2fc66"
-    }
+    },
+    "workbench.colorTheme": "focus"
   }
 }
