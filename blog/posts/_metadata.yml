@@ -15,4 +15,3 @@ website:
   site-url: "https://www.brainworkup.org"
 # citation:
 #   url: &post_url_base "https://github.com/brainworkup/blog/posts/:year/:month/:day/:slug/"
-draft: true
