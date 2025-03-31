@@ -124,7 +124,6 @@ SECURITY.html
 sitemap_netlify.xml
 disavow.txt
 brainworkup.org/pem
-img/
 package-lock-bk.json.bk
 package-lock.json.bk
 # css/MindaroGradientColorPalette.css
@@ -139,4 +138,6 @@ cf-2fa-verify_backup_codes.txt
 .gitignore
 brainworkup.code-workspace
 cf-2fa-verify_backup_codes.txt
-img/
+/img/
+/_freeze/
+/.well-known/
