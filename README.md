@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 # Joey Trampush, PhD @ brainworkup
 
-Static repository for brainworkup.org, brainworkup.io, brainworkup.com,
-joeytrampush.com
+Static repository for brainworkup.org/.io/.com
 
 ## Published via Netlify using Quarto
 
