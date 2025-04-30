@@ -13,9 +13,9 @@ format:
   html:
     page-layout: article
 tags:
-  - adhd
+  - ADHD
   - girls
-  - adhd in girls
+  - ADHD in girls
   - adhd symptoms in girls
   - female adhd
   - adhd symptoms in women
