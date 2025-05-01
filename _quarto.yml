@@ -11,22 +11,27 @@ project:
   # - "*.qmd"
 
 website:
-  title: "brainworkup"
+  title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
+  description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
   image: "logo.webp"
   favicon: "favicon.png"
   open-graph:
     locale: en_US
-    site-name: brainworkup
+    site-name: "BrainWorkup Neuropsychology"
+    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
+    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
     image: "preview.png"
-    image-width: 96
-    image-height: 96
+    image-width: 1200
+    image-height: 630
   twitter-card:
     creator: "@brainworkup"
     site: "@brainworkup"
     card-style: "summary_large_image"
+    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
+    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
     image: "preview.png"
-    image-width: 96
-    image-height: 96
+    image-width: 1200
+    image-height: 630
   site-url: "https://brainworkup.org"
   site-path: "/"
   repo-url: https://github.com/brainworkup/brainworkup
@@ -37,7 +42,7 @@ website:
   bread-crumbs: true
   google-analytics: "G-HW85H7H8P6"
   cookie-consent: true
-  back-to-top-navigation: false
+  back-to-top-navigation: true
   reader-mode: false
   search:
     location: navbar
@@ -59,7 +64,7 @@ website:
     left: |
       MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
 
-      [![](/logo.webp){fig-alt="BrainWorkwup" width=75px}](https://brainworkup.org)
+      [![](/logo.webp){fig-alt="BrainWorkup" width=75px}](https://brainworkup.org)
     center:
       - text: "About"
         href: joey-trampush/index.qmd

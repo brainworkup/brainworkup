@@ -1,12 +1,31 @@
 # Algolia-Crawler-Verif: 08F47F4E25FEEC1A
 
+# Allow all crawlers
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /_site/
+Disallow: /_freeze/
+Disallow: /_extensions/
+Disallow: /css/
+Disallow: /ejs/
+Disallow: /figs/
+Disallow: /img/
+Disallow: /R/
+Disallow: /styles/
+Disallow: /contact/submit_form.html
 
+# Google-specific
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 1
 
-Sitemap: https://brainworkup.org/sitemap.xml
-
+# Bing-specific
 User-agent: Bingbot
 Allow: /
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://brainworkup.org/sitemap.xml
+
+# Host
+Host: brainworkup.org

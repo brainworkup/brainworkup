@@ -1,10 +1,10 @@
 ---
-title: "BrainWorkup Neuropsychology, LLC"
+title: "BrainWorkup Neuropsychology"
 subtitle: |
-  Clinical Neuropsychology Practice \
+  Southern California Pediatric and Forensic Neuropsychology Practice \
   **Joey Trampush, Ph.D.**
 description: >
-  BrainWorkup Neuropsychology provides comprehensive evaluations for ADHD, dyslexia, learning disorders, forensic examinations, and psychiatric assessments.
+  BrainWorkup Neuropsychology provides expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Los Angeles and Southern California.
 hide-description: true
 include-in-header: header.html
 # aliases:
@@ -18,52 +18,67 @@ css: index.css
 about:
   template: trestles
   image-shape: round
-  image-alt: "A logo of a brain for BrainWorkup Neuropsychology, LLC."
+  image-alt: "BrainWorkup Neuropsychology logo - comprehensive neuropsychological assessments in Southern California."
 sidebar: false
 tags:
-  - brainworkup neuropsychology
-  - joey brainworkup
-  - joey trampush brainworkup
-  - neuropsychology
-  - forensic neuropsychology
-  - neuropsychological assessment
-  - neuropsychological testing
   - ADHD
-  - learning disorders
-  - Joey Trampush
-  - Dr. Joey Trampush
-  - joey trampush
-  - joey w trampush
-  - joey trampush cv
-  - doctor joey trampush
-  - adult onset adhd
-  - adhd in girls
-  - brainworkup
-  - brain
-  - adhd test
-  - adhd medication
-  - adhd medications
-  - adhd diagnosis
-  - adhd symptoms
-  - adhd online
-  - adhd meaning
-  - adhd screening
-  - what is adhd
-  - attention deficit hyperactivity disorder
+  - ADHD diagnosis
+  - ADHD doctor
+  - ADHD in girls
+  - ADHD Kendrick Lamar
+  - ADHD meaning
+  - ADHD medication
+  - ADHD medications
+  - ADHD medicines
+  - ADHD online
+  - ADHD screening
+  - ADHD specialist
+  - ADHD specialist
+  - ADHD symptoms
+  - ADHD test
+  - ADHD testing
+  - adult Asperger's
+  - adult onset ADHD
+  - adult-onset ADHD
   - attention deficit disorder
-  - inattention
+  - attention deficit hyperactivity disorder
+  - autism assessment
+  - autism evaluation
+  - brain
+  - brainworkup
+  - brainworkup neuropsychology
+  - Clinical Services
+  - doctor joey trampush
+  - Dr. Joey Trampush
+  - dyslexia evaluation
+  - dyslexia testing
+  - dysgraphia
+  - dyscalculia
+  - dyspraxia
+  - executive function assessment
+  - executive function testing
+  - forensic neuropsychology
   - hyperactivity
   - impulsivity
-  - neurological work-up
-  - Neuropsychological Services
-  - Clinical Services
-  - adhd doctor
-  - adhd specialist
-  - adhd medicines
-  - adhd kendrick
+  - inattention
+  - joey brainworkup
+  - joey trampush
+  - Joey Trampush
+  - joey trampush brainworkup
+  - joey trampush cv
+  - joey w trampush
   - Joey W. Trampush, Ph.D.
-  - adult-onset adhd
-  - adult aspergers
+  - learning disability assessment
+  - learning disability testing
+  - learning disorders
+  - neurological work-up
+  - neuropsychological assessment
+  - Neuropsychological Services
+  - neuropsychological testing
+  - neuropsychologist Los Angeles
+  - neuropsychologist southern california
+  - neuropsychology
+  - what is ADHD
 repo-actions: false
 toc: false
 execute:
