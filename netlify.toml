@@ -3,7 +3,9 @@
 [[plugins]]
 package = "@algolia/netlify-plugin-crawler"
 [plugins.inputs]
-branches = ['main']
+branches = [
+  'main',
+]
 
 [[plugins]]
 package = "netlify-purge-cloudflare-on-deploy"
@@ -11,89 +13,127 @@ package = "netlify-purge-cloudflare-on-deploy"
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 [plugins.inputs]
-buildDir = "_site"
-prettyURLs = true
+buildDir      = "_site"
+prettyURLs    = true
 trailingSlash = true
 
 [[plugins]]
 package = "netlify-plugin-inline-critical-css"
 
+# Headers for performance optimization
+
+[[headers]]
+for = "/*"
+[headers.values]
+Cache-Control           = "public, max-age=31536000, immutable"
+X-Content-Type-Options  = "nosniff"
+X-Frame-Options         = "DENY"
+X-XSS-Protection        = "1; mode=block"
+Referrer-Policy         = "strict-origin-when-cross-origin"
+Permissions-Policy      = "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+Content-Security-Policy = "upgrade-insecure-requests"
+
+[[headers]]
+for = "/*.js"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+for = "/*.css"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+for = "/*.webp"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+for = "/*.jpg"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+for = "/*.png"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
 # Redirects
 
 [[redirects]]
-from = "http://brainworkup.org/*"
-to = "https://brainworkup.org/:splat"
+from   = "http://brainworkup.org/*"
+to     = "https://brainworkup.org/:splat"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://brainworkup.net/*"
-to = "https://brainworkup.org/:splat"
+from   = "https://brainworkup.net/*"
+to     = "https://brainworkup.org/:splat"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://brainworkup.com/*"
-to = "https://brainworkup.org/:splat"
+from   = "https://brainworkup.com/*"
+to     = "https://brainworkup.org/:splat"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://brainworkup.io/*"
-to = "https://brainworkup.org/:splat"
+from   = "https://brainworkup.io/*"
+to     = "https://brainworkup.org/:splat"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://joeytrampush.com/*"
-to = "https://brainworkup.org/:splat"
+from   = "https://joeytrampush.com/*"
+to     = "https://brainworkup.org/:splat"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "www.joeytrampush.com"
-to = "www.brainworkup.org"
+from   = "www.joeytrampush.com"
+to     = "www.brainworkup.org"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "joeytrampush.com"
-to = "brainworkup.org"
+from   = "joeytrampush.com"
+to     = "brainworkup.org"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "brainworkup.net"
-to = "brainworkup.org"
+from   = "brainworkup.net"
+to     = "brainworkup.org"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://joeytrampush.com/docs/projects/"
-to = "https://brainworkup.org/"
+from   = "https://joeytrampush.com/docs/projects/"
+to     = "https://brainworkup.org/"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://brainworkup.net/docs/faq/"
-to = "https://brainworkup.org/faq"
+from   = "https://brainworkup.net/docs/faq/"
+to     = "https://brainworkup.org/faq"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://joeytrampush.net/docs/pediatric-neuropsychology/"
-to = "https://brainworkup.org/pediatric-neuropsychology"
+from   = "https://joeytrampush.net/docs/pediatric-neuropsychology/"
+to     = "https://brainworkup.org/pediatric-neuropsychology"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "https://brainworkup.com/resources/cv.pdf"
-to = "https://brainworkup.org/joey-trampush/cv.pdf"
+from   = "https://brainworkup.com/resources/cv.pdf"
+to     = "https://brainworkup.org/joey-trampush/cv.pdf"
 status = 301
-force = true
+force  = true
 
 [[redirects]]
-from = "/forensic-neuropsychology/trampush-joey_forensic-neuropsych_fee-schedule_2023-2024.pdf"
-to = "/forensic-neuropsychology/jwt_forensic_neuropsychology_fee_schedule_2023-2024.pdf"
+from   = "/forensic-neuropsychology/trampush-joey_forensic-neuropsych_fee-schedule_2023-2024.pdf"
+to     = "/forensic-neuropsychology/jwt_forensic_neuropsychology_fee_schedule_2023-2024.pdf"
 status = 301
-force = true
+force  = true

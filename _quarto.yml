@@ -193,6 +193,7 @@ format:
     theme:
       light: [cosmo, theme.scss]
     css: styles.css
+    include-in-header: _includes/head-scripts.html
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap

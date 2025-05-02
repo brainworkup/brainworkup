@@ -134,6 +134,71 @@ cookieconsent.run({
 </script> 
   
 <style>html{ scroll-behavior: smooth; }</style>
+<!-- Preload critical resources -->
+<link rel="preload" href="site_libs/quarto-search/autocomplete.umd.js" as="script">
+<link rel="preload" href="site_libs/quarto-search/quarto-search.js" as="script">
+<link rel="preload" href="site_libs/cookie-consent/cookie-consent.js" as="script">
+<link rel="preload" href="site_libs/bootstrap/bootstrap.min.js" as="script">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" as="script">
+
+<!-- Add inline critical CSS here if needed -->
+<style>
+  /* Add critical CSS here */
+</style>
+
+<!-- Script to add defer attribute to render-blocking scripts -->
+<script>
+  // Function to add defer attribute to script tags
+  function deferScripts() {
+    // List of script URLs to add defer attribute to
+    const scriptsToDefer = [
+      "site_libs/quarto-search/autocomplete.umd.js",
+      "site_libs/quarto-search/quarto-search.js",
+      "site_libs/cookie-consent/cookie-consent.js",
+      "site_libs/bootstrap/bootstrap.min.js",
+      "https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js",
+    ];
+
+    // Create a MutationObserver to watch for script tags being added to the document
+    const observer = new MutationObserver(function (mutations) {
+      mutations.forEach(function (mutation) {
+        if (mutation.addedNodes) {
+          mutation.addedNodes.forEach(function (node) {
+            // Check if the added node is a script tag
+            if (node.tagName === "SCRIPT" && node.src) {
+              for (const scriptUrl of scriptsToDefer) {
+                if (
+                  node.src.includes(scriptUrl) &&
+                  !node.hasAttribute("defer") &&
+                  !node.hasAttribute("async")
+                ) {
+                  // Remove the script
+                  node.parentNode.removeChild(node);
+
+                  // Create a new script with defer attribute
+                  const newScript = document.createElement("script");
+                  newScript.src = node.src;
+                  newScript.defer = true;
+
+                  // Add the new script to the document
+                  document.head.appendChild(newScript);
+                  console.log("Deferred:", node.src);
+                  break;
+                }
+              }
+            }
+          });
+        }
+      });
+    });
+
+    // Start observing the document
+    observer.observe(document, { childList: true, subtree: true });
+  }
+
+  // Run the function immediately
+  deferScripts();
+</script>
 <link rel="canonical" href="https://brainworkup.org/emerging-adulthood/">
 
 
