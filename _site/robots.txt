@@ -1,8 +1,18 @@
+# Robots.txt for BrainWorkup.org
+# Last updated: 2025-01-22
+
+# Default - Allow all legitimate bots
 User-agent: *
 Allow: /
+Crawl-delay: 0
+
+# Sitemap location
 Sitemap: https://brainworkup.org/sitemap.xml
 
-# Allow all crawlers access to specific service pages
+# Priority pages for crawling
+Allow: /
+Allow: /los-angeles-neuropsychologist/
+Allow: /adhd/
 Allow: /adhd-in-girls/
 Allow: /adult-onset-adhd/
 Allow: /adult-neuropsychology/
@@ -12,6 +22,43 @@ Allow: /testing-accommodations/
 Allow: /joey-trampush/
 Allow: /services/
 Allow: /contact/
+Allow: /faq/
+Allow: /dyslexia/
+Allow: /autism/
+Allow: /executive-function/
 
-# Disallow potential duplicate content
+# Allow access to assets
+Allow: /*.css
+Allow: /*.js
+Allow: /*.webp
+Allow: /*.png
+Allow: /*.jpg
+
+# Disallow duplicate content and drafts
 Disallow: /blog/posts/_*
+Disallow: /_notes/
+Disallow: /_templates/
+Disallow: /R/
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Google specific directives
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing specific directives
+User-agent: bingbot
+Allow: /
+Crawl-delay: 0
