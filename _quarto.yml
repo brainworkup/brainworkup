@@ -1,230 +1,89 @@
 project:
   type: website
   output-dir: _site
-  preview:
-    port: 3000
-    browser: true
   resources:
-    - "sitemap.xml"
+    - "*.webp"
+    - "*.png"
+    - "*.jpg"
+    - "*.jpeg"
+    - "*.svg"
+    - "*.ico"
+    - "*.pdf"
+    - "*.txt"
+    - "site_libs/"
+    - "_redirects"
     - "_headers"
-  # render:
-  # - "*.qmd"
+    - "CNAME"
+    - ".nojekyll"
 
 website:
-  title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
-  description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
-  image: "logo.webp"
-  favicon: "favicon.png"
-  open-graph:
-    locale: en_US
-    site-name: "BrainWorkup Neuropsychology"
-    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
-    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
-    image: "preview.png"
-    image-width: 1200
-    image-height: 630
-  twitter-card:
-    creator: "@brainworkup"
-    site: "@brainworkup"
-    card-style: "summary_large_image"
-    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
-    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
-    image: "preview.png"
-    image-width: 1200
-    image-height: 630
-  site-url: "https://brainworkup.org"
-  site-path: "/"
-  repo-url: https://github.com/brainworkup/brainworkup
-  repo-branch: origin
-  issue-url: https://github.com/brainworkup/brainworkup/issues
-  repo-actions: [edit]
-  page-navigation: true
-  bread-crumbs: true
-  google-analytics: "G-HW85H7H8P6"
-  cookie-consent: true
-  back-to-top-navigation: true
-  reader-mode: false
-  search:
-    location: navbar
-    type: overlay
-    copy-button: true
-    show-item-context: true
-    algolia:
-      index-name: netlify_104efd43-d6ca-45be-b3cc-806c026e306c_main_all
-      application-id: MUSKCL25U0
-      search-only-api-key: 88aa5eda961e038670ae6e8aa6e60687
-      analytics-events: true
-      show-logo: true
-      index-fields:
-        href: url
-        title: title
-        section: sec
-        text: body
+  title: "BrainWorkup Neuropsychology"
+  site-url: https://brainworkup.org
+  description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, and forensic assessments in Los Angeles and Southern California."
+  favicon: favicon.png
+  repo-actions: "none"
+  open-graph: true
+  twitter-card: true
+  search: true
+
+  # Global navigation
+  navbar:
+    logo: logo.webp
+    background: "#F9FBFC"
+    pinned: true
+    collapse: true
+    right:
+      - text: "Home"
+        href: /index.html
+      - text: "Services"
+        menu:
+          - text: "ADHD Testing"
+            href: /adhd/index.html
+          - text: "ADHD in Girls"
+            href: /adhd-in-girls/index.html
+          - text: "Adult-Onset ADHD"
+            href: /adult-onset-adhd/index.html
+          - text: "Autism Assessment"
+            href: /autism/index.html
+          - text: "Pediatric Services"
+            href: /pediatric-neuropsychology/index.html
+          - text: "Adult Services"
+            href: /adult-neuropsychology/index.html
+          - text: "Forensic Services"
+            href: /forensic-neuropsychology/index.html
+      - text: "About"
+        href: /joey-trampush/index.html
+      - text: "Contact"
+        href: /contact/index.html
+
+  # Footer shown on all pages
   page-footer:
     left: |
-      MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
+      © 2025 BrainWorkup Neuropsychology, LLC<br>
+      4136 Del Rey Avenue, Suite 661<br>
+      Marina del Rey, CA 90292
+    center: |
+      [Terms & Privacy Policy](/privacy.html)<br>
+      [Contact Us](/contact/index.html)
+    right: |
+      [Call: (213) 495-1155](tel:2134951155)<br>
+      [Email: info@brainworkup.org](mailto:info@brainworkup.org)<br>
+      [Get Directions](https://goo.gl/maps/5Q4Z2jW2Z2Z2)
 
-      [![](/logo.webp){fig-alt="BrainWorkup" width=75px}](https://brainworkup.org)
-    center:
-      - text: "About"
-        href: joey-trampush/index.qmd
-      - text: "Services"
-        href: services/index.qmd
-      - text: "FAQ"
-        href: faq/index.qmd
-      - text: "Contact"
-        href: contact/index.qmd
-    right:
-      - icon: github
-        href: https://github.com/brainworkup/brainworkup/
-        aria-label: Github
-      - icon: twitter
-        href: https://twitter.com/brainworkup/
-        aria-label: Twitter
-      - icon: instagram
-        href: https://instagram.com/brainworkup/
-        aria-label: Instagram
-      - icon: linkedin
-        aria-label: LinkedIn
-        href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-
-  navbar:
-    title: "**brainworkup**"
-    background: "#33373f"
-    foreground: light
-    collapse-below: lg
-    left:
-      - text: "Dr Trampush"
-        href: joey-trampush/index.qmd
-      - text: "Services"
-        href: services/index.qmd
-      - text: "FAQ"
-        href: faq/index.qmd
-      - text: "Contact"
-        href: contact/index.qmd
-      - text: "Blog"
-        href: blog/index.qmd
-    right:
-      - icon: phone
-        text: "**(213) 495-1155**"
-        href: tel:2134951155
-      - icon: envelope
-        text: "**info@brainworkup.org**"
-        href: mailto:info@brainworkup.org
-    tools:
-      - icon: github
-        href: https://github.com/brainworkup/brainworkup/
-        aria-label: Github
-      - icon: twitter
-        href: https://twitter.com/brainworkup/
-        aria-label: Twitter
-      - icon: instagram
-        href: https://instagram.com/brainworkup/
-        aria-label: Instagram
-      - icon: linkedin
-        aria-label: LinkedIn
-        href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-      - icon: rss
-        href: https://brainworkup.org/blog/index.xml
-        aria-label: BWU Blog RSS
-
-  sidebar:
-    - id: about
-      title: "Dr Trampush"
-      style: "floating"
-      collapse-level: 1
-      align: left
-      contents:
-        - joey-trampush/index.qmd
-
-    - id: services
-      collapse-level: 3
-      contents:
-        - section: "Clinical Services"
-          href: services/index.qmd
-          contents:
-            - section: "**Pediatric Neuropsychology**"
-              contents:
-                - pediatric-neuropsychology/index.qmd
-                - preschool/index.qmd
-                - school-age/index.qmd
-                - adolescent/index.qmd
-            - section: "**Adult Neuropsychology**"
-              contents:
-                - adult-neuropsychology/index.qmd
-                - emerging-adulthood/index.qmd
-                - adult-onset-adhd/index.qmd
-            - section: "**Forensic Neuropsychology**"
-              contents:
-                - forensic-neuropsychology/index.qmd
-                - independent-medical-exam/index.qmd
-                - mental-health-diversion/index.qmd
-            - section: "**Conditions Treated**"
-              contents:
-                # - conditions-treated/index.qmd
-                - adhd/index.qmd
-                - adhd-in-girls/index.qmd
-                - testing-accommodations/index.qmd
-                - dyslexia/index.qmd
-                - executive-function/index.qmd
-                - autism/index.qmd
-                - concussion/index.qmd
-
-    - id: faq
-      title: "FAQ"
-      collapse-level: 1
-      contents:
-        - section: "FAQ"
-          href: faq/index.qmd
-
-    - id: contact
-      title: "Contact"
-      collapse-level: 1
-      contents:
-        - section: "Contact Us"
-          href: contact/index.qmd
-
+# Global format options applied to all pages
 format:
   html:
+    theme: cosmo
+    css: styles.min.css
     toc: true
-    toc-depth: 4
-    toc-expand: 1
-    toc-title: "**On this page**"
-    theme:
-      light: [cosmo, theme.scss]
-    css: styles.css
-    include-in-header: _includes/head-scripts.html
-    include-after-body: js.html
-    code-copy: true
-    code-overflow: wrap
     smooth-scroll: true
-    grid:
-      sidebar-width: 325px
-      body-width: 925px
-      margin-width: 250px
-      gutter-width: 1.5rem
-    fontsize: 1.2em
-    linestretch: 1.14
-    highlight-style: dracula
-    fontcolor: "#181818"
-    linkcolor: "#AA336A"
-    link-external-icon: true
     link-external-newwindow: true
-    author-meta: "Joey Trampush"
-    lightbox: true
-
-bibliography: refs.bib
-metadata-files: [brain2.yml]
-
-execute:
-  freeze: true
-  cache: true
-
-editor: source
-
-filters:
-  - fontawesome
-  # - forms
-
-permalinks:
-  post: /:year/:month/:day/:slug/
+    link-external-filter: ^(?:http:|https:)\/\/brainworkup\.org
+    include-in-header: header.html
+    include-after-body: common-scripts.html
+    filters:
+      - fix-relative-links.lua
+    metadata:
+      lang: en
+    self-contained: false
+    anchor-sections: true

@@ -5,17 +5,17 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>brainworkup</title>
+<title>BrainWorkup Neuropsychology</title>
 <link>https://brainworkup.org/blog/</link>
 <atom:link href="https://brainworkup.org/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Writings about neuropsychology, neuroscience, and mental health
 </description>
 <image>
 <url>https://brainworkup.org/biggie-600.jpg</url>
-<title>brainworkup</title>
+<title>BrainWorkup Neuropsychology</title>
 <link>https://brainworkup.org/blog/</link>
 </image>
 <generator>quarto-1.8.14</generator>
-<lastBuildDate>Sun, 22 Jun 2025 04:18:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Jun 2025 05:11:17 GMT</lastBuildDate>
 </channel>
 </rss>

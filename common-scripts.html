@@ -1,0 +1,97 @@
+<!-- Path Fixing for Quarto Subfolders -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Check if we're in a subfolder by counting slashes in pathname
+    const pathSegments = window.location.pathname.split("/").filter(Boolean);
+    const isSubfolder = pathSegments.length > 1;
+
+    if (isSubfolder) {
+      console.log("Subfolder detected, fixing resource paths...");
+
+      // Fix script paths
+      function fixScriptPaths() {
+        // Add scripts that are missing
+        const requiredScripts = [
+          "site_libs/quarto-search/autocomplete.umd.js",
+          "site_libs/quarto-search/quarto-search.js",
+          "site_libs/cookie-consent/cookie-consent.js",
+          "site_libs/bootstrap/bootstrap.min.js",
+          "site_libs/quarto-html/quarto.js",
+          "site_libs/quarto-html/popper.min.js",
+          "site_libs/quarto-nav/quarto-nav.js",
+          "site_libs/quarto-nav/headroom.min.js",
+        ];
+
+        requiredScripts.forEach((src) => {
+          const scriptName = src.split("/").pop();
+          // Check if script exists but path is wrong
+          const existingScripts = Array.from(
+            document.querySelectorAll("script[src]")
+          );
+          const scriptExists = existingScripts.some((script) => {
+            return script.src.includes(scriptName);
+          });
+
+          if (!scriptExists) {
+            console.log("Adding missing script:", src);
+            const script = document.createElement("script");
+            script.src = "../" + src;
+            script.async = true;
+            document.body.appendChild(script);
+          }
+        });
+
+        // Fix existing script paths
+        document.querySelectorAll("script[src]").forEach((script) => {
+          const src = script.getAttribute("src");
+          if (src && src.startsWith("site_libs/") && !src.startsWith("../")) {
+            console.log("Fixing script path:", src);
+            script.src = "../" + src;
+          }
+        });
+      }
+
+      // Fix stylesheet paths
+      function fixStylesheetPaths() {
+        document.querySelectorAll('link[rel="stylesheet"]').forEach((link) => {
+          const href = link.getAttribute("href");
+          if (
+            href &&
+            href.startsWith("site_libs/") &&
+            !href.startsWith("../")
+          ) {
+            console.log("Fixing stylesheet path:", href);
+            link.href = "../" + href;
+          }
+        });
+      }
+
+      // Fix image paths
+      function fixImagePaths() {
+        document.querySelectorAll("img").forEach((img) => {
+          const src = img.getAttribute("src");
+          if (
+            src &&
+            !src.startsWith("http") &&
+            !src.startsWith("../") &&
+            !src.startsWith("/")
+          ) {
+            // Skip images that are already in the same folder
+            if (!src.includes("/")) {
+              return;
+            }
+            console.log("Fixing image path:", src);
+            img.src = "../" + src;
+          }
+        });
+      }
+
+      // Run all path fixing functions
+      fixScriptPaths();
+      fixStylesheetPaths();
+      fixImagePaths();
+
+      console.log("Path fixing complete");
+    }
+  });
+</script>
