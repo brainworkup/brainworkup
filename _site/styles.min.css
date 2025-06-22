@@ -1,0 +1,129 @@
+:root {
+  --primary-blue: #1a73e8;
+  --calming-teal: #0d9488;
+  --warm-accent: #f59e0b;
+  --text-primary: #1f2937;
+  --text-secondary: #6b7280;
+  --background: #fff;
+  --surface: #f9fafb;
+  --font-main: Inter, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-heading: "Nunito", var(--font-main);
+  --content-width: 1200px;
+}
+.navbar-title {
+  font-weight: 700;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+  background: linear-gradient(
+    240.01deg,
+    #4b555b 15.29%,
+    rgba(67, 78, 84, 0) 138.75%
+  );
+}
+.cell {
+  margin-bottom: 1rem;
+}
+.cell > .sourceCode {
+  margin-bottom: 0;
+}
+.cell-output > pre {
+  margin-bottom: 0;
+}
+.cell-output > pre,
+.cell-output > .sourceCode > pre,
+.cell-output-stdout > pre {
+  margin-left: 0.8rem;
+  margin-top: 0;
+  background: 0 0;
+  border-left: 2px solid lightsalmon;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.cell-output > .sourceCode {
+  border: none;
+  background: 0 0;
+  margin-top: 0;
+}
+.hero-section {
+  background: linear-gradient(135deg, #eff6ff 0, #f0fdfa 100%);
+  padding: 3rem 2rem;
+  text-align: center;
+  margin-bottom: 4rem;
+}
+.hero-section h2 {
+  font-size: 2.5rem;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+.trust-signals {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+  background: var(--surface);
+  border-radius: 1rem;
+  margin: 3rem 0;
+}
+.service-highlight {
+  border-left: 4px solid var(--primary-blue);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+}
+.btn-primary {
+  background: var(--primary-blue);
+  color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 600;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(26, 115, 232, 0.2);
+}
+.description {
+  padding-left: 2px;
+  padding-top: 5px;
+  font-style: italic;
+  font-size: 135%;
+  opacity: 70%;
+}
+.about-image.round {
+  height: calc(76.25vw + 13px);
+  width: calc(76.25vw + 13px);
+}
+@media (min-width: 400px) {
+  .about-image.round {
+    height: 303px;
+    width: 303px;
+  }
+}
+@media (min-width: 991.98px) {
+  #quarto-header {
+    border-bottom: 1px solid #dee2e6;
+  }
+}
+@media (min-width: 1020px) {
+  .navbar-brand-container {
+    margin-right: 1em;
+  }
+}
+@media (max-width: 1060px) and (min-width: 991.98px) {
+  #navbarCollapse ul:last-of-type a.nav-link {
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+  }
+  .navbar #quarto-search {
+    margin-left: 0.1em;
+  }
+  .navbar .bi-twitter,
+  .navbar .bi-github,
+  .navbar .bi-rss,
+  .navbar .bi-instagram {
+    font-size: 0.8em;
+  }
+}

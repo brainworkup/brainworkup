@@ -1,31 +1,17 @@
-# Algolia-Crawler-Verif: 08F47F4E25FEEC1A
-
-# Allow all crawlers
 User-agent: *
 Allow: /
-Disallow: /_site/
-Disallow: /_freeze/
-Disallow: /_extensions/
-Disallow: /css/
-Disallow: /ejs/
-Disallow: /figs/
-Disallow: /img/
-Disallow: /R/
-Disallow: /styles/
-Disallow: /contact/submit_form.html
-
-# Google-specific
-User-agent: Googlebot
-Allow: /
-Crawl-delay: 1
-
-# Bing-specific
-User-agent: Bingbot
-Allow: /
-Crawl-delay: 1
-
-# Sitemap
 Sitemap: https://brainworkup.org/sitemap.xml
 
-# Host
-Host: brainworkup.org
+# Allow all crawlers access to specific service pages
+Allow: /adhd-in-girls/
+Allow: /adult-onset-adhd/
+Allow: /adult-neuropsychology/
+Allow: /pediatric-neuropsychology/
+Allow: /forensic-neuropsychology/
+Allow: /testing-accommodations/
+Allow: /joey-trampush/
+Allow: /services/
+Allow: /contact/
+
+# Disallow potential duplicate content
+Disallow: /blog/posts/_*

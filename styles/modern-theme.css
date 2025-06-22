@@ -1,0 +1,484 @@
+/* ============================================
+   Modern Theme System for BrainWorkup Neuropsychology
+   
+   This is your master theme file that establishes a complete
+   design system for your entire website. Think of it as the
+   DNA of your site's visual identity.
+   ============================================ */
+
+/* ===================
+   Design Tokens (Your Visual DNA)
+   
+   These CSS custom properties act like a painter's palette.
+   By defining colors, spacing, and other values here, we can
+   ensure perfect consistency across your entire site.
+   =================== */
+:root {
+  /* Primary Color Palette
+     These are your signature colors that create brand recognition */
+  --brain-blue: #2563eb;      /* Trust & professionalism */
+  --brain-teal: #0d9488;      /* Healing & growth */
+  --brain-purple: #7c3aed;    /* Innovation & expertise */
+  
+  /* Extended Palette
+     Variations of your primary colors for subtle design needs */
+  --brain-blue-light: #60a5fa;
+  --brain-blue-dark: #1e40af;
+  --brain-teal-light: #5eead4;
+  --brain-teal-dark: #065f46;
+  --brain-purple-light: #a78bfa;
+  --brain-purple-dark: #5b21b6;
+  
+  /* Gradient Definitions
+     Pre-defined gradients ensure consistency across all elements */
+  --gradient-primary: linear-gradient(120deg, var(--brain-blue), var(--brain-teal));
+  --gradient-secondary: linear-gradient(120deg, var(--brain-teal), var(--brain-purple));
+  --gradient-tertiary: linear-gradient(120deg, var(--brain-purple), var(--brain-blue));
+  --gradient-hero: linear-gradient(135deg, #eff6ff 0%, #f0fdfa 100%);
+  --gradient-dark: linear-gradient(120deg, #1f2937, #111827);
+  
+  /* Neutral Colors
+     These create hierarchy and readability */
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-400: #9ca3af;
+  --gray-500: #6b7280;
+  --gray-600: #4b5563;
+  --gray-700: #374151;
+  --gray-800: #1f2937;
+  --gray-900: #111827;
+  
+  /* Semantic Colors
+     These communicate meaning instantly */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  --color-info: var(--brain-blue);
+  
+  /* Typography Scale
+     A harmonious type system based on mathematical ratios */
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  --font-display: 'Nunito', var(--font-sans);  /* For headings */
+  
+  /* Font Sizes using Perfect Fourth scale (1.333 ratio) */
+  --text-xs: 0.75rem;     /* 12px */
+  --text-sm: 0.875rem;    /* 14px */
+  --text-base: 1rem;      /* 16px */
+  --text-lg: 1.125rem;    /* 18px */
+  --text-xl: 1.25rem;     /* 20px */
+  --text-2xl: 1.5rem;     /* 24px */
+  --text-3xl: 1.875rem;   /* 30px */
+  --text-4xl: 2.25rem;    /* 36px */
+  --text-5xl: 3rem;       /* 48px */
+  --text-6xl: 3.75rem;    /* 60px */
+  
+  /* Spacing System
+     Based on 8px grid for visual rhythm */
+  --space-1: 0.25rem;     /* 4px */
+  --space-2: 0.5rem;      /* 8px */
+  --space-3: 0.75rem;     /* 12px */
+  --space-4: 1rem;        /* 16px */
+  --space-6: 1.5rem;      /* 24px */
+  --space-8: 2rem;        /* 32px */
+  --space-12: 3rem;       /* 48px */
+  --space-16: 4rem;       /* 64px */
+  --space-20: 5rem;       /* 80px */
+  --space-24: 6rem;       /* 96px */
+  
+  /* Border Radius
+     Consistent curves create visual harmony */
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --radius-full: 9999px;
+  
+  /* Shadows
+     Elevation creates hierarchy and depth */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+  --shadow-glow: 0 0 20px rgb(37 99 235 / 0.15);
+  
+  /* Animation Timing
+     Smooth, consistent animations feel professional */
+  --transition-fast: 150ms ease;
+  --transition-base: 300ms ease;
+  --transition-slow: 500ms ease;
+  
+  /* Layout Constants */
+  --max-width-xs: 20rem;
+  --max-width-sm: 24rem;
+  --max-width-md: 28rem;
+  --max-width-lg: 32rem;
+  --max-width-xl: 36rem;
+  --max-width-2xl: 42rem;
+  --max-width-3xl: 48rem;
+  --max-width-4xl: 56rem;
+  --max-width-5xl: 64rem;
+  --max-width-6xl: 72rem;
+  --max-width-7xl: 80rem;
+}
+
+/* ===================
+   Global Reset & Base Styles
+   
+   These establish a clean foundation, removing browser
+   inconsistencies and setting sensible defaults
+   =================== */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* This enables smooth scrolling for anchor links */
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  line-height: 1.5;
+  color: var(--gray-900);
+  background-color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ===================
+   Typography System
+   
+   Consistent typography creates professional credibility
+   =================== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--gray-900);
+  margin-top: 0;
+  margin-bottom: var(--space-4);
+}
+
+h1 { 
+  font-size: var(--text-5xl);
+  letter-spacing: -0.025em;
+}
+
+h2 { 
+  font-size: var(--text-4xl);
+  letter-spacing: -0.02em;
+}
+
+h3 { 
+  font-size: var(--text-3xl);
+  letter-spacing: -0.015em;
+}
+
+h4 { font-size: var(--text-2xl); }
+h5 { font-size: var(--text-xl); }
+h6 { font-size: var(--text-lg); }
+
+/* Responsive typography that scales with screen size */
+@media (max-width: 768px) {
+  h1 { font-size: var(--text-4xl); }
+  h2 { font-size: var(--text-3xl); }
+  h3 { font-size: var(--text-2xl); }
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: var(--space-4);
+}
+
+/* Lead paragraphs for emphasis */
+.lead {
+  font-size: var(--text-xl);
+  line-height: 1.6;
+  color: var(--gray-600);
+}
+
+/* ===================
+   Component Styles
+   
+   These are your reusable building blocks
+   =================== */
+
+/* Gradient Text Effect
+   Creates eye-catching headlines */
+.gradient-text {
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+
+/* Button System
+   Consistent, accessible buttons that users trust */
+.btn {
+  display: inline-block;
+  padding: var(--space-3) var(--space-6);
+  font-weight: 600;
+  font-size: var(--text-base);
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  border-radius: var(--radius-lg);
+  transition: all var(--transition-base);
+  cursor: pointer;
+  border: none;
+  /* Transform and shadow on hover create tactile feedback */
+}
+
+.btn-primary {
+  background: var(--gradient-primary);
+  color: white;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.btn-secondary {
+  background: white;
+  color: var(--brain-blue);
+  border: 2px solid var(--brain-blue);
+}
+
+.btn-secondary:hover {
+  background: var(--brain-blue);
+  color: white;
+}
+
+.btn-large {
+  padding: var(--space-4) var(--space-8);
+  font-size: var(--text-lg);
+}
+
+/* Card Components
+   Content containers that organize information */
+.card {
+  background: white;
+  border-radius: var(--radius-xl);
+  padding: var(--space-8);
+  box-shadow: var(--shadow-md);
+  transition: all var(--transition-base);
+}
+
+.card:hover {
+  box-shadow: var(--shadow-xl);
+  transform: translateY(-4px);
+}
+
+/* Hero Section Styling
+   The first impression that captures attention */
+.hero {
+  background: var(--gradient-hero);
+  padding: var(--space-24) var(--space-4);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.hero-content {
+  max-width: var(--max-width-7xl);
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Navigation Styling
+   Professional navigation that stays accessible */
+.navbar {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  box-shadow: var(--shadow-sm);
+}
+
+.navbar-inner {
+  max-width: var(--max-width-7xl);
+  margin: 0 auto;
+  padding: var(--space-4);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Feature Grid
+   Showcases services in an organized layout */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-8);
+  margin: var(--space-12) 0;
+}
+
+.feature-card {
+  text-align: center;
+  padding: var(--space-6);
+}
+
+.feature-icon {
+  width: 64px;
+  height: 64px;
+  background: var(--gradient-primary);
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-4);
+}
+
+/* Form Styling
+   Approachable forms that encourage completion */
+.form-group {
+  margin-bottom: var(--space-6);
+}
+
+.form-label {
+  display: block;
+  font-weight: 500;
+  color: var(--gray-700);
+  margin-bottom: var(--space-2);
+}
+
+.form-input,
+.form-textarea {
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  border: 1px solid var(--gray-300);
+  border-radius: var(--radius-lg);
+  font-size: var(--text-base);
+  transition: all var(--transition-fast);
+}
+
+.form-input:focus,
+.form-textarea:focus {
+  outline: none;
+  border-color: var(--brain-blue);
+  box-shadow: 0 0 0 3px rgb(37 99 235 / 0.1);
+}
+
+/* Section Styling
+   Consistent spacing creates visual rhythm */
+.section {
+  padding: var(--space-20) var(--space-4);
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: var(--space-12);
+}
+
+/* Container System
+   Responsive containers that adapt to all screens */
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 var(--space-4);
+}
+
+.container-sm { max-width: var(--max-width-3xl); }
+.container-md { max-width: var(--max-width-5xl); }
+.container-lg { max-width: var(--max-width-7xl); }
+
+/* ===================
+   Utility Classes
+   
+   Quick styling tools for common needs
+   =================== */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+.mt-0 { margin-top: 0; }
+.mt-1 { margin-top: var(--space-1); }
+.mt-2 { margin-top: var(--space-2); }
+.mt-4 { margin-top: var(--space-4); }
+.mt-8 { margin-top: var(--space-8); }
+
+.mb-0 { margin-bottom: 0; }
+.mb-1 { margin-bottom: var(--space-1); }
+.mb-2 { margin-bottom: var(--space-2); }
+.mb-4 { margin-bottom: var(--space-4); }
+.mb-8 { margin-bottom: var(--space-8); }
+
+/* Responsive utilities */
+@media (max-width: 768px) {
+  .hide-mobile { display: none; }
+}
+
+@media (min-width: 769px) {
+  .show-mobile { display: none; }
+}
+
+/* ===================
+   Animation Library
+   
+   Smooth animations make the site feel premium
+   =================== */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* ===================
+   Accessibility Features
+   
+   Ensuring everyone can use your site
+   =================== */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+/* Focus styles for keyboard navigation */
+*:focus-visible {
+  outline: 2px solid var(--brain-blue);
+  outline-offset: 2px;
+}
+
+/* ===================
+   Dark Mode Support (Optional)
+   
+   Modern sites often include dark mode
+   =================== */
+@media (prefers-color-scheme: dark) {
+  /* You can add dark mode overrides here if desired */
+}

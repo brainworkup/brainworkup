@@ -1,0 +1,74 @@
+/* Override Quarto's default navbar styling */
+.navbar {
+  background: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+}
+
+.navbar-brand {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+/* Style the consultation button in navbar */
+.navbar-btn {
+  margin-left: 1rem;
+  padding: 0.5rem 1.5rem !important;
+  border-radius: 9999px;
+  font-weight: 600;
+}
+
+/* Override Quarto's content container */
+.quarto-container.page-columns {
+  max-width: 100%;
+  padding: 0;
+}
+
+/* Remove Quarto's default title block on landing page */
+body.homepage #title-block-header {
+  display: none;
+}
+
+/* Fix footer styling */
+.footer {
+  background: var(--gradient-dark);
+  color: white;
+  padding: 3rem 0;
+  margin-top: 0;
+}
+
+.footer a {
+  color: #94a3b8;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: white;
+}
+
+/* Override Quarto's sidebar for service pages */
+.sidebar {
+  background: var(--gray-50);
+  border-right: 1px solid var(--gray-200);
+}
+
+.sidebar-navigation a {
+  color: var(--gray-700);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.sidebar-navigation a:hover {
+  background: white;
+  color: var(--brain-blue);
+  text-decoration: none;
+}
+
+.sidebar-navigation a.active {
+  background: var(--gradient-primary);
+  color: white;
+}
