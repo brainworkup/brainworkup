@@ -151,3 +151,4 @@ header.js
 site_libs/
 /site_libs/
 _notes/
+.specstory/
