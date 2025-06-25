@@ -12,7 +12,7 @@ website:
   title: "BrainWorkup Neuropsychology"
   description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
   image: "logo.webp"
-  favicon: "favicon_black.png"
+  favicon: "favicon_black.webp"
   open-graph:
     locale: en_US
     site-name: "BrainWorkup Neuropsychology"
