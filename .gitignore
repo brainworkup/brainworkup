@@ -148,7 +148,7 @@ compass_artifact_wf-72948a40-6530-4ef1-904a-c9407c132ed2_text_markdown.md
 images/
 SEO-OPTIMIZATION-SUMMARY.md
 header.js
-site_libs/
-/site_libs/
+# site_libs/
+# /site_libs/
 _notes/
 .specstory/
