@@ -12,7 +12,7 @@ include-in-header: header.html
 format:
   html:
     page-layout: full
-image: preview.webp #hero.webp
+image: hero.webp
 css: index.css
 about:
   template: trestles
