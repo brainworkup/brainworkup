@@ -1,8 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 subtitle: "Common questions about our neuropsychological evaluation services"
-description: >
-  Frequently asked questions about our neuropsychological evaluations.
+description: "Frequently asked questions about our neuropsychological evaluations."
 hide-description: false
 # aliases:
 #   - "../docs/faq/"

@@ -1,0 +1,143 @@
+---
+title: "BrainWorkup Neuropsychology"
+subtitle: |
+  Southern California<br>
+  Pediatric and Forensic<br>
+  Neuropsychology Practice<br>
+  **Joey Trampush, Ph.D.**
+description: "Brainworkup Neuropsychology provides expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Los Angeles and Southern California."
+hide-description: true
+include-in-header: header.html
+format:
+  html:
+    page-layout: full
+image: hero.webp
+css: index.css
+about:
+  template: trestles
+  image-shape: round
+  image-alt: "Brainworkup Neuropsychology logo - comprehensive neuropsychological assessments in Southern California."
+sidebar: false
+tags:
+  - adhd testing los angeles
+  - adhd in girls
+  - adult adhd assessment
+  - neuropsychologist los angeles
+  - neuropsychological testing southern california
+  - dyslexia evaluation
+  - learning disability testing
+  - autism assessment
+  - executive function testing
+  - forensic neuropsychology
+  - dr joey trampush
+  - neuropsychological assessment
+  - adhd specialist
+  - adhd diagnosis
+  - learning disorders
+  - attention deficit hyperactivity disorder
+  - brainworkup neuropsychology
+repo-actions: false
+toc: false
+execute:
+  echo: false
+  warning: false
+  message: false
+lightbox: true
+---
+
+## BrainWorkup Neuropsychology
+
+Led by [Dr. Joey Trampush], USC Keck School of Medicine faculty member, we provide expert neuropsychological evaluations in Marina Del Rey, serving all of Southern California.
+
+**Our Focus:** - Comprehensive diagnostic testing for ADHD, autism, learning disabilities, and cognitive concerns - Evidence-based assessment protocols with clear, actionable recommendations - Detailed reports that help you advocate for needed services and accommodations
+
+**Important:** We are a diagnostic assessment center only—not a therapy provider.
+Evaluations typically require 4-8 hours across multiple sessions.
+
+Schedule your evaluation: **(213) 495-1155** \| [Schedule Online]
+
+------------------------------------------------------------------------
+
+## Our Services
+
+::::::: grid
+::: {.g-col-12 .g-col-md-6}
+### ADHD Assessment
+
+-   Comprehensive testing beyond basic questionnaires
+-   Measures attention patterns and executive functioning
+-   Clear diagnosis and practical recommendations
+-   Ages 5 through adult
+-   [Learn more →]
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Autism Evaluation
+
+-   Evidence-based diagnostic protocols
+-   Assessment of social communication and sensory processing
+-   Experience with subtle and complex presentations
+-   Documentation for school and Regional Center services
+-   [Learn more →][1]
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Learning Disability Testing
+
+-   Identification of dyslexia, dyscalculia, and processing disorders
+-   Detailed analysis of academic and cognitive skills
+-   Recommendations for IEP/504 plans and accommodations
+-   [Learn more →][2]
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Testing Accommodations
+
+-   Documentation for SAT, ACT, LSAT, MCAT, GRE
+-   Reports meeting strict testing agency requirements
+-   College disability services documentation
+-   [Learn more →][3]
+:::
+:::::::
+
+|  |
+|------|
+| \## Specialized Expertise |
+| ::: {.grid} ::: {.g-col-12 .g-col-md-4} \### Pediatric - [ADHD in Girls] - [Academic Testing][3] - Twice-exceptional identification - [Learn more →][4] ::: |
+| ::: {.g-col-12 .g-col-md-4} \### Adult - [Adult-Onset ADHD] - [Memory & Cognitive Assessment] - Workplace accommodations - [Learn more →][Memory & Cognitive Assessment] ::: |
+| ::: {.g-col-12 .g-col-md-4} \### Forensic - [Independent Medical Exams] - [Mental Health Diversion] - Expert witness testimony - [Learn more →][5] ::: ::: |
+
+## Our Data-Driven Approach
+
+We transform complex assessment data into clear, actionable insights using:
+
+-   Advanced statistical analysis and pattern detection
+-   Custom visualizations that make cognitive profiles easy to understand
+-   Translation of technical findings into practical recommendations
+
+This approach enables more precise diagnosis and more effective, personalized interventions.
+
+------------------------------------------------------------------------
+
+## Contact Us
+
+-   **Phone:** (213) 495-1155
+-   **Email:** [info\@brainworkup.org]
+-   **Location:** Marina Del Rey, serving Greater Los Angeles
+
+[Schedule a Consultation →][Schedule Online]
+
+  [Dr. Joey Trampush]: joey-trampush/index.qmd
+  [Schedule Online]: contact/index.qmd#online-inquiry
+  [Learn more →]: adhd/index.qmd
+  [1]: autism/index.qmd
+  [2]: dyslexia/index.qmd
+  [3]: testing-accommodations/index.qmd
+  [ADHD in Girls]: adhd-in-girls/index.qmd
+  [4]: pediatric-neuropsychology/index.qmd
+  [Adult-Onset ADHD]: adult-onset-adhd/index.qmd
+  [Memory & Cognitive Assessment]: adult-neuropsychology/index.qmd
+  [Independent Medical Exams]: independent-medical-exam/index.qmd
+  [Mental Health Diversion]: independent-medical-exam/index.qmd#mental-health-diversion/
+  [5]: forensic-neuropsychology/index.qmd
+  [info\@brainworkup.org]: mailto:info@brainworkup.org

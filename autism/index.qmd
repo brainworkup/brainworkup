@@ -2,8 +2,8 @@
 title: "Autism"
 subtitle: Evaluating social difficulties, behavioral patterns, and sensory processing differences characteristic of autism spectrum disorders
 description: |
-  We provide diagnostic screening services for autism spectrum disorders (ASD) to assess social communication, behavioral patterns, and sensory processing difficulties. 
-hide-description: true
+  We provide diagnostic screening services for autism spectrum disorders (ASD) to assess social communication, behavioral patterns, and sensory processing difficulties.
+hide-description: false
 include-in-header: canonical-autism.html
 # aliases:
 #   - ../docs/disorders/autism.html
@@ -23,19 +23,91 @@ tags:
 sidebar: true
 ---
 
-## Understanding Autism
+## Understanding Autism Spectrum Disorders
 
-We provide diagnostic and intervention services for Autism Spectrum Disorders
-(ASD). Our team utilizes evidence-based methods to assess social communication,
-behavioral patterns, and sensory processing differences characteristic of ASD.
-We tailor each evaluation to the person, ensuring a comprehensive understanding
-of their individual profile and needs.
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by differences in social communication, behavioral patterns, and sensory processing. As our understanding of autism has evolved, we now recognize it as a spectrum of presentations that vary widely in their manifestation and impact on daily functioning.
 
-I trained for a year at the Center for Autism and Developmental Disabilities at
-Henry Ford Hospital. MORE...
+At BrainWorkup, we provide comprehensive diagnostic and intervention services for individuals across the autism spectrum. Our team utilizes evidence-based assessment methods tailored to each person's unique profile, ensuring a thorough understanding of their individual strengths, challenges, and needs.
 
-## 🚧 This Page is Under Construction 🚧
+## Specialized Training in Autism Assessment
 
-We're working hard to finish the development of this site. Our target launch
-date is **Coming Soon**!
+**Early in my career, I completed specialized training at the Center for Autism and Developmental Disabilities at Henry Ford Hospital in Detroit**. This intensive clinical experience provided me with expertise in gold-standard assessment protocols and intervention approaches for autism spectrum disorders across the lifespan.
 
+This specialized training has informed my approach to autism assessment, which emphasizes both standardized diagnostic procedures and a deep understanding of the individual's lived experience. By combining clinical expertise with compassionate care, we strive to provide evaluations that not only clarify diagnosis but also identify pathways for meaningful support and intervention.
+
+## Early Identification in Preschoolers (Ages 2-5)
+
+### The Critical Importance of Early Recognition
+
+Research consistently demonstrates that early identification and intervention for autism can significantly improve long-term outcomes. The preschool years represent a period of exceptional neuroplasticity—the brain's ability to form new neural connections and reorganize itself—making this an optimal window for intervention.
+
+Key signs that may indicate autism in preschoolers include:
+
+- **Social Communication Differences**: Limited or absent joint attention (sharing interest in objects/experiences), reduced social reciprocity, or delayed language development
+- **Repetitive Behaviors**: Unusual hand or body movements, intense preoccupations, or rigid adherence to routines
+- **Sensory Sensitivities**: Unusual responses to sensory input, such as covering ears to certain sounds or seeking intense sensory experiences
+- **Play Patterns**: Preference for repetitive play, lining up toys, or difficulty with imaginative play
+
+### Benefits of Early Assessment
+
+Early identification of autism in preschoolers offers several advantages:
+
+- **Access to Early Intervention**: Evidence-based interventions introduced during this critical developmental window can have cascading positive effects across domains
+- **Family Support**: Early diagnosis enables families to access resources, education, and support networks
+- **Developmental Trajectory**: Understanding a child's neurodevelopmental profile helps optimize learning environments and supports
+- **Preventing Secondary Challenges**: Early support can help prevent secondary issues such as anxiety or behavioral difficulties that may emerge from unaddressed autism-related needs
+
+Our assessments for preschoolers are designed to be developmentally appropriate and play-based, creating a comfortable environment for young children while gathering critical diagnostic information.
+
+## School-Age Children (Ages 6-12)
+
+For school-age children, autism may present differently as social demands increase and academic challenges emerge. During this period, children with autism might experience:
+
+- **Social Challenges**: Difficulty forming and maintaining friendships, understanding social rules, or navigating group interactions
+- **Academic Variability**: Potential strengths in specific areas (mathematics, science, reading) alongside challenges in others (writing, comprehension)
+- **Executive Functioning Differences**: Challenges with organization, planning, transitioning between activities, or managing emotions
+- **Sensory Processing Issues**: Difficulties filtering sensory information in busy environments like classrooms or cafeterias
+
+Our comprehensive assessments for school-age children examine not only diagnostic criteria but also cognitive profile, academic functioning, and social-emotional well-being to inform educational planning and supports.
+
+## Adolescents and Adults: Recognizing Later Diagnosis
+
+Many individuals, particularly those without significant language delays or intellectual disabilities, receive autism diagnoses later in life. Adolescents and adults with autism may experience:
+
+- **Social Communication Subtleties**: Challenges with understanding implied meaning, reading social cues, or navigating complex social situations
+- **Executive Functioning Differences**: Difficulties with time management, organization, planning, or adapting to change
+- **Sensory Sensitivities**: Heightened responses to sensory input that can impact comfort in various environments
+- **Special Interests**: Deep, focused knowledge in specific areas of interest
+
+### Asperger's Syndrome in Adults
+
+While Asperger's Syndrome is no longer a separate diagnostic category in current diagnostic systems (having been incorporated into the broader autism spectrum diagnosis), many adults identify with this term. Formerly characterized by average to above-average intellectual abilities and no significant language delays, individuals previously diagnosed with Asperger's often present with:
+
+- **Social Communication Differences**: Challenges with reciprocal conversation, understanding nonverbal cues, or perspective-taking
+- **Pattern Recognition and Systematic Thinking**: Strong abilities in recognizing patterns, attention to detail, and systematic analysis
+- **Sensory Processing Differences**: Heightened sensitivity to sensory stimuli that may impact comfort in various environments
+- **Need for Predictability**: Preference for routines, difficulty with unexpected changes, or strong adherence to rules
+
+Many adults with Asperger's profile autism have developed compensatory strategies over time, which may mask their challenges in certain contexts while still experiencing significant internal effort to navigate social and sensory demands.
+
+Adult diagnosis can provide important self-understanding, access to appropriate accommodations, and recognition of strengths associated with neurodivergent thinking.
+
+## Our Assessment Approach
+
+Our comprehensive autism evaluations include:
+
+- **Gold-Standard Diagnostic Measures**: Utilizing established assessment protocols adapted to age and developmental level
+- **Cognitive and Adaptive Functioning**: Examining thinking skills, problem-solving abilities, and daily living skills
+- **Language and Communication**: Assessing verbal and nonverbal communication abilities
+- **Sensory Processing**: Identifying sensory sensitivities and their impact on functioning
+- **Executive Functioning**: Evaluating organization, planning, flexibility, and emotional regulation
+- **Co-occurring Conditions**: Screening for commonly associated conditions such as anxiety, ADHD, or learning differences
+
+Following assessment, we provide:
+
+- **Clear Diagnostic Information**: Explaining findings in accessible language
+- **Strengths-Based Profile**: Identifying and emphasizing individual strengths alongside challenges
+- **Personalized Recommendations**: Suggesting evidence-based interventions, accommodations, and supports
+- **Resource Connection**: Linking to community resources, support groups, and specialized providers
+
+Our goal is not simply to provide a diagnostic label, but to create a roadmap for understanding, support, and growth that recognizes each person's unique neurodevelopmental profile.

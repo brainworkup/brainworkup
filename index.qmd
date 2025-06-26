@@ -5,19 +5,18 @@ subtitle: |
   Pediatric and Forensic<br>
   Neuropsychology Practice<br>
   **Joey Trampush, Ph.D.**
-description: >
-  Brainworkup Neuropsychology provides expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Los Angeles and Southern California.
+description: "Brainworkup Neuropsychology provides expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Los Angeles and Southern California."
 hide-description: true
 include-in-header: header.html
 format:
   html:
     page-layout: full
-image: "hero2.webp"
+image: hero.webp
 css: index.css
 about:
   template: trestles
   image-shape: round
-  image-alt: "BrainWorkup Neuropsychology logo - comprehensive neuropsychological assessments in Southern California."
+  image-alt: "Brainworkup Neuropsychology logo - comprehensive neuropsychological assessments in Southern California."
 sidebar: false
 tags:
   - adhd testing los angeles
@@ -46,112 +45,108 @@ execute:
 lightbox: true
 ---
 
-## Our Practice
+## BrainWorkup Neuropsychology
 
-Founded by [Joey Trampush, PhD](joey-trampush/index.qmd), BrainWorkup provides comprehensive neuropsychological evaluations for ADHD, autism, learning disabilities, and cognitive concerns. We specialize in pediatric and forensic assessments with evidence-based, standardized testing protocols. Dr. Trampush is a faculty member at USC Keck School of Medicine, bringing academic rigor to clinical practice. We are a diagnostic testing center only—not a therapy or treatment provider—with a convenient West LA location serving the entire Southern California region.
+Led by [Dr. Joey Trampush](joey-trampush/index.qmd), USC Keck School of Medicine faculty member, we provide expert neuropsychological evaluations in Marina Del Rey, serving all of Southern California.
 
-Our evaluations help families understand:
+**Our Focus:**
+- Comprehensive diagnostic testing for ADHD, autism, learning disabilities, and cognitive concerns
+- Evidence-based assessment protocols with clear, actionable recommendations
+- Detailed reports that help you advocate for needed services and accommodations
 
-- ADHD and attention difficulties
-- Autism spectrum disorders
-- Learning disabilities and dyslexia
-- Memory and processing concerns
-- Giftedness and twice-exceptional profiles
-- Academic accommodations for school/testing
-- Forensic and legal assessments
+**Important:** We are a diagnostic assessment center only—not a therapy provider. Evaluations typically require 4-8 hours across multiple sessions.
 
-What sets us apart: Dr. Trampush brings 15+ years of expertise in pediatric neuropsychology, combining USC academic excellence with compassionate, family-centered care. We provide detailed written reports that clearly explain findings and recommendations, helping you advocate for your child's needs at school and beyond.
-
-Located in Marina Del Rey, we serve families throughout Los Angeles, including West LA, Santa Monica, Venice, Manhattan Beach, LAX area, and USC communities.
-
-IMPORTANT: We are a diagnostic testing center only. We do not provide therapy, counseling, biofeedback, or ongoing treatment. Our comprehensive evaluations typically require 4-8 hours across multiple sessions.
-
-Ready to get answers? Call **(213) 495-1155** or visit [brainworkup.org](https://brainworkup.org/) to learn about our evaluation process, fees, and scheduling. Most testing can be scheduled within 2-3 weeks.
+Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.qmd#online-inquiry)
 
 ---
 
-## Clinical Services
+## Our Services
 
-### ADHD Testing & Evaluation
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### ADHD Assessment
+- Comprehensive testing beyond basic questionnaires
+- Measures attention patterns and executive functioning
+- Clear diagnosis and practical recommendations
+- Ages 5 through adult
+- [Learn more →](adhd/index.qmd)
+:::
 
-Comprehensive ADHD assessments for children, teens, and adults. Our evaluations go beyond simple questionnaires to identify attention patterns, executive functioning, and processing speed. We utilize gold-standard assessment tools to measure real-time attention performance. Includes detailed report with diagnosis (when appropriate) and specific recommendations for home, school, and medication management. Age 5 through adult.
+::: {.g-col-12 .g-col-md-6}
+### Autism Evaluation
+- Evidence-based diagnostic protocols
+- Assessment of social communication and sensory processing
+- Experience with subtle and complex presentations
+- Documentation for school and Regional Center services
+- [Learn more →](autism/index.qmd)
+:::
 
-### Autism Spectrum Assessment
-
-Expert autism evaluations using objective, evidence-based tools. We assess social communication, sensory processing, and adaptive functioning to provide clear diagnostic answers. Our comprehensive testing identifies both challenges and strengths across multiple domains, enabling precise diagnosis even in complex cases. Includes comprehensive report for school services, Regional Center, and insurance purposes. Experience with high-functioning autism, Asperger's syndrome, and subtle presentations.
-
+::: {.g-col-12 .g-col-md-6}
 ### Learning Disability Testing
+- Identification of dyslexia, dyscalculia, and processing disorders
+- Detailed analysis of academic and cognitive skills
+- Recommendations for IEP/504 plans and accommodations
+- [Learn more →](dyslexia/index.qmd)
+:::
 
-Complete psychoeducational evaluations for dyslexia, dyscalculia, dysgraphia, and processing disorders. We identify specific learning challenges and strengths to guide intervention using the latest diagnostic instruments. Our detailed analysis examines phonological processing, reading fluency, math reasoning, and writing skills to pinpoint specific learning disorders. Reports include recommendations for IEP/504 plans, accommodations, and evidence-based interventions. Essential for academic success.
+::: {.g-col-12 .g-col-md-6}
+### Testing Accommodations
+- Documentation for SAT, ACT, LSAT, MCAT, GRE
+- Reports meeting strict testing agency requirements
+- College disability services documentation
+- [Learn more →](testing-accommodations/index.qmd)
+:::
+:::
 
-### IQ & Cognitive Testing
-
-Comprehensive intellectual assessments for giftedness, cognitive delays, or understanding overall abilities. Using the latest standardized tests, we provide detailed cognitive profiles identifying strengths and challenges across multiple domains: verbal reasoning, visual-spatial skills, fluid reasoning, working memory, and processing speed. Results include percentile ranks and age equivalents that are clearly explained. Helpful for school placement, twice-exceptional identification, and understanding your child's unique learning profile.
-
-### Educational Testing for Accommodations
-
-Specialized evaluations documenting need for extended time, separate testing environments, and other accommodations for SAT, ACT, LSAT, MCAT, GRE, and professional exams. Our reports meet all testing agency requirements with specific documentation required by each organization. We provide thorough documentation of functional limitations and history of accommodations to establish the need for continued support. Also provide documentation for college disability services and workplace accommodations under ADA guidelines.
-
----
-
-## Pediatric & Adolescent Services
-
-### [ADHD Evaluations for Girls and Young Women](adhd-in-girls/index.qmd)
-
-Specialized assessment for female-identifying individuals from preschool through young adulthood. Our female-focused ADHD evaluations recognize the unique presentation of symptoms in girls and women, which often includes inattentiveness without hyperactivity, social challenges, emotional dysregulation, and anxiety. We identify how hormonal fluctuations and societal expectations may mask or exacerbate symptoms, providing gender-informed diagnosis and recommendations.
-
-### [Psychodiagnostic and Academic Testing](testing-accommodations/index.qmd)
-
-Comprehensive evaluation of learning and medical disabilities that require accommodations for high-stakes testing situations (e.g., SAT, ACT, MCAT, LSAT, GRE). Our evaluations meet strict documentation requirements for College Board, ACT, AAMC, and other testing organizations. We provide detailed evidence of functional limitations and specific accommodation recommendations with appropriate clinical justification.
-
-## Forensic Services
-
-### [Independent Medical Exams (IME)](independent-medical-exam/index.qmd)
-
-Expert forensic neuropsychological evaluations and expert witness testimony for personal injury, disability claims, and competency assessments. Dr. Trampush provides thorough evaluations that stand up to legal scrutiny, with experience in depositions, trial testimony, and medical-legal reporting. We offer objective assessments with comprehensive documentation of cognitive and psychological functioning relevant to legal proceedings.
-
-### [Mental Health Diversion](independent-medical-exam/index.qmd#mental-health-diversion/)
-
-Specialized neuropsychological evaluations for California's Mental Health Diversion program (PC 1001.36) that can help eligible defendants receive treatment instead of incarceration. Our assessments determine if a mental disorder was a significant factor in the alleged offense, evaluate treatment responsivity, and assess public safety considerations. Dr. Trampush provides court-ready documentation with specific treatment recommendations that meet legal requirements for diversion eligibility.
-
-## Adult Services
-
-### [Adult-Onset ADHD](adult-onset-adhd/index.qmd)
-
-Focused assessment for ADHD that emerges or is first recognized in adulthood. Our evaluations address the unique challenges of adult ADHD, including executive function difficulties affecting career performance, time management, organization, and relationships. We differentiate between true adult-onset ADHD and similar conditions or undiagnosed childhood ADHD, providing practical strategies for workplace functioning and daily life management.
-
-### [General Neuropsychology](adult-neuropsychology/index.qmd)
-
-Comprehensive cognitive assessments for adults with memory concerns, executive functioning difficulties, processing speed changes, or other cognitive symptoms. Our evaluations examine multiple domains including attention, learning, memory, language, visuospatial skills, and executive functions. Results help differentiate between normal aging, psychiatric conditions, and neurodegenerative processes, with recommendations for cognitive maintenance or enhancement.
+----
 
 
+## Specialized Expertise
 
----
+:::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+### Pediatric
+- [ADHD in Girls](adhd-in-girls/index.qmd)
+- [Academic Testing](testing-accommodations/index.qmd)
+- Twice-exceptional identification
+- [Learn more →](pediatric-neuropsychology/index.qmd)
+:::
 
-## Our Approach: Data-Driven Neuropsychology
+::: {.g-col-12 .g-col-md-4}
+### Adult
+- [Adult-Onset ADHD](adult-onset-adhd/index.qmd)
+- [Memory & Cognitive Assessment](adult-neuropsychology/index.qmd)
+- Workplace accommodations
+- [Learn more →](adult-neuropsychology/index.qmd)
+:::
 
-We utilize advanced data analytics and visualization techniques to transform complex assessment results into clear, meaningful insights. Our approach includes:
-
-- **Comprehensive data integration** — We analyze patterns across multiple tests, questionnaires, and observations to identify cognitive strengths and weaknesses that might be missed in traditional reporting.
-
-- **Advanced statistical methods** — Using normative comparisons and specialized algorithms to determine if performance patterns are clinically significant or within expected ranges.
-
-- **Interactive visualizations** — Custom-designed charts and graphs that make complex cognitive profiles easy to understand, helping families see relationships between different abilities.
-
-- **Translational reporting** — Converting technical findings into practical, actionable recommendations tailored to home, school, work, and community settings.
-
-This data-driven approach allows us to detect subtle patterns that might otherwise be missed and provides you with clearer understanding of cognitive strengths and challenges. The result is more precise diagnosis and more effective, personalized recommendations.
+::: {.g-col-12 .g-col-md-4}
+### Forensic
+- [Independent Medical Exams](independent-medical-exam/index.qmd)
+- [Mental Health Diversion](independent-medical-exam/index.qmd#mental-health-diversion/)
+- Expert witness testimony
+- [Learn more →](forensic-neuropsychology/index.qmd)
+:::
+::::
 
 ---
 
-## Contact
+## Our Data-Driven Approach
 
-Ready to schedule an evaluation or have questions about our services? We're here to help.
+We transform complex assessment data into clear, actionable insights using:
+
+- Advanced statistical analysis and pattern detection
+- Custom visualizations that make cognitive profiles easy to understand
+- Translation of technical findings into practical recommendations
+
+This approach enables more precise diagnosis and more effective, personalized interventions.
+
+---
+
+## Contact Us
 
 - **Phone:** (213) 495-1155
 - **Email:** [info@brainworkup.org](mailto:info@brainworkup.org)
-- **Location:** Marina Del Rey (serving all of Los Angeles and Southern California)
+- **Location:** Marina Del Rey, serving Greater Los Angeles
 
-### [Schedule a Consultation](contact/index.qmd#online-inquiry)
-
-During your initial consultation, we'll discuss your concerns, answer questions about the evaluation process, review insurance and payment options, and determine the appropriate assessment plan for your specific needs.
+[Schedule a Consultation →](contact/index.qmd#online-inquiry)

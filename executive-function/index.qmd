@@ -1,13 +1,8 @@
 ---
 title: "Executive Functioning"
 subtitle: "Diving Deep into Executive Function: The Core of Neurocognitive Health"
-description: >
-  Understanding and addressing executive dysfunction in neurodevelopmental and neuropsychiatric disorders.
+description: 'Understanding and addressing executive dysfunction in neurodevelopmental and neuropsychiatric disorders, including ADHD, autism, anxiety, and traumatic brain injuries. Comprehensive evaluation and personalized treatment plans.'
 hide-description: false
-# aliases:
-#   - ../docs/disorders/executive-function.html
-#   - ../docs/conditions-treated/executive-function/
-#   - ../services/conditions-treated/executive-function/
 tags:
   - executive functioning
   - neurocognitive assessment
@@ -16,14 +11,14 @@ format:
   html:
     page-layout: article
 sidebar: true
-image: executive.webp
+image: executive-optimized.webp
 image-width: 5em
 image-height: 5em
 lightbox: true
 include-in-header: canonical-executive-function.html
 ---
 
-![](executive.webp "Executive Function"){fig-alt="A brainworkup
+![](executive-optimized.webp "Executive Function"){fig-alt="A brainworkup
 logo for executive function."}
 
 ## Our Brain's Inner Connection to the Outside World

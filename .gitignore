@@ -153,3 +153,5 @@ header.js
 _notes/
 .specstory/
 brainworkup.code-workspace
+_quarto.yml.bk
+optimized_quarto_yml.txt

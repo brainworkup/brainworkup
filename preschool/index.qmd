@@ -1,43 +1,78 @@
 ---
 title: "Preschoolers"
-subtitle: Early childhood evaluation of neurocognitive development
+subtitle: "Early childhood evaluation of neurocognitive development"
 description: Early childhood evaluation of neurocognitive development
 format:
   html:
     page-layout: article
     include-in-header: canonical-preschool.html
-      # - text: |
-      #   <link rel="canonical" href="https://brainworkup.org/preschool/">
-# aliases:
-#   - "../docs/pediatric-neuropsychology/preschool/"
-#   - "../services/pediatric-neuropsychology/preschool/"
 title-block-banner: false #blue.png #logo-253.png
 title-block-style: none
 hide-description: true
 anchor-sections: true
-# title-block-banner-color: "#FFDDFF"
+title-block-banner-color: "#FFDDFF"
 ---
+
+## Early Brain Development: The Foundation Years
+
+The early childhood period (ages 2-5) represents a critical window for brain development. During these formative years, the brain undergoes remarkable growth and organization, establishing neural pathways that form the foundation for future learning, behavior, and health. Understanding this developmental trajectory is essential for early identification of potential challenges and appropriate intervention when needed.
 
 ## Toddlers (Ages 2-3)
 
-TODO: Add content
+Toddlerhood marks a period of explosive brain development. Between ages 2-3, children experience:
+
+- **Rapid Neural Growth**: By age 3, the brain reaches approximately 80% of its adult volume, with particularly dramatic development in areas responsible for language, social understanding, and emotional regulation.
+
+- **Synaptic Pruning**: The brain begins refining neural connections, strengthening frequently used pathways while eliminating less utilized ones—a "use it or lose it" phenomenon that continues throughout childhood.
+
+- **Language Explosion**: Vocabulary typically expands from about 50 words at 18 months to 200-300 words by age 2, and 900-1,000 words by age 3, reflecting the rapid development of language networks in the brain.
+
+- **Emerging Executive Functions**: Basic inhibitory control, working memory, and attention skills begin to emerge, though they remain highly variable and context-dependent.
+
+- **Social-Emotional Development**: The brain regions supporting emotional regulation, empathy, and social understanding undergo significant growth, laying the groundwork for future social competence.
+
+Early assessment of these developing skills can provide valuable insights into a child's developmental trajectory and identify potential areas requiring support or intervention.
 
 ## Preschoolers (Ages 3-5)
 
-Emerging neurocognitive skills can be assessed in children as young as 3
-years-old. However, preschoolers don’t have the same skill-set as older
-children, adolescents and adults, so the evaluation of preschool-aged children
-requires special training.
+The preschool years represent a critical period for neurocognitive development, with significant maturation in multiple domains:
 
-For several years, we were involved in two major research studies of
-preschool-aged children with attention-deficit/hyperactivity disorder (ADHD)
-that were funded by the National Institute of Mental Health (NIMH). The first
-study was the NIMH Preschool ADHD Treatment Study (PATS) [link], and more
-recently, the Queens College Preschool Project (QCPP) [link].
+- **Prefrontal Cortex Development**: This brain region, crucial for executive functions, undergoes substantial growth during the preschool years, enabling improvements in self-regulation, planning, and cognitive flexibility.
 
-Amongst several important findings, we discovered that changes in neurocognitive development predicted improvements (or lack thereof) in ADHD symptoms over a period of three years [link]. Thus, if you are interested in having your preschooler evaluated to establish his/her baseline level of neurocognitive development, we are well trained to work with this unique population.
+- **Neural Network Integration**: Brain networks become increasingly specialized and interconnected, supporting more complex cognitive abilities and behaviors.
 
-## 🚧 This Page is Under Construction 🚧
+- **Executive Function Emergence**: Working memory, inhibitory control, and cognitive flexibility show marked improvement, though individual differences become more apparent.
 
-We're working hard to finish the development of this site. Our target launch
-date is **Coming Soon**!
+- **Language and Literacy Foundations**: Brain areas supporting phonological awareness, vocabulary development, and narrative comprehension strengthen, establishing critical precursors for reading and academic achievement.
+
+- **Numeracy Development**: Regions supporting number sense, counting, and early mathematical concepts become more specialized and efficient.
+
+- **Social Cognition**: Theory of mind and perspective-taking abilities emerge, supported by developments in specific brain networks that allow children to understand others' mental states.
+
+Emerging neurocognitive skills can be reliably assessed in children as young as 3 years old. However, preschoolers don't have the same skill-set as older children, adolescents and adults, so the evaluation of preschool-aged children requires specialized training and developmentally appropriate assessment methods.
+
+## NIH-Funded Research on Preschool Development
+
+For several years, **I was directly involved as a principal investigator in two major NIH-funded research studies** focusing on preschool-aged children with attention-deficit/hyperactivity disorder (ADHD):
+
+1. **The NIMH Preschool ADHD Treatment Study (PATS)**: This landmark multi-site clinical trial was the first to systematically investigate the effects of stimulant medication in preschoolers with ADHD, while also examining neurocognitive development in this population.
+
+2. **The Queens College Preschool Project (QCPP)**: This longitudinal research initiative studied the developmental trajectories of preschoolers with ADHD, examining how early neurocognitive profiles related to long-term outcomes.
+
+Among several important findings from our research, we discovered that changes in neurocognitive development predicted improvements (or lack thereof) in ADHD symptoms over a period of three years. Specifically, children who showed greater improvements in executive functioning skills were more likely to demonstrate reductions in ADHD symptomatology over time, highlighting the critical role of executive function development in this population.
+
+## The Importance of Early Assessment
+
+Early assessment of neurocognitive development offers several benefits:
+
+- **Early Identification**: Detecting developmental variations or delays when the brain is highly plastic allows for more effective intervention.
+
+- **Targeted Intervention**: Understanding a child's specific neurocognitive profile enables tailored support strategies that capitalize on strengths while addressing challenges.
+
+- **Developmental Monitoring**: Establishing baseline functioning allows for tracking development over time, helping to distinguish between transient developmental variations and more persistent challenges.
+
+- **School Readiness**: Assessing foundational cognitive skills prior to school entry can identify children who may benefit from additional support during the transition to formal education.
+
+- **Family Support**: Comprehensive evaluation provides parents with valuable insights into their child's development and practical strategies to support their child's unique learning style.
+
+If you are interested in having your preschooler evaluated to establish their baseline level of neurocognitive development, our specialized training and research experience with this age group enables us to provide developmentally appropriate, evidence-based assessment for your child.

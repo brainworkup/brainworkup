@@ -1,15 +1,10 @@
 ---
 title: "ADHD in Girls: Signs, Symptoms & Treatment"
 subtitle: "Recognizing and Treating ADHD in Girls and Young Women"
-description: >
-  Comprehensive guide to identifying, diagnosing, and treating ADHD in girls and young women. Learn about female-specific symptoms, why girls are often underdiagnosed, and effective treatment approaches from BrainWorkup Neuropsychology.
+description: "Comprehensive guide to identifying, diagnosing, and treating ADHD in girls and young women. Learn about female-specific symptoms, why girls are often underdiagnosed, and effective treatment approaches from BrainWorkup Neuropsychology."
 keywords: [ADHD in girls, female ADHD, ADHD symptoms in girls, ADHD in women, undiagnosed ADHD, ADHD testing for girls, ADHD evaluation, female ADHD diagnosis, attention deficit hyperactivity disorder in females]
 hide-description: false
 include-in-header: canonical-adhd-in-girls.html
-# aliases:
-#   - "../docs/disorders/adhd-in-girls.html/"
-#   - "../docs/conditions-treated/adhd-in-girls/"
-#   - "../services/conditions-treated/adhd-in-girls/"
 format:
   html:
     page-layout: article
@@ -31,13 +26,13 @@ tags:
   - adhd in young women
   - undiagnosed adhd
 sidebar: true
-image: adhd-girls.webp
+image: optimized-adhd-girls-image.webp
 image-width: 5em
 image-height: 5em
 lightbox: true
 ---
 
-![](adhd-girls.webp "ADHD in Girls"){fig-alt="Illustration representing ADHD in girls and young women - BrainWorkup Neuropsychology."}
+![](optimized-adhd-girls-image.webp "ADHD in Girls"){fig-alt="Illustration representing ADHD in girls and young women - BrainWorkup Neuropsychology."}
 
 ## Specialized ADHD Assessment for Girls and Young Women
 

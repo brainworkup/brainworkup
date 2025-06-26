@@ -2,15 +2,10 @@
 title: "Independent Medical Exams"
 description: |
   Expert forensic, medicolegal, and IME evaluations for neurodevelopmental, psychiatric, and traumatic brain injury.
-hide-description: true
+hide-description: false
 format:
   html:
     page-layout: article
-# aliases:
-#   - "../docs/forensic-neuropsychology/ime/"
-#   - "../docs/independent-medical-exam/"
-#   - "../docs/forensic-neuropsychology/independent-medical-exam/"
-#   - "../services/forensic-neuropsychology/independent-medical-exam/"
 include-in-header: canonical-independent-medical-exam.html
 tags:
   - forensic neuropsychology
