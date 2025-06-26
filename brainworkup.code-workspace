@@ -6,13 +6,11 @@
   ],
   "settings": {
     "deno.logFile": false,
-    "githubPullRequests.ignoredPullRequestBranches": [
-      "main"
-    ],
+    "githubPullRequests.ignoredPullRequestBranches": ["main"],
     "quarto.render.renderOnSave": true,
     "quarto.zotero.dataDir": "/Users/joey/Zotero",
     "editor.acceptSuggestionOnEnter": "on",
-    "workbench.colorTheme": "Barbie Theme",
+    "workbench.colorTheme": "Codemos Modern (Dark)",
     "workbench.colorCustomizations": {
       "activityBar.activeBackground": "#dee2fc66",
       "activityBar.background": "#dee2fc66",
