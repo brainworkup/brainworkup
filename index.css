@@ -88,3 +88,58 @@
   border-radius: 50%;
   padding: 20px;
 }
+
+/* Hero logo responsive sizing */
+.hero-logo,
+.about-header .about-image img,
+.about-image img {
+  background: #33373f;
+  border-radius: 50%;
+  padding: 20px;
+  display: inline-block;
+  box-shadow: 0 8px 25px rgba(51, 55, 63, 0.4);
+
+  /* Desktop default */
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+}
+
+/* Tablet sizing */
+@media (max-width: 768px) {
+  .hero-logo,
+  .about-header .about-image img,
+  .about-image img {
+    max-width: 280px;
+    padding: 15px;
+  }
+}
+
+/* Mobile sizing - much smaller */
+@media (max-width: 480px) {
+  .hero-logo,
+  .about-header .about-image img,
+  .about-image img {
+    max-width: 200px;
+    padding: 10px;
+  }
+
+  /* Reduce spacing around the image */
+  .about-header {
+    margin-bottom: 1rem;
+  }
+
+  .about-image {
+    margin-bottom: 1rem;
+  }
+}
+
+/* Extra small phones */
+@media (max-width: 360px) {
+  .hero-logo,
+  .about-header .about-image img,
+  .about-image img {
+    max-width: 160px;
+    padding: 8px;
+  }
+}
