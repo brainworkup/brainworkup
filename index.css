@@ -72,3 +72,19 @@
   border-radius: 0.75rem;
   margin: 3rem 0;
 }
+
+/* Hero logo with dark background */
+.hero-logo {
+  background: #33373f;
+  border-radius: 50%;
+  padding: 30px;
+  display: inline-block;
+  box-shadow: 0 8px 25px rgba(51, 55, 63, 0.4);
+}
+
+/* For the about template image */
+.about-header .about-image img {
+  background: #33373f;
+  border-radius: 50%;
+  padding: 20px;
+}

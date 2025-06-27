@@ -100,12 +100,40 @@ Schedule your evaluation: **(213) 495-1155** \| [Schedule Online]
 :::
 :::::::
 
-|  |
-|------|
-| \## Specialized Expertise |
-| ::: {.grid} ::: {.g-col-12 .g-col-md-4} \### Pediatric - [ADHD in Girls] - [Academic Testing][3] - Twice-exceptional identification - [Learn more →][4] ::: |
-| ::: {.g-col-12 .g-col-md-4} \### Adult - [Adult-Onset ADHD] - [Memory & Cognitive Assessment] - Workplace accommodations - [Learn more →][Memory & Cognitive Assessment] ::: |
-| ::: {.g-col-12 .g-col-md-4} \### Forensic - [Independent Medical Exams] - [Mental Health Diversion] - Expert witness testimony - [Learn more →][5] ::: ::: |
+## Specialized Expertise
+
+:::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+### Pediatric
+- [ADHD in Girls](adhd-in-girls/index.qmd)
+- [Academic Testing](testing-accommodations/index.qmd)
+- Twice-exceptional identification
+- [Learn more →](pediatric-neuropsychology/index.qmd)
+:::
+
+
+---
+
+## Specialized Expertise
+
+::: {.g-col-12 .g-col-md-4}
+### Adult
+- [Adult-Onset ADHD](adult-onset-adhd/index.qmd)
+- [Memory & Cognitive Assessment](adult-neuropsychology/index.qmd)
+- Workplace accommodations
+- [Learn more →](adult-neuropsychology/index.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Forensic
+- [Independent Medical Exams](independent-medical-exam/index.qmd)
+- [Mental Health Diversion](independent-medical-exam/index.qmd#mental-health-diversion/)
+- Expert witness testimony
+- [Learn more →](forensic-neuropsychology/index.qmd)
+:::
+::::
+
+---
 
 ## Our Data-Driven Approach
 
@@ -117,7 +145,8 @@ We transform complex assessment data into clear, actionable insights using:
 
 This approach enables more precise diagnosis and more effective, personalized interventions.
 
-------------------------------------------------------------------------
+---
+
 
 ## Contact Us
 

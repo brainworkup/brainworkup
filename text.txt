@@ -1,0 +1,8 @@
+calendar
+website:
+  announcement:
+    icon: phone
+    dismissable: true
+    content: "**New patients welcome!** Call **(213) 495-1155** or [**Schedule Online**](contact/inqmddex.calendarqmd#online-inquiry){.btn .btn-warning .btn-sm}"
+    type: warning
+    position: below-navbar
