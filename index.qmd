@@ -5,14 +5,16 @@ subtitle: |
   Pediatric and Forensic<br>
   Neuropsychology Practice<br>
   **Joey Trampush, Ph.D.**
-description: "Brainworkup Neuropsychology provides expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Los Angeles and Southern California."
-hide-description: true
+description-meta: "Brainworkup Neuropsychology provides expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Los Angeles and Southern California."
+# hide-description: true
 include-in-header: header.html
 format:
   html:
     page-layout: full
 image: hero_yellow_dark.webp
-# image: hero.webp
+image-width: 1em
+image-height: 1em
+lightbox: true
 css: index.css
 about:
   template: trestles
@@ -43,7 +45,6 @@ execute:
   echo: false
   warning: false
   message: false
-lightbox: true
 ---
 
 ## BrainWorkup Neuropsychology

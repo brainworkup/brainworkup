@@ -11,15 +11,9 @@ project:
 
 website:
   title: "BrainWorkup Neuropsychology"
-  announcement:
-    icon: clipboard-check
-    dismissable: true
-    content: "**New patients:** Call **(213) 495-1155** or [**Schedule Online**](contact/#calendar){.btn .btn-warning .btn-sm}"
-    type: warning
-    position: below-navbar
   description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
   image: "logo.webp"
-  favicon: "favicon_black.webp"
+  favicon: "favicon.png"
   open-graph:
     locale: en_US
     site-name: "BrainWorkup Neuropsychology"
@@ -189,6 +183,27 @@ website:
         - section: "Contact Us"
           href: contact/index.qmd
 
+  # announcement:
+  #   icon: phone
+  #   dismissable: true
+  #   content: "**New patients:** Call **(213) 495-1155** or [**Schedule Online**](/contact/#calendar){.btn .btn-warning .btn-sm}"
+  #   type: warning
+  #   position: below-navbar
+
+  announcement:
+    icon: clipboard-check
+    dismissable: true
+    content: "**New Patients:** Call **(213) 495-1155** or [**Schedule Online**](contact/#calendar){.btn .btn-success .btn-sm .ms-2}"
+    type: success
+    position: below-navbar
+
+  # announcement:
+  #   icon: brain
+  #   dismissable: true
+  #   content: "**Comprehensive Neuropsychological Evaluations** Call **(213) 495-1155** — [**Schedule Consultation**](/contact/#calendar){.btn .btn-outline-light .btn-sm .ms-2}"
+  #   type: dark
+  #   position: below-navbar
+
 format:
   html:
     toc: true
@@ -203,17 +218,15 @@ format:
       - text: |
           <!-- Performance Optimizations -->
           <link rel="preload" href="styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+          <link rel="preload" href="hero_yellow.webp" as="image">
           <link rel="preload" href="logo.webp" as="image">
-          <link rel="preload" href="preview.png" as="image">
-          <link rel="dns-prefetch" href="//fonts.googleapis.com">
-          <link rel="dns-prefetch" href="//www.google-analytics.com">
-          <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
-          <!-- PWA Manifest -->
+          <!-- PWA and Favicons -->
           <link rel="manifest" href="manifest.json">
+          <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+          <link rel="icon" type="image/png" sizes="192x192" href="favicon-192x192.png">
           <meta name="theme-color" content="#33373f">
-          <!-- Viewport optimizations -->
-          <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
           <script src="/header-enhanced.js" defer></script>
+
     include-after-body: js.html
     code-copy: true
     code-overflow: wrap
@@ -246,7 +259,6 @@ editor: source
 
 filters:
   - fontawesome
-  # - forms
 
 permalinks:
   post: /:year/:month/:day/:slug/
