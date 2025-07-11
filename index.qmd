@@ -47,9 +47,10 @@ lightbox: true
 
 ## BrainWorkup Neuropsychology
 
-Led by [Dr. Joey Trampush](joey-trampush/index.qmd), USC Keck School of Medicine faculty member, we provide expert neuropsychological evaluations in Marina Del Rey, serving all of Southern California.
+Led by [Dr. Joey Trampush](joey-trampush/index.qmd), USC Keck School of Medicine faculty member, we provide expert neuropsychological evaluations serving all of Southern California.
 
 **Our Focus:**
+
 - Comprehensive diagnostic testing for ADHD, autism, learning disabilities, and cognitive concerns
 - Evidence-based assessment protocols with clear, actionable recommendations
 - Detailed reports that help you advocate for needed services and accommodations
