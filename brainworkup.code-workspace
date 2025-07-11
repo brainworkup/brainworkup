@@ -10,7 +10,7 @@
     "quarto.render.renderOnSave": true,
     "quarto.zotero.dataDir": "/Users/joey/Zotero",
     "editor.acceptSuggestionOnEnter": "on",
-    "workbench.colorTheme": "Codemos Modern (Dark)",
+    "workbench.colorTheme": "Barbie Theme",
     "workbench.colorCustomizations": {
       "activityBar.activeBackground": "#dee2fc66",
       "activityBar.background": "#dee2fc66",
@@ -26,6 +26,7 @@
       "statusBarItem.remoteBackground": "#b0b8f766",
       "statusBarItem.remoteForeground": "#15202b",
       "tab.activeBorder": "#dee2fc66"
-    }
+    },
+    "workbench.iconTheme": "Monokai Pro Icons"
   }
 }

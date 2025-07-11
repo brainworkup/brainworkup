@@ -30,9 +30,6 @@ docs/pediatric-neuropsychology/adolescent.qmd
 docs/pediatric-neuropsychology/preschool.qmd
 docs/pediatric-neuropsychology/school-age.qmd
 
-.deno_lsp/log_2023-12-21T00_10_53.161998+00_00.txt
-.deno_lsp/log_2023-12-21T00_30_07.467283+00_00.txt
-.deno_lsp/log_2023-12-21T00_30_48.331045+00_00.txt
 .deno_lsp/**.txt
 
 # History files
@@ -155,3 +152,4 @@ _notes/
 brainworkup.code-workspace
 _quarto.yml.bk
 optimized_quarto_yml.txt
+.vincent/mcp.json
