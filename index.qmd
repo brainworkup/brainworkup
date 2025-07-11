@@ -61,7 +61,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 
 ---
 
-## Our Services
+## [Our Services](services/index.qmd)
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
