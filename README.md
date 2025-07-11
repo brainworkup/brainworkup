@@ -26,5 +26,5 @@ Static repository for brainworkup.org/.io/.com
 ## Welcome
 
 <div style="text-align:center">
-    <img src="logo.webp" alt="bwu favicon" fig-align="center" width="70%" height="70%"/>
+    <img src="logo.webp" alt="bwu favicon" fig-align="center" width="70%"/>
 </div>
