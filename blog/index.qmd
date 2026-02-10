@@ -47,6 +47,7 @@ page-layout: full
 title-block-banner: true
 title-block-banner-color: "rgba(173, 255, 47, 1)" #"#d4eb50"
 title-block-style: default
+draft: true
 ---
 
 > "_Our intuitions are only accurate in domains where we have a lot of experience._"
