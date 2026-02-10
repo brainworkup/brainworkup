@@ -120,8 +120,10 @@ async function generateSitemap() {
       let urlPath = `/${file}`
         .replace(/\\/g, '/')
         .replace(/\/index\.(qmd|html)/, '/')
-        .replace(/\.(qmd|html)$/, '/')
-        .replace(/\/$/, '/'); // Ensure trailing slash
+        .replace(/\.(qmd|html)$/, '/');
+
+      // Ensure trailing slash
+      urlPath = urlPath.endsWith('/') ? urlPath : `${urlPath}/`;
 
       // Special handling for root index files
       if (urlPath === '/index/' || urlPath === '/') {
