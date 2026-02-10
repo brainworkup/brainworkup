@@ -1,17 +1,16 @@
 ---
-title: "ADHD Testing Los Angeles | Marina del Rey Neuropsychologist"
-description: "Expert ADHD evaluation in Los Angeles by Dr. Joey Trampush. Serving Marina del Rey, Santa Monica, and West LA with comprehensive neuropsychological testing."
-# title: "ADHD"
-# subtitle: "Evaluating ADHD across the lifespan"
-# description: >
-#   An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood.
+title: "ADHD"
+# description: "Expert ADHD evaluation in Los Angeles by Dr. Joey Trampush. Serving Marina del Rey, Santa Monica, and West LA with comprehensive neuropsychological testing."
+subtitle: "Evaluating ADHD across the lifespan"
+description: >
+  An overview of ADHD and the process of evaluating ADHD across the lifespan, from childhood to adulthood.
 format:
   html:
     page-layout: article
 hide-description: false
 image: adhd-black.webp
-image-width: 2.5em
-image-height: 2.5em
+image-width: 2em
+image-height: 2em
 include-in-header: canonical-adhd.html
 lightbox: true
 sidebar: true

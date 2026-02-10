@@ -1,7 +1,7 @@
 ---
-title: "ADHD in Girls: Signs, Symptoms & Treatment"
-subtitle: "Recognizing and Treating ADHD in Girls and Young Women"
-description: "Comprehensive guide to identifying, diagnosing, and treating ADHD in girls and young women. Learn about female-specific symptoms, why girls are often underdiagnosed, and effective treatment approaches from BrainWorkup Neuropsychology."
+title: "ADHD in Girls"
+subtitle: "Recognizing and Treating ADHD in Girls and Women"
+description: "ADHD in girls and women is widely underdiagnosed. Our neuropsychological evaluations are designed to catch the symptoms others miss—so you finally get answers."
 keywords: [ADHD in girls, female ADHD, ADHD symptoms in girls, ADHD in women, undiagnosed ADHD, ADHD testing for girls, ADHD evaluation, female ADHD diagnosis, attention deficit hyperactivity disorder in females]
 hide-description: false
 include-in-header: canonical-adhd-in-girls.html
@@ -27,18 +27,18 @@ tags:
   - undiagnosed adhd
 sidebar: true
 image: optimized-adhd-girls-image.webp
-image-width: 5em
-image-height: 5em
+image-width: 1em
+image-height: 1em
 lightbox: true
 ---
 
 ![](optimized-adhd-girls-image.webp "ADHD in Girls"){fig-alt="Illustration representing ADHD in girls and young women - BrainWorkup Neuropsychology."}
 
-## Specialized ADHD Assessment for Girls and Young Women
+## Specialized ADHD Assessment for Girls and Women
 
-At BrainWorkup Neuropsychology, we specialize in the assessment and diagnosis of Attention-Deficit/Hyperactivity Disorder (ADHD) in girls and young women. This critical area has been historically underrepresented in research and clinical practice, leading to significant underdiagnosis in female populations.
+ADHD in girls and women has been overlooked for decades. Because most early ADHD research focused on hyperactive boys, the diagnostic criteria—and the clinical instincts built around them—were never designed to catch how ADHD typically shows up in females. The result: countless girls, teens, young women, and adult women have gone undiagnosed, often for years, while quietly struggling with attention, organization, and emotional regulation behind a mask of high effort and self-doubt.
 
-Girls often display ADHD symptoms differently than boys, which is why we provide specialized evaluations designed to identify ADHD as it uniquely presents in female patients. Our comprehensive approach ensures we capture the full picture of each individual's cognitive profile, strengths, and challenges.
+Our practice focuses specifically on closing that gap. We provide thorough, evidence-based ADHD evaluations tailored to the ways attention and executive functioning challenges actually present in female patients—including the subtler inattentive symptoms, the internalized coping strategies, and the co-occurring anxiety or low self-esteem that so often obscure the underlying ADHD. Every assessment is designed to capture the full picture: cognitive strengths, areas of difficulty, and a clear path forward.
 
 ## Why Girls with ADHD Are Often Missed
 
