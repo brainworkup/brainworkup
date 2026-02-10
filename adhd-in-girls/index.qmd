@@ -27,8 +27,8 @@ tags:
   - undiagnosed adhd
 sidebar: true
 image: optimized-adhd-girls-image.webp
-image-width: 1em
-image-height: 1em
+image-width: 5em
+image-height: 5em
 lightbox: true
 ---
 

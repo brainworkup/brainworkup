@@ -7,10 +7,10 @@ description: >
 format:
   html:
     page-layout: article
-hide-description: false
+hide-description: true
 image: adhd-black.webp
-image-width: 2em
-image-height: 2em
+image-width: 2.5em
+image-height: 2.5em
 include-in-header: canonical-adhd.html
 lightbox: true
 sidebar: true

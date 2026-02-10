@@ -399,23 +399,4 @@ document.addEventListener("DOMContentLoaded", function () {
   injectStructuredData(pageSpecificData);
   if (breadcrumbData) injectStructuredData(breadcrumbData);
 
-  // Performance: Preload key resources
-  const preloadResources = [
-    { href: "/styles.min.css", as: "style" },
-    { href: "/logo.webp", as: "image" },
-    {
-      href: "https://fonts.googleapis.com",
-      as: "preconnect",
-      crossorigin: true,
-    },
-  ];
-
-  preloadResources.forEach((resource) => {
-    const link = document.createElement("link");
-    link.rel = resource.as === "preconnect" ? "preconnect" : "preload";
-    link.href = resource.href;
-    link.as = resource.as;
-    if (resource.crossorigin) link.crossOrigin = "anonymous";
-    document.head.appendChild(link);
-  });
 });

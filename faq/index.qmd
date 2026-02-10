@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 subtitle: "Common questions about our neuropsychological evaluation services"
-description: "Frequently asked questions about our neuropsychological evaluations."
+description: "FAQs about our neuropsychological evaluations."
 hide-description: false
 # aliases:
 #   - "../docs/faq/"
@@ -30,6 +30,7 @@ tags:
   - southern california
   - usc psychiatry
   - brain workup
+  - faq
 ---
 
 ![](logo-transparent-384.webp "FAQ"){width=284px height=284px fig-alt="The brainworkup logo on the FAQ page."}
