@@ -1,13 +1,14 @@
 new_post <- function(
-    title,
-    file = "index.qmd",
-    subtitle = "",
-    description = "",
-    author = "Joey Trampush, PhD",
-    date = Sys.Date(),
-    draft = FALSE,
-    title_limit = 40,
-    open_file = TRUE) {
+  title,
+  file = "index.qmd",
+  subtitle = "",
+  description = "",
+  author = "Joey Trampush, PhD",
+  date = Sys.Date(),
+  draft = FALSE,
+  title_limit = 40,
+  open_file = TRUE
+) {
   # convert to kebab case and remove non space or alphanumeric characters
   title_kebab <- stringr::str_to_lower(title) |>
     stringr::str_remove_all("[^[:alnum:][:space:]]") |>
@@ -15,14 +16,18 @@ new_post <- function(
 
   # warn if a very long slug
   if (nchar(title_kebab) >= title_limit) {
-    cli::cli_alert_warning("Warning: Title slug is longer than {.val {title_limit}} characters!")
+    cli::cli_alert_warning(
+      "Warning: Title slug is longer than {.val {title_limit}} characters!"
+    )
   }
 
   # generate the slug as draft, prefix with _ which prevents
   # quarto from rendering/recognizing the folder
   if (draft) {
     slug <- glue::glue("posts/_{date}-{title_kebab}")
-    cli::cli_alert_info("Appending a '_' to folder name to avoid render while a draft, remove '_' when finished.")
+    cli::cli_alert_info(
+      "Appending a '_' to folder name to avoid render while a draft, remove '_' when finished."
+    )
   } else {
     slug <- glue::glue("posts/{date}-{title_kebab}")
   }

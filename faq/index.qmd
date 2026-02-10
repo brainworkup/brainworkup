@@ -25,6 +25,8 @@ tags:
   - neuropsychological assessment
   - learning disability testing
   - los angeles
+  - california
+  - la
   - southern california
   - usc psychiatry
 ---
