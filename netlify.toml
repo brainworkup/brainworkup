@@ -8,9 +8,6 @@ branches = [
 ]
 
 [[plugins]]
-package = "netlify-purge-cloudflare-on-deploy"
-
-[[plugins]]
 package = "@netlify/plugin-sitemap"
 [plugins.inputs]
 buildDir      = "_site"
@@ -20,19 +17,23 @@ trailingSlash = true
 [[plugins]]
 package = "netlify-plugin-inline-critical-css"
 
+# Headers
 # Headers for performance and security
 # NOTE: Security headers in /* apply to all paths. More specific path patterns
 # below override only Cache-Control; security headers are still inherited.
 
+# HTML pages: always revalidate so visitors and crawlers get fresh content
 [[headers]]
 for = "/*"
 [headers.values]
+Cache-Control           = "public, max-age=0, must-revalidate"
 X-Content-Type-Options  = "nosniff"
 X-Frame-Options         = "DENY"
 X-XSS-Protection        = "1; mode=block"
 Referrer-Policy         = "strict-origin-when-cross-origin"
-Permissions-Policy      = "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+Permissions-Policy      = "camera=(), microphone=(), geolocation=()"
 Content-Security-Policy = "upgrade-insecure-requests"
+X-Robots-Tag            = "all"
 
 [[headers]]
 for = "/*.html"
@@ -49,6 +50,7 @@ for = "/robots.txt"
 [headers.values]
 Cache-Control = "public, max-age=3600"
 
+# Static assets: long cache (Quarto hashes filenames on rebuild)
 [[headers]]
 for = "/*.js"
 [headers.values]
@@ -74,14 +76,33 @@ for = "/*.png"
 [headers.values]
 Cache-Control = "public, max-age=31536000, immutable"
 
+[[headers]]
+for = "/*.woff2"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+for = "/*.woff"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
 # Redirects
 
+# Canonical: www -> apex
+[[redirects]]
+from   = "https://www.brainworkup.org/*"
+to     = "https://brainworkup.org/:splat"
+status = 301
+force  = true
+
+# HTTP -> HTTPS
 [[redirects]]
 from   = "http://brainworkup.org/*"
 to     = "https://brainworkup.org/:splat"
 status = 301
 force  = true
 
+# Alternate domains -> canonical (all with /* and :splat)
 [[redirects]]
 from   = "https://brainworkup.net/*"
 to     = "https://brainworkup.org/:splat"
@@ -107,44 +128,39 @@ status = 301
 force  = true
 
 [[redirects]]
-from   = "www.joeytrampush.com"
-to     = "www.brainworkup.org"
+from   = "https://www.joeytrampush.com/*"
+to     = "https://brainworkup.org/:splat"
 status = 301
 force  = true
 
 [[redirects]]
-from   = "joeytrampush.com"
-to     = "brainworkup.org"
+from   = "https://joeytrampush.net/*"
+to     = "https://brainworkup.org/:splat"
+status = 301
+force  = true
+
+# Legacy path redirects
+[[redirects]]
+from   = "/docs/projects/*"
+to     = "/:splat"
 status = 301
 force  = true
 
 [[redirects]]
-from   = "brainworkup.net"
-to     = "brainworkup.org"
+from   = "/docs/faq/*"
+to     = "/faq/"
 status = 301
 force  = true
 
 [[redirects]]
-from   = "https://joeytrampush.com/docs/projects/"
-to     = "https://brainworkup.org/"
+from   = "/docs/pediatric-neuropsychology/*"
+to     = "/pediatric-neuropsychology/"
 status = 301
 force  = true
 
 [[redirects]]
-from   = "https://brainworkup.net/docs/faq/"
-to     = "https://brainworkup.org/faq"
-status = 301
-force  = true
-
-[[redirects]]
-from   = "https://joeytrampush.net/docs/pediatric-neuropsychology/"
-to     = "https://brainworkup.org/pediatric-neuropsychology"
-status = 301
-force  = true
-
-[[redirects]]
-from   = "https://brainworkup.com/resources/cv.pdf"
-to     = "https://brainworkup.org/joey-trampush/cv.pdf"
+from   = "/resources/cv.pdf"
+to     = "/joey-trampush/cv.pdf"
 status = 301
 force  = true
 

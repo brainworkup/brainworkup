@@ -201,18 +201,9 @@ format:
     include-in-header:
       - _includes/head-scripts.html
       - text: |
-          <!-- Performance Optimizations -->
-          <link rel="preload" href="styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-          <link rel="preload" href="logo.webp" as="image">
-          <link rel="preload" href="preview.png" as="image">
-          <link rel="dns-prefetch" href="//fonts.googleapis.com">
-          <link rel="dns-prefetch" href="//www.google-analytics.com">
-          <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
           <!-- PWA Manifest -->
           <link rel="manifest" href="manifest.json">
           <meta name="theme-color" content="#33373f">
-          <!-- Viewport optimizations -->
-          <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
           <script src="/fix-regex.js" defer></script>
           <script src="/header-enhanced.js" defer></script>
     include-after-body: js.html
