@@ -20,7 +20,9 @@ trailingSlash = true
 [[plugins]]
 package = "netlify-plugin-inline-critical-css"
 
-# Headers for performance optimization
+# Headers for performance and security
+# NOTE: Security headers in /* apply to all paths. More specific path patterns
+# below override only Cache-Control; security headers are still inherited.
 
 [[headers]]
 for = "/*"

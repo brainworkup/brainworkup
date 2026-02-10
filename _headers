@@ -1,3 +1,5 @@
+# Default headers for all paths (security + default cache).
+# More specific paths below override only Cache-Control; security headers are inherited.
 /*
   Access-Control-Allow-Origin: *
   X-Robots-Tag: all
