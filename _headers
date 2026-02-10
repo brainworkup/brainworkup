@@ -1,3 +1,5 @@
+# Default headers for all paths (security + default cache).
+# More specific paths below override only Cache-Control; security headers are inherited.
 /*
   Access-Control-Allow-Origin: *
   X-Robots-Tag: all
@@ -7,6 +9,7 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
   Content-Security-Policy: upgrade-insecure-requests
+  Cache-Control: public, max-age=0, must-revalidate
 
 /*.js
   Cache-Control: public, max-age=31536000, immutable
@@ -22,3 +25,9 @@
 
 /*.png
   Cache-Control: public, max-age=31536000, immutable
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Cache-Control: public, max-age=3600
