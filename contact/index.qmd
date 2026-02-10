@@ -50,7 +50,7 @@ tags:
 ---
 
 ::: {.hero-contact style="background-color: #f0f7ff; padding: 25px; border-radius: 8px; margin-bottom: 30px; border-left: 5px solid #1a73e8;"}
-## Get Answers: Free 30-Minute Consultation {style="color: #1a73e8; margin-top: 0;"}
+<!-- ## Get Answers: Free 30-Minute Consultation {style="color: #143561ff; margin-top: 0;"} -->
 
 Take the first step toward understanding your or your child's learning, attention, or cognitive challenges. Our no-obligation consultation helps determine if our assessment services are the right fit for your needs.
 
@@ -65,7 +65,7 @@ Take the first step toward understanding your or your child's learning, attentio
 ::: {style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;"}
 ::: {style="flex: 1; min-width: 250px; background: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd;"}
 ### 1. Free Consultation {style="margin-top: 0;"}
-Schedule a 30-minute Zoom call with Dr. Trampush to discuss your concerns and determine if our services meet your needs.
+Schedule a 15-minute Zoom call with Dr. Trampush to discuss your concerns and determine if our services meet your needs.
 
 **Timeline:** Same week availability
 :::
@@ -87,14 +87,14 @@ Receive detailed findings, diagnosis (if applicable), and actionable recommendat
 
 ::: {.callout-important appearance="simple"}
 ## Quick Response Guarantee
-We respond to all inquiries within 24 hours during business days.
+We respond to all inquiries within 24-48 hours during business days.
 :::
 
 ## Two Easy Ways to Schedule Your Consultation
 
 ### Option 1: Direct Online Booking {#calendar}
 
-Select a convenient time for your free 30-minute Zoom consultation with Dr. Trampush:
+Select a convenient time for your free 15-minute consultation with Dr. Trampush:
 
 <!-- Motion embed begin -->
 <iframe src="https://app.usemotion.com/meet/joey.trampush/consult" title="Motion Booking Page" width="100%" height="600px" frameborder="0" style="border: 1px solid #eee; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"></iframe>
@@ -107,7 +107,7 @@ Prefer we contact you? Complete this brief form and we'll reach out to schedule:
 ::: {style="background: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 30px;"}
 <a href="https://forms.gle/UNx9qUcihytE63qt5" class="btn btn-primary btn-lg" style="background-color: #1a73e8; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; margin-bottom: 15px;">Complete Inquiry Form →</a>
 
-**What happens next:** After submitting the form, you'll receive confirmation within 24 hours with available consultation times.
+**What happens next:** After submitting the form, you'll receive confirmation within 24-48 hours with available consultation times.
 :::
 
 ## Contact Information
@@ -136,4 +136,4 @@ In some cases, we can provide testing services at your home or place of residenc
 
 ## Insurance & Fees
 
-While we don't accept direct insurance payments, we provide detailed documentation that many clients successfully submit for out-of-network reimbursement. Assessment costs typically range from $3,000-$5,000 depending on complexity and specific needs.
+While we don't accept direct insurance payments, we provide detailed documentation that many clients successfully submit for out-of-network reimbursement. Assessment costs typically range from $2,000-$7,000 depending on complexity and specific needs.

@@ -107,8 +107,8 @@ website:
         href: faq/index.qmd
       - text: "Contact"
         href: contact/index.qmd
-      - text: "Blog"
-        href: blog/index.qmd
+      # - text: "Blog"
+      #   href: blog/index.qmd
     right:
       - icon: phone
         text: "**(213) 495-1155**"
