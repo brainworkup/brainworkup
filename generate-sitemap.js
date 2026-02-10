@@ -54,6 +54,7 @@ const URL_CONFIG = {
   '/independent-medical-exam/': { priority: 0.95, changefreq: 'monthly' },
   '/mental-health-diversion/': { priority: 0.95, changefreq: 'monthly' },
   '/faq/': { priority: 0.7, changefreq: 'monthly' },
+  '/conditions-treated/': { priority: 0.7, changefreq: 'monthly' },
   '/blog/': { priority: 0.6, changefreq: 'weekly' },
   '/blog/posts/2023-12-11-welcome/': { priority: 0.4, changefreq: 'yearly' },
   '/blog/posts/2023-12-13-adhd-post/': { priority: 0.4, changefreq: 'yearly' },
