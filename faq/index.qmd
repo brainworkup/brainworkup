@@ -29,6 +29,7 @@ tags:
   - la
   - southern california
   - usc psychiatry
+  - brain workup
 ---
 
 ![](logo-transparent-384.webp "FAQ"){width=284px height=284px fig-alt="The brainworkup logo on the FAQ page."}
