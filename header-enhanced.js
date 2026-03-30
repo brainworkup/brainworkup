@@ -304,18 +304,6 @@ document.addEventListener("DOMContentLoaded", function () {
       };
       break;
 
-    case "faq":
-      // We'll add FAQ schema in a separate update
-      pageSpecificData = {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        url: currentUrl,
-        name: "FAQ | Neuropsychological Testing Los Angeles",
-        description:
-          "Frequently asked questions about neuropsychological testing, ADHD evaluations, and our services in Los Angeles.",
-      };
-      break;
-
     default:
       pageSpecificData = {
         "@context": "https://schema.org",
