@@ -169,3 +169,5 @@ R/new_post.R
 
 **/*.quarto_ipynb
 generate-sitemap.js
+sitemap2.xml
+sitemap 2.xml
