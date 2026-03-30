@@ -35,7 +35,7 @@ X-Frame-Options         = "DENY"
 X-XSS-Protection        = "1; mode=block"
 Referrer-Policy         = "strict-origin-when-cross-origin"
 Permissions-Policy      = "camera=(), microphone=(), geolocation=()"
-Content-Security-Policy = "default-src 'self' https: data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.botpress.cloud https://files.bpcontent.cloud https://cdn.jsdelivr.net https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://files.bpcontent.cloud https://cdn.botpress.cloud; connect-src 'self' https://cdn.botpress.cloud https://files.bpcontent.cloud wss://cdn.botpress.cloud https://www.google-analytics.com; frame-src https://files.bpcontent.cloud https://cdn.botpress.cloud;"
+Content-Security-Policy = "default-src 'self' https: data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.botpress.cloud https://files.bpcontent.cloud https://cdn.jsdelivr.net https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net data:; img-src 'self' data: https://files.bpcontent.cloud https://cdn.botpress.cloud; connect-src 'self' https://cdn.botpress.cloud https://files.bpcontent.cloud wss://cdn.botpress.cloud https://www.google-analytics.com; frame-src https://files.bpcontent.cloud https://cdn.botpress.cloud;"
 X-Robots-Tag            = "all"
 
 [[headers]]
