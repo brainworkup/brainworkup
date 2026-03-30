@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.19">
+<meta name="generator" content="quarto-1.9.35">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -43,15 +43,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-0aee3bf5c80b61fd40ea62267a0299c6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-4606fe37eedd547e5aade15021964385.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b3ed8dc3e41e9ba1438e49d27b2b9ad8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c8d2aaf33acb9d940f8d13ef93d6ee98.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -144,6 +143,65 @@ cookieconsent.run({
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link rel="dns-prefetch" href="https://www.google-analytics.com">
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
+<!-- Botpress webchat -->
+<script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js" defer=""></script>
+
+<!-- Botpress style overrides: friendlier teal brand, neutral header, soft input -->
+<style>
+  /* Widget variables and overrides (keeps defaults if classes change) */
+  .bpw-widget,
+  .bpw-app,
+  .bpw-window {
+    --bpw-accent: #2B8A78;
+    /* primary brand */
+    --bpw-accent-contrast: #ffffff;
+    --bpw-header-bg: #ffffff;
+    --bpw-header-fg: #2b2b2b;
+    --bpw-input-bg: #f7f9f9;
+    --bpw-border-radius: 12px;
+  }
+
+  /* Floating button */
+  .bpw-floating-button {
+    background: var(--bpw-accent) !important;
+    color: var(--bpw-accent-contrast) !important;
+    right: 24px !important;
+    bottom: 24px !important;
+    box-shadow: 0 6px 18px rgba(43, 138, 120, 0.18) !important;
+  }
+
+  /* Header and title */
+  .bpw-header {
+    background: var(--bpw-header-bg) !important;
+    color: var(--bpw-header-fg) !important;
+  }
+
+  .bpw-header__title,
+  .bpw-header__subtitle {
+    color: var(--bpw-header-fg) !important;
+  }
+
+  /* Input area */
+  .bpw-input,
+  .bpw-send-button {
+    background: var(--bpw-input-bg) !important;
+  }
+
+  /* Slightly round the chat window */
+  .bpw-window,
+  .bpw-wrapper {
+    border-radius: 12px !important;
+    overflow: hidden;
+  }
+
+  /* Make the Botpress attribution less visually intrusive */
+  .bpw-botpress-badge {
+    opacity: 0.7;
+    color: #8f8f8f !important;
+  }
+</style>
 <link rel="canonical" href="https://brainworkup.org/testing-accommodations/">
 <!-- PWA Manifest -->
 <link rel="manifest" href="manifest.json">

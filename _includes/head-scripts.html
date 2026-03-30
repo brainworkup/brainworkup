@@ -3,3 +3,62 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link rel="dns-prefetch" href="https://www.google-analytics.com" />
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
+
+<!-- Botpress webchat -->
+<script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js" defer></script>
+
+<!-- Botpress style overrides: friendlier teal brand, neutral header, soft input -->
+<style>
+  /* Widget variables and overrides (keeps defaults if classes change) */
+  .bpw-widget,
+  .bpw-app,
+  .bpw-window {
+    --bpw-accent: #2B8A78;
+    /* primary brand */
+    --bpw-accent-contrast: #ffffff;
+    --bpw-header-bg: #ffffff;
+    --bpw-header-fg: #2b2b2b;
+    --bpw-input-bg: #f7f9f9;
+    --bpw-border-radius: 12px;
+  }
+
+  /* Floating button */
+  .bpw-floating-button {
+    background: var(--bpw-accent) !important;
+    color: var(--bpw-accent-contrast) !important;
+    right: 24px !important;
+    bottom: 24px !important;
+    box-shadow: 0 6px 18px rgba(43, 138, 120, 0.18) !important;
+  }
+
+  /* Header and title */
+  .bpw-header {
+    background: var(--bpw-header-bg) !important;
+    color: var(--bpw-header-fg) !important;
+  }
+
+  .bpw-header__title,
+  .bpw-header__subtitle {
+    color: var(--bpw-header-fg) !important;
+  }
+
+  /* Input area */
+  .bpw-input,
+  .bpw-send-button {
+    background: var(--bpw-input-bg) !important;
+  }
+
+  /* Slightly round the chat window */
+  .bpw-window,
+  .bpw-wrapper {
+    border-radius: 12px !important;
+    overflow: hidden;
+  }
+
+  /* Make the Botpress attribution less visually intrusive */
+  .bpw-botpress-badge {
+    opacity: 0.7;
+    color: #8f8f8f !important;
+  }
+</style>
