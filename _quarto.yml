@@ -8,6 +8,8 @@ project:
     - "sitemap.xml"
     - "_headers"
     - "manifest.json" # Add PWA manifest
+  post-render:
+    - post-render.js
 
 website:
   title: "BrainWorkup Neuropsychology"
@@ -69,7 +71,7 @@ website:
     left: |
       MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
 
-      [![](/logo.webp){fig-alt="BrainWorkup" width=75px}](https://brainworkup.org)
+      [![](/logo-150.webp){fig-alt="BrainWorkup" width=75px}](https://brainworkup.org)
     center:
       - text: "About"
         href: joey-trampush/index.qmd
