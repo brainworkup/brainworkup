@@ -1,12 +1,14 @@
 ---
 title: "Neurodevelopmental Services"
 title-meta: "Pediatric Neuropsychology in Los Angeles | BrainWorkup"
+pagetitle: "Pediatric Neuropsychology in Los Angeles | BrainWorkup"
 # aliases:
 #   - "../docs/pediatric-neuropsychology/"
 #   - "../services/pediatric-neuropsychology/"
 repo-actions: false
 description: >
-  Pediatric neuropsychological evaluations in Los Angeles for ADHD, autism, dyslexia, and a broad range of neurodevelopmental conditions in children and adolescents.
+  Pediatric neuropsychological evaluations in Los Angeles for ADHD, autism,
+  dyslexia, and other neurodevelopmental concerns in children and adolescents.
 image-alt: "BrainWorkup Neuropsychology — pediatric neuropsychology services for children and adolescents in Los Angeles."
 format:
   html:
