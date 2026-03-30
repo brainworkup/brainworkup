@@ -1,9 +1,10 @@
 ---
 title: "Autism"
 title-meta: "Autism Spectrum Evaluation Los Angeles | BrainWorkup"
+pagetitle: "Autism Evaluation Los Angeles | BrainWorkup Neuropsychology"
 subtitle: Evaluating social difficulties, behavioral patterns, and sensory processing differences characteristic of autism spectrum disorders
 description: |
-  We provide diagnostic screening services for autism spectrum disorders (ASD) to assess social communication, behavioral patterns, and sensory processing difficulties.
+  Comprehensive autism evaluations in Los Angeles assessing social communication, behavioral patterns, and sensory processing across childhood through adulthood.
 hide-description: false
 include-in-header: canonical-autism.html
 # aliases:

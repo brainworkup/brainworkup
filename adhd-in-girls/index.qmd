@@ -2,7 +2,7 @@
 title: "ADHD in Girls"
 title-meta: "ADHD in Girls & Women | BrainWorkup Neuropsychology LA"
 subtitle: "Recognizing and Treating ADHD in Girls and Women"
-description: "ADHD in girls and women is widely underdiagnosed. Our neuropsychological evaluations are designed to catch the symptoms others miss—so you finally get answers."
+description: "ADHD evaluations for girls and women in Los Angeles, designed to identify overlooked symptoms and provide clear, personalized next steps."
 keywords: [ADHD in girls, female ADHD, ADHD symptoms in girls, ADHD in women, undiagnosed ADHD, ADHD testing for girls, ADHD evaluation, female ADHD diagnosis, attention deficit hyperactivity disorder in females]
 hide-description: false
 include-in-header: canonical-adhd-in-girls.html

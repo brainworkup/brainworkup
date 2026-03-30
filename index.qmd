@@ -71,7 +71,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 - Measures attention patterns and executive functioning
 - Clear diagnosis and practical recommendations
 - Ages 5 through adult
-- [Learn more →](adhd/index.qmd)
+- [Learn more about ADHD testing →](adhd/index.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -80,7 +80,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 - Assessment of social communication and sensory processing
 - Experience with subtle and complex presentations
 - Documentation for school and Regional Center services
-- [Learn more →](autism/index.qmd)
+- [Autism evaluation services →](autism/index.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -88,7 +88,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 - Identification of dyslexia, dyscalculia, and processing disorders
 - Detailed analysis of academic and cognitive skills
 - Recommendations for IEP/504 plans and accommodations
-- [Learn more →](dyslexia/index.qmd)
+- [Dyslexia & learning disability testing →](dyslexia/index.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -96,7 +96,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 - Documentation for SAT, ACT, LSAT, MCAT, GRE
 - Reports meeting strict testing agency requirements
 - College disability services documentation
-- [Learn more →](testing-accommodations/index.qmd)
+- [Testing accommodation evaluations →](testing-accommodations/index.qmd)
 :::
 :::
 
@@ -111,7 +111,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 - [ADHD in Girls](adhd-in-girls/index.qmd)
 - [Academic Testing](testing-accommodations/index.qmd)
 - Twice-exceptional identification
-- [Learn more →](pediatric-neuropsychology/index.qmd)
+- [Pediatric neuropsychology services →](pediatric-neuropsychology/index.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-4}
@@ -119,7 +119,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 - [Adult-Onset ADHD](adult-onset-adhd/index.qmd)
 - [Memory & Cognitive Assessment](adult-neuropsychology/index.qmd)
 - Workplace accommodations
-- [Learn more →](adult-neuropsychology/index.qmd)
+- [Adult neuropsychology services →](adult-neuropsychology/index.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-4}
@@ -127,7 +127,7 @@ Schedule your evaluation: **(213) 495-1155** | [Schedule Online](contact/index.q
 - [Independent Medical Exams](independent-medical-exam/index.qmd)
 - [Mental Health Diversion](independent-medical-exam/index.qmd#mental-health-diversion/)
 - Expert witness testimony
-- [Learn more →](forensic-neuropsychology/index.qmd)
+- [Forensic neuropsychology services →](forensic-neuropsychology/index.qmd)
 :::
 ::::
 
