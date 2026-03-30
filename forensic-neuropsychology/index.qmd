@@ -1,7 +1,9 @@
 ---
 title: General Forensic Services
 title-meta: "Forensic Neuropsychology & IME in Los Angeles | BrainWorkup"
-description: "An overview of the forensic neuropsychological and medicolegal services provided by Dr. Trampush @ BrainWorkup Neuropsychology, LLC"
+pagetitle: "Forensic Neuropsychology & IME Los Angeles | BrainWorkup"
+description: "Forensic neuropsychological evaluations, independent medical exams (IME), and expert witness services in Los Angeles by Dr. Joey Trampush, Ph.D."
+image-alt: "BrainWorkup Neuropsychology — forensic neuropsychology and IME services in Los Angeles."
 format:
   html:
     page-layout: article

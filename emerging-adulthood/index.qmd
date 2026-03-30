@@ -5,6 +5,8 @@ subtitle: "Often a time of emerging mental illness"
 description: >
   Neuropsychological evaluation for emerging adults navigating identity,
   academic demands, and early mental health concerns in Los Angeles.
+image: mentalhealth1.jpeg
+image-alt: "Emerging adulthood mental health evaluation — BrainWorkup Neuropsychology Los Angeles."
 sidebar: true
 format:
   html:

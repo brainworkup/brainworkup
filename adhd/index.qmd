@@ -13,6 +13,7 @@ hide-description: true
 image: adhd-black.webp
 image-width: 2.5em
 image-height: 2.5em
+image-alt: "ADHD testing and evaluation — BrainWorkup Neuropsychology Los Angeles."
 include-in-header: canonical-adhd.html
 lightbox: true
 sidebar: true

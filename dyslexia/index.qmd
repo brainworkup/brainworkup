@@ -16,6 +16,7 @@ sidebar: true
 image: dyslexia.webp
 image-width: 1em
 image-height: 1em
+image-alt: "Dyslexia testing and learning disability evaluation — BrainWorkup Neuropsychology Los Angeles."
 lightbox: true
 tags:
   - dyslexia

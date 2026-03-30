@@ -2,7 +2,8 @@
 title: "Adult-Onset ADHD"
 title-meta: "Adult-Onset ADHD Evaluation Los Angeles | BrainWorkup"
 subtitle: "Understanding the controversy"
-description: "A balanced exploration of the concept of ADHD that emerges in adulthood, contrasting it with the more common childhood-diagnosed ADHD."
+description: "Adult-onset ADHD evaluation in Los Angeles — understanding late-diagnosed ADHD in adults and how it differs from childhood ADHD. Expert assessment by Dr. Trampush."
+image-alt: "BrainWorkup Neuropsychology — adult-onset ADHD evaluation in Los Angeles."
 format:
   html:
     page-layout: article

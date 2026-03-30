@@ -4,6 +4,8 @@ title-meta: "Contact a Neuropsychologist in Los Angeles | BrainWorkup"
 description: >
   Schedule your free 30-minute consultation with BrainWorkup Neuropsychology
 hide-description: true
+image: logo-transparent.webp
+image-alt: "BrainWorkup Neuropsychology — contact us to schedule a neuropsychological evaluation in Los Angeles."
 form:
   action: "/contact/contact_form.php"
   method: "post"

@@ -28,6 +28,7 @@ tags:
   - undiagnosed adhd
 sidebar: true
 image: optimized-adhd-girls-image.webp
+image-alt: "ADHD evaluation for girls and women — BrainWorkup Neuropsychology Los Angeles."
 image-width: 5em
 image-height: 5em
 lightbox: true
