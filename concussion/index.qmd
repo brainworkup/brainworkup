@@ -1,5 +1,6 @@
 ---
 title: "Sports-Related Concussion"
+title-meta: "Sports Concussion Neuropsychological Evaluation | BrainWorkup"
 description: >
   Learn about sports-related brain injury and concussion in young athletes and former athletes.
 format:

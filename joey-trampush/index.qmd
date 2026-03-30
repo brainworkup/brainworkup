@@ -1,5 +1,6 @@
 ---
 title: "Joey W. Trampush, Ph.D."
+title-meta: "Dr. Joey Trampush | Neuropsychologist in Los Angeles"
 subtitle: |
   Chief Neuropsychologist\
   Assistant Professor of Psychiatry\

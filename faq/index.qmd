@@ -1,7 +1,8 @@
 ---
 title: "Frequently Asked Questions"
+title-meta: "Neuropsychological Evaluation FAQ | BrainWorkup Los Angeles"
 subtitle: "Common questions about our neuropsychological evaluation services"
-description: "FAQs about our neuropsychological evaluations."
+description: "Answers to common questions about neuropsychological evaluations, ADHD testing, dyslexia assessments, and what to expect at BrainWorkup Neuropsychology in Los Angeles."
 hide-description: false
 # aliases:
 #   - "../docs/faq/"

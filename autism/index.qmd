@@ -1,5 +1,6 @@
 ---
 title: "Autism"
+title-meta: "Autism Spectrum Evaluation Los Angeles | BrainWorkup"
 subtitle: Evaluating social difficulties, behavioral patterns, and sensory processing differences characteristic of autism spectrum disorders
 description: |
   We provide diagnostic screening services for autism spectrum disorders (ASD) to assess social communication, behavioral patterns, and sensory processing difficulties.

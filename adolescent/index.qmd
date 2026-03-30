@@ -1,7 +1,8 @@
 ---
 title: "Adolescents"
+title-meta: "Teen & Adolescent Neuropsychological Testing | BrainWorkup"
 subtitle: "Recognizing and Treating Older Teens and Adolescents"
-description: "Explore the complexities of adolescence and its impact on cognitive abilities."
+description: "Neuropsychological testing for teens and adolescents in Los Angeles, addressing ADHD, learning disorders, anxiety, and the unique cognitive challenges of adolescence."
 hide-description: false
 include-in-header: canonical-adolescent.html
 format:

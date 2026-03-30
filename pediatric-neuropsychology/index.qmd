@@ -1,6 +1,6 @@
 ---
 title: "Neurodevelopmental Services"
-title-meta: "Pediatric Neuropsychological Services"
+title-meta: "Pediatric Neuropsychology in Los Angeles | BrainWorkup"
 # aliases:
 #   - "../docs/pediatric-neuropsychology/"
 #   - "../services/pediatric-neuropsychology/"

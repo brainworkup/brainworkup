@@ -1,5 +1,6 @@
 ---
 title: "Testing Accommodations"
+title-meta: "ADHD & Disability Testing Accommodations | BrainWorkup LA"
 subtitle: "Testing and school accommodations for students with disabilities"
 description: >
   Academic and standardized testing accommodations (e.g., MCAT, LSAT, SAT) for
