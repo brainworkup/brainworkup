@@ -1,7 +1,10 @@
 ---
 title: "Preschoolers"
+title-meta: "Preschool Neuropsychological Evaluation | BrainWorkup LA"
 subtitle: "Early childhood evaluation of neurocognitive development"
-description: Early childhood evaluation of neurocognitive development
+description: >
+  Early childhood neuropsychological evaluation of neurocognitive development,
+  language, motor skills, and school readiness for children ages 2–5 in Los Angeles.
 format:
   html:
     page-layout: article

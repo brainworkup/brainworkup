@@ -1,5 +1,6 @@
 ---
 title: "Independent Medical Exams"
+title-meta: "Independent Medical Exams (IME) | BrainWorkup Neuropsychology"
 description: |
   Expert forensic, medicolegal, and IME evaluations for neurodevelopmental, psychiatric, and traumatic brain injury.
 hide-description: false

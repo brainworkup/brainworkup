@@ -1,9 +1,10 @@
 ---
 title: "General Adult Services"
-title-meta: Neuropsychological Assessment for Adults
+title-meta: "Adult Neuropsychological Assessment in Los Angeles | BrainWorkup"
 subtitle: "Neurocognitive Testing in Adults"
 description: >
-  Understanding neuropsychological evaluations for diverse adult age groups.
+  Neuropsychological assessment for adults of all ages in Los Angeles — from emerging
+  adulthood through older age — covering ADHD, cognitive health, learning disorders, and more.
 hide-description: false
 format:
   html:

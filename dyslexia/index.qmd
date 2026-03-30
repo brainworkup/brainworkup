@@ -1,5 +1,6 @@
 ---
 title: "Dyslexia"
+title-meta: "Dyslexia Testing & Evaluation in Los Angeles | BrainWorkup"
 subtitle: "Dyslexia is a common learning disorder that affects how easily and efficiently you can learn to read."
 description: >
   We specialize in evaluating dyslexia and related learning disorders in both

@@ -1,6 +1,7 @@
 ---
 title: "School-Age Children"
-description: "Neuropsychological evaluations for school-age children."
+title-meta: "School-Age Child Neuropsychological Testing | BrainWorkup"
+description: "Comprehensive neuropsychological evaluations for school-age children in Los Angeles, assessing ADHD, learning disorders, dyslexia, and academic performance."
 format: html
 include-in-header: canonical-school-age.html
 # aliases:
