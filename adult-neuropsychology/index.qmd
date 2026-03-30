@@ -6,6 +6,8 @@ description: >
   Neuropsychological assessment for adults of all ages in Los Angeles — from emerging
   adulthood through older age — covering ADHD, cognitive health, learning disorders, and more.
 hide-description: false
+image: adults.webp
+image-alt: "Adult neuropsychology services — BrainWorkup Neuropsychology Los Angeles."
 format:
   html:
     page-layout: article
@@ -24,7 +26,7 @@ image-height: 5em
 lightbox: true
 ---
 
-![](adults-384.png "Adult Clinical Services"){width=20em fig-alt="A brainworkup kids logo for adult services."}
+![](adults-384.png "Adult Clinical Services"){width=20em fig-alt="Adult neuropsychological assessment services — BrainWorkup Neuropsychology Los Angeles."}
 
 ## Purpose of Neuropsychological Testing
 

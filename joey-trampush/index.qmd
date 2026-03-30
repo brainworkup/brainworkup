@@ -127,7 +127,7 @@ neuropsychology practice, please visit the [[contact](/contact/index.qmd#online-
 
 Sincerely,
 
-![](jwt_phd.png){width=10em fig-alt="signature"}
+![](jwt_phd.png){width=10em fig-alt="Dr. Joey Trampush, Ph.D. — neuropsychologist at BrainWorkup Neuropsychology"}
 
 **Joey W. Trampush, PhD**\
 Chief Neuropsychologist\

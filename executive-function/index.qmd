@@ -15,6 +15,7 @@ sidebar: true
 image: executive-optimized.webp
 image-width: 5em
 image-height: 5em
+image-alt: "Executive function testing in Los Angeles — BrainWorkup Neuropsychology."
 lightbox: true
 include-in-header: canonical-executive-function.html
 ---

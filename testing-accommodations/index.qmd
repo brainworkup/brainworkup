@@ -16,6 +16,7 @@ format:
     page-layout: article
 sidebar: true
 image: test-taker.webp
+image-alt: "Testing accommodations for ADHD and learning disabilities — BrainWorkup Neuropsychology Los Angeles."
 image-width: 15em
 image-height: 15em
 lightbox: true

@@ -1,8 +1,11 @@
 ---
 title: "Sports-Related Concussion"
 title-meta: "Sports Concussion Neuropsychological Evaluation | BrainWorkup"
+pagetitle: "Concussion Neuropsychological Testing Los Angeles | BrainWorkup"
 description: >
-  Learn about sports-related brain injury and concussion in young athletes and former athletes.
+  Neuropsychological evaluation for sports-related concussion and brain injury in young athletes and former athletes in Los Angeles — baseline testing, return-to-play support, and post-concussion assessment.
+image: hero.webp
+image-alt: "BrainWorkup Neuropsychology — sports concussion evaluation in Los Angeles."
 format:
   html:
     page-layout: article
@@ -29,3 +32,25 @@ A growing concern for parents is sports-related brain injury and concussion in y
 ## Former Athletes
 
 We evaluate former athletes who are experiencing cognitive and/or emotional difficulties that might be linked to playing contact sports in high school, college or professionally.
+
+## What a Concussion Evaluation Includes
+
+Our neuropsychological concussion evaluations assess the cognitive domains most often affected by head injury:
+
+- **Attention and concentration** — tracking deficits that persist beyond acute symptoms
+- **Processing speed and reaction time** — sensitive early indicators of brain function change
+- **Memory and learning** — identifying encoding and retrieval difficulties
+- **Executive functioning** — planning, inhibition, and cognitive flexibility
+- **Emotional and behavioral functioning** — anxiety, irritability, and sleep disruption common after concussion
+
+## Baseline Testing
+
+Preseason baseline evaluations provide a personalized reference point for your child's normal cognitive performance. If a concussion occurs during the season, post-injury scores can be compared directly against the baseline to guide return-to-play decisions with objective data rather than symptom reports alone.
+
+## Return-to-Play and Academic Accommodations
+
+Post-concussion evaluations support both return-to-play protocols and return-to-learn plans. Many student-athletes need temporary academic accommodations — reduced workload, extended deadlines, or a modified schedule — while the brain recovers. Our evaluation findings can document these needs for schools and coaches.
+
+## Contact Us
+
+To schedule a baseline or post-concussion neuropsychological evaluation, [contact us](/contact/index.qmd) or call **(213) 495-1155**.

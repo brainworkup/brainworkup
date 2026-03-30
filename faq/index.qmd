@@ -11,6 +11,7 @@ format:
     page-layout: article
 include-in-header: canonical-faq.html
 image: logo-transparent-384.webp
+image-alt: "BrainWorkup Neuropsychology — frequently asked questions about neuropsychological evaluations."
 lightbox: true
 repo-actions: false
 sidebar: false
