@@ -145,9 +145,62 @@ cookieconsent.run({
 <link rel="dns-prefetch" href="https://www.google-analytics.com">
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
 
-<!-- Botpress webchat -->
-<script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"></script>
-<script src="https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js" defer=""></script>
+<!-- Botpress webchat (lazy-loaded to protect Core Web Vitals) -->
+<script>
+  (function () {
+    var botpressLoaded = false;
+
+    function loadScript(src, defer) {
+      return new Promise(function (resolve, reject) {
+        var script = document.createElement("script");
+        script.src = src;
+        if (defer) script.defer = true;
+        script.onload = resolve;
+        script.onerror = reject;
+        document.head.appendChild(script);
+      });
+    }
+
+    function loadBotpress() {
+      if (botpressLoaded) return;
+      botpressLoaded = true;
+
+      loadScript("https://cdn.botpress.cloud/webchat/v3.6/inject.js", true)
+        .then(function () {
+          return loadScript("https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js", true);
+        })
+        .catch(function () {
+          botpressLoaded = false;
+        });
+
+      removeListeners();
+    }
+
+    function removeListeners() {
+      window.removeEventListener("scroll", onFirstInteraction, { passive: true });
+      window.removeEventListener("mousemove", onFirstInteraction);
+      window.removeEventListener("keydown", onFirstInteraction);
+      window.removeEventListener("touchstart", onFirstInteraction, { passive: true });
+      window.removeEventListener("click", onFirstInteraction);
+    }
+
+    function onFirstInteraction() {
+      loadBotpress();
+    }
+
+    window.addEventListener("scroll", onFirstInteraction, { passive: true, once: true });
+    window.addEventListener("mousemove", onFirstInteraction, { once: true });
+    window.addEventListener("keydown", onFirstInteraction, { once: true });
+    window.addEventListener("touchstart", onFirstInteraction, { passive: true, once: true });
+    window.addEventListener("click", onFirstInteraction, { once: true });
+
+    if ("requestIdleCallback" in window) {
+      requestIdleCallback(loadBotpress, { timeout: 12000 });
+    } else {
+      setTimeout(loadBotpress, 12000);
+    }
+  })();
+</script>
 
 <!-- Botpress style overrides: friendlier teal brand, neutral header, soft input -->
 <style>
