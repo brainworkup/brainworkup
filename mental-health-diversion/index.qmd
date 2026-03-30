@@ -1,12 +1,30 @@
 ---
 title: "Mental Health Diversion"
-title-meta: "Mental Health Diversion Evaluation | BrainWorkup Neuropsychology"
-description-meta: >
-  This page provides an introduction to mental health diversion, key aspects of the program, and our approach to conducting mental health diversion evaluations.
+title-meta: "Mental Health Diversion Evaluation Los Angeles | BrainWorkup"
+pagetitle: "Mental Health Diversion Evaluation Los Angeles | BrainWorkup Neuropsychology"
+description: "Expert mental health diversion evaluations in Los Angeles under California SB 215. Dr. Joey Trampush provides neuropsychological assessments for pretrial diversion programs."
+keywords:
+  - mental health diversion
+  - SB 215
+  - pretrial diversion
+  - mental health evaluation
+  - forensic neuropsychology
+  - Los Angeles
+  - California mental health diversion program
+hide-description: false
 format:
   html:
     page-layout: article
     include-in-header: canonical-mental-health-diversion.html
+image-alt: "BrainWorkup Neuropsychology -- mental health diversion evaluations in Los Angeles."
+tags:
+  - mental health diversion
+  - SB 215
+  - pretrial diversion
+  - forensic neuropsychology
+  - criminal justice
+  - mental health evaluation
+sidebar: true
 ---
 
 ## An Introduction to Mental Health Diversion Evaluations

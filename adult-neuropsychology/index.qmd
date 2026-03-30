@@ -6,6 +6,13 @@ subtitle: "Neurocognitive Testing in Adults"
 description: >
   Adult neuropsychological evaluation in Los Angeles for ADHD, memory concerns,
   learning disorders, and cognitive changes across adulthood.
+keywords:
+  - adult neuropsychological evaluation Los Angeles
+  - adult ADHD testing
+  - memory assessment
+  - cognitive evaluation adults
+  - neuropsychologist Los Angeles
+  - adult learning disability testing
 hide-description: false
 image: adults.webp
 image-alt: "Adult neuropsychology services — BrainWorkup Neuropsychology Los Angeles."

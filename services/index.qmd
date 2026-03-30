@@ -9,6 +9,16 @@ subtitle: "Neurocognitive and psychodiagnostic services are provided for pediatr
 #   - neuropsychological-services.html
 description: >
   Neurocognitive examination and psychodiagnostic clarification services are provided for pediatric populations, forensic and medicolegal cases, and adults.
+keywords:
+  - neuropsychological services Los Angeles
+  - neuropsychological testing
+  - cognitive assessment
+  - pediatric neuropsychology
+  - adult neuropsychology
+  - forensic neuropsychology
+  - ADHD testing
+  - learning disability evaluation
+  - autism assessment
 hide-description: true
 anchor-sections: true
 fontsize: 1.1em

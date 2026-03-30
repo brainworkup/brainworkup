@@ -5,6 +5,15 @@ title-meta: "Dyslexia Testing & Evaluation in Los Angeles | BrainWorkup"
 subtitle: "Dyslexia is a common learning disorder that affects how easily and efficiently you can learn to read."
 description: >
   Dyslexia testing and learning disability evaluations in Los Angeles for children and adults, including recommendations for school and workplace accommodations.
+keywords:
+  - dyslexia testing Los Angeles
+  - learning disability evaluation
+  - dyslexia diagnosis
+  - reading disorder testing
+  - dyscalculia assessment
+  - dysgraphia evaluation
+  - IEP evaluation
+  - 504 plan documentation
 include-in-header: canonical-dyslexia.html
 # aliases:
 #   - ../docs/disorders/dyslexia.html

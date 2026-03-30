@@ -6,6 +6,15 @@ pagetitle: "ADHD Testing Los Angeles | BrainWorkup Neuropsychology"
 subtitle: "Evaluating ADHD across the lifespan"
 description: >
   Comprehensive ADHD testing in Los Angeles for children, teens, and adults, with clear diagnosis and personalized recommendations.
+keywords:
+  - ADHD testing Los Angeles
+  - ADHD evaluation
+  - ADHD diagnosis
+  - attention deficit hyperactivity disorder
+  - ADHD testing for children
+  - adult ADHD assessment
+  - neuropsychological testing ADHD
+  - ADHD specialist Los Angeles
 format:
   html:
     page-layout: article

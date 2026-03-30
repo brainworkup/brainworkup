@@ -1,12 +1,31 @@
 ---
 title: "School-Age Children"
 title-meta: "School-Age Child Neuropsychological Testing | BrainWorkup"
-description: "Comprehensive neuropsychological evaluations for school-age children in Los Angeles, assessing ADHD, learning disorders, dyslexia, and academic performance."
-format: html
+pagetitle: "School-Age Neuropsychological Testing Los Angeles | BrainWorkup"
+description: "Comprehensive neuropsychological evaluations for school-age children (ages 6-12) in Los Angeles, assessing ADHD, learning disorders, dyslexia, and academic performance."
+keywords:
+  - school-age neuropsychological testing
+  - child neuropsychological evaluation
+  - ADHD testing children
+  - learning disability assessment
+  - dyslexia testing children
+  - IEP evaluation
+  - 504 plan assessment
+  - Los Angeles child neuropsychologist
+format:
+  html:
+    page-layout: article
 include-in-header: canonical-school-age.html
-# aliases:
-#   - "../docs/pediatric-neuropsychology/school-age/"
-#   - "../services/pediatric-neuropsychology/school-age/"
+hide-description: false
+tags:
+  - school-age neuropsychology
+  - child cognitive testing
+  - ADHD evaluation children
+  - learning disability
+  - dyslexia
+  - IEP evaluation
+  - pediatric neuropsychology
+sidebar: true
 ---
 
 ## Elementary School (Ages 6-12)
