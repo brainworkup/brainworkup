@@ -1,5 +1,6 @@
 ---
 title: "Clinical Neuropsychological Services"
+title-meta: "Neuropsychological Services in Los Angeles | BrainWorkup"
 subtitle: "Neurocognitive and psychodiagnostic services are provided for pediatric populations, forensic and medicolegal cases, as well as for adults."
 # aliases:
 #   - "../docs/clinical-services/"

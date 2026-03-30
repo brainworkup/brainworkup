@@ -13,8 +13,8 @@ website:
   title: "BrainWorkup Neuropsychology"
   announcement:
     icon: clipboard-check
-    dismissable: true
-    content: "**New patients:** Call **(213) 495-1155** or [**Schedule Online**](/contact#calendar){.btn .btn-warning .btn-sm}"
+    dismissable: false
+    content: "**New patients:** Call **(213) 495-1155** or [**Schedule Online**](/contact){.btn .btn-warning .btn-sm}"
     type: warning
     position: below-navbar
   description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
