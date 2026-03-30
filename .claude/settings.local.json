@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Read(//Users/joey/.config/fish/**)",
+      "Read(//Users/joey/.config/fish/conf.d/**)",
+      "Bash(fish -c \"echo hello\")",
+      "Bash(fish -c \"jump shell fish\")",
+      "Bash(fish -c \"source /Users/joey/.openclaw/completions/openclaw.fish\")",
+      "Bash(fish -l -c \"exit\")"
     ]
   }
 }
