@@ -4,6 +4,14 @@ title-meta: "Sports Concussion Neuropsychological Evaluation | BrainWorkup"
 pagetitle: "Concussion Neuropsychological Testing Los Angeles | BrainWorkup"
 description: >
   Sports concussion neuropsychological evaluation in Los Angeles with baseline testing, post-concussion assessment, and return-to-play/return-to-learn guidance.
+keywords:
+  - concussion testing Los Angeles
+  - sports concussion evaluation
+  - baseline concussion testing
+  - post-concussion assessment
+  - return to play evaluation
+  - traumatic brain injury testing
+  - youth athlete concussion
 image: hero.webp
 image-alt: "BrainWorkup Neuropsychology — sports concussion evaluation in Los Angeles."
 format:

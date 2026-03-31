@@ -1,5 +1,5 @@
 # Robots.txt for BrainWorkup.org
-# Last updated: 2025-01-22
+# Last updated: 2026-03-30
 
 # Default - Allow all legitimate bots
 User-agent: *
@@ -15,16 +15,23 @@ Allow: /adhd/
 Allow: /adhd-in-girls/
 Allow: /adult-onset-adhd/
 Allow: /adult-neuropsychology/
-Allow: /pediatric-neuropsychology/
-Allow: /forensic-neuropsychology/
-Allow: /testing-accommodations/
-Allow: /joey-trampush/
-Allow: /services/
-Allow: /contact/
-Allow: /faq/
-Allow: /dyslexia/
+Allow: /adolescent/
 Allow: /autism/
+Allow: /concussion/
+Allow: /contact/
+Allow: /dyslexia/
+Allow: /emerging-adulthood/
 Allow: /executive-function/
+Allow: /faq/
+Allow: /forensic-neuropsychology/
+Allow: /independent-medical-exam/
+Allow: /joey-trampush/
+Allow: /mental-health-diversion/
+Allow: /pediatric-neuropsychology/
+Allow: /preschool/
+Allow: /school-age/
+Allow: /services/
+Allow: /testing-accommodations/
 
 # Allow access to assets
 Allow: /*.css
@@ -38,6 +45,8 @@ Disallow: /blog/posts/_*
 Disallow: /_notes/
 Disallow: /_templates/
 Disallow: /R/
+Disallow: /_site/
+Disallow: /site_libs/
 
 # Block bad bots
 User-agent: AhrefsBot
@@ -52,12 +61,21 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-# Google specific directives
-User-agent: Googlebot
-Allow: /
-Crawl-delay: 0
+User-agent: BLEXBot
+Disallow: /
 
-# Bing specific directives
-User-agent: bingbot
-Allow: /
-Crawl-delay: 0
+# Block AI training crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /

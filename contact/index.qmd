@@ -2,7 +2,13 @@
 title: "Contact Us"
 title-meta: "Contact a Neuropsychologist in Los Angeles | BrainWorkup"
 description: >
-  Schedule your free 30-minute consultation with BrainWorkup Neuropsychology
+  Schedule your free 30-minute consultation with BrainWorkup Neuropsychology in Los Angeles. Call (213) 495-1155 or submit an online inquiry.
+keywords:
+  - contact neuropsychologist Los Angeles
+  - schedule neuropsychological evaluation
+  - BrainWorkup contact
+  - neuropsychology appointment
+  - free consultation neuropsychologist
 hide-description: true
 image: logo-transparent.webp
 image-alt: "BrainWorkup Neuropsychology — contact us to schedule a neuropsychological evaluation in Los Angeles."

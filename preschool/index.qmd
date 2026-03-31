@@ -1,19 +1,35 @@
 ---
 title: "Preschoolers"
 title-meta: "Preschool Neuropsychological Evaluation | BrainWorkup LA"
+pagetitle: "Preschool Neuropsychological Evaluation Los Angeles | BrainWorkup"
 subtitle: "Early childhood evaluation of neurocognitive development"
 description: >
   Early childhood neuropsychological evaluation of neurocognitive development,
-  language, motor skills, and school readiness for children ages 2–5 in Los Angeles.
+  language, motor skills, and school readiness for children ages 2-5 in Los Angeles.
+keywords:
+  - preschool neuropsychological evaluation
+  - early childhood assessment
+  - toddler cognitive testing
+  - school readiness evaluation
+  - developmental delay testing
+  - Los Angeles pediatric neuropsychologist
 format:
   html:
     page-layout: article
     include-in-header: canonical-preschool.html
-title-block-banner: false #blue.png #logo-253.png
+title-block-banner: false
 title-block-style: none
-hide-description: true
+hide-description: false
 anchor-sections: true
 title-block-banner-color: "#FFDDFF"
+tags:
+  - preschool neuropsychology
+  - early childhood development
+  - toddler evaluation
+  - school readiness
+  - developmental delay
+  - pediatric neuropsychology
+sidebar: true
 ---
 
 ## Early Brain Development: The Foundation Years

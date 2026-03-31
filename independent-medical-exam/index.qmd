@@ -2,7 +2,14 @@
 title: "Independent Medical Exams"
 title-meta: "Independent Medical Exams (IME) | BrainWorkup Neuropsychology"
 description: |
-  Expert forensic, medicolegal, and IME evaluations for neurodevelopmental, psychiatric, and traumatic brain injury.
+  Expert forensic, medicolegal, and IME evaluations for neurodevelopmental, psychiatric, and traumatic brain injury in Los Angeles.
+keywords:
+  - independent medical exam Los Angeles
+  - IME neuropsychology
+  - forensic evaluation
+  - expert witness neuropsychologist
+  - traumatic brain injury assessment
+  - medicolegal neuropsychological evaluation
 hide-description: false
 format:
   html:

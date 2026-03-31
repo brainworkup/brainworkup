@@ -5,6 +5,15 @@ pagetitle: "Autism Evaluation Los Angeles | BrainWorkup Neuropsychology"
 subtitle: Evaluating social difficulties, behavioral patterns, and sensory processing differences characteristic of autism spectrum disorders
 description: |
   Comprehensive autism evaluations in Los Angeles assessing social communication, behavioral patterns, and sensory processing across childhood through adulthood.
+keywords:
+  - autism evaluation Los Angeles
+  - autism spectrum disorder testing
+  - ASD assessment
+  - autism diagnosis
+  - social communication evaluation
+  - sensory processing assessment
+  - autism testing children
+  - autism testing adults
 hide-description: false
 include-in-header: canonical-autism.html
 # aliases:
