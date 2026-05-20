@@ -152,7 +152,7 @@ _notes/
 brainworkup.code-workspace
 _quarto.yml.bk
 optimized_quarto_yml.txt
-.vincent/mcp.json
+./mcp.json
 brainworkup.code-workspace
 bwu_logo_2025-07-13.pdf
 bwu_logo_2025-07-13.png
@@ -175,4 +175,5 @@ sitemap 2.xml
 .roo/
 new_28.md
 
-brand.yml/CascadeProjects/brainworkup-redesign 
+brand.yml/
+

@@ -27,7 +27,6 @@ tags:
   - neuropsychological evaluation
   - anxiety
   - depression
-sidebar: true
 ---
 
 ![Standup to the stigma of mental illness.](mentalhealth1.jpeg "Emerging Adulthood"){width=20em}
