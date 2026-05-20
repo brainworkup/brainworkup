@@ -118,6 +118,10 @@ website:
       - icon: envelope
         text: "**info@brainworkup.org**"
         href: mailto:info@brainworkup.org
+      - icon: book-open
+        text: "**Docs**"
+        href: https://docs.brainworkup.org
+        aria-label: Documentation
     tools:
       - icon: github
         href: https://github.com/brainworkup/brainworkup/
