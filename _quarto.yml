@@ -13,6 +13,7 @@ project:
 
 website:
   title: "BrainWorkup Neuropsychology"
+  llms-txt: true
   announcement:
     icon: clipboard-check
     dismissable: false
