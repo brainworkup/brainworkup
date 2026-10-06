@@ -173,9 +173,30 @@ cookieconsent.run({
 
       loadScript("https://cdn.botpress.cloud/webchat/v3.7/inject.js", true)
         .then(function () {
-          return loadScript("https://files.bpcontent.cloud/2026/03/30/05/20260330054753-Y5LMQ29Z.js", true);
-        })
-        .then(function () {
+          // Branded webchat config — mirrors bot fd2a9000 (brainworkup agent bot).
+          // Palette from theme.scss: teal #237a68 (primary), charcoal #33373f, gold #9a6207.
+          window.botpress.init({
+            botId: "fd2a9000-1fa3-4ef5-a900-9b234087cd44",
+            clientId: "e7d5bd67-5ce9-488a-97bf-f687eb188754",
+            configuration: {
+              botName: "BrainWorkup Assistant",
+              botDescription: "Ask about our services, conditions we evaluate, or how to get in touch.",
+              botAvatar: "https://brainworkup.org/favicon_black.webp",
+              website: { title: "brainworkup.org", link: "https://brainworkup.org" },
+              email: { title: "info@brainworkup.org", link: "mailto:info@brainworkup.org" },
+              phone: { title: "(213) 495-1155", link: "tel:+12134951155" },
+              color: "#237a68",
+              variant: "solid",
+              headerVariant: "solid",
+              themeMode: "light",
+              fontFamily: "inter",
+              radius: 2,
+              feedbackEnabled: false,
+              soundEnabled: false,
+              proactiveMessageEnabled: false,
+              conversationHistory: false
+            }
+          });
           botpressLoaded = true;
           removeListeners();
         })
@@ -228,11 +249,11 @@ cookieconsent.run({
   .bpw-widget,
   .bpw-app,
   .bpw-window {
-    --bpw-accent: #2B8A78;
-    /* primary brand */
+    --bpw-accent: #237a68;
+    /* primary brand teal (theme.scss) */
     --bpw-accent-contrast: #ffffff;
     --bpw-header-bg: #ffffff;
-    --bpw-header-fg: #2b2b2b;
+    --bpw-header-fg: #33373f;
     --bpw-input-bg: #f7f9f9;
     --bpw-border-radius: 12px;
   }
@@ -243,7 +264,7 @@ cookieconsent.run({
     color: var(--bpw-accent-contrast) !important;
     right: 24px !important;
     bottom: 24px !important;
-    box-shadow: 0 6px 18px rgba(43, 138, 120, 0.18) !important;
+    box-shadow: 0 6px 18px rgba(35, 122, 104, 0.18) !important;
   }
 
   /* Header and title */
@@ -360,6 +381,11 @@ cookieconsent.run({
     <a class="nav-link" href="mailto:info@brainworkup.org"> <i class="bi bi-envelope" role="img">
 </i> 
 <span class="menu-text"><strong>info@brainworkup.org</strong></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://docs.brainworkup.org"> <i class="bi bi-book-open" role="img" aria-label="Documentation">
+</i> 
+<span class="menu-text"><strong>Docs</strong></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
