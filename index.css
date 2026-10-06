@@ -1,96 +1,10 @@
-:root {
-  /* Trust-building colors */
-  --primary-blue: #1a73e8;
-  --calming-teal: #0d9488;
-  --warm-accent: #f59e0b;
-  --text-primary: #1f2937;
-  --text-secondary: #6b7280;
-  --background: #ffffff;
-  --surface: #f9fafb;
+/* ============================================================
+   Homepage-only styles.
+   Colors now come from the unified palette in theme.scss — this
+   file only handles sizing/shape of the "about" (trestles) logo.
+   ============================================================ */
 
-  /* Readable typography */
-  --font-main: Inter, -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-heading: "Nunito", var(--font-main);
-  --content-width: 1200px;
-}
-
-/* Hero section that converts */
-.hero-section {
-  background: linear-gradient(135deg, #eff6ff 0%, #f0fdfa 100%);
-  padding: 3rem 2rem;
-  text-align: center;
-  margin-bottom: 4rem;
-}
-
-.hero-section h2 {
-  font-size: 2.5rem;
-  color: var(--text-primary);
-  margin-bottom: 1rem;
-  font-weight: 700;
-}
-
-/* Trust signals styling */
-.trust-signals {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
-  padding: 2rem;
-  background: var(--surface);
-  border-radius: 1rem;
-  margin: 3rem 0;
-}
-
-/* Service highlights with better hierarchy */
-.service-highlight {
-  border-left: 4px solid var(--primary-blue);
-  padding-left: 1.5rem;
-  margin: 2rem 0;
-}
-
-/* CTAs that actually convert */
-.btn-primary {
-  background: var(--primary-blue);
-  color: white;
-  padding: 1rem 2rem;
-  border-radius: 0.5rem;
-  text-decoration: none;
-  display: inline-block;
-  font-weight: 600;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 20px rgba(26, 115, 232, 0.2);
-}
-
-/* Cost transparency builds trust */
-.cost-transparency {
-  background: #fef3c7;
-  border: 2px solid #f59e0b;
-  padding: 2rem;
-  border-radius: 0.75rem;
-  margin: 3rem 0;
-}
-
-/* Hero logo with dark background */
-.hero-logo {
-  background: #33373f;
-  border-radius: 50%;
-  padding: 30px;
-  display: inline-block;
-  box-shadow: 0 8px 25px rgba(51, 55, 63, 0.4);
-}
-
-/* For the about template image */
-.about-header .about-image img {
-  background: #33373f;
-  border-radius: 50%;
-  padding: 20px;
-}
-
-/* Hero logo responsive sizing */
-.hero-logo,
+/* Logo sits in a charcoal circle, responsive across breakpoints */
 .about-header .about-image img,
 .about-image img {
   background: #33373f;
@@ -105,9 +19,8 @@
   height: auto;
 }
 
-/* Tablet sizing */
+/* Tablet */
 @media (max-width: 768px) {
-  .hero-logo,
   .about-header .about-image img,
   .about-image img {
     max-width: 280px;
@@ -115,28 +28,20 @@
   }
 }
 
-/* Mobile sizing - much smaller */
+/* Mobile */
 @media (max-width: 480px) {
-  .hero-logo,
   .about-header .about-image img,
   .about-image img {
     max-width: 200px;
     padding: 10px;
   }
 
-  /* Reduce spacing around the image */
-  .about-header {
-    margin-bottom: 1rem;
-  }
-
-  .about-image {
-    margin-bottom: 1rem;
-  }
+  .about-header { margin-bottom: 1rem; }
+  .about-image { margin-bottom: 1rem; }
 }
 
 /* Extra small phones */
 @media (max-width: 360px) {
-  .hero-logo,
   .about-header .about-image img,
   .about-image img {
     max-width: 160px;
