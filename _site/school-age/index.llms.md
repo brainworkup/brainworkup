@@ -1,0 +1,33 @@
+# School-Age Children
+
+Comprehensive neuropsychological evaluations for school-age children (ages 6-12) in Los Angeles, assessing ADHD, learning disorders, dyslexia, and academic performance.
+
+Keywords
+
+school-age neuropsychological testing, child neuropsychological evaluation, ADHD testing children, learning disability assessment, dyslexia testing children, IEP evaluation, 504 plan assessment, Los Angeles child neuropsychologist
+
+## Elementary School (Ages 6-12)
+
+Adult-like neurocognitive abilities begin to materialize between the ages of 7-12 years during elementary school. A baseline neurocognitive evaluation obtained during childhood can thus reassure parents and teachers that a child is developing as expected, as well as help identify and monitor neurodevelopmental concerns. If we suspect any problems, we can then make recommendations for intervention in a timely manner. Further, assessing children requires developmental issues be taken into consideration when interpreting a child’s performance: many factors can influence a child’s developmental maturation including genetics, medical history, home and family environment, behavioral problems, and sociocultural factors. We can help parents understand these issues in the context of their child’s abilities and limitations, and assist in monitoring your child’s development during this critical period.
+
+## Common Reasons for School-Age Referral
+
+Families and schools often seek evaluation when a child has persistent concerns with:
+
+- Attention, focus, and executive functioning
+- Reading, writing, math, or learning pace
+- Memory, processing speed, or problem-solving
+- Emotional regulation, anxiety, or behavior at school
+- Social communication and peer relationships
+
+## What the Evaluation Includes
+
+Our school-age evaluations typically include a clinical interview, record review, and standardized testing of cognitive, academic, and emotional functioning. We integrate findings into a clear profile of strengths and challenges to support accurate diagnosis and practical planning.
+
+## Recommendations and Next Steps
+
+Following the evaluation, we provide a detailed report with individualized recommendations for home and school. When appropriate, this includes guidance for classroom supports, intervention planning, and documentation for accommodations.
+
+If you are concerned about your child’s learning or development, [contact us](../contact/index.llms.md#online-inquiry) to discuss whether a school-age neuropsychological evaluation is appropriate.
+
+Back to top

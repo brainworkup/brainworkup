@@ -1,33 +1,49 @@
 /*-- scss:defaults --*/
-// $darker-red: mix(#b72a6c, $gray-500, 30%);
-$link-color: #b83f73;
-$text-muted: #6a737b;
+// =====================================================================
+// BrainWorkup brand palette — "Warm gold + charcoal" (teal CTA)
+// Single source of truth: buttons, links, and accents all derive from
+// these variables so every page stays consistent.
+// =====================================================================
+$primary:    #237a68;   // teal — drives .btn-primary / CTAs (white text passes AA)
+$secondary:  #33373f;   // charcoal — navbar / footer / structure
+$link-color: #9a6207;   // warm gold — body links (AA on white)
+$body-color: #1f2328;   // near-black ink
+$text-muted: #55606b;   // darkened from #6a737b for WCAG AA
+
+// brand accent shades used in the rules below
+$bw-gold:      #b5720f;
+$bw-gold-dark: #8f5a0a;
+$bw-teal:      #237a68;
+$bw-charcoal:  #33373f;
 
 /*-- scss:rules --*/
 
-.layout-example {
-  background: $gray-500;
-  color: $white;
-  text-align: center;
-  margin-bottom: 1em;
-  font-family: $font-family-monospace;
-  font-size: 0.875em;
-  font-weight: 600;
-  padding-top: 1em;
-  border-radius: 3px;
+// Navbar brand chip (kept from the original theme)
+.navbar-title {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+  background: linear-gradient(
+    240.01deg,
+    #4b555b 15.29%,
+    rgba(67, 78, 84, 0) 138.75%
+  );
 }
 
-.left {
-  text-align: left;
-  padding-left: 1em;
+// Short gold brand underline beneath section headings in article content.
+// Scoped to `main` so it never touches the navbar, sidebar, or footer.
+main h2::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 4px;
+  border-radius: 4px;
+  background: $bw-gold;
+  margin-top: 0.4rem;
 }
 
-.right {
-  text-align: right;
-  padding-right: 1em;
-}
-
-.hello-quarto-banner h1 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
+// Links deepen toward gold-dark on hover
+a:hover {
+  color: $bw-gold-dark;
 }

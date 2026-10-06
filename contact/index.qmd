@@ -12,31 +12,6 @@ keywords:
 hide-description: true
 image: logo-transparent.webp
 image-alt: "BrainWorkup Neuropsychology — contact us to schedule a neuropsychological evaluation in Los Angeles."
-form:
-  action: "/contact/contact_form.php"
-  method: "post"
-  fields:
-    - id: firstName
-      label: First Name
-      name: Text1
-      required: true
-      type: text
-    - id: lastName
-      label: Last Name
-      name: Text2
-      type: text
-    - id: email
-      label: Enter your email address
-      name: userEmail
-      type: email
-    - text: "---"
-    - height: 30
-      id: message
-      label: In your own words, please describe your reason for contacting us.
-      name: BigText
-      type: textarea
-      width: 30
-  submit: Submit
 format:
   html:
     page-layout: article
@@ -46,9 +21,7 @@ format:
       - "../site_libs/quarto-search/quarto-search.js"
       - "../site_libs/cookie-consent/cookie-consent.js"
       - "../site_libs/bootstrap/bootstrap.min.js"
-include-in-header:
-  - canonical-contact.html
-  - contact_submissions.txt
+include-in-header: canonical-contact.html
 sidebar: false
 tags:
   - neuropsychological testing los angeles
@@ -58,14 +31,14 @@ tags:
   - neuropsychologist contact
 ---
 
-::: {.hero-contact style="background-color: #f0f7ff; padding: 25px; border-radius: 8px; margin-bottom: 30px; border-left: 5px solid #1a73e8;"}
+::: {.hero-contact style="background-color: #eef5f3; padding: 25px; border-radius: 8px; margin-bottom: 30px; border-left: 5px solid #237a68;"}
 <!-- ## Get Answers: Free 30-Minute Consultation {style="color: #143561ff; margin-top: 0;"} -->
 
 Take the first step toward understanding your or your child's learning, attention, or cognitive challenges. Our no-obligation consultation helps determine if our assessment services are the right fit for your needs.
 
 ::: {style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;"}
-<a href="#calendar" class="btn btn-primary" style="background-color: #1a73e8; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block;">Book Your Free Consultation Now</a>
-<a href="tel:2134951155" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; border: 1px solid #1a73e8; color: #1a73e8;">(213) 495-1155</a>
+<a href="#calendar" class="btn btn-primary" style="background-color: #237a68; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block;">Book Your Free Consultation Now</a>
+<a href="tel:2134951155" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; border: 1px solid #237a68; color: #237a68;">(213) 495-1155</a>
 :::
 :::
 
@@ -114,7 +87,7 @@ Select a convenient time for your free 15-minute consultation with Dr. Trampush:
 Prefer we contact you? Complete this brief form and we'll reach out to schedule:
 
 ::: {style="background: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 30px;"}
-<a href="https://forms.gle/UNx9qUcihytE63qt5" class="btn btn-primary btn-lg" style="background-color: #1a73e8; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; margin-bottom: 15px;">Complete Inquiry Form →</a>
+<a href="https://forms.gle/UNx9qUcihytE63qt5" class="btn btn-primary btn-lg" style="background-color: #237a68; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; margin-bottom: 15px;">Complete Inquiry Form →</a>
 
 **What happens next:** After submitting the form, you'll receive confirmation within 24-48 hours with available consultation times.
 :::

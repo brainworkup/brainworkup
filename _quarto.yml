@@ -228,7 +228,7 @@ format:
     linestretch: 1.14
     highlight-style: dracula
     fontcolor: "#181818"
-    linkcolor: "#AA336A"
+    linkcolor: "#9a6207"
     link-external-icon: true
     link-external-newwindow: true
     author-meta: "Joey Trampush"

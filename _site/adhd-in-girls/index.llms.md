@@ -1,0 +1,96 @@
+# ADHD in Girls
+
+Recognizing and Treating ADHD in Girls and Women
+
+ADHD evaluations for girls and women in Los Angeles, designed to identify overlooked symptoms and provide clear, personalized next steps.
+
+Keywords
+
+ADHD in girls, female ADHD, ADHD symptoms in girls, ADHD in women, undiagnosed ADHD, ADHD testing for girls, ADHD evaluation, female ADHD diagnosis, attention deficit hyperactivity disorder in females
+
+[![Illustration representing ADHD in girls and young women - BrainWorkup Neuropsychology.](optimized-adhd-girls-image.webp "ADHD in Girls")](optimized-adhd-girls-image.webp)
+
+## Specialized ADHD Assessment for Girls and Women
+
+ADHD in girls and women has been overlooked for decades. Because most early ADHD research focused on hyperactive boys, the diagnostic criteria—and the clinical instincts built around them—were never designed to catch how ADHD typically shows up in females. The result: countless girls, teens, young women, and adult women have gone undiagnosed, often for years, while quietly struggling with attention, organization, and emotional regulation behind a mask of high effort and self-doubt.
+
+Our practice focuses specifically on closing that gap. We provide thorough, evidence-based ADHD evaluations tailored to the ways attention and executive functioning challenges actually present in female patients—including the subtler inattentive symptoms, the internalized coping strategies, and the co-occurring anxiety or low self-esteem that so often obscure the underlying ADHD. Every assessment is designed to capture the full picture: cognitive strengths, areas of difficulty, and a clear path forward.
+
+## Why Girls with ADHD Are Often Missed
+
+Girls with ADHD frequently go undiagnosed because:
+
+- They tend to show fewer hyperactive and impulsive behaviors than boys
+- They’re more likely to have the inattentive presentation of ADHD
+- They often develop coping strategies that mask their symptoms
+- They may present with anxiety or depression that overshadows ADHD symptoms
+- Traditional ADHD criteria were developed based primarily on male presentations
+
+## Common Signs of ADHD in Girls
+
+ADHD can manifest differently in girls and young women. Common signs include:
+
+### Inattention Signs
+
+- Difficulty sustaining attention in tasks or activities
+- Appearing to not listen when spoken to directly
+- Struggling with organization and time management
+- Frequently losing items necessary for tasks
+- Being easily distracted by external stimuli or thoughts
+
+### Social and Emotional Signs
+
+- Excessive talking or interrupting in conversations
+- Difficulty maintaining friendships
+- Heightened emotional sensitivity
+- Low self-esteem or negative self-perception
+- Anxiety or mood fluctuations
+
+### Academic Signs
+
+- Inconsistent academic performance
+- Procrastination and difficulty completing assignments
+- Careless mistakes in schoolwork
+- Trouble with sustained mental effort
+- Difficulty transitioning between activities
+
+## Our Assessment Approach
+
+Our comprehensive ADHD evaluations for girls include:
+
+1.  **Detailed Clinical Interviews** - We gather information about developmental history, current functioning, and family history
+2.  **Standardized Testing** - Using validated measures specifically sensitive to ADHD in females
+3.  **Behavioral Observations** - Assessing attention, focus, and executive functioning in real-time
+4.  **Rating Scales** - Collecting information from multiple sources including parents, teachers, and self-reports
+5.  **Differential Diagnosis** - Carefully distinguishing ADHD from other conditions that may present similarly
+
+## Benefits of Early Identification and Treatment
+
+Early identification and appropriate intervention for girls with ADHD can:
+
+- Prevent academic underachievement
+- Reduce risk for anxiety and depression
+- Improve self-esteem and self-confidence
+- Enhance social relationships
+- Develop effective coping strategies
+- Provide appropriate accommodations for school or work
+
+## Contact Us for an ADHD Evaluation
+
+We welcome inquiries if: - You’re concerned your daughter may have ADHD - You’re a young woman who suspects you may have undiagnosed ADHD - You’re a college student who has gone under the radar for ADHD - You’re a parent seeking guidance for your daughter with ADHD
+
+[Schedule a Consultation →](../contact/index.llms.md#online-inquiry)
+
+## Recommended Resources
+
+### Books
+
+- [Straight Talk about ADHD in Girls](https://www.guilford.com/books/Straight-Talk-about-ADHD-in-Girls/Stephen-Hinshaw/9781462547517) by Dr. Stephen Hinshaw
+- [Understanding Girls with ADHD](https://www.amazon.com/Understanding-Girls-ADHD-Updated-Revised/dp/0971460973/) by Kathleen Nadeau, Ellen Littman, and Patricia Quinn
+
+### Organizations
+
+- [CHADD (Children and Adults with ADHD)](https://chadd.org/)
+- [ADDA (Attention Deficit Disorder Association)](https://add.org/)
+
+Back to top
