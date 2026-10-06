@@ -13,6 +13,7 @@ project:
 
 website:
   title: "BrainWorkup Neuropsychology"
+  llms-txt: true
   announcement:
     icon: clipboard-check
     dismissable: false
@@ -118,6 +119,10 @@ website:
       - icon: envelope
         text: "**info@brainworkup.org**"
         href: mailto:info@brainworkup.org
+      - icon: book-open
+        text: "**Docs**"
+        href: https://docs.brainworkup.org
+        aria-label: Documentation
     tools:
       - icon: github
         href: https://github.com/brainworkup/brainworkup/
