@@ -235,6 +235,35 @@ cookieconsent.run({
       window.addEventListener("load", scheduleIdleLoad, { once: true });
     }
   })();
+
+  // Quarto's search shortcut (f, /) checks document.activeElement — but the
+  // Botpress webchat input lives inside a shadow DOM, so activeElement is the
+  // host <div> while typing. Quarto then thinks no input is focused, opens the
+  // Algolia overlay and steals the caret mid-sentence. Trap window.quartoOpenSearch
+  // (assigned later by quarto-search.js) and no-op it while the chat has focus.
+  (function () {
+    function chatHasFocus() {
+      var el = document.activeElement;
+      if (!el) return false;
+      if (el.classList && el.classList.contains("bpChatContainer")) return true;
+      // version-drift fallback: focused shadow host containing the webchat composer
+      if (el.shadowRoot && el.shadowRoot.querySelector(".bpComposerInput, textarea")) return true;
+      return false;
+    }
+    var _openSearch = null;
+    Object.defineProperty(window, "quartoOpenSearch", {
+      configurable: true,
+      get: function () {
+        return function () {
+          if (chatHasFocus()) return; // typing in webchat — don't steal focus to search
+          if (_openSearch) return _openSearch();
+        };
+      },
+      set: function (fn) {
+        _openSearch = fn;
+      }
+    });
+  })();
 </script>
 
 <!-- Botpress style overrides: friendlier teal brand, neutral header, soft input -->
