@@ -1,0 +1,17 @@
+# Adolescents
+
+Recognizing and Treating Older Teens and Adolescents
+
+Neuropsychological testing for teens and adolescents in Los Angeles, addressing ADHD, learning disorders, anxiety, and the unique cognitive challenges of adolescence.
+
+## Teenagers …
+
+Adolescence is a period of intensive physical, emotional and social change, and the academic and social demands of high school are stronger than ever. At the same time, the teen brain is “still under construction,” and striking changes in brain maturation take place during the teen years. We can assess some of these changes in the clinic.
+
+As an example, in a series of research studies we carried out with colleagues in New York, we discovered that certain neurocognitive abilities were associated with a reduction in attention problems during adolescence, and that this relationship was influenced by genetics but only during later stages of development. The more we learn about your teen, the better we may be able to understand and monitor his or her cognitive abilities (and vulnerabilities), which could influence your teen’s longer-term psychological health and well-being.
+
+## Adolescent Brain Development
+
+Explore the complexities of adolescence and its impact on cognitive abilities. Understand the ongoing brain maturation during teen years, its influence on attention problems, and how genetics plays a role in later stages of development.
+
+Back to top
