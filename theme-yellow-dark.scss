@@ -20,6 +20,7 @@ $primary:    $bw-yellow;    // buttons, active nav
 $secondary:  $bw-night;
 $link-color: $bw-yellow;    // yellow links
 $warning:    $bw-yellow;    // .btn-warning
+$component-active-color: $bw-night;  // dark text on yellow active states (search results, pills)
 
 $navbar-bg: $bw-night;
 $footer-bg: $bw-night;
@@ -102,6 +103,11 @@ body .about-header .about-image img {
 .bw-panel-accent {
   background: $card-bg;
   border-left: 5px solid $bw-yellow;
+}
+
+// Dark-ink logo artwork (FAQ page) turns light on the charcoal ground
+.bw-logo-mark {
+  filter: invert(1);
 }
 
 // Footer links
