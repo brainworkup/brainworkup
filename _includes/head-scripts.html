@@ -30,7 +30,7 @@
       loadScript("https://cdn.botpress.cloud/webchat/v3.7/inject.js", true)
         .then(function () {
           // Branded webchat config — mirrors bot fd2a9000 (brainworkup agent bot).
-          // Palette from theme.scss: teal #237a68 (primary), charcoal #33373f, gold #9a6207.
+          // Palette: charcoal #34373f and logo yellow #f4e30c.
           window.botpress.init({
             botId: "fd2a9000-1fa3-4ef5-a900-9b234087cd44",
             clientId: "e7d5bd67-5ce9-488a-97bf-f687eb188754",
@@ -41,7 +41,7 @@
               website: { title: "brainworkup.org", link: "https://brainworkup.org" },
               email: { title: "info@brainworkup.org", link: "mailto:info@brainworkup.org" },
               phone: { title: "(213) 495-1155", link: "tel:+12134951155" },
-              color: "#237a68",
+              color: "#34373f",
               variant: "solid",
               headerVariant: "solid",
               themeMode: "light",
@@ -134,8 +134,8 @@
   .bpw-widget,
   .bpw-app,
   .bpw-window {
-    --bpw-accent: #237a68;
-    /* primary brand teal (theme.scss) */
+    --bpw-accent: #34373f;
+    /* charcoal brand color */
     --bpw-accent-contrast: #ffffff;
     --bpw-header-bg: #ffffff;
     --bpw-header-fg: #33373f;
@@ -149,7 +149,7 @@
     color: var(--bpw-accent-contrast) !important;
     right: 24px !important;
     bottom: 24px !important;
-    box-shadow: 0 6px 18px rgba(35, 122, 104, 0.18) !important;
+    box-shadow: 0 6px 18px rgba(52, 55, 63, 0.18) !important;
   }
 
   /* Header and title */

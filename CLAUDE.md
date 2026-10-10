@@ -50,9 +50,9 @@ Claude Code sandbox, `quarto render` needs the sandbox disabled (it writes a cac
 
 "Warm gold + charcoal, teal CTA":
 
-- `$primary` teal `#237a68` — buttons / CTAs
-- `$link-color` gold `#9a6207` — links (gold accents `#b5720f` / `#8f5a0a`)
-- `$secondary` charcoal `#33373f` — navbar / footer / structure
+- Charcoal `#34373f`, deep charcoal `#26282e`, and logo yellow `#f4e30c`
+- Active Quarto themes: `theme-yellow-light.scss` and `theme-yellow-dark.scss`
+- Light cards use warm paper `#fbfaf3`; dark cards use `#3b3e46`
 
 Define new colors here, not per page. The only active stylesheets are `theme.scss`,
 `styles.css`, and `index.css` (homepage only).

@@ -1,20 +1,18 @@
 /*-- scss:defaults --*/
 // =====================================================================
-// BrainWorkup brand palette — "Warm gold + charcoal" (teal CTA)
-// Single source of truth: buttons, links, and accents all derive from
-// these variables so every page stays consistent.
+// Shared brand palette fallback. Active themes are theme-yellow-light.scss and theme-yellow-dark.scss.
 // =====================================================================
-$primary:    #237a68;   // teal — drives .btn-primary / CTAs (white text passes AA)
-$secondary:  #33373f;   // charcoal — navbar / footer / structure
-$link-color: #9a6207;   // warm gold — body links (AA on white)
+$primary:    #34373f;   // charcoal — buttons, links, and structure
+$secondary:  #26282e;   // deeper charcoal — navbar / footer
+$link-color: #34373f;   // charcoal links, yellow underline
 $body-color: #1f2328;   // near-black ink
 $text-muted: #55606b;   // darkened from #6a737b for WCAG AA
 
 // brand accent shades used in the rules below
-$bw-gold:      #b5720f;
-$bw-gold-dark: #8f5a0a;
-$bw-teal:      #237a68;
-$bw-charcoal:  #33373f;
+$bw-gold:      #f4e30c;
+$bw-gold-dark: #d5c500;
+$bw-teal:      #34373f;
+$bw-charcoal:  #34373f;
 
 /*-- scss:rules --*/
 

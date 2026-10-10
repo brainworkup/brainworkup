@@ -12,22 +12,30 @@ project:
     - post-render.js
 
 website:
-  title: "BrainWorkup Neuropsychology"
+  title: "Brainworkup Neuropsychology"
   llms-txt: true
   announcement:
     icon: clipboard-check
     dismissable: false
-    content: "**New patients:** Call **(213) 495-1155** or [**Schedule Online**](/contact#online-inquiry){.btn .btn-warning .btn-sm}"
+    content:
+      "**New patients:** Call **(213) 495-1155** or [**Schedule
+      Online**](/contact#online-inquiry){.btn .btn-warning .btn-sm}"
     type: warning
     position: below-navbar
-  description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
+  description:
+    "Expert neuropsychological evaluations for ADHD, dyslexia, learning
+    disorders, autism, executive function, and forensic assessments in Southern
+    California."
   image: "logo.webp"
   favicon: "favicon_black.webp"
   open-graph:
     locale: en_US
-    site-name: "BrainWorkup Neuropsychology"
-    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
-    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
+    site-name: "Brainworkup Neuropsychology"
+    title: "Brainworkup Neuropsychology | ADHD & Learning Disorder Specialists"
+    description:
+      "Expert neuropsychological evaluations for ADHD, dyslexia, learning
+      disorders, autism, executive function, and forensic assessments in
+      Southern California."
     image: "preview.png"
     image-width: 1200
     image-height: 630
@@ -36,7 +44,10 @@ website:
     site: "@brainworkup"
     card-style: "summary_large_image"
     title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
-    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
+    description:
+      "Expert neuropsychological evaluations for ADHD, dyslexia, learning
+      disorders, autism, executive function, and forensic assessments in
+      Southern California."
     image: "preview.png"
     image-width: 1200
     image-height: 630
@@ -98,7 +109,7 @@ website:
 
   navbar:
     title: "**brainworkup**"
-    background: "#33373f"
+    background: "#26282e"
     foreground: light
     collapse-below: lg
     left:
@@ -110,6 +121,10 @@ website:
         href: faq/index.qmd
       - text: "Contact"
         href: contact/index.qmd
+      - icon: book-open
+        text: "Docs"
+        href: https://docs.brainworkup.org
+        aria-label: Documentation
       # - text: "Blog"
       #   href: blog/index.qmd
     right:
@@ -119,10 +134,6 @@ website:
       - icon: envelope
         text: "**info@brainworkup.org**"
         href: mailto:info@brainworkup.org
-      - icon: book-open
-        text: "**Docs**"
-        href: https://docs.brainworkup.org
-        aria-label: Documentation
     tools:
       - icon: github
         href: https://github.com/brainworkup/brainworkup/
@@ -203,14 +214,15 @@ format:
     toc-expand: 1
     toc-title: "**On this page**"
     theme:
-      light: [cosmo, theme.scss]
+      light: [cosmo, theme-yellow-light.scss]
+      dark: [cosmo, theme-yellow-dark.scss]
     css: styles.css
     include-in-header:
       - _includes/head-scripts.html
       - text: |
           <!-- PWA Manifest -->
           <link rel="manifest" href="manifest.json">
-          <meta name="theme-color" content="#33373f">
+          <meta name="theme-color" content="#26282e">
           <script src="/fix-regex.js" defer></script>
           <script src="/header-enhanced.js" defer></script>
     include-after-body: js.html
@@ -227,8 +239,6 @@ format:
     fontsize: 1.2em
     linestretch: 1.14
     highlight-style: dracula
-    fontcolor: "#181818"
-    linkcolor: "#9a6207"
     link-external-icon: true
     link-external-newwindow: true
     author-meta: "Joey Trampush"

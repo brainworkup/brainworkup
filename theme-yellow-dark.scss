@@ -1,0 +1,87 @@
+/*-- scss:defaults --*/
+// =====================================================================
+// BrainWorkup — Yellow + charcoal, dark mode
+// Palette sampled from the supplied mockup and logo: charcoal #34373f,
+// yellow #f4e30c, warm paper #fbfaf3.
+// Color changes only. Layout and copy are untouched.
+// =====================================================================
+$body-bg:      #34373f;   // logo ground
+$body-color:   #f4f3ec;   // warm off-white ink
+$headings-color: #f4f3ec;
+$text-muted:   #b4b7bd;
+$border-color: #484c55;
+$card-bg:      #3b3e46;
+
+$primary:    #f4e30c;     // logo yellow — buttons, active nav
+$secondary:  #26282e;     // darker charcoal — navbar / footer
+$link-color: #f4e30c;     // yellow links
+$warning:    #f4e30c;     // announcement bar
+$navbar-bg:  #26282e;
+
+$bw-yellow:  #f4e30c;
+$bw-hover:   #fff36b;
+
+/*-- scss:rules --*/
+
+.hero-contact,
+.contact-panel {
+  background: $card-bg;
+  border: 1px solid $border-color;
+  color: $body-color;
+}
+
+.hero-contact {
+  border-left: 5px solid $bw-yellow;
+}
+
+.contact-primary {
+  background: $bw-yellow;
+  border-color: $bw-yellow;
+  color: #26282e;
+}
+
+.contact-phone {
+  border: 1px solid $bw-yellow;
+  color: $bw-yellow;
+}
+
+// Navbar brand chip
+.navbar-title {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+  background: linear-gradient(
+    240.01deg,
+    #3d4049 15.29%,
+    rgba(61, 64, 73, 0) 138.75%
+  );
+}
+
+// Yellow brand bar under section headings (main content only)
+main h2::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 4px;
+  border-radius: 4px;
+  background: $bw-yellow;
+  margin-top: 0.4rem;
+}
+
+// Body links: yellow text with a dimmed yellow underline
+main a:not(.btn) {
+  text-decoration-color: rgba(244, 227, 12, 0.55);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: $bw-hover;
+}
+
+// Dark text on yellow buttons
+.btn-primary,
+.btn-primary:hover {
+  color: #26282e;
+}

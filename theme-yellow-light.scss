@@ -1,0 +1,84 @@
+/*-- scss:defaults --*/
+// =====================================================================
+// BrainWorkup — Yellow + charcoal, light mode
+// Palette sampled from the supplied mockup and logo:
+//   charcoal #34373f  yellow #f4e30c  paper #fbfaf3
+// Color changes only. Layout and copy are untouched.
+// =====================================================================
+$primary:    #34373f;   // charcoal — buttons, active nav, focus
+$secondary:  #26282e;   // charcoal — navbar / footer structure
+$link-color: #34373f;   // charcoal links, yellow underline (see rules)
+$body-color: #1f2328;   // near-black ink
+$text-muted: #55606b;   // AA on white
+$warning:    #f4e30c;   // logo yellow — announcement bar, .btn-warning
+$body-bg:    #ffffff;
+$card-bg:    #fbfaf3;
+$border-color: #e8e8dc;
+
+$bw-yellow:   #f4e30c;
+$bw-charcoal: #34373f;
+
+/*-- scss:rules --*/
+
+.hero-contact,
+.contact-panel {
+  background: #fbfaf3;
+  border: 1px solid #e8e8dc;
+}
+
+.hero-contact {
+  border-left: 5px solid $bw-yellow;
+}
+
+.contact-primary {
+  background: $bw-charcoal;
+  border-color: $bw-charcoal;
+  color: $bw-yellow;
+}
+
+.contact-phone {
+  border: 1px solid $bw-charcoal;
+  color: $bw-charcoal;
+}
+
+// Navbar brand chip
+.navbar-title {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+  background: linear-gradient(
+    240.01deg,
+    #4b555b 15.29%,
+    rgba(67, 78, 84, 0) 138.75%
+  );
+}
+
+// Yellow brand bar under section headings (main content only)
+main h2::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 4px;
+  border-radius: 4px;
+  background: $bw-yellow;
+  margin-top: 0.4rem;
+}
+
+// Body links: charcoal text with a yellow underline
+main a:not(.btn) {
+  text-decoration-color: $bw-yellow;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: $bw-charcoal;
+  text-decoration-color: $bw-charcoal;
+}
+
+// Yellow text on charcoal for buttons
+.btn-primary,
+.btn-primary:hover {
+  color: $bw-yellow;
+}

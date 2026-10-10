@@ -7,7 +7,7 @@
 /* Logo sits in a charcoal circle, responsive across breakpoints */
 .about-header .about-image img,
 .about-image img {
-  background: #33373f;
+  background: #34373f;
   border-radius: 50%;
   padding: 20px;
   display: inline-block;
