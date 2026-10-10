@@ -84,6 +84,17 @@ main a:not(.btn):hover {
   color: $bw-charcoal;
 }
 
+// Content panels (contact page)
+.bw-panel {
+  background: #fbfaf3;
+  border: 1px solid #ecebe0;
+}
+
+.bw-panel-accent {
+  background: #fbfaf3;
+  border-left: 5px solid $bw-yellow;
+}
+
 // Footer matches the navbar
 .nav-footer {
   a,

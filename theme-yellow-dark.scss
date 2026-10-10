@@ -93,6 +93,17 @@ body .about-header .about-image img {
   box-shadow: none;
 }
 
+// Content panels (contact page)
+.bw-panel {
+  background: $card-bg;
+  border: 1px solid $border-color;
+}
+
+.bw-panel-accent {
+  background: $card-bg;
+  border-left: 5px solid $bw-yellow;
+}
+
 // Footer links
 .nav-footer {
   a,
