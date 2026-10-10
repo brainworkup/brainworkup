@@ -98,7 +98,6 @@ website:
 
   navbar:
     title: "**brainworkup**"
-    background: "#33373f"
     foreground: light
     collapse-below: lg
     left:
@@ -203,7 +202,8 @@ format:
     toc-expand: 1
     toc-title: "**On this page**"
     theme:
-      light: [cosmo, theme.scss]
+      light: [cosmo, theme-yellow-light.scss]
+      dark: [cosmo, theme-yellow-dark.scss]
     css: styles.css
     include-in-header:
       - _includes/head-scripts.html
@@ -227,8 +227,6 @@ format:
     fontsize: 1.2em
     linestretch: 1.14
     highlight-style: dracula
-    fontcolor: "#181818"
-    linkcolor: "#9a6207"
     link-external-icon: true
     link-external-newwindow: true
     author-meta: "Joey Trampush"

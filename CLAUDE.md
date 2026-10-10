@@ -15,7 +15,8 @@ unpublished) blog. It is **not** an application or data pipeline.
 
 ## Stack
 
-- **Quarto** website (`_quarto.yml`); theme = `cosmo` + `theme.scss`; builds to `_site/`.
+- **Quarto** website (`_quarto.yml`); theme = `cosmo` + `theme-yellow-light.scss` (light) /
+  `theme-yellow-dark.scss` (dark, navbar toggle); builds to `_site/`.
 - **Hosting:** Netlify (`netlify.toml`) — static only, **no server runtime** (PHP files do not execute).
 - Algolia search, Google Analytics, Botpress chat (lazy-loaded), PWA manifest.
 - Content: `.qmd` pages, one per directory (`adhd/`, `autism/`, `dyslexia/`, `forensic-neuropsychology/`, …).
@@ -36,8 +37,8 @@ Claude Code sandbox, `quarto render` needs the sandbox disabled (it writes a cac
 
 ## Gotchas
 
-- **Stylesheet wiring is easy to get wrong.** Only `theme.scss`, `styles.css`, `index.css` are
-  active. Stale blue rules in `styles.css` / `styles.min.css` (`--primary-blue`, global
+- **Stylesheet wiring is easy to get wrong.** Only `theme-yellow-light.scss`, `theme-yellow-dark.scss`,
+  `styles.css`, `index.css` are active (`theme.scss` is the retired teal/gold palette, kept for rollback). Stale blue rules in `styles.css` / `styles.min.css` (`--primary-blue`, global
   `.btn-primary`) previously overrode the teal CTA — check the served CSS before blaming theme.scss.
   `css/`, `styles/`, and root `styles.min.css` are unreferenced leftovers (pending deletion).
 - `_site/` is tracked in git here despite the "do not commit" rule above; leave `_site/` diffs
@@ -46,16 +47,16 @@ Claude Code sandbox, `quarto render` needs the sandbox disabled (it writes a cac
 - Stray scratch files at the repo root (`_mockups/`, `*.bk`, `text.txt`, `cf-2fa-verify_backup_codes.txt`)
   are not part of the site; never publish or copy them (the 2FA codes file is sensitive).
 
-## Brand palette — single source of truth is `theme.scss`
+## Brand palette — single source of truth is `theme-yellow-light.scss` / `theme-yellow-dark.scss`
 
-"Warm gold + charcoal, teal CTA":
+"Logo yellow + charcoal", sampled from the logo (`hero_yellow_dark_400.webp`):
 
-- `$primary` teal `#237a68` — buttons / CTAs
-- `$link-color` gold `#9a6207` — links (gold accents `#b5720f` / `#8f5a0a`)
-- `$secondary` charcoal `#33373f` — navbar / footer / structure
+- Yellow `#f5e20b` — announcement band, heading bars, link underlines; primary buttons and links in dark mode
+- Charcoal `#33373f` — navbar, footer, primary buttons and link text in light mode; page ground in dark mode (`#34373f`)
+- Dark-mode navbar/footer `#26282e`; ink `#1f2328` (light) / `#e4e3dc` (dark)
 
-Define new colors here, not per page. The only active stylesheets are `theme.scss`,
-`styles.css`, and `index.css` (homepage only).
+Define new colors in both theme files, not per page, and don't set `fontcolor`/`linkcolor`
+or `navbar: background` in `_quarto.yml` — they override the theme.
 
 ## Conventions
 
