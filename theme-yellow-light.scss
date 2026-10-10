@@ -1,45 +1,27 @@
 /*-- scss:defaults --*/
 // =====================================================================
-// BrainWorkup — Yellow + charcoal, light mode
-// Palette sampled from the supplied mockup and logo:
-//   charcoal #34373f  yellow #f4e30c  paper #fbfaf3
+// BrainWorkup — Yellow + charcoal, light mode (design option 1c)
+// Colors sampled from the logo (hero_yellow_dark_400.webp):
+//   ground  #33373f   yellow  #f5e20b
 // Color changes only. Layout and copy are untouched.
+// Paired with theme-yellow-dark.scss via format.html.theme in _quarto.yml.
 // =====================================================================
-$primary:    #34373f;   // charcoal — buttons, active nav, focus
-$secondary:  #26282e;   // charcoal — navbar / footer structure
-$link-color: #34373f;   // charcoal links, yellow underline (see rules)
-$body-color: #1f2328;   // near-black ink
-$text-muted: #55606b;   // AA on white
-$warning:    #f4e30c;   // logo yellow — announcement bar, .btn-warning
-$body-bg:    #ffffff;
-$card-bg:    #fbfaf3;
-$border-color: #e8e8dc;
+$bw-yellow:   #f5e20b;
+$bw-charcoal: #33373f;
 
-$bw-yellow:   #f4e30c;
-$bw-charcoal: #34373f;
+$primary:        $bw-charcoal;  // buttons, active nav, focus
+$secondary:      $bw-charcoal;  // structure
+$link-color:     $bw-charcoal;  // charcoal links, yellow underline (see rules)
+$body-color:     #1f2328;       // near-black ink
+$headings-color: #2a2c33;
+$text-muted:     #55606b;       // AA on white
+$warning:        $bw-yellow;    // announcement bar, .btn-warning
+
+$navbar-bg: $bw-charcoal;
+$footer-bg: $bw-charcoal;
+$footer-fg: #cdd2d8;
 
 /*-- scss:rules --*/
-
-.hero-contact,
-.contact-panel {
-  background: #fbfaf3;
-  border: 1px solid #e8e8dc;
-}
-
-.hero-contact {
-  border-left: 5px solid $bw-yellow;
-}
-
-.contact-primary {
-  background: $bw-charcoal;
-  border-color: $bw-charcoal;
-  color: $bw-yellow;
-}
-
-.contact-phone {
-  border: 1px solid $bw-charcoal;
-  color: $bw-charcoal;
-}
 
 // Navbar brand chip
 .navbar-title {
@@ -52,6 +34,19 @@ $bw-charcoal: #34373f;
     #4b555b 15.29%,
     rgba(67, 78, 84, 0) 138.75%
   );
+}
+
+// Announcement: solid logo-yellow band, charcoal button with yellow text
+#quarto-announcement.alert-warning {
+  background: $bw-yellow;
+  color: #2a2c33;
+  border-color: #e0ce00;
+
+  .btn-warning {
+    background: $bw-charcoal;
+    border-color: $bw-charcoal;
+    color: $bw-yellow;
+  }
 }
 
 // Yellow brand bar under section headings (main content only)
@@ -72,13 +67,43 @@ main a:not(.btn) {
   text-underline-offset: 3px;
 }
 
-a:hover {
+main a:not(.btn):hover {
   color: $bw-charcoal;
   text-decoration-color: $bw-charcoal;
 }
 
-// Yellow text on charcoal for buttons
-.btn-primary,
-.btn-primary:hover {
+// Primary buttons: yellow on charcoal, inverting on hover
+.btn-primary {
   color: $bw-yellow;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background: $bw-yellow;
+  border-color: $bw-charcoal;
+  color: $bw-charcoal;
+}
+
+// Content panels (contact page)
+.bw-panel {
+  background: #fbfaf3;
+  border: 1px solid #ecebe0;
+}
+
+.bw-panel-accent {
+  background: #fbfaf3;
+  border-left: 5px solid $bw-yellow;
+}
+
+// Footer matches the navbar
+.nav-footer {
+  a,
+  .nav-link {
+    color: #e5e7eb;
+  }
+
+  a:hover,
+  .nav-link:hover {
+    color: $bw-yellow;
+  }
 }

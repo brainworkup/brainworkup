@@ -31,35 +31,35 @@ tags:
   - neuropsychologist contact
 ---
 
-::: {.hero-contact style="padding: 25px; border-radius: 8px; margin-bottom: 30px;"}
+::: {.hero-contact .bw-panel-accent style="padding: 25px; border-radius: 8px; margin-bottom: 30px;"}
 <!-- ## Get Answers: Free 30-Minute Consultation {style="color: #143561ff; margin-top: 0;"} -->
 
 Take the first step toward understanding your or your child's learning, attention, or cognitive challenges. Our no-obligation consultation helps determine if our assessment services are the right fit for your needs.
 
 ::: {style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;"}
-<a href="#calendar" class="btn btn-primary contact-primary" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block;">Book Your Free Consultation Now</a>
-<a href="tel:2134951155" class="contact-phone" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block;">(213) 495-1155</a>
+<a href="#calendar" class="btn btn-primary" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block;">Book Your Free Consultation Now</a>
+<a href="tel:2134951155" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; border: 1px solid currentColor;">(213) 495-1155</a>
 :::
 :::
 
 ## How It Works: Our Simple 3-Step Process
 
 ::: {style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;"}
-::: {.contact-panel style="flex: 1; min-width: 250px; padding: 20px; border-radius: 8px;"}
+::: {style="flex: 1; min-width: 250px; padding: 20px; border-radius: 8px;"}
 ### 1. Free Consultation {style="margin-top: 0;"}
 Schedule a 15-minute Zoom call with Dr. Trampush to discuss your concerns and determine if our services meet your needs.
 
 **Timeline:** Same week availability
 :::
 
-::: {.contact-panel style="flex: 1; min-width: 250px; padding: 20px; border-radius: 8px;"}
+::: {style="flex: 1; min-width: 250px; padding: 20px; border-radius: 8px;"}
 ### 2. Assessment {style="margin-top: 0;"}
 Complete comprehensive testing tailored to your specific concerns (typically 4-8 hours across multiple sessions).
 
 **Timeline:** 1-2 weeks after consultation
 :::
 
-::: {.contact-panel style="flex: 1; min-width: 250px; padding: 20px; border-radius: 8px;"}
+::: {style="flex: 1; min-width: 250px; padding: 20px; border-radius: 8px;"}
 ### 3. Results & Action Plan {style="margin-top: 0;"}
 Receive detailed findings, diagnosis (if applicable), and actionable recommendations for home, school, or work.
 
@@ -86,8 +86,8 @@ Select a convenient time for your free 15-minute consultation with Dr. Trampush:
 
 Prefer we contact you? Complete this brief form and we'll reach out to schedule:
 
-::: {.contact-panel style="padding: 20px; border-radius: 8px; margin-bottom: 30px;"}
-<a href="https://forms.gle/UNx9qUcihytE63qt5" class="btn btn-primary btn-lg contact-primary" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; margin-bottom: 15px;">Complete Inquiry Form →</a>
+::: {.bw-panel style="padding: 20px; border-radius: 8px; margin-bottom: 30px;"}
+<a href="https://forms.gle/UNx9qUcihytE63qt5" class="btn btn-primary btn-lg" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; margin-bottom: 15px;">Complete Inquiry Form →</a>
 
 **What happens next:** After submitting the form, you'll receive confirmation within 24-48 hours with available consultation times.
 :::

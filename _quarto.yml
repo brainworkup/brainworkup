@@ -109,7 +109,6 @@ website:
 
   navbar:
     title: "**brainworkup**"
-    background: "#26282e"
     foreground: light
     collapse-below: lg
     left:

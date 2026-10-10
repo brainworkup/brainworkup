@@ -35,7 +35,7 @@ tags:
   - faq
 ---
 
-![](logo-transparent-384.webp "FAQ"){width=284px height=284px fig-alt="The brainworkup logo on the FAQ page."}
+![](logo-transparent-384.webp "FAQ"){.bw-logo-mark width=284px height=284px fig-alt="The brainworkup logo on the FAQ page."}
 
 ::: {.callout-important appearance="simple"}
 **We are a diagnostic assessment center only — not a therapy provider.** Evaluations typically require 4–8 hours across multiple sessions.
