@@ -1,5 +1,5 @@
 :root {
-  --background: #33373f;
+  --background: #34373f;
   --background-2: #41454e;
   --foreground: white;
   --foreground-2: #484d54;
@@ -131,7 +131,7 @@ h3 {
   padding: 0;
   padding-top: 80px !important;
   padding-bottom: 80px;
-  background: linear-gradient(235.87deg, #656a75 12.29%, #33373f 107.53%);
+  background: linear-gradient(235.87deg, #656a75 12.29%, #34373f 107.53%);
   overflow-x: hidden;
 }
 
