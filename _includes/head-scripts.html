@@ -29,6 +29,10 @@
 
       loadScript("https://cdn.botpress.cloud/webchat/v3.7/inject.js", true)
         .then(function () {
+          // Bot publish script previously loaded eagerly; it must run before init.
+          return loadScript("https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js", true);
+        })
+        .then(function () {
           // Branded webchat config — mirrors bot fd2a9000 (brainworkup agent bot).
           // Palette: charcoal #34373f and logo yellow #f4e30c.
           window.botpress.init({
