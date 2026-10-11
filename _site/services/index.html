@@ -247,6 +247,35 @@ cookieconsent.run({
       window.addEventListener("load", scheduleIdleLoad, { once: true });
     }
   })();
+
+  // Quarto opens search on f, /, or s keyup unless document.activeElement is a
+  // form field. The webchat composer lives in a shadow root (div#fab-root), so
+  // activeElement is the host <div> while typing and search steals the caret.
+  // Trap window.quartoOpenSearch (assigned later by quarto-search.js) and skip
+  // it while focus is in a text field inside any shadow root.
+  (() => {
+    function typingInShadowDom() {
+      var el = document.activeElement;
+      if (!el || !el.shadowRoot) return false;
+      while (el.shadowRoot && el.shadowRoot.activeElement) {
+        el = el.shadowRoot.activeElement;
+      }
+      var tag = el.tagName.toLowerCase();
+      return tag === "textarea" || tag === "input" || tag === "select" || el.isContentEditable;
+    }
+
+    var openSearch = null;
+    Object.defineProperty(window, "quartoOpenSearch", {
+      configurable: true,
+      get: () => () => {
+        if (typingInShadowDom()) return;
+        if (openSearch) openSearch();
+      },
+      set: (fn) => {
+        openSearch = fn;
+      }
+    });
+  })();
 </script>
 
 <!-- Botpress style overrides: friendlier teal brand, neutral header, soft input -->
