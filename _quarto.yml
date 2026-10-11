@@ -120,10 +120,10 @@ website:
         href: faq/index.qmd
       - text: "Contact"
         href: contact/index.qmd
-      - icon: book-open
-        text: "Docs"
-        href: https://docs.brainworkup.org
-        aria-label: Documentation
+      # - icon: book-open
+      #   text: "Docs"
+      #   href: https://docs.brainworkup.org
+      #   aria-label: Documentation
       # - text: "Blog"
       #   href: blog/index.qmd
     right:
@@ -213,8 +213,8 @@ format:
     toc-expand: 1
     toc-title: "**On this page**"
     theme:
-      light: [cosmo, theme-yellow-light.scss]
       dark: [cosmo, theme-yellow-dark.scss]
+      light: [cosmo, theme-yellow-light.scss]
     css: styles.css
     include-in-header:
       - _includes/head-scripts.html
