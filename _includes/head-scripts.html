@@ -27,32 +27,13 @@
       if (botpressLoaded || botpressLoading) return;
       botpressLoading = true;
 
+      // Botpress's published bot script runs the bot's own setup (name, colors,
+      // greeting), so the site only loads the two scripts and does not call init.
       loadScript("https://cdn.botpress.cloud/webchat/v3.7/inject.js", true)
         .then(function () {
-          // Branded webchat config — mirrors bot fd2a9000 (brainworkup agent bot).
-          // Palette: charcoal #34373f and logo yellow #f4e30c.
-          window.botpress.init({
-            botId: "e57af076-1a5b-44d8-aeba-f1ba3e5acffd",
-            clientId: "ef1081c8-845a-4c83-a76a-063af5b4de7c",
-            configuration: {
-              botName: "BrainWorkup Assistant",
-              botDescription: "Ask about our services, conditions we evaluate, or how to get in touch.",
-              botAvatar: "https://brainworkup.org/favicon_black.webp",
-              website: { title: "brainworkup.org", link: "https://brainworkup.org" },
-              email: { title: "info@brainworkup.org", link: "mailto:info@brainworkup.org" },
-              phone: { title: "(213) 495-1155", link: "tel:+12134951155" },
-              color: "#34373f",
-              variant: "solid",
-              headerVariant: "solid",
-              themeMode: "light",
-              fontFamily: "inter",
-              radius: 2,
-              feedbackEnabled: false,
-              soundEnabled: false,
-              proactiveMessageEnabled: false,
-              conversationHistory: false
-            }
-          });
+          return loadScript("https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js", true);
+        })
+        .then(function () {
           botpressLoaded = true;
           removeListeners();
         })
