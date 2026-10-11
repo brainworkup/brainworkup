@@ -6,6 +6,10 @@ Answers to common questions about neuropsychological evaluations, ADHD testing, 
 
 [![The brainworkup logo on the FAQ page.](logo-transparent-384.webp "FAQ")](logo-transparent-384.webp)
 
+> **IMPORTANT:**
+>
+> **We are a diagnostic assessment center only — not a therapy provider.** Evaluations typically require 4–8 hours across multiple sessions.
+
 ## Overview of the Practice
 
 BrainWorkup Neuropsychology, LLC is a pediatric and adult clinical neuropsychology practice. Our mission is to better educate our community about neurocognitive functioning and the importance of monitoring our own brain health. We are trained in developmental neuropsychology, and as such, have the capacity to evaluate anyone in any stage of life, from children to teens to older adults.

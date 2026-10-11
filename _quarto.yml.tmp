@@ -27,7 +27,7 @@ website:
     disorders, autism, executive function, and forensic assessments in Southern
     California."
   image: "logo.webp"
-  favicon: luria_icon_rev1.png
+  favicon: "favicon_black.webp"
   open-graph:
     locale: en_US
     site-name: "Brainworkup Neuropsychology"
@@ -43,7 +43,7 @@ website:
     creator: "@brainworkup"
     site: "@brainworkup"
     card-style: "summary_large_image"
-    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
+    title: "Brainworkup Neuropsychology | ADHD & Learning Disorder Specialists"
     description:
       "Expert neuropsychological evaluations for ADHD, dyslexia, learning
       disorders, autism, executive function, and forensic assessments in
@@ -81,9 +81,9 @@ website:
         text: body
   page-footer:
     left: |
-      MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
+      MIT Licensed | Copyright © 2017-present Joey Trampush | Brainworkup, LLC
 
-      [![](/logo-150.webp){fig-alt="BrainWorkup" width=75px}](https://brainworkup.org)
+      [![](/logo-150.webp){fig-alt="Brainworkup" width=75px}](https://brainworkup.org)
     center:
       - text: "About"
         href: joey-trampush/index.qmd
@@ -120,10 +120,6 @@ website:
         href: faq/index.qmd
       - text: "Contact"
         href: contact/index.qmd
-      # - icon: book-open
-      #   text: "Docs"
-      #   href: https://docs.brainworkup.org
-      #   aria-label: Documentation
       # - text: "Blog"
       #   href: blog/index.qmd
     right:
@@ -213,15 +209,15 @@ format:
     toc-expand: 1
     toc-title: "**On this page**"
     theme:
-      light: [cosmo, theme-yellow-light.scss]
-      dark: [cosmo, theme-yellow-dark.scss]
+      light: [cosmo, theme-yellow-dark.scss]
+      dark: [cosmo, theme-yellow-light.scss]
     css: styles.css
     include-in-header:
       - _includes/head-scripts.html
       - text: |
           <!-- PWA Manifest -->
           <link rel="manifest" href="manifest.json">
-          <meta name="theme-color" content="#26282e">
+           <meta name="theme-color" content="#26282e">
           <script src="/fix-regex.js" defer></script>
           <script src="/header-enhanced.js" defer></script>
     include-after-body: js.html
