@@ -12,21 +12,30 @@ project:
     - post-render.js
 
 website:
-  title: "BrainWorkup Neuropsychology"
+  title: "Brainworkup Neuropsychology"
+  llms-txt: true
   announcement:
     icon: clipboard-check
     dismissable: false
-    content: "**New patients:** Call **(213) 495-1155** or [**Schedule Online**](/contact#online-inquiry){.btn .btn-warning .btn-sm}"
+    content:
+      "**New patients:** Call **(213) 495-1155** or [**Schedule
+      Online**](/contact#online-inquiry){.btn .btn-warning .btn-sm}"
     type: warning
     position: below-navbar
-  description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
+  description:
+    "Expert neuropsychological evaluations for ADHD, dyslexia, learning
+    disorders, autism, executive function, and forensic assessments in Southern
+    California."
   image: "logo.webp"
   favicon: "favicon_black.webp"
   open-graph:
     locale: en_US
-    site-name: "BrainWorkup Neuropsychology"
-    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
-    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
+    site-name: "Brainworkup Neuropsychology"
+    title: "Brainworkup Neuropsychology | ADHD & Learning Disorder Specialists"
+    description:
+      "Expert neuropsychological evaluations for ADHD, dyslexia, learning
+      disorders, autism, executive function, and forensic assessments in
+      Southern California."
     image: "preview.png"
     image-width: 1200
     image-height: 630
@@ -34,8 +43,11 @@ website:
     creator: "@brainworkup"
     site: "@brainworkup"
     card-style: "summary_large_image"
-    title: "BrainWorkup Neuropsychology | ADHD & Learning Disorder Specialists"
-    description: "Expert neuropsychological evaluations for ADHD, dyslexia, learning disorders, autism, executive function, and forensic assessments in Southern California."
+    title: "Brainworkup Neuropsychology | ADHD & Learning Disorder Specialists"
+    description:
+      "Expert neuropsychological evaluations for ADHD, dyslexia, learning
+      disorders, autism, executive function, and forensic assessments in
+      Southern California."
     image: "preview.png"
     image-width: 1200
     image-height: 630
@@ -69,9 +81,9 @@ website:
         text: body
   page-footer:
     left: |
-      MIT Licensed | Copyright © 2017-present Joey Trampush | BrainWorkup, LLC
+      MIT Licensed | Copyright © 2017-present Joey Trampush | Brainworkup, LLC
 
-      [![](/logo-150.webp){fig-alt="BrainWorkup" width=75px}](https://brainworkup.org)
+      [![](/logo-150.webp){fig-alt="Brainworkup" width=75px}](https://brainworkup.org)
     center:
       - text: "About"
         href: joey-trampush/index.qmd
@@ -97,7 +109,7 @@ website:
 
   navbar:
     title: "**brainworkup**"
-    background: "#33373f"
+    # background: "#33373f"
     foreground: light
     collapse-below: lg
     left:
@@ -198,14 +210,15 @@ format:
     toc-expand: 1
     toc-title: "**On this page**"
     theme:
-      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-yellow-light.scss]
+      light: [cosmo, theme-yellow-dark.scss]
     css: styles.css
     include-in-header:
       - _includes/head-scripts.html
       - text: |
           <!-- PWA Manifest -->
           <link rel="manifest" href="manifest.json">
-          <meta name="theme-color" content="#33373f">
+           <meta name="theme-color" content="#26282e">
           <script src="/fix-regex.js" defer></script>
           <script src="/header-enhanced.js" defer></script>
     include-after-body: js.html

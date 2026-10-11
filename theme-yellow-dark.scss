@@ -1,0 +1,124 @@
+/*-- scss:defaults --*/
+// =====================================================================
+// BrainWorkup — Yellow + charcoal, dark mode (design option 1d)
+// The page uses the logo's own ground so the hero logo sits flush.
+// Color changes only. Layout and copy are untouched.
+// Paired with theme-yellow-light.scss via format.html.theme in _quarto.yml.
+// =====================================================================
+$bw-yellow:   #f5e20b;
+$bw-hover:    #fff36b;
+$bw-night:    #26282e;   // darker charcoal — navbar / footer / button text
+
+$body-bg:        #34373f;   // logo ground
+$body-color:     #e4e3dc;   // warm off-white ink
+$headings-color: #f4f3ec;
+$text-muted:     #b4b7bd;
+$border-color:   #474b55;
+$card-bg:        #3b3e47;
+
+$primary:    $bw-yellow;    // buttons, active nav
+$secondary:  $bw-night;
+$link-color: $bw-yellow;    // yellow links
+$warning:    $bw-yellow;    // .btn-warning
+$component-active-color: $bw-night;  // dark text on yellow active states (search results, pills)
+
+$navbar-bg: $bw-night;
+$footer-bg: $bw-night;
+$footer-fg: #b4b7bd;
+
+/*-- scss:rules --*/
+
+// Navbar brand chip
+.navbar-title {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+  background: linear-gradient(
+    240.01deg,
+    #3d4049 15.29%,
+    rgba(61, 64, 73, 0) 138.75%
+  );
+}
+
+// Announcement: quiet charcoal band, the yellow button carries the color
+#quarto-announcement.alert-warning {
+  background: #2e3138;
+  color: #ecebe4;
+  border-color: #3d4049;
+
+  .btn-warning {
+    background: $bw-yellow;
+    border-color: $bw-yellow;
+    color: $bw-night;
+  }
+}
+
+// Yellow brand bar under section headings (main content only)
+main h2::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 4px;
+  border-radius: 4px;
+  background: $bw-yellow;
+  margin-top: 0.4rem;
+}
+
+// Body links: yellow text with a dimmed yellow underline
+main a:not(.btn) {
+  text-decoration-color: rgba(245, 226, 11, 0.45);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: $bw-hover;
+}
+
+// Dark text on yellow buttons
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus {
+  color: $bw-night;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background: $bw-hover;
+  border-color: $bw-hover;
+}
+
+// Hero logo sits flush on the matching page ground (overrides index.css shadow)
+body .about-header .about-image img {
+  box-shadow: none;
+}
+
+// Content panels (contact page)
+.bw-panel {
+  background: $card-bg;
+  border: 1px solid $border-color;
+}
+
+.bw-panel-accent {
+  background: $card-bg;
+  border-left: 5px solid $bw-yellow;
+}
+
+// Dark-ink logo artwork (FAQ page) turns light on the charcoal ground
+.bw-logo-mark {
+  filter: invert(1);
+}
+
+// Footer links
+.nav-footer {
+  a,
+  .nav-link {
+    color: #e4e3dc;
+  }
+
+  a:hover,
+  .nav-link:hover {
+    color: $bw-yellow;
+  }
+}

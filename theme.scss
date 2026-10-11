@@ -1,33 +1,47 @@
 /*-- scss:defaults --*/
-// $darker-red: mix(#b72a6c, $gray-500, 30%);
-$link-color: #b83f73;
-$text-muted: #6a737b;
+// =====================================================================
+// Shared brand palette fallback. Active themes are theme-yellow-light.scss and theme-yellow-dark.scss.
+// =====================================================================
+$primary:    #34373f;   // charcoal — buttons, links, and structure
+$secondary:  #26282e;   // deeper charcoal — navbar / footer
+$link-color: #34373f;   // charcoal links, yellow underline
+$body-color: #1f2328;   // near-black ink
+$text-muted: #55606b;   // darkened from #6a737b for WCAG AA
+
+// brand accent shades used in the rules below
+$bw-gold:      #f4e30c;
+$bw-gold-dark: #d5c500;
+$bw-teal:      #34373f;
+$bw-charcoal:  #34373f;
 
 /*-- scss:rules --*/
 
-.layout-example {
-  background: $gray-500;
-  color: $white;
-  text-align: center;
-  margin-bottom: 1em;
-  font-family: $font-family-monospace;
-  font-size: 0.875em;
-  font-weight: 600;
-  padding-top: 1em;
-  border-radius: 3px;
+// Navbar brand chip (kept from the original theme)
+.navbar-title {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-right: 4px;
+  background: linear-gradient(
+    240.01deg,
+    #4b555b 15.29%,
+    rgba(67, 78, 84, 0) 138.75%
+  );
 }
 
-.left {
-  text-align: left;
-  padding-left: 1em;
+// Short gold brand underline beneath section headings in article content.
+// Scoped to `main` so it never touches the navbar, sidebar, or footer.
+main h2::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 4px;
+  border-radius: 4px;
+  background: $bw-gold;
+  margin-top: 0.4rem;
 }
 
-.right {
-  text-align: right;
-  padding-right: 1em;
-}
-
-.hello-quarto-banner h1 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
+// Links deepen toward gold-dark on hover
+a:hover {
+  color: $bw-gold-dark;
 }
