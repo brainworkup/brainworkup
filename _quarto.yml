@@ -27,7 +27,7 @@ website:
     disorders, autism, executive function, and forensic assessments in Southern
     California."
   image: "logo.webp"
-  favicon: luria_icon_rev1.png
+  favicon: "favicon_black.webp"
   open-graph:
     locale: en_US
     site-name: "Brainworkup Neuropsychology"
@@ -146,9 +146,6 @@ website:
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/joey-trampush-brainworkup/
-      - icon: rss
-        href: https://brainworkup.org/blog/index.xml
-        aria-label: BWU Blog RSS
 
   sidebar:
     - id: about
@@ -213,8 +210,8 @@ format:
     toc-expand: 1
     toc-title: "**On this page**"
     theme:
-      light: [cosmo, theme-yellow-light.scss]
       dark: [cosmo, theme-yellow-dark.scss]
+      light: [cosmo, theme-yellow-light.scss]
     css: styles.css
     include-in-header:
       - _includes/head-scripts.html
