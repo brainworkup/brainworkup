@@ -177,4 +177,7 @@ sitemap 2.xml
 new_28.md
 
 brand.yml/
+_site/.claude/worktrees/ 
+.worktrees/
 
+output/
