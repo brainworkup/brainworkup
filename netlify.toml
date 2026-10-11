@@ -17,8 +17,11 @@ buildDir      = "_site"
 prettyURLs    = true
 trailingSlash = true
 
-[[plugins]]
-package = "netlify-plugin-inline-critical-css"
+# Disabled: crashes in onPostBuild with "SyntaxError: Failed to inline critical
+# CSS" — it builds an invalid regex from Quarto's inline code-annotation
+# <script> blocks. Re-enable with a path/fileFilter exclusion if needed.
+# [[plugins]]
+# package = "netlify-plugin-inline-critical-css"
 
 # Headers
 # Headers for performance and security
