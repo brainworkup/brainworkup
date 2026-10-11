@@ -109,7 +109,6 @@ website:
 
   navbar:
     title: "**brainworkup**"
-    # background: "#33373f"
     foreground: light
     collapse-below: lg
     left:
@@ -235,8 +234,6 @@ format:
     fontsize: 1.2em
     linestretch: 1.14
     highlight-style: dracula
-    fontcolor: "#181818"
-    linkcolor: "#AA336A"
     link-external-icon: true
     link-external-newwindow: true
     author-meta: "Joey Trampush"
