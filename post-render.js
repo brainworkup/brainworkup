@@ -19,6 +19,12 @@ const DEFER_PATTERNS = [
   "cookie-consent/cookie-consent.js",
   "bootstrap/bootstrap.min.js",
   "algoliasearch-lite.umd.js",
+  "quarto-nav/quarto-nav.js",
+  "quarto-nav/headroom.min.js",
+  "clipboard/clipboard.min.js",
+  "quarto-html/popper.min.js",
+  "quarto-html/tippy.umd.min.js",
+  "quarto-html/zenscroll-min.js",
 ];
 
 function walkHtmlFiles(dir) {
