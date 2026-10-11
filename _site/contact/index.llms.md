@@ -6,7 +6,7 @@ contact neuropsychologist Los Angeles, schedule neuropsychological evaluation, B
 
 Take the first step toward understanding your or your child’s learning, attention, or cognitive challenges. Our no-obligation consultation helps determine if our assessment services are the right fit for your needs.
 
-[Book Your Free Consultation Now](#calendar) [(213) 495-1155](tel:2134951155)
+[Book Your Free Consultation Now](#inquiry-form) [(213) 495-1155](tel:2134951155)
 
 ## How It Works: Our Simple 3-Step Process
 

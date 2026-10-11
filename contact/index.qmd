@@ -37,7 +37,7 @@ tags:
 Take the first step toward understanding your or your child's learning, attention, or cognitive challenges. Our no-obligation consultation helps determine if our assessment services are the right fit for your needs.
 
 ::: {style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;"}
-<a href="#calendar" class="btn btn-primary" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block;">Book Your Free Consultation Now</a>
+<a href="#inquiry-form" class="btn btn-primary" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block;">Book Your Free Consultation Now</a>
 <a href="tel:2134951155" style="padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; border: 1px solid currentColor;">(213) 495-1155</a>
 :::
 :::
@@ -74,7 +74,7 @@ We respond to all inquiries within 24-48 hours during business days.
 
 ## Two Easy Ways to Schedule Your Consultation
 
-### Option 1: Direct Online Booking {#calendar #online-inquiry}
+### Option 1: Direct Online Booking {#online-inquiry}
 
 Select a convenient time for your free 15-minute consultation with Dr. Trampush:
 
@@ -82,7 +82,7 @@ Select a convenient time for your free 15-minute consultation with Dr. Trampush:
 <iframe src="https://app.usemotion.com/meet/joey.trampush/consult" title="Motion Booking Page" width="100%" height="600px" frameborder="0" style="border: 1px solid #eee; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"></iframe>
 <!-- Motion embed end -->
 
-### Option 2: Quick Inquiry Form
+### Option 2: Quick Inquiry Form {#inquiry-form}
 
 Prefer we contact you? Complete this brief form and we'll reach out to schedule:
 
