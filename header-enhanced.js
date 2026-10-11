@@ -1,5 +1,5 @@
 // Enhanced header.js with improved SEO and performance optimizations
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () => {
   // Get current page information
   const currentUrl = window.location.href;
   const pathSegments = window.location.pathname.split("/").filter(Boolean);

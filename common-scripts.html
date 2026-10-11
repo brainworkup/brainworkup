@@ -35,7 +35,7 @@
           if (!scriptExists) {
             console.log("Adding missing script:", src);
             const script = document.createElement("script");
-            script.src = "../" + src;
+            script.src = `../${src}`;
             script.async = true;
             document.body.appendChild(script);
           }

@@ -7,13 +7,13 @@
 
 <!-- Botpress webchat (lazy-loaded to protect Core Web Vitals) -->
 <script>
-  (function () {
+  (() => {
     var botpressLoaded = false;
     var botpressLoading = false;
     var idleLoadDelayMs = 3500;
 
     function loadScript(src, defer) {
-      return new Promise(function (resolve, reject) {
+      return new Promise((resolve, reject) => {
         var script = document.createElement("script");
         script.src = src;
         if (defer) script.defer = true;
@@ -28,14 +28,12 @@
       botpressLoading = true;
 
       loadScript("https://cdn.botpress.cloud/webchat/v3.6/inject.js", true)
-        .then(function () {
-          return loadScript("https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js", true);
-        })
-        .then(function () {
+        .then(() => loadScript("https://files.bpcontent.cloud/2026/03/30/05/20260330054847-0Z89JJKZ.js", true))
+        .then(() => {
           botpressLoaded = true;
           removeListeners();
         })
-        .catch(function () {
+        .catch(() => {
           botpressLoading = false;
         });
     }
@@ -60,7 +58,7 @@
 
     function scheduleIdleLoad() {
       if ("requestIdleCallback" in window) {
-        requestIdleCallback(function () {
+        requestIdleCallback(() => {
           setTimeout(loadBotpress, idleLoadDelayMs);
         }, { timeout: 8000 });
       } else {

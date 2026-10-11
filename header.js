@@ -1,5 +1,5 @@
 // Wait for DOM to be fully loaded to avoid render blocking
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () => {
   // Get current page URL
   const currentUrl = window.location.href;
   const pathSegments = window.location.pathname.split("/").filter(Boolean);
