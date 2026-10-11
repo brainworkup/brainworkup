@@ -29,6 +29,3 @@ Static repository for brainworkup.org/.io/.com
     <img src="logo.webp" alt="bwu favicon" fig-align="center" width="70%"/>
 </div>
 
-## Documentation
-
-📚 **[Luria Y-Combinator Project Documentation](https://docs.brainworkup.org)** – Access my comprehensive project documentation hosted at docs.brainworkup.org
